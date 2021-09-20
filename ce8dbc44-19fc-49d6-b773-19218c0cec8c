@@ -1,0 +1,98 @@
+[
+  {
+    "windows": {
+      "5004": {
+        "5731": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.hifiengine.com/sites/all/themes/hifienginetoo/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5731,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Register a Free Account | HiFi Engine",
+          "url": "https://www.hifiengine.com/register-a-free-account.shtml",
+          "width": 958,
+          "windowId": 5004
+        },
+        "5734": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1001,
+          "highlighted": false,
+          "id": 5734,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Execute a SQL Server procedure inside a function",
+          "url": "https://www.sqlshack.com/execute-a-sql-server-procedure-inside-the-function/",
+          "width": 958,
+          "windowId": 5004
+        },
+        "5741": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5741,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "sql server - Execute WITH statement inside a function - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/13166048/execute-with-statement-inside-a-function",
+          "width": 958,
+          "windowId": 5004
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5004": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 5004,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 958
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Register a Free Account | HiFi Engine",
+    "date": 1599962635146,
+    "lastEditedTime": 1601295397845,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "3c2f28f6-1ff1-4020-8842-7da9030032e6"
+  }
+]

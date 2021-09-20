@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "423": {
+        "426": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a0625872751_3.jpg",
+          "height": 691,
+          "highlighted": false,
+          "id": 426,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "BOY CANDY / CONTRAKTOR | Boy Candy / Contraktor | Contraktor",
+          "url": "https://contraktor.bandcamp.com/album/boy-candy-contraktor",
+          "width": 1383,
+          "windowId": 423
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "423": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 423,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 1,
+    "name": "BOY CANDY / CONTRAKTOR | Boy Candy / Contraktor | Contraktor",
+    "date": 1600113091787,
+    "lastEditedTime": 1601295397726,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600112532784,
+    "id": "23eb07bd-3daf-4bce-998d-3d2f5f780ace"
+  }
+]

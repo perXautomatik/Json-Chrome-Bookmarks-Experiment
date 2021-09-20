@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "33": {
+        "62": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 671,
+          "highlighted": false,
+          "id": 62,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "complete",
+          "title": "Dubolt Mix: Yabibo Hazurfa / Moral Order / Headless Horseman / Shelley Parker - playlist by Christoffer Brobäck | Spotify",
+          "url": "https://open.spotify.com/playlist/7ovTonGCFXDy01Hp83oznh",
+          "width": 1305,
+          "windowId": 33
+        },
+        "67": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.sqlshack.com/favicon.ico",
+          "height": 671,
+          "highlighted": false,
+          "id": 67,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "The Table Variable in SQL Server",
+          "url": "https://www.sqlshack.com/the-table-variable-in-sql-server/",
+          "width": 1305,
+          "windowId": 33
+        },
+        "93": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://fdossena.com/favicon.png",
+          "height": 671,
+          "highlighted": false,
+          "id": 93,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "WineD3D For Windows - Federico Dossena",
+          "url": "https://fdossena.com/?p=wined3d/index.frag",
+          "width": 1305,
+          "windowId": 33
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "33": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 791,
+        "id": 33,
+        "incognito": false,
+        "left": 315,
+        "state": "normal",
+        "top": 142,
+        "type": "normal",
+        "width": 1362
+      }
+    },
+    "tabsNumber": 3,
+    "name": "The Table Variable in SQL Server",
+    "date": 1609360178514,
+    "lastEditedTime": 1609360178514,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1609360016667,
+    "id": "438d05cc-b2a0-4346-8582-dfd94d4a5e24"
+  }
+]

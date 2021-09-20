@@ -1,0 +1,202 @@
+[
+  {
+    "windows": {
+      "2781": {
+        "2782": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2782,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "lazy-loading-chrome.googlecode.com",
+          "url": "https://lazy-loading-chrome.googlecode.com/git/server/blank.html#title=chrome-extension%3A%2F%2Fhhinaapppaileiechjoiifaancjggfjm%2Fui%2Fstartup%2Fstartup.html",
+          "width": 1073,
+          "windowId": 2781
+        },
+        "2786": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2786,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "lazy-loading-chrome.googlecode.com",
+          "url": "https://lazy-loading-chrome.googlecode.com/git/server/blank.html#title=Messenger",
+          "width": 1073,
+          "windowId": 2781
+        },
+        "2789": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2789,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "lazy-loading-chrome.googlecode.com",
+          "url": "https://lazy-loading-chrome.googlecode.com/git/server/blank.html#title=Facebook%20%E2%80%93%20log%20in%20or%20sign%20up&icon=https%3A%2F%2Fstatic.xx.fbcdn.net%2Frsrc.php%2Fyo%2Fr%2FiRmz9lCMBD2.ico",
+          "width": 1073,
+          "windowId": 2781
+        },
+        "2792": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2792,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://lazy-loading-chrome.googlecode.com/git/server/blank.html#title=Patterns for Synonyms in Elasticsearch%3A Keyphrases - OpenSource Connections",
+          "url": "https://lazy-loading-chrome.googlecode.com/git/server/blank.html#title=Patterns%20for%20Synonyms%20in%20Elasticsearch%3A%20Keyphrases%20-%20OpenSource%20Connections",
+          "width": 1073,
+          "windowId": 2781
+        },
+        "2795": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2795,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://lazy-loading-chrome.googlecode.com/git/server/blank.html#title=Searches synonyms - 704 Words and Phrases for Searches",
+          "url": "https://lazy-loading-chrome.googlecode.com/git/server/blank.html#title=Searches%20synonyms%20-%20704%20Words%20and%20Phrases%20for%20Searches",
+          "width": 1073,
+          "windowId": 2781
+        },
+        "2798": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2798,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://lazy-loading-chrome.googlecode.com/git/server/blank.html#title=How a Search Engine Might Use Synonyms to Rewrite Search Queries",
+          "url": "https://lazy-loading-chrome.googlecode.com/git/server/blank.html#title=How%20a%20Search%20Engine%20Might%20Use%20Synonyms%20to%20Rewrite%20Search%20Queries",
+          "width": 1073,
+          "windowId": 2781
+        },
+        "2801": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2801,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://lazy-loading-chrome.googlecode.com/git/server/blank.html#title=( alternate form ) of search %2Bquery ( google %7C bing ) - Bing",
+          "url": "https://lazy-loading-chrome.googlecode.com/git/server/blank.html#title=(%20alternate%20form%20)%20of%20search%20%2Bquery%20(%20google%20%7C%20bing%20)%20-%20Bing",
+          "width": 1073,
+          "windowId": 2781
+        },
+        "2804": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1155,
+          "highlighted": true,
+          "id": 2804,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Chrome Web Store - Extensions",
+          "url": "https://chrome.google.com/webstore/detail/flowbar/chidlojljmmcgpjapdbkedbbilnjoddg",
+          "width": 1073,
+          "windowId": 2781
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2781": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 2781,
+        "incognito": false,
+        "left": 536,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Chrome Web Store - Extensions",
+    "date": 1611537116048,
+    "lastEditedTime": 1611537076317,
+    "tag": [
+      "winClose",
+      "loppy"
+    ],
+    "sessionStartTime": 1611535482936,
+    "id": "032d1031-4112-42ab-bcf1-e9eb22c67324"
+  }
+]

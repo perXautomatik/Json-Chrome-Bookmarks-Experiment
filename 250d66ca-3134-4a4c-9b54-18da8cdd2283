@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "11493": {
+        "11265": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/6d61b49f/img/favicon_32.png",
+          "height": 1001,
+          "highlighted": true,
+          "id": 11265,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(97) The New Era of Negative Campaigns - YouTube",
+          "url": "https://www.youtube.com/watch?v=C3e2euJ9zHw&list=WL&index=13",
+          "width": 936,
+          "windowId": 11493
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "11493": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 11493,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(97) The New Era of Negative Campaigns - YouTube",
+    "date": 1602137282874,
+    "lastEditedTime": 1602110812361,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "8d575f61-fd9e-4c9a-bb78-4c79f27bde41"
+  }
+]

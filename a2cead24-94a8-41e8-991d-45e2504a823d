@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "20210": {
+        "20201": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://store.steampowered.com/favicon.ico",
+          "height": 1155,
+          "highlighted": true,
+          "id": 20201,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Save 25% on Main Assembly on Steam",
+          "url": "https://store.steampowered.com/app/1078920/Main_Assembly/?gclid=CjwKCAiAtK79BRAIEiwA4OskBiOdFbNX9un90mdgMjcuKbt-Eq6RvrO2t4o4gK5KXnmY1q8YmO_ZVhoC6QoQAvD_BwE",
+          "width": 663,
+          "windowId": 20210
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "20210": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 20210,
+        "incognito": false,
+        "left": 423,
+        "state": "normal",
+        "top": 631,
+        "type": "normal",
+        "width": 663
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Save 25% on Main Assembly on Steam",
+    "date": 1605126199486,
+    "lastEditedTime": 1605126188477,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "745414cc-f02c-45ea-ab37-89d38ab8ee5a"
+  }
+]

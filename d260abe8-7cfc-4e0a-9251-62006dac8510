@@ -1,0 +1,122 @@
+[
+  {
+    "windows": {
+      "164": {
+        "1": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://tower.local/webGui/images/green-on.png",
+          "height": 667,
+          "highlighted": false,
+          "id": 1,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tower/Docker",
+          "url": "http://tower.local/Docker",
+          "width": 1247,
+          "windowId": 164
+        },
+        "240": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://192.168.0.30:3000/public/favicon/favicon-32x32.png",
+          "height": 667,
+          "highlighted": false,
+          "id": 240,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Guacamole Client",
+          "url": "http://192.168.0.30:3000/",
+          "width": 1247,
+          "windowId": 164
+        },
+        "243": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ask.openstack.org/upfiles/favicon.ico",
+          "height": 667,
+          "highlighted": false,
+          "id": 243,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "VNC Console in Dashboard fails to connect ot server (code: 1006) [closed] - Ask OpenStack: Q&A Site for OpenStack Users and Developers",
+          "url": "https://ask.openstack.org/en/question/520/vnc-console-in-dashboard-fails-to-connect-ot-server-code-1006/",
+          "width": 1247,
+          "windowId": 164
+        },
+        "244": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://192.168.0.30:6080/favicon.ico",
+          "height": 667,
+          "highlighted": false,
+          "id": 244,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "noVNC",
+          "url": "http://192.168.0.30:6080/",
+          "width": 1247,
+          "windowId": 164
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "164": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 784,
+        "id": 164,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1304
+      }
+    },
+    "tabsNumber": 4,
+    "name": "VNC Console in Dashboard fails to connect ot server (code: 1006) [closed] - Ask OpenStack: Q&A Site for OpenStack Users and Developers",
+    "date": 1618901521072,
+    "lastEditedTime": 1618901521072,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1618867590815,
+    "id": "530b5ca2-5a6e-499e-88e0-a851cc385a95"
+  }
+]

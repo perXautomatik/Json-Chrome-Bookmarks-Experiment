@@ -1,0 +1,210 @@
+[
+  {
+    "windows": {
+      "228": {
+        "278": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "http://woshub.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 278,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Previous Command History in PowerShell | Windows OS Hub",
+          "url": "http://woshub.com/powershell-commands-history/",
+          "width": 0,
+          "windowId": 228
+        },
+        "300": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "http://woshub.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 300,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Previous Command History in PowerShell | Windows OS Hub",
+          "url": "http://woshub.com/powershell-commands-history/#:~:text=By%20default%2C%20the%20PowerShell%20in,separately%20for%20PowerShell%20and%20ISE.",
+          "width": 0,
+          "windowId": 228
+        },
+        "309": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 309,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Set-PSReadLineOption (PSReadLine) - PowerShell | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powershell/module/psreadline/set-psreadlineoption?view=powershell-7",
+          "width": 0,
+          "windowId": 228
+        },
+        "312": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.majorgeeks.com/favicon.ico",
+          "height": 1820,
+          "highlighted": false,
+          "id": 312,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to View, Save, and Clear Your PowerShell and Command Prompt History - MajorGeeks",
+          "url": "https://www.majorgeeks.com/content/page/how_to_viewsaveand_clear_your_powershell_and_command_prompt_history.html",
+          "width": 1039,
+          "windowId": 228
+        },
+        "315": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 315,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Get-PSReadLineOption (PSReadLine) - PowerShell | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powershell/module/psreadline/get-psreadlineoption?view=powershell-7",
+          "width": 0,
+          "windowId": 228
+        },
+        "318": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1820,
+          "highlighted": false,
+          "id": 318,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Running a command as Administrator using PowerShell? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7690994/running-a-command-as-administrator-using-powershell",
+          "width": 1039,
+          "windowId": 228
+        },
+        "324": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://medium.com/favicon.ico",
+          "height": 1820,
+          "highlighted": false,
+          "id": 324,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 318,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PowerShell Boilerplate. Writing anything other than simple… | by Forrest Pitz | Medium",
+          "url": "https://medium.com/@forrestpitz/powershell-boilerplate-e91d2b27c904",
+          "width": 1039,
+          "windowId": 228
+        },
+        "348": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 348,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "admin psreadline empty history - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&hs=ag5&sxsrf=ALeKk03rUnoCdWbYXW2uv5SSiet-gkJQpQ%3A1602764235350&ei=yz2IX5zvFMrergTg_Lm4CQ&q=admin+psreadline+empty+history&oq=admin+psreadline+empty+history&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoFCCEQoAE6BAghEBU6BwghEAoQoAFQj7kBWPrHAWD6yAFoAHAEeACAAWCIAYMIkgECMTOYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=psy-ab&ved=0ahUKEwjcgKCHyrbsAhVKr4sKHWB-DpcQ4dUDCAw&uact=5",
+          "width": 0,
+          "windowId": 228
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "228": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1906,
+        "id": 228,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -735,
+        "type": "normal",
+        "width": 1096
+      }
+    },
+    "tabsNumber": 8,
+    "name": "PowerShell Boilerplate. Writing anything other than simple… | by Forrest Pitz | Medium",
+    "date": 1602765159169,
+    "lastEditedTime": 1602764992766,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602758810371,
+    "id": "7f3170ce-d45f-4662-a72b-79dc0b66cb97"
+  }
+]

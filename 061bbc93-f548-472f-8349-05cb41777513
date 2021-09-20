@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "5845": {
+        "5860": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://support.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5860,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How do I transfer my music library and playlists over from google play music to youtube music? - YouTube Music Community",
+          "url": "https://support.google.com/youtubemusic/thread/15792706?hl=en",
+          "width": 1383,
+          "windowId": 5845
+        },
+        "5863": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://soundiiz.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5863,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Google Music to YouTube - Transfer playlists and favorites with Soundiiz",
+          "url": "https://soundiiz.com/tutorial/google-music-to-youtube",
+          "width": 1383,
+          "windowId": 5845
+        },
+        "5866": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://d39w11zmd7f11d.cloudfront.net/wp-content/themes/musconv/favicon1.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5866,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Move to Apple Music, Spotify, Google & Amazon Music!",
+          "url": "https://musconv.com/",
+          "width": 1383,
+          "windowId": 5845
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5845": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 5845,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 3,
+    "name": "How do I transfer my music library and playlists over from google play music to youtube music? - YouTube Music Community",
+    "date": 1601175003231,
+    "lastEditedTime": 1601175002217,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "c10f1f0b-a806-443f-b12d-2ecaba7222f5"
+  }
+]

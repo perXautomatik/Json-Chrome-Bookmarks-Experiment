@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "561": {
+        "555": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.arduino.cc/header-footer/prod/assets/favicon-pro/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 555,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Edit project - Arduino Project Hub",
+          "url": "https://create.arduino.cc/projecthub/projects/8d8478/edit",
+          "width": 1383,
+          "windowId": 561
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "561": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 561,
+        "incognito": false,
+        "left": 238,
+        "state": "normal",
+        "top": 175,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Edit project - Arduino Project Hub",
+    "date": 1602256501205,
+    "lastEditedTime": 1602256499795,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602086503320,
+    "id": "29af891b-8d3b-43f4-a243-55cfbaae8d08"
+  }
+]

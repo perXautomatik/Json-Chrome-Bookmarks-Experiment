@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "1574": {
+        "1571": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://community.idera.com/cfs-filesystemfile/__key/themefiles/s-3fc3f82483d14ec485ef92e206116d49-files/Favicon_2D00_Duck_2D00_Green.png?_=636027432567382626",
+          "height": 713,
+          "highlighted": false,
+          "id": 1571,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Script for .Net Framework Install and calling of functions on if statement - PowerShell for Windows - Ask the Experts - IDERA Community",
+          "url": "https://community.idera.com/database-tools/powershell/ask_the_experts/f/powershell_for_windows-12/24693/script-for-net-framework-install-and-calling-of-functions-on-if-statement",
+          "width": 1231,
+          "windowId": 1574
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1574": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 801,
+        "id": 1574,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "popup",
+        "width": 1247
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Script for .Net Framework Install and calling of functions on if statement - PowerShell for Windows - Ask the Experts - IDERA Community",
+    "date": 1600267057472,
+    "lastEditedTime": 1601295397708,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600156534702,
+    "id": "21a1534f-046a-42ac-8deb-a9db0bf05a01"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "947": {
+        "867": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.relliksoftware.com/exifdatechanger/wp-content/uploads/exif_160.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 867,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "EXIF Date Changer",
+          "url": "https://www.relliksoftware.com/exifdatechanger/#download",
+          "width": 1879,
+          "windowId": 947
+        },
+        "868": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.relliksoftware.com/exifdatechanger/wp-content/uploads/exif_160.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 868,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "EXIF Date Changer",
+          "url": "https://www.relliksoftware.com/exifdatechanger/",
+          "width": 911,
+          "windowId": 947
+        },
+        "869": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 869,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Exif Copier: copy, backup and restore exif",
+          "url": "https://web.archive.org/web/20121122084216/http://exifcopier.110mb.com/",
+          "width": 911,
+          "windowId": 947
+        },
+        "870": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 870,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Exif Stats Software | The Art of Seeing",
+          "url": "https://web.archive.org/web/20111216212338/http://www.thezeal.com/blog/exif-stats/",
+          "width": 1879,
+          "windowId": 947
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "947": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1056,
+        "id": 947,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Exif Stats Software | The Art of Seeing",
+    "date": 1600015567893,
+    "lastEditedTime": 1601295397565,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "0a3c9c3d-3f28-4f43-b108-9d4f9af9b60a"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "331": {
+        "334": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 721,
+          "highlighted": false,
+          "id": 334,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "javascript - Highlight the URL/omnibox text on new tab load (Chrome) - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/23086359/highlight-the-url-omnibox-text-on-new-tab-load-chrome",
+          "width": 1410,
+          "windowId": 331
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "331": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 331,
+        "incognito": false,
+        "left": 132,
+        "state": "normal",
+        "top": 100,
+        "type": "normal",
+        "width": 1467
+      }
+    },
+    "tabsNumber": 1,
+    "name": "javascript - Highlight the URL/omnibox text on new tab load (Chrome) - Stack Overflow",
+    "date": 1599822736150,
+    "lastEditedTime": 1601295398157,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599820276730,
+    "id": "670e1db0-14d7-4f4f-bfe3-2af7b06c57d3"
+  }
+]

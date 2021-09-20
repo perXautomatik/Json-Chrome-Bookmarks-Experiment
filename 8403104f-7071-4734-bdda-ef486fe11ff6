@@ -1,0 +1,253 @@
+[
+  {
+    "windows": {
+      "3694": {
+        "3726": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3726,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "STRING_SPLIT (Transact-SQL) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/functions/string-split-transact-sql?view=sql-server-ver15",
+          "width": 1383,
+          "windowId": 3694
+        },
+        "3746": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3746,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://stackoverflow.com/questions/273238/how-to-use-group-by-to-concatenate-strings-in-sql-server",
+          "url": "https://stackoverflow.com/questions/273238/how-to-use-group-by-to-concatenate-strings-in-sql-server",
+          "width": 1383,
+          "windowId": 3694
+        },
+        "3820": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3820,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "alternative to stuff function in sql server - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/28127061/alternative-to-stuff-function-in-sql-server",
+          "width": 1383,
+          "windowId": 3694
+        },
+        "3861": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3861,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql server - Faster alternative to scalar UDF with recursion to walk tree hierarchy? - Database Administrators Stack Exchange",
+          "url": "https://dba.stackexchange.com/questions/17772/faster-alternative-to-scalar-udf-with-recursion-to-walk-tree-hierarchy",
+          "width": 1383,
+          "windowId": 3694
+        },
+        "3899": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3899,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "opera://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "url": "chrome://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "width": 1383,
+          "windowId": 3694
+        },
+        "3932": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3932,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://www.sqlshack.com/improvements-of-scalar-user-defined-function-performance-in-sql-server-2019/",
+          "url": "https://www.sqlshack.com/improvements-of-scalar-user-defined-function-performance-in-sql-server-2019/",
+          "width": 1383,
+          "windowId": 3694
+        },
+        "3956": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3956,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "opera://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "url": "chrome://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "width": 1383,
+          "windowId": 3694
+        },
+        "3972": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3972,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/scalar-udf-inlining?view=sql-server-ver15",
+          "url": "https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/scalar-udf-inlining?view=sql-server-ver15",
+          "width": 1383,
+          "windowId": 3694
+        },
+        "3984": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3984,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "opera://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "url": "chrome://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "width": 1383,
+          "windowId": 3694
+        },
+        "3995": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3995,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://www.google.com/search?q=sql column stuffing with Scalar UDF Inlining",
+          "url": "https://www.google.com/search?q=sql%20column%20stuffing%20with%20Scalar%20UDF%20Inlining",
+          "width": 1383,
+          "windowId": 3694
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3694": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 3694,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 10,
+    "name": "STRING_SPLIT (Transact-SQL) - SQL Server | Microsoft Docs",
+    "date": 1601172574507,
+    "lastEditedTime": 1601172568572,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "48ce6f6a-01ae-4855-b8a5-412b239b244b"
+  }
+]

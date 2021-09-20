@@ -1,0 +1,100 @@
+[
+  {
+    "windows": {
+      "1809": {
+        "1573": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.steelbytes.com/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1573,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "JPEG & PNG Stripper - www.SteelBytes.com",
+          "url": "http://www.steelbytes.com/?mid=30",
+          "width": 911,
+          "windowId": 1809
+        },
+        "1662": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.image-info-toolkit.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1662,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Image Info Toolkit [what's new]",
+          "url": "http://www.image-info-toolkit.com/en/download/welcome.html",
+          "width": 1879,
+          "windowId": 1809
+        },
+        "1672": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.quickimagecomment.de/templates/allrounder-3/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1672,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "QuickImageComment",
+          "url": "https://www.quickimagecomment.de/index.php/en/download/file/248-version-4-36",
+          "width": 1879,
+          "windowId": 1809
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1809": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1809,
+        "incognito": false,
+        "left": 952,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 968
+      }
+    },
+    "tabsNumber": 3,
+    "name": "JPEG & PNG Stripper - www.SteelBytes.com",
+    "date": 1600034641853,
+    "lastEditedTime": 1601295398150,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600030279299,
+    "id": "632b206e-82a5-4af5-b370-7c25f2459e59"
+  }
+]

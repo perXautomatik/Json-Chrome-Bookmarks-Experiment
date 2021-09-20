@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "486": {
+        "683": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images-prod.healthline.com/hlcmsresource/images/frontend-static/favicon/hl-logo-logomark-circle-black.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 683,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Pimple Pus: What It Is, How to Treat and Prevent",
+          "url": "https://www.healthline.com/health/pimple-pus#causes",
+          "width": 1324,
+          "windowId": 486
+        },
+        "689": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.insider.com/public/assets/INSIDER/US/favicons/favicon.ico?12-31-19",
+          "height": 1010,
+          "highlighted": false,
+          "id": 689,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Here's what's actually inside your pimples - Insider",
+          "url": "https://www.insider.com/what-is-inside-your-pimples-acne-2017-8#:~:text=The%20stuff%20you%20squeeze%20out,contains%20dead%20white%20blood%20cells.",
+          "width": 1801,
+          "windowId": 486
+        },
+        "690": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://abs.twimg.com/favicons/twitter-pip.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 690,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(20) Home / Twitter",
+          "url": "https://twitter.com/home?lang=en",
+          "width": 1801,
+          "windowId": 486
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "486": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1096,
+        "id": 486,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 3,
+    "name": "What's pimpel puss -fun facts",
+    "date": 1599819050912,
+    "lastEditedTime": 1601295398628,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599816003038,
+    "id": "b1388239-0d19-4f2a-8ce1-3630de1f73cf"
+  }
+]

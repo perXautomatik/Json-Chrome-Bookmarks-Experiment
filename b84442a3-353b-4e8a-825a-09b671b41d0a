@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "11100": {
+        "11096": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://skyblivion.com/wp-content/uploads/2018/03/cropped-Favicon_152-32x32.png",
+          "height": 1009,
+          "highlighted": true,
+          "id": 11096,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Skyblivion | The Elder Scrolls Renewal - Skyblivion",
+          "url": "https://skyblivion.com/",
+          "width": 1872,
+          "windowId": 11100
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "11100": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 11100,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 1872
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Skyblivion | The Elder Scrolls Renewal - Skyblivion",
+    "date": 1601891650833,
+    "lastEditedTime": 1601891435133,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "ddb658bf-2c18-49b9-9819-e689d3a33952"
+  }
+]

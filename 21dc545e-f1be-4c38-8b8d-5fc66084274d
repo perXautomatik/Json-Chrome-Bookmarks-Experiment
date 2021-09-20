@@ -1,0 +1,385 @@
+[
+  {
+    "windows": {
+      "6016": {
+        "6410": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://eab.abime.net/favicon.ico",
+          "height": 1009,
+          "highlighted": true,
+          "id": 6410,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Adult Amiga Games - English Amiga Board",
+          "url": "https://eab.abime.net/showthread.php?t=8300",
+          "width": 1872,
+          "windowId": 6016
+        },
+        "6560": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6560,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Declic, Le : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Declic%2C%20Le%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/5005",
+          "width": 0,
+          "windowId": 6016
+        },
+        "6563": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6563,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Party Games : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Party%20Games%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/5633",
+          "width": 0,
+          "windowId": 6016
+        },
+        "6569": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6569,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Femme Fatale Data Disk Volume 9 : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Femme%20Fatale%20Data%20Disk%20Volume%209%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/4130",
+          "width": 0,
+          "windowId": 6016
+        },
+        "6578": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6578,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Bar Games : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Bar%20Games%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/33",
+          "width": 0,
+          "windowId": 6016
+        },
+        "6581": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6581,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Holiday Maker : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Holiday%20Maker%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/2986",
+          "width": 0,
+          "windowId": 6016
+        },
+        "6596": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6596,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Sexy 2 : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Sexy%202%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/6313",
+          "width": 0,
+          "windowId": 6016
+        },
+        "6599": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6599,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Manga Hot Numbers : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Manga%20Hot%20Numbers%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/5627",
+          "width": 0,
+          "windowId": 6016
+        },
+        "6602": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6602,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Biing!: Sex, Intrigen Und Skalpelle : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Biing!%3A%20Sex%2C%20Intrigen%20Und%20Skalpelle%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/112",
+          "width": 0,
+          "windowId": 6016
+        },
+        "6608": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6608,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Biing!: Sex, Intrigen Und Skalpelle : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Biing!%3A%20Sex%2C%20Intrigen%20Und%20Skalpelle%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/113",
+          "width": 0,
+          "windowId": 6016
+        },
+        "6611": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6611,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Wet: The Sexy Empire : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Wet%3A%20The%20Sexy%20Empire%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/3982",
+          "width": 0,
+          "windowId": 6016
+        },
+        "6623": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6623,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "InterAction : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=InterAction%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/3625",
+          "width": 0,
+          "windowId": 6016
+        },
+        "6629": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6629,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Bedroom Olympiad : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Bedroom%20Olympiad%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/5607",
+          "width": 0,
+          "windowId": 6016
+        },
+        "6632": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6632,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Romantic Encounters At The Dome : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Romantic%20Encounters%20At%20The%20Dome%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/1280",
+          "width": 0,
+          "windowId": 6016
+        },
+        "6638": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://hol.abime.net/favicon.ico",
+          "height": 1009,
+          "highlighted": false,
+          "id": 6638,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Planet Of Lust : Hall Of Light - The database of Amiga games",
+          "url": "http://hol.abime.net/1080",
+          "width": 1872,
+          "windowId": 6016
+        },
+        "6923": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEVElEQVRYR82XXWxTZRjH3552ox77RXda5xhIcJlAxi7QONBtKgyRxMguMHEYEpSrkeAFiWLilTERuTCEYMCPRPAjJmQXxaGbQF2mgowCDro5OkJKV5uynJwtpSu1Oe1OzPP8zzHzY3Jlznqx33nPedf+n//7PO/zHoe4x+dI95uLacqTO7uaiK6lSx4i9k4s8hAHr83wNyieUoE4NfBVilhJp0eI0ejHd/7rJxwLVsC70evrSZy3ZkkbsWOl9z7imAbJh4dANaUzn202mJvb3cyeSLZIHHhv94/EVPzri/8W7LwO2Cbg6NX886S0/3fvo8R8Cbq7V4AdtWAmDw6lELnHDTY1uphjKp4f2v855vd9yA5kUhe+m+vEPxywTcCeA8fWkbLb7Ts3E9Vp6Gw1I35nLcbSXPmU7eb4xQ+SfFUowJraAGZmb3FRiNFzEaaRufINUUuPXCH+6YBtAl5uaPGRku393+8m6vL9i4gX0wht63JwnenE3wwQAwlEvOejq3hUQdIUpzPMOkVmyjIYP/MlV4f6S88RdsB2ARu27X2ClHzb8/4mIqpYiLSZ5ftO5ni8KoDINqzmDVCsrEVEnw5OMg+fGmV6BG+IolJEEoUD+MaAj40WsegJpmv4ZB87YLuANw5FdpCSA691mpUOB47HEPH+CLK7fjGyurEODige1PuWZkQ2lMAW+VMcyXNj/CYz6MH/edzVzMuDqAZ9+NQ4O2C7gL2RRDcp2df5SJjIf4QQu44jkp9HwLpQEJEHsPYrFET0VmcdM4tUEUkVzsWTcOT02UE8T11nqklUy8w4ksdhu4C2t8+zAw+GZQ7+mbXLWOHZGLI7MQ4HDAkRCwlZ3fUU5r3UWs9Ma4hcK2BvzE5jfOwTLneRvNzP1FXkhkuUb7MDtgto2n6QqyAvFK6C+uXY+l7fwa1BTGZRz7+m0N4St7C2W9samU0NyBo1h3OB5cC1MUTa+9lBZj6NtS9OJpi+YA2qwHYBqztebSUlOSm8kR1oWMMKX+l6gRk0+7zsRt1P5rC2J/pjTMWPnFAUOCFVYxz7gTc6MRr9glnS0BUrBTjp8z3A5wKH7QJazG44EXyYq8G3bA2H8PQmPhgJn9kc/B5c/Kai4PtOo76NCtZe6DgdSzqaiGHgfu4mDo/F7BieS9JdYihUc5QdsF0A5AvRuH7X48SC17+FIzf7t1LLrwEiGMaBIH0jzsykOImFZKDure5n6MgRy4FCBl3SKMEZuaqqlx0pl4fZgQUjwBJS37zxObpWsxMtRJccgHKfmeVudMNKEbmg55HVlRLGVk5Y94XpkF+4LtDzO6JyxvqtvziwYARYQvzK0sfoemZGa+fIZh1eYrXlhIR9QTfr2tBxEhIG3g+EJPEN2enkN6NiuXxpbuTW9bxvRrYLsBSGQiFe9LuGsYrXemqKe8as04mj0CxmOsUsp7mrSuYjlOyXedPXNA0bxDyfe74d/98C/gApYeiL5bYRhwAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 6923,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Sex Vixens From Space : Hall Of Light - The database of Amiga games",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Sex%20Vixens%20From%20Space%20%3A%20Hall%20Of%20Light%20-%20The%20database%20of%20Amiga%20games&pos=0&uri=http://hol.abime.net/1884",
+          "width": 0,
+          "windowId": 6016
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "6016": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 6016,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 1872
+      }
+    },
+    "tabsNumber": 16,
+    "name": "Adult Amiga Games - English Amiga Board",
+    "date": 1601450252469,
+    "lastEditedTime": 1601450250959,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1600633358975,
+    "id": "3c36b0fd-dc3d-40db-9e42-edfc915aceae"
+  }
+]

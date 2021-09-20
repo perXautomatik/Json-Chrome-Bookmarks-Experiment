@@ -1,0 +1,312 @@
+[
+  {
+    "windows": {
+      "2582": {
+        "2583": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2583,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Download SQL Server Management Studio (SSMS) - SQL Server Management Studio (SSMS) | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15",
+          "width": 1073,
+          "windowId": 2582
+        },
+        "2587": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2587,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "The SELECT permission was denied on the object , database , schema - Google Search",
+          "url": "https://www.google.com/search?q=The%20SELECT%20permission%20was%20denied%20on%20the%20object%20%2C%20database%20%2C%20schema",
+          "width": 1073,
+          "windowId": 2582
+        },
+        "2590": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2590,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec",
+          "url": "https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec",
+          "width": 1073,
+          "windowId": 2582
+        },
+        "2593": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2593,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "RescueTime - Use RescueTime with Outlook / Office 365 Calendar",
+          "url": "https://www.rescuetime.com/integrations/outlook-calendar#",
+          "width": 1073,
+          "windowId": 2582
+        },
+        "2596": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2596,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://chrome.google.com/webstore/detail/rescuetime-for-chrome-and/bdakmnplckeopfghnlpocafcepegjeap",
+          "url": "https://chrome.google.com/webstore/detail/rescuetime-for-chrome-and/bdakmnplckeopfghnlpocafcepegjeap",
+          "width": 1073,
+          "windowId": 2582
+        },
+        "2599": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://portalen.gotland.se/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2599,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Portalen",
+          "url": "https://portalen.gotland.se/wa/chooseAuthmech?authmechs=Anv%c3%a4ndarnamn%20och%20L%c3%b6senord%3aAnv%c3%a4ndarnamn%20och%20L%c3%b6senord;b1tio2757gu8%3aForeign%20eID;Windows%20integrerad%3aWindows%20integrerad;e6j5is1jw64g%3ae-legitimation",
+          "width": 1073,
+          "windowId": 2582
+        },
+        "2602": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2602,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://portalen.gotland.se/wa/chooseAuthmech?authmechs=Användarnamn och Lösenord%3aAnvändarnamn och Lösenord;b1tio2757gu8%3aForeign eID;Windows integrerad%3aWindows integrerad;e6j5is1jw64g%3ae-legitimation#path=/calendar/view/Week",
+          "url": "https://portalen.gotland.se/wa/chooseAuthmech?authmechs=Anv%c3%a4ndarnamn%20och%20L%c3%b6senord%3aAnv%c3%a4ndarnamn%20och%20L%c3%b6senord;b1tio2757gu8%3aForeign%20eID;Windows%20integrerad%3aWindows%20integrerad;e6j5is1jw64g%3ae-legitimation#path=/calendar/view/Week",
+          "width": 1073,
+          "windowId": 2582
+        },
+        "2605": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2605,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "RescueTime - Use RescueTime with Google Calendar",
+          "url": "https://www.rescuetime.com/integrations/google-calendar",
+          "width": 1073,
+          "windowId": 2582
+        },
+        "2608": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2608,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://gjldcdngmdknpinoemndlidpcabkggco/option.html#group",
+          "url": "chrome-extension://gjldcdngmdknpinoemndlidpcabkggco/option.html#group",
+          "width": 1073,
+          "windowId": 2582
+        },
+        "2611": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://d3eto7onm69fcz.cloudfront.net/assets/ico/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2611,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://help.rescuetime.com/article/208-google-calendar",
+          "url": "https://help.rescuetime.com/article/208-google-calendar",
+          "width": 1073,
+          "windowId": 2582
+        },
+        "2614": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/images/branding/product/2x/calendar_2020q4_64dp.png",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2614,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Google Calendar",
+          "url": "https://calendar.google.com/calendar/u/0/r/settings/addbyurl?pli=1",
+          "width": 1073,
+          "windowId": 2582
+        },
+        "2617": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2617,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://www.howtogeek.com/435975/how-to-show-an-outlook-calendar-in-google-calendar/",
+          "url": "https://www.howtogeek.com/435975/how-to-show-an-outlook-calendar-in-google-calendar/",
+          "width": 1073,
+          "windowId": 2582
+        },
+        "2620": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/unreadcountfavicon/2/80+.png",
+          "height": 1155,
+          "highlighted": true,
+          "id": 2620,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Gmail",
+          "url": "https://mail.google.com/mail/u/0/#inbox",
+          "width": 1073,
+          "windowId": 2582
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2582": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 2582,
+        "incognito": false,
+        "left": 536,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 13,
+    "name": "Gmail",
+    "date": 1611537115911,
+    "lastEditedTime": 1611537076317,
+    "tag": [
+      "winClose",
+      "loppy"
+    ],
+    "sessionStartTime": 1611535482936,
+    "id": "2276fede-f177-417a-9584-4d1cc3d51510"
+  }
+]

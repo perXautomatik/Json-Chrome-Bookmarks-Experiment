@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "13096": {
+        "13098": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1001,
+          "highlighted": true,
+          "id": 13098,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "tsql alternative to openquery - Google Search",
+          "url": "https://www.google.com/search?q=tsql+alternative+to+openquery&rlz=1CAZBMY_enSE834&oq=tsql+alternative+to+op&aqs=chrome.1.69i57j33.13522j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 789,
+          "windowId": 13096
+        },
+        "13099": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAERklEQVRYR72XbWscVRTHf+femckk3cSmkBdWClKLIFJfNEWMRauSohZsbQr9OqYfxhdWbW2bKvimKEi1GBAUpSotFDTSIk26edqduffIndlxN9lNdpNYD+xe2HvPOf/zfFbYjlSFiwhcBD7Y9umOL2fFBx7pYrzyaD8SHUR0HG9SBKHZEJIhxTe63w+q2VvFOEGshzjBuLucHbvTFjirhpdWjmLzl1Em8BIVyg0QsIZzr1TY7CEdg2xlnjNjcyWAS2qJ6lNY8xpGEprNrRWq0V3hEC8oWhiTppD773l/3+clgKtLR1A9j8QpWVOxPUJTMe/VE0HO0IiQ550AHp/A6zTO91ZeoDRgDHhfeqdw5y4prW0KwfXVKVx2CkVQH77lXy3OKLERnFvFywLWL+OR4uMAOyCIYHmQW3DKECa6w7naD2UIAoCsBcC0Mi5YGuJdhEObePM1B0bneUjGzwgngV/nhecntTj70cKk8vS8sFBXTr4BX+GZDYnRCaCwvOXbcEiwPhLybAE1nzIz9nc/PTu93wKAocjYACZOhFzvku27xgVZ2qmCfu/7eAAlTgWX3aeZX+bCgf8ZQPBCkYBSB/mCmdFf+lm00/u2B5w7hYac6FVfoe7MA4z8jjHLuLzkyzKI4946qzsbKV7XieUht7/7i9k3806GrUOwWayJyh7gA8JBenNliAGrDpEVcrmHyLfMjD6oxJcA5h6/SlOmCVWxbTPaqYM73gcDQiNruj9g9AbnZSHclgCuLR5D7WmcN4WVXa246r97aH9FVUGR1M3mXWpjl3lbVkoAHy6OM2zOMRQfYn3dY4q+2+63g+jtNTWLSHXIcWgh1iaCkS95b+RWu4NdWXwO5DRReoB8nSIUgTYMn15DoMdvRUPbgrzxjKSGRuM+dvmjjQ/n1g+Trb2OyEFsHJcFMYj5m5T5DYm+8bJo7yY0t2XS+JNupHOL42TxYXCHEMZxPimSsx+O4Igg3Eioy/3lmOrBVA0lbxyJvb61qy5pQo0UV09YE2EZqG1TBcNahiwRw5oeQZkCrXVVVTFjQkKG8oxaC8keqqsnawCfLJ1B7IuEcITkqyqr8kAY8za60X+M7gbcTY1Yqr+LyLECQC964gDq9XdwOtmVB9VqF0IQP7kQWKLFs9jkKL65MQRVFw8JG2nHVjxBe6o8RJhACed2VL1ZQXm29XAZQ+PREax9C2OeIss37plVDqjkJPZqaxbUX6Dhj2PC2pzJ4IteUNpaDI0qxipOkuJ/hdHhLcswLDmZq2Oij1tr+eMTGDvdbjy72b1bvg2seU57ud3cpPCkI4bG6j3S/a1OGJbSPJvGdeyEu8n+iqfX/4qyqXrECGI8ymfMjP7UvQ88qXEclEeRIYzlhvsGv+8mF8QNvpDsxSOh5JIUXLaC6m2eqd3iuGRBZGsfWH0Fl02jqsU+8F+TtUuI/Q1Z+5GzE392iv8HXG7q/La0tTEAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 13099,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "EP8 e-Bike System – SHIMANO STEPS",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=EP8%20e-Bike%20System%20%E2%80%93%20SHIMANO%20STEPS&pos=0&uri=https://www.shimano-steps.com/e-bikes/sweden/sv/product-information/mtb/ep8?gclid=CjwKCAjww5r8BRB6EiwArcckC0zDnuIk_ThOvwBJIwbajo8xx3Qx807qEmUUEh2nrHK1amUEqfbWwRoCoHIQAvD_BwE",
+          "width": 0,
+          "windowId": 13096
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "13096": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 13096,
+        "incognito": false,
+        "left": 452,
+        "state": "normal",
+        "top": 497,
+        "type": "normal",
+        "width": 789
+      }
+    },
+    "tabsNumber": 2,
+    "name": "tsql alternative to openquery - Google Search",
+    "date": 1602693701606,
+    "lastEditedTime": 1602693663356,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "5cb67813-6829-4efb-ad6b-1b779c5ca0be"
+  }
+]

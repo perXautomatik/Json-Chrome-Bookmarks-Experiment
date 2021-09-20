@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "192": {
+        "150": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://192.168.0.2/core/img/favicon.ico",
+          "height": 770,
+          "highlighted": false,
+          "id": 150,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Settings - ownCloud",
+          "url": "https://192.168.0.2/index.php/settings/admin?sectionid=additional",
+          "width": 1550,
+          "windowId": 192
+        },
+        "200": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://andpjllgocabfacjlelkfpdemfklpfpo/icons/favicon.svg",
+          "height": 627,
+          "highlighted": false,
+          "id": 200,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "complete",
+          "title": "Tablerone",
+          "url": "chrome-extension://andpjllgocabfacjlelkfpdemfklpfpo/tab/tab.html?forceOpen=true&fromTabsOnUpdated",
+          "width": 1550,
+          "windowId": 192
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "192": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 928,
+        "id": 192,
+        "incognito": false,
+        "left": 138,
+        "state": "normal",
+        "top": 76,
+        "type": "normal",
+        "width": 1607
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Settings - ownCloud",
+    "date": 1618336284702,
+    "lastEditedTime": 1618335247452,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1618310059679,
+    "id": "81734d31-892a-440d-9082-4fde6e40002f"
+  }
+]

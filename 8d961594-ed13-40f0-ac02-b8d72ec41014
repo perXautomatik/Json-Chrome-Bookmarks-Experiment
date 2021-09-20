@@ -1,0 +1,713 @@
+[
+  {
+    "windows": {
+      "44": {
+        "248": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1789,
+          "highlighted": false,
+          "id": 248,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "alternatives to windows autostart - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=alternatives+to+windows+autostart&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1039,
+          "windowId": 44
+        },
+        "272": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 0,
+          "highlighted": false,
+          "id": 272,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Release 2.1.0 · imDema/FreeMove",
+          "url": "https://github.com/imDema/FreeMove/releases/tag/2.1.0",
+          "width": 0,
+          "windowId": 44
+        },
+        "278": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 278,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "(Step-by-Step) How to Transpose Data Using Power Query in 4 steps",
+          "url": "https://yodalearning.com/tutorials/power-query-helps-transposing-data/",
+          "width": 0,
+          "windowId": 44
+        },
+        "495": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 1789,
+          "highlighted": false,
+          "id": 495,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "dfinke/Posh-Gist: PowerShell cmdlets for interacting with GitHub Gist",
+          "url": "https://github.com/dfinke/Posh-Gist",
+          "width": 1039,
+          "windowId": 44
+        },
+        "578": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 578,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Adding rows to table with aggregated info based on filter | Power BI Exchange",
+          "url": "https://www.pbiusergroup.com/communities/community-home/digestviewer/viewthread?MessageKey=5c04a690-73db-4dcf-bdda-7537d884d040&CommunityKey=b35c8468-2fd8-4e1a-8429-322c39fe7110&tab=digestviewer",
+          "width": 0,
+          "windowId": 44
+        },
+        "582": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1789,
+          "highlighted": false,
+          "id": 582,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Downloads",
+          "url": "chrome://startpage/downloads",
+          "width": 1039,
+          "windowId": 44
+        },
+        "583": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE+ElEQVRYR62XbWxTVRzGn3NfttJ2a4e42jBRQpgEXFx8CXzADQJhbhWCzJHxpQODmGD4QKISEWGwzWhSAwsEEBADSCQhTkLohkSUYYUAy3AjLHMLE3Cja6nttnZ9Wbt7zbltdeOud7fg+dDm3ntefuf/POd/ziGIF+aZXY0bh0dREI3RRyHxWv0fxzDgEWvz1aw4mE4HJDGEJmtHY/1Qdan6ESeoebHbg5VHf70Z+HzVIbUQSYAszSeNtlBtKc52uiC9ZFSwCIAIYMUcE8im7yHuLUdTlxtvH3W0Br8oP6wGYgzAOVuo1gJ7lwssHZskPymAiCJGAVjyTSCbG9D16TLMnqqHvdONihPXB0OfLf8YkKqkLDKAC91uMBziUZik0NkLMWDZ7FwJwFVjwQN/GIVmQxzi25aBUJ1lqxKEDODiHTcYhlGrAARBwJJZcYDYlyvx1+AIvOEIXjYbcJ7KcbxlYFgBQgbQfNcDomr4eHhEUUDxzGkSgLh7FUYFAX8HoxgciUpyUGOuPnnD791ZtmWiSMgAHHe9YNQYMCFPTACKnp+Kd07/jm+u9IwXLSZKxsza3oRATdlmAMFHVZUBXO31UgeqjoEAEdN1GszI0aZ0zJRtdoTr3vwAgH9SgBu9PsmBakwoSZD4SaauZPCSz/PzcpAWQEvfoCRBGipIk3o0d1Jz0vLq9DQB2lyyKE22GhW/v2TKSi8Ct92PBxCXjPxrYEGg4hDMzdVjyrYmhOvK1Hmg0xOQwqlWAioXtSzPMuAZAo5w4yJi0rPI3n4e/ppSdQDd3oBkLDUmpOmKDqxheZxq78ep1oe42uNL4BPQcKycl4vL95zw7lw0CcDWc7ZQnQV/+gKqNKeAmTwHz3AUq4+3gdH+hNUL7Vj2Yj84GNAXvA1/FGj9Ix+O9k3odRYOcB0N1b2nd4fGDvBfHkgA3PXJcoUMiIY9k2WkjDe//jIKC+bieEUrjCzQ0v6c+eE9d350KGAmsXC21DhjaMg5yjkvuWZ13Wy7sMZ1wjac7FQG0OcPx9e2QuEJoMvksWDfJRimPYs9lnwYMu7jtsNR5HfF5ii1vRPRtu96r+IVANLRRwbg8ocVz0MMATI4Fj/c6sOHF+9hb+XrmGdg0H35WFlwgOSp0W84Rq5vXG9dQPOYDMATjEDKISmWAccAOp5HyREHosYZ2LNkBnqu/VwU8TxQnPmjYKIofr123dr1MgB/ZFRxGRIG0PMs2I/O4K2SpajK6Tf7bl1Zrmbmsn2AIYtkm1FDRx+UTgMsxyA7g0XJgasoWbIY5aHfijHgeuFxAEBwVAZwttMJonAgYQmNAI+lX11DRakJi+93V3Kjkbjb0yyiKPZMAOACq7AZEUKg5zksPXAdNe8fg+mX0g1pjjuu+sQRoCKkMCF9reVZbLF3gX86gHfD/f8XQPxYfqbDGV8AKQgoMc8SOO54caDVjbq8B5VaceTJJcja0WhL92JSeugKFvCu4pmM/8lNaK621wZEolFzNaOrhOUALUvwmj5irpg6+MTLkB7ongKgewxDsdsPnvxuliZWkE5bQshha5V1Q9KE9DKUCcQvRWmWDADZ9QePNBg1fKGqtiJ+rFpX9cbYvUBVuxSVKLQGgH7/vv17dHpdpVJnyZkn66g5d6iBo/3QoxBvs9mKjUbjGo7lFhJCZtLGNOGAoJlhmGNWq7V5bIf/AHboF8MC6/Q8AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 583,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Ditto clipboard extender",
+          "url": "https://ditto-cp.sourceforge.io/changeHistory.php",
+          "width": 0,
+          "windowId": 44
+        },
+        "589": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 589,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "XGraph v1.1.1.0 : Real time data plotting. - AutoHotkey Community",
+          "url": "https://www.autohotkey.com/boards/viewtopic.php?&t=3492",
+          "width": 0,
+          "windowId": 44
+        },
+        "598": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAlUlEQVQ4T2NkoBAwUqifgboGKOnrq2Fz0b2LF2+BxGHyMD5IDMUFFBtATnjQJwzQXUZyGGTGxEUJCQmGszAza4ANY2S4yPCPYVZ8Yvw0gl5YOH9hFgMjw1Ss4fOfIZuwAQsXXmD4z6CP1QBGhot4oxHk14ULFv7HFzvUNQCbTQtJ8QJWAygNRJCh4JhgYkiDByZSNAIAirpCz3tpNAAAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 598,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Execute a GIT command in multiple folders using PowerShell",
+          "url": "http://antonkallenberg.com/2017/12/02/execute-a-git-command-in-multiple-folders-using-powershell/",
+          "width": 0,
+          "windowId": 44
+        },
+        "644": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE+ElEQVRYR62XbWxTVRzGn3NfttJ2a4e42jBRQpgEXFx8CXzADQJhbhWCzJHxpQODmGD4QKISEWGwzWhSAwsEEBADSCQhTkLohkSUYYUAy3AjLHMLE3Cja6nttnZ9Wbt7zbltdeOud7fg+dDm3ntefuf/POd/ziGIF+aZXY0bh0dREI3RRyHxWv0fxzDgEWvz1aw4mE4HJDGEJmtHY/1Qdan6ESeoebHbg5VHf70Z+HzVIbUQSYAszSeNtlBtKc52uiC9ZFSwCIAIYMUcE8im7yHuLUdTlxtvH3W0Br8oP6wGYgzAOVuo1gJ7lwssHZskPymAiCJGAVjyTSCbG9D16TLMnqqHvdONihPXB0OfLf8YkKqkLDKAC91uMBziUZik0NkLMWDZ7FwJwFVjwQN/GIVmQxzi25aBUJ1lqxKEDODiHTcYhlGrAARBwJJZcYDYlyvx1+AIvOEIXjYbcJ7KcbxlYFgBQgbQfNcDomr4eHhEUUDxzGkSgLh7FUYFAX8HoxgciUpyUGOuPnnD791ZtmWiSMgAHHe9YNQYMCFPTACKnp+Kd07/jm+u9IwXLSZKxsza3oRATdlmAMFHVZUBXO31UgeqjoEAEdN1GszI0aZ0zJRtdoTr3vwAgH9SgBu9PsmBakwoSZD4SaauZPCSz/PzcpAWQEvfoCRBGipIk3o0d1Jz0vLq9DQB2lyyKE22GhW/v2TKSi8Ct92PBxCXjPxrYEGg4hDMzdVjyrYmhOvK1Hmg0xOQwqlWAioXtSzPMuAZAo5w4yJi0rPI3n4e/ppSdQDd3oBkLDUmpOmKDqxheZxq78ep1oe42uNL4BPQcKycl4vL95zw7lw0CcDWc7ZQnQV/+gKqNKeAmTwHz3AUq4+3gdH+hNUL7Vj2Yj84GNAXvA1/FGj9Ix+O9k3odRYOcB0N1b2nd4fGDvBfHkgA3PXJcoUMiIY9k2WkjDe//jIKC+bieEUrjCzQ0v6c+eE9d350KGAmsXC21DhjaMg5yjkvuWZ13Wy7sMZ1wjac7FQG0OcPx9e2QuEJoMvksWDfJRimPYs9lnwYMu7jtsNR5HfF5ii1vRPRtu96r+IVANLRRwbg8ocVz0MMATI4Fj/c6sOHF+9hb+XrmGdg0H35WFlwgOSp0W84Rq5vXG9dQPOYDMATjEDKISmWAccAOp5HyREHosYZ2LNkBnqu/VwU8TxQnPmjYKIofr123dr1MgB/ZFRxGRIG0PMs2I/O4K2SpajK6Tf7bl1Zrmbmsn2AIYtkm1FDRx+UTgMsxyA7g0XJgasoWbIY5aHfijHgeuFxAEBwVAZwttMJonAgYQmNAI+lX11DRakJi+93V3Kjkbjb0yyiKPZMAOACq7AZEUKg5zksPXAdNe8fg+mX0g1pjjuu+sQRoCKkMCF9reVZbLF3gX86gHfD/f8XQPxYfqbDGV8AKQgoMc8SOO54caDVjbq8B5VaceTJJcja0WhL92JSeugKFvCu4pmM/8lNaK621wZEolFzNaOrhOUALUvwmj5irpg6+MTLkB7ongKgewxDsdsPnvxuliZWkE5bQshha5V1Q9KE9DKUCcQvRWmWDADZ9QePNBg1fKGqtiJ+rFpX9cbYvUBVuxSVKLQGgH7/vv17dHpdpVJnyZkn66g5d6iBo/3QoxBvs9mKjUbjGo7lFhJCZtLGNOGAoJlhmGNWq7V5bIf/AHboF8MC6/Q8AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 644,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "how to copy selected file - Ask for Help - AutoHotkey Community",
+          "url": "https://autohotkey.com/board/topic/68995-how-to-copy-selected-file/",
+          "width": 0,
+          "windowId": 44
+        },
+        "650": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE+ElEQVRYR62XbWxTVRzGn3NfttJ2a4e42jBRQpgEXFx8CXzADQJhbhWCzJHxpQODmGD4QKISEWGwzWhSAwsEEBADSCQhTkLohkSUYYUAy3AjLHMLE3Cja6nttnZ9Wbt7zbltdeOud7fg+dDm3ntefuf/POd/ziGIF+aZXY0bh0dREI3RRyHxWv0fxzDgEWvz1aw4mE4HJDGEJmtHY/1Qdan6ESeoebHbg5VHf70Z+HzVIbUQSYAszSeNtlBtKc52uiC9ZFSwCIAIYMUcE8im7yHuLUdTlxtvH3W0Br8oP6wGYgzAOVuo1gJ7lwssHZskPymAiCJGAVjyTSCbG9D16TLMnqqHvdONihPXB0OfLf8YkKqkLDKAC91uMBziUZik0NkLMWDZ7FwJwFVjwQN/GIVmQxzi25aBUJ1lqxKEDODiHTcYhlGrAARBwJJZcYDYlyvx1+AIvOEIXjYbcJ7KcbxlYFgBQgbQfNcDomr4eHhEUUDxzGkSgLh7FUYFAX8HoxgciUpyUGOuPnnD791ZtmWiSMgAHHe9YNQYMCFPTACKnp+Kd07/jm+u9IwXLSZKxsza3oRATdlmAMFHVZUBXO31UgeqjoEAEdN1GszI0aZ0zJRtdoTr3vwAgH9SgBu9PsmBakwoSZD4SaauZPCSz/PzcpAWQEvfoCRBGipIk3o0d1Jz0vLq9DQB2lyyKE22GhW/v2TKSi8Ct92PBxCXjPxrYEGg4hDMzdVjyrYmhOvK1Hmg0xOQwqlWAioXtSzPMuAZAo5w4yJi0rPI3n4e/ppSdQDd3oBkLDUmpOmKDqxheZxq78ep1oe42uNL4BPQcKycl4vL95zw7lw0CcDWc7ZQnQV/+gKqNKeAmTwHz3AUq4+3gdH+hNUL7Vj2Yj84GNAXvA1/FGj9Ix+O9k3odRYOcB0N1b2nd4fGDvBfHkgA3PXJcoUMiIY9k2WkjDe//jIKC+bieEUrjCzQ0v6c+eE9d350KGAmsXC21DhjaMg5yjkvuWZ13Wy7sMZ1wjac7FQG0OcPx9e2QuEJoMvksWDfJRimPYs9lnwYMu7jtsNR5HfF5ii1vRPRtu96r+IVANLRRwbg8ocVz0MMATI4Fj/c6sOHF+9hb+XrmGdg0H35WFlwgOSp0W84Rq5vXG9dQPOYDMATjEDKISmWAccAOp5HyREHosYZ2LNkBnqu/VwU8TxQnPmjYKIofr123dr1MgB/ZFRxGRIG0PMs2I/O4K2SpajK6Tf7bl1Zrmbmsn2AIYtkm1FDRx+UTgMsxyA7g0XJgasoWbIY5aHfijHgeuFxAEBwVAZwttMJonAgYQmNAI+lX11DRakJi+93V3Kjkbjb0yyiKPZMAOACq7AZEUKg5zksPXAdNe8fg+mX0g1pjjuu+sQRoCKkMCF9reVZbLF3gX86gHfD/f8XQPxYfqbDGV8AKQgoMc8SOO54caDVjbq8B5VaceTJJcja0WhL92JSeugKFvCu4pmM/8lNaK621wZEolFzNaOrhOUALUvwmj5irpg6+MTLkB7ongKgewxDsdsPnvxuliZWkE5bQshha5V1Q9KE9DKUCcQvRWmWDADZ9QePNBg1fKGqtiJ+rFpX9cbYvUBVuxSVKLQGgH7/vv17dHpdpVJnyZkn66g5d6iBo/3QoxBvs9mKjUbjGo7lFhJCZtLGNOGAoJlhmGNWq7V5bIf/AHboF8MC6/Q8AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 650,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Crazy Scripting : ScreenCaptureToBMP 21L - Page 2 - Scripts and Functions - AutoHotkey Community",
+          "url": "https://autohotkey.com/board/topic/32267-crazy-scripting-screencapturetobmp-21l/page-2",
+          "width": 0,
+          "windowId": 44
+        },
+        "653": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 653,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Top 30 alternatives to AutoRuns for Windows",
+          "url": "https://autoruns.en.softonic.com/windows/alternatives",
+          "width": 0,
+          "windowId": 44
+        },
+        "659": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 659,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "[Game] List of all AHK Games - AutoHotkey Community",
+          "url": "https://www.autohotkey.com/boards/viewtopic.php?f=19&t=36744",
+          "width": 0,
+          "windowId": 44
+        },
+        "662": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADnklEQVRYR+2VXWiTVxjH/89J0jRNIx1Ku6rp1DRq/drmRi865seNU0TZjWx1LGUFKygIeuXHZk5gq+uNF+LFPrpqMgRdodcT/BaHF04EqUWMldVS11WxpsnbNB/nkfdts7mwpG/TVBF27pL3nP/zO8/zf55DeMWLXnF8/A9Q1AyMfr3wrXTS0kiwhJyBuwNmyls0gIdH5zveiJS2MqgMwF8jiB2ZKwe0ySCKBqAHGpa1q22gFgXDW93luHecJFQ+iGkBsITQbHVVzkM9jzJBIrJ2K4E2G785fdYV6O2aMYCo9G5n5g9AdMYl710xYjIoGvDsBsRKAXCS0+0Vgd4buSAKzkCkdd5skSjbz8AsXZwI151ccopkd0L3Q0XEfgAQVQAnEoy22YFw/39BFAxg3NZfOysmeAezWGyIEw/QWPq78tYHg1G5/E0gvp8hHAA/HoX9SKXsjmZDTAvAgJBSRDn0sSDLBt18BBUnUNApwzej/iWriNQu43/mHieFj2WbcsoAmlxcr5jiTnn3NhE4c6Oo9L4DcJPehnrtifi8o+7dLu3OrU0K2KLvsxCfK/OHO1/MwpQAjF5/VtrKZPT6EBFdfOrSfnPv6x/VRf+UnkoX0KIg3BO+CKdGx9ptdvsnitQyq1CdjsMPrhYMEPumrpqSic/SEN6MiJ5yKHEdqdQFvfbc8p4tNm94O7NoGLcFjzChAyUYch0MDxXFA5p/UY0StJ4V1YPIqovqaVfAHUBdKPff7x457GmwCGpkQjQVT7RVfNv3tOhdMNS2xFWmJT9k0FomUaEH6C9fXt3ret89XFJdmSLr3PHZwL0k6BIRhXw+3+WCSjAmPSviQjgTFmvfnGTP4Itu5l+2WSK3f1991d18/EmJuz7v5CP60dfka/mnhJO9FhPftUDt3jTT0vF0qzGG6IfCQ8Wqz2pHX+f8r9oB2mBKjnG26YumjYZHTB0AoEnvHgXlYYjS7DPXqhrXDDo8BpzZRROZMA0wXktQ7NDCSrKRm4AaBVHzh+vthhtztm4zG/hf9Re0LidAx8+nv9c3N3/+6c584sFg8CcwmgsBAKFj2gAnT5y8T0SLCgEwuiPXwewMjEivkZHs1bXgy78dXQjE6wOQ63YvrQS5AGbchJPVlVhVC5U0ntupLjLThmZEhUqsIeaZH0R558GJ4K8gfGQGGIWMYjPCoWDoB2bekW9vZgRn9kxpFJuCCIXWMrOPFa/LDKh8z/FzLyKItKNBObcAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 662,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Making commits simpler in Git using PowerShell - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/41086814/making-commits-simpler-in-git-using-powershell",
+          "width": 0,
+          "windowId": 44
+        }
+      },
+      "417": {
+        "207": {
+          "active": false,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 1789,
+          "highlighted": false,
+          "id": 207,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Colossus · Liebknecht",
+          "url": "https://open.spotify.com/album/0fq8qFHbhbYOeaLsfiksOs",
+          "width": 1039,
+          "windowId": 417
+        },
+        "647": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "height": 0,
+          "highlighted": false,
+          "id": 647,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Thank you for downloading DataGrip!",
+          "url": "https://www.jetbrains.com/datagrip/download/download-thanks.html?platform=windows",
+          "width": 0,
+          "windowId": 417
+        },
+        "656": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFXUlEQVRYR8WWX2xUVR7HP+ecOXNn7pSONAKZXWUxKEIR/LMqq9F23YdaSVSiLxg1GqPIk76gUR/cXRIfdH2Th51s1kjU0GxCREjxD/6jVgrBmChqwIgKEksRW6bTTu+dc+855k6tKWi4bbXZ8zKZe3739/v8vr/f75wr6BouM80lJ9nblHfTbMVMAJKYE47TANJymzHABMSsAKTJlpbVdPZ/VYHfE2CyrwTsTMVSS5A4+C0ypyXzSwB3ejgpxl3MGGKyv598TS6RkF3D5dOc//zC+FMpMj/bzwjCRZPi/aTHJBDB1uGyrClsxoNsBWLFLfNz+Nkaccanr19zrFYB8igEsaijMpp7/mAYdT46Mrw0YPDQhPEYWjlU6BPoEebmm+hYYIjkGH5N8+JxH5wZT8qBFWMIthwve6JI5JLZHiaH46GVC/hnKyTsLx6usH6/IRYexBaVi5nrsmzt8GkrOE5Kxb19VboPjkFzEaIamHwj0KN/Vmxs9cnYkM3fe2zYdYJQS2p44CxSaYT632DZWY3QHnHNQEaxfA580ukhjeWkNizfVuMEc5FRlQTLBnm2dwo65mXw3Bjbjzpu67PEWiJDQGfxcXy0Gi7K5hol+Otey+7DozAn+ScgruNRQMgt1bI1BqWTjQyxX4CRQba2n8ttJbDS8vD+gE0HPWR2BFFXLJqX5/0bBPM9iYjBCFj5ZsgXp2rklEcQG24uabZf7zeC7x+Fq18dQubzgMGKxg+qnkXIrqAstITRQbQvCKKkUWJuKml2XncOMY5Do4IV3adAgQ01f7/U8o+lufHRyHiECp78bIRnPsxA0xgYx2vXt9Dxx6SsAQ98VOP5zzWKYUwmj9QKaz1UHCF4+VRZeh6MGWzeQqSQODSCfZ1NLC2CZ6G9t0bP4ZC5xQy9HQWWNskkCbQJMDpHvwm4YluOITPAkpYCH3c2kTM1vpY+V79aYcQUqbsqViSNmNQp6YEgUWC4bBudqbBGkvME9bDekPaxy3w2XqqQgealk3D3uzXWLjZs+UuRWI7QO1gnpEjHOQqocvten52HKjyxqsATrRoVx2w6anmkN8AkuL5HHGlkHGGlg6xB0FUtJ7kkkxFHzY1JsNpHBoaWouOrTp+CUsQhtOwe4YXlddaUWkgqdW9PzKhUbL8qAJ1jxyDc+XrAJ3dkWSQcoVSsemuEA/0+tlBp1F0i0U41+sZmXAJw9u+B/6yaw/2LLEkO3V87blqYQyrDUKhZtm2IAJ8jazzmyZCK9ujqOVhaHBxbcmposBQEQXPShMPCGz4qiv29mYVf9Mnz+087CdMArj1X8PYNmiweiWqNw0GH/OtIzGN9FuvFPH2h5NHWObzx3q62ge/6l57tNjwgFxx8Nnttz4RNqgLKwd4bC1xelCgCQjne/Ve8M8Sh4x6OkGVFx1Nuz+rK0OB5U7mKj8jisSezf9s5fiKkfZI5uG9xlv9eJQmTOQT2nZC0v1UdH4/IY0O4u22FGzhr5meCTSiRCqCNIef7fHmrphmLVoq7eh1d30Sgq1xjfyitr++7eSqZn2nz7+yVO1IBcgaCfIHyCsO6CzTfxJJl3YNgfEwUscH2tLe6kxfPBOBTOf9QKgDJbWwEbT5039LEpgMxj39WGW/GfIHnRl9Z2+zqjW6f7kqmIxVAMoaNm9AKHlxcZeuApr8qGvdJsjYHO9ZNN/C0xjDN+ebglf8vwHPhzrXNLpy9EqQp8Ej9g/ZL7IlZbMIUgmvst6X19Q9nbwzTFEj2N9T3tK2ws3QQTQUgsdlYf2f1n2xlFo7iqRJMUYlpX0bTiN8wTXriuujokoWuUpqYjrNdxz8C0LVrkWwtVmUAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 656,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "How to play sound on two devices at once in Windows 10",
+          "url": "https://windowsreport.com/play-sound-2-devices-windows-10/",
+          "width": 0,
+          "windowId": 417
+        },
+        "665": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1789,
+          "highlighted": false,
+          "id": 665,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL Server - An expression of non-boolean type specified in a context where a condition is expected, near 'RETURN' - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/23928619/sql-server-an-expression-of-non-boolean-type-specified-in-a-context-where-a-co",
+          "width": 1039,
+          "windowId": 417
+        },
+        "671": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1789,
+          "highlighted": false,
+          "id": 671,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell replace every occurence in files in folder - Google Search",
+          "url": "https://www.google.com/search?q=powershell+replace+every+occurence+in+files+in+folder&safe=strict&client=opera-gx&hs=9mr&sxsrf=ALeKk01tXz-E2GbZeTgJsZF-WPQSAFLzpA%3A1618837146796&ei=mn59YMKIMOKMrgSMwproCQ&oq=powershell+replace+every+occurence+in+files+in+folder&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BwgjELACECdQ7hpYjjJg9zJoBHABeAGAAYcBiAHhCZIBBDEyLjOYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=gws-wiz&ved=0ahUKEwjCvdWororwAhVihosKHQyhBp0Q4dUDCA0&uact=5",
+          "width": 1039,
+          "windowId": 417
+        },
+        "674": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1789,
+          "highlighted": false,
+          "id": 674,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 671,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "regex - Powershell to replace string in all files inside a folder - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/50777494/powershell-to-replace-string-in-all-files-inside-a-folder/50777883",
+          "width": 1039,
+          "windowId": 417
+        }
+      },
+      "428": {
+        "425": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1297,
+          "highlighted": false,
+          "id": 425,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Link to Text Fragment - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg/related",
+          "width": 753,
+          "windowId": 428
+        }
+      },
+      "610": {
+        "613": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1297,
+          "highlighted": false,
+          "id": 613,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql - TransactSQL to run another TransactSQL script - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/5237198/transactsql-to-run-another-transactsql-script",
+          "width": 753,
+          "windowId": 610
+        },
+        "614": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://theme.zdassets.com/theme_assets/787891/094ea5643df65d56fe21ecbca0cc04270d5b0e2d.ico",
+          "height": 1297,
+          "highlighted": false,
+          "id": 614,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Feature request: DataGrip support for SQL Server SQLCMD Mode – IDEs Support (IntelliJ Platform) | JetBrains",
+          "url": "https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000175110-Feature-request-DataGrip-support-for-SQL-Server-SQLCMD-Mode",
+          "width": 753,
+          "windowId": 610
+        },
+        "615": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://youtrack.jetbrains.com/static/favicon.ico?3c05e1a5b709165a5c4e825adf27273a?3c05e1a5b709165a5c4e825adf27273a",
+          "height": 1297,
+          "highlighted": false,
+          "id": 615,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Support SQLCMD Mode (Windows) : DBE-4546",
+          "url": "https://youtrack.jetbrains.com/issue/DBE-4546?_ga=2.149985142.1579778409.1618832583-1622895927.1618832583",
+          "width": 753,
+          "windowId": 610
+        },
+        "616": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://resources.jetbrains.com/storage/ui/favicons/favicon.ico",
+          "height": 1297,
+          "highlighted": false,
+          "id": 616,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "User Parameters | DataGrip",
+          "url": "https://www.jetbrains.com/help/datagrip/settings-tools-database-user-parameters.html",
+          "width": 753,
+          "windowId": 610
+        },
+        "617": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://resources.jetbrains.com/storage/ui/favicons/favicon.ico",
+          "height": 1297,
+          "highlighted": false,
+          "id": 617,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL Dialects | DataGrip",
+          "url": "https://www.jetbrains.com/help/datagrip/settings-languages-sql-dialects.html#b0a01b55",
+          "width": 753,
+          "windowId": 610
+        },
+        "618": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1297,
+          "highlighted": false,
+          "id": 618,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "intellij idea - How can I load or run multiple SQL files in Datagrip? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/43379267/how-can-i-load-or-run-multiple-sql-files-in-datagrip",
+          "width": 753,
+          "windowId": 610
+        },
+        "640": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://blog.jetbrains.com/wp-content/uploads/2020/07/favicon-32x32-1.png",
+          "height": 1297,
+          "highlighted": false,
+          "id": 640,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "We open EAP for DataGrip 2020.1 | The DataGrip Blog",
+          "url": "https://blog.jetbrains.com/datagrip/2020/02/27/we-open-eap-for-datagrip-2020-1/",
+          "width": 753,
+          "windowId": 610
+        },
+        "668": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1297,
+          "highlighted": false,
+          "id": 668,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 640,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Temporary Table Scope | SqlHints.com",
+          "url": "https://sqlhints.com/tag/temporary-table-scope/#:~:text=Scope%20of%20the%20Local%20Temporary,batch%20of%20the%20same%20session.",
+          "width": 1220,
+          "windowId": 610
+        }
+      }
+    },
+    "windowsNumber": 4,
+    "windowsInfo": {
+      "44": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 784,
+        "id": 44,
+        "incognito": false,
+        "left": 1730,
+        "state": "minimized",
+        "top": 241,
+        "type": "normal",
+        "width": 1304
+      },
+      "417": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1906,
+        "id": 417,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -735,
+        "type": "normal",
+        "width": 1096
+      },
+      "428": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1417,
+        "id": 428,
+        "incognito": false,
+        "left": 2120,
+        "state": "normal",
+        "top": 1009,
+        "type": "normal",
+        "width": 810
+      },
+      "610": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1417,
+        "id": 610,
+        "incognito": false,
+        "left": 609,
+        "state": "normal",
+        "top": 190,
+        "type": "normal",
+        "width": 1277
+      }
+    },
+    "tabsNumber": 29,
+    "name": "regex - Powershell to replace string in all files inside a folder - Stack Overflow",
+    "date": 1618837284151,
+    "lastEditedTime": 1618837284151,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1618817540777,
+    "id": "09d170d8-3135-436a-81fd-e0e10a7f1a70"
+  }
+]

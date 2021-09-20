@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "239": {
+        "238": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 238,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "THROW (Transact-SQL) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/language-elements/throw-transact-sql?view=sql-server-ver15",
+          "width": 1324,
+          "windowId": 239
+        },
+        "253": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 253,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 238,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "RAISERROR (Transact-SQL) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/language-elements/raiserror-transact-sql?view=sql-server-ver15",
+          "width": 1324,
+          "windowId": 239
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "239": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 239,
+        "incognito": false,
+        "left": 1837,
+        "state": "normal",
+        "top": -416,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 2,
+    "name": "RAISERROR (Transact-SQL) - SQL Server | Microsoft Docs",
+    "date": 1602579666184,
+    "lastEditedTime": 1602579107547,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602501436493,
+    "id": "769044c4-be75-4ed0-b574-f9a9f0d16e91"
+  }
+]

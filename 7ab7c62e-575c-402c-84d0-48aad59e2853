@@ -1,0 +1,166 @@
+[
+  {
+    "windows": {
+      "534": {
+        "537": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 652,
+          "highlighted": false,
+          "id": 537,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "windows remote desktop drive mapping causes instability - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=windows+remote+desktop+drive+mapping+causes+instability&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1324,
+          "windowId": 534
+        },
+        "538": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://community.spiceworks.com/favicon.ico",
+          "height": 690,
+          "highlighted": false,
+          "id": 538,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "[SOLVED] Problem with Drive Mapping on a RDP session server - Windows Server - Spiceworks",
+          "url": "https://community.spiceworks.com/topic/408735-problem-with-drive-mapping-on-a-rdp-session-server",
+          "width": 1324,
+          "windowId": 534
+        },
+        "539": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 690,
+          "highlighted": false,
+          "id": 539,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "large amount of files over remote desktop causes session to crash - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=large+amount+of+files+over+remote+desktop+causes+session+to+crash&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1324,
+          "windowId": 534
+        },
+        "540": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 690,
+          "highlighted": false,
+          "id": 540,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Copying files exceeding 2 GB fails - Windows Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/troubleshoot/windows-server/remote/copying-2-gb-file-by-clipboard-redirection-fails",
+          "width": 1324,
+          "windowId": 534
+        },
+        "541": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://i1.wp.com/apps4rent.com/support/wp-content/uploads/2018/12/apps4rent-logo-png-1.png",
+          "height": 690,
+          "highlighted": false,
+          "id": 541,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "How to Enable Drive Redirection on Your Windows? | Apps4Rent",
+          "url": "https://apps4rent.com/support/kb/article/drive-redirection-cloud-hosting",
+          "width": 1324,
+          "windowId": 534
+        },
+        "542": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://forum.devolutions.net/favicon.png",
+          "height": 690,
+          "highlighted": false,
+          "id": 542,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 541,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Devolutions Forum",
+          "url": "https://forum.devolutions.net/topics/27668/remote-desktop-manager-connection-crashing-constantly",
+          "width": 1324,
+          "windowId": 534
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "534": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 534,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 6,
+    "name": "windows remote desktop drive mapping causes instability - Google Search",
+    "date": 1615288725056,
+    "lastEditedTime": 1615288723594,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1615187048136,
+    "id": "31736163-d5de-493b-92c5-47f178794421"
+  }
+]

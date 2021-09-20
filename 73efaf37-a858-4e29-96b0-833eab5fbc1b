@@ -1,0 +1,125 @@
+[
+  {
+    "windows": {
+      "6543": {
+        "6545": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.advancedrenamer.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6545,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Advanced Renamer - Tags",
+          "url": "https://www.advancedrenamer.com/user_guide/tags",
+          "width": 936,
+          "windowId": 6543
+        },
+        "6550": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://portalen.gotland.se/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6550,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 6545,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Portalen",
+          "url": "https://portalen.gotland.se/wa/chooseAuthmech?authmechs=Anv%c3%a4ndarnamn%20och%20L%c3%b6senord%3aAnv%c3%a4ndarnamn%20och%20L%c3%b6senord;b1tio2757gu8%3aForeign%20eID;Windows%20integrerad%3aWindows%20integrerad;e6j5is1jw64g%3ae-legitimation",
+          "width": 936,
+          "windowId": 6543
+        },
+        "6553": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://aadcdn.msftauth.net/ests/2.1/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6553,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 6545,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sign in to Outlook",
+          "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fmail%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=c00a5493-62ed-46a2-a2ba-02207761104e&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=637356060085116616.51007f6f-1acc-4d2d-b0ed-7311c0f3b662&state=Dcu7DoIwGEDhos_CiLQUfnSsgXgDkVg0sEELclWDGsGnl-E721EQQvPJbKLgKcgGalMLMGC8tAgBILCwCMZ2AYVGUiE0UxpSy3AuNZsSInBBMwBDmV6hd2nV6tU9ewx6JXXGwoY5-9J3Lm3M3dHjYgyu4fvoNEN8JlVSR6bHyzauky5wmJlsdj__xkK25ob7arZRlK760-fZH0TOVSP7qlT-AQ",
+          "width": 936,
+          "windowId": 6543
+        },
+        "6556": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.microsoft.com/favicon.ico?v2",
+          "height": 1001,
+          "highlighted": true,
+          "id": 6556,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 6545,
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Join a Skype for Business meeting with Skype Meetings App (Skype for Business Web App) - Skype for Business",
+          "url": "https://support.microsoft.com/en-us/office/join-a-skype-for-business-meeting-with-skype-meetings-app-skype-for-business-web-app-4828ad18-ed21-422a-a870-94d676d4b72a",
+          "width": 936,
+          "windowId": 6543
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "6543": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 6543,
+        "incognito": false,
+        "left": 861,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Join a Skype for Business meeting with Skype Meetings App (Skype for Business Web App) - Skype for Business",
+    "date": 1600111270408,
+    "lastEditedTime": 1601295398171,
+    "tag": [
+      "winClose",
+      "loppy",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "6c6858e1-d744-431d-a4f2-117e276a755a"
+  }
+]

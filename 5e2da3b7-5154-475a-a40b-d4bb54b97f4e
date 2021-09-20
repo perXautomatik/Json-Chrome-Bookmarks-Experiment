@@ -1,0 +1,187 @@
+[
+  {
+    "windows": {
+      "121": {
+        "256": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.youtube.com/s/desktop/6192f479/img/favicon_32.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 256,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "(76) DIY Speakers and Acoustic Panels - YouTube",
+          "url": "https://www.youtube.com/watch?v=jjZHFIdfUFk&list=TLPQMjkwOTIwMjAoSyvE64Zb-g&index=20",
+          "width": 0,
+          "windowId": 121
+        },
+        "259": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "height": 1810,
+          "highlighted": false,
+          "id": 259,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Shelley Parker music, videos, stats, and photos | Last.fm",
+          "url": "https://www.last.fm/music/Shelley+Parker",
+          "width": 1159,
+          "windowId": 121
+        },
+        "262": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://organizeyourmusic.playlistmachinery.com/images/favicon.png",
+          "height": 1810,
+          "highlighted": false,
+          "id": 262,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Organize Your Music",
+          "url": "http://organizeyourmusic.playlistmachinery.com/#",
+          "width": 1159,
+          "windowId": 121
+        },
+        "265": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "height": 1810,
+          "highlighted": false,
+          "id": 265,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Ploy music, videos, stats, and photos | Last.fm",
+          "url": "https://www.last.fm/music/Ploy",
+          "width": 1159,
+          "windowId": 121
+        },
+        "268": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "height": 1810,
+          "highlighted": false,
+          "id": 268,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The Rain Within music, videos, stats, and photos | Last.fm",
+          "url": "https://www.last.fm/music/The+Rain+Within",
+          "width": 1159,
+          "windowId": 121
+        },
+        "271": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "height": 1810,
+          "highlighted": false,
+          "id": 271,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Pact Infernal music, videos, stats, and photos | Last.fm",
+          "url": "https://www.last.fm/music/Pact+Infernal",
+          "width": 1159,
+          "windowId": 121
+        },
+        "274": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "height": 1810,
+          "highlighted": false,
+          "id": 274,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Yabibo Hazurfa music, videos, stats, and photos | Last.fm",
+          "url": "https://www.last.fm/music/Yabibo+Hazurfa",
+          "width": 1159,
+          "windowId": 121
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "121": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 121,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -658,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Yabibo Hazurfa music, videos, stats, and photos | Last.fm",
+    "date": 1601492587391,
+    "lastEditedTime": 1601492582684,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601394370171,
+    "id": "7061a4be-ecdf-4b35-afdc-74ea593fcf45"
+  }
+]

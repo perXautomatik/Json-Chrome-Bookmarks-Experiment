@@ -1,0 +1,155 @@
+[
+  {
+    "windows": {
+      "69": {
+        "118": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 118,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "STCentroid (geometry Data Type) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/spatial-geometry/stcentroid-geometry-data-type?view=sql-server-2016",
+          "width": 1801,
+          "windowId": 69
+        },
+        "121": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1010,
+          "highlighted": false,
+          "id": 121,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "STCentroid*: Alternate Functions for Compute a Centroid",
+          "url": "https://spatialdbadvisor.com/sql_server_blog/263/alternate-centroid-functions-for-sql-server-spatial",
+          "width": 1801,
+          "windowId": 69
+        },
+        "124": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1010,
+          "highlighted": false,
+          "id": 124,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "SQL Server Helper",
+          "url": "http://www.sql-server-helper.com/error-messages/msg-7325.aspx",
+          "width": 1801,
+          "windowId": 69
+        }
+      },
+      "76": {
+        "84": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.jetbrains.com/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 84,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Managing and filtering database objects, data sources groups, diagrams - Features | DataGrip",
+          "url": "https://www.jetbrains.com/datagrip/features/dbobjects.html",
+          "width": 1324,
+          "windowId": 76
+        },
+        "113": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gis.gotland.se/map/Content/images/favicon.png",
+          "height": 1010,
+          "highlighted": false,
+          "id": 113,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Miljö",
+          "url": "https://gis.gotland.se/map/?app=Milj%C3%B6&lang=sv#map",
+          "width": 1474,
+          "windowId": 76
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "69": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1096,
+        "id": 69,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      },
+      "76": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1096,
+        "id": 76,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 5,
+    "name": "SQL Server Helper",
+    "date": 1600812226186,
+    "lastEditedTime": 1601295398644,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1600806455245,
+    "id": "b3ce6b4e-16f4-49da-9274-16b4996cc01b"
+  }
+]

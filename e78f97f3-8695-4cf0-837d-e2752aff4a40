@@ -1,0 +1,188 @@
+[
+  {
+    "windows": {
+      "1491": {
+        "1456": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1456,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Raw Power Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/75058-Raw-Power-Records",
+          "width": 459,
+          "windowId": 1491
+        },
+        "1462": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1462,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Dry Lungs Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/209939-Dry-Lungs-Records",
+          "width": 459,
+          "windowId": 1491
+        },
+        "1465": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1465,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Troniks Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/5156-Troniks",
+          "width": 1383,
+          "windowId": 1491
+        },
+        "1466": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1466,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Glossolalia Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/428417-Glossolalia-Records",
+          "width": 1383,
+          "windowId": 1491
+        },
+        "1467": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1467,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Raderkraft | Discography | Discogs",
+          "url": "https://www.discogs.com/artist/5425143-Raderkraft",
+          "width": 1383,
+          "windowId": 1491
+        },
+        "1468": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1468,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Other Voices Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/175948-Other-Voices-Records",
+          "width": 1383,
+          "windowId": 1491
+        },
+        "1474": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1474,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Ksenza Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/791829-Ksenza-Records?sort=year&sort_order=desc",
+          "width": 459,
+          "windowId": 1491
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1491": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 1491,
+        "incognito": false,
+        "left": 583,
+        "state": "normal",
+        "top": 58,
+        "type": "normal",
+        "width": 516
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Raw Power Records Label | Releases | Discogs",
+    "date": 1600040510826,
+    "lastEditedTime": 1601295398511,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "9f5e0896-3893-4348-8324-6933e5786e03"
+  }
+]

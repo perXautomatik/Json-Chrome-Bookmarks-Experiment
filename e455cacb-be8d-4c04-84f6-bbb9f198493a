@@ -1,0 +1,165 @@
+[
+  {
+    "windows": {
+      "662": {
+        "667": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://modern-sql.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 667,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL WITH: Organize Complex Queries",
+          "url": "https://modern-sql.com/feature/with",
+          "width": 1249,
+          "windowId": 662
+        },
+        "668": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/dba/Img/favicon.ico?v=fccaf00a9c8c",
+          "height": 691,
+          "highlighted": false,
+          "id": 668,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "oracle - Difference between inline view and WITH clause? - Database Administrators Stack Exchange",
+          "url": "https://dba.stackexchange.com/questions/172521/difference-between-inline-view-and-with-clause",
+          "width": 1383,
+          "windowId": 662
+        },
+        "669": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 669,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "subquery insead of view declartion - Google Search",
+          "url": "https://www.google.com/search?q=subquery%20insead%20of%20view%20declartion",
+          "width": 1383,
+          "windowId": 662
+        },
+        "670": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 670,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "vscode cursor at highlight - Google Search",
+          "url": "https://www.google.com/search?q=vscode%20cursor%20at%20highlight",
+          "width": 1383,
+          "windowId": 662
+        },
+        "671": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 671,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "vscode multiple cursors - Google Search",
+          "url": "https://www.google.com/search?sxsrf=ALeKk03wMNmHkvwaC6HE773Ve11_TEdNVA:1585069791252&q=vscode+multiple+cursors&sa=X&ved=2ahUKEwjN4eeOzbPoAhUnpIsKHcUhAAwQ1QIoBHoECAsQBQ&biw=758&bih=1801",
+          "width": 1249,
+          "windowId": 662
+        },
+        "674": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://javascript.info/img/favicon/favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 674,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Patterns and flags",
+          "url": "https://javascript.info/regexp-introduction",
+          "width": 596,
+          "windowId": 662
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "662": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 662,
+        "incognito": false,
+        "left": 6,
+        "state": "normal",
+        "top": 7,
+        "type": "normal",
+        "width": 653
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Patterns and flags",
+    "date": 1600113643017,
+    "lastEditedTime": 1601295399229,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600112532784,
+    "id": "fb77176d-f995-415a-8bd1-c7e881beab09"
+  }
+]

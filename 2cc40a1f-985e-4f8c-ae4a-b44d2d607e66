@@ -1,0 +1,143 @@
+[
+  {
+    "windows": {
+      "18594": {
+        "18601": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAD00lEQVRYR8VXTWhcVRQ+5943k9JiqyRY/Bd1I1hRLFZEN0qsqKuWuLFkJpnJZKZodyKFQkcQirgQTHFe5j9BNw5BEAVLQRRFLFRwUX+WbbWRhAy2EdNO5t1z5A69kzuvb2ZeZjNZZTg/33d+73kIQ/7DIePDtggk0unHWIn9HvFeBIgws9QBIKJigKYjcAUlnS+57oWwgYUicGR2dlx64oAB7OdcE1IOnftkfv5sX91eCqnUsfubqvmGYo72cxQkl4ibERn5NJ//6HI3+64ZmEqlDpDCg8zYoaOjQ+BlFHAFBdeJJBLwGCh4EoAjfiBEZiH5TCWfPxdEIpCABleeeNk2EAIaDHh249raL7VaTdmyeOrNfeR5h3plSTr0dRCJWwjotDdUI25HjhJ+37haX/IDG8B48ughItrXi4DOxIgcqfrLcQuBqUTmuF1zKeD7StH9xu88m82Ki3+tPI2A9zLQI0Qw0q9PdE9USrlTtl4HAd3toonPGgUd+ULB/SzAMU4mMpPA/GA/UL+cIvyjPR0dBGKJzAkzarrm/12rfxCU9ljqrYfZax7ZLrjZGQul3HvtIM0/esk0N+FwWyDwy4Vi7ucgkKmZ9EGl4JlBCGibSBSWzLJqZ2B65mjcU/SAYbmxvnaqW9PFEplXmXn/oAQcKS6VCx9XW1jGyWQi8w4w79C/BcKf1ZJb7gYQS2aeQoaHbDkj38UEd4QihXhjsZR7v4OAXX8p4adKwT0TytlNpelU6jnPEy+GsdHLzPTBVgam0yeNsRPhr8rz8+fDODM6yWRyrwdOighEkB0yrTKKO41ssey+21kCi0A3YETcBIQ6INcR6ddqPv+HrTuZzDwumV5SjLu2mll4pPgH6eAGKXqlKwG7BGEjF4i/3bbT+WJubq5hbLLZrHNxdXWMms3dEYo21tdX/67Vapv25ASXwGrCsAS0npT4baWQ+66fTTyRniaG+1p6QU1oj2E/Zx1yiTeuX137UEfZzW5iYkLu3D12vL3kpLhU9Y+hfxFth0RUeG6xWFzpNbZM/JqRBy4iLRykD1pOo1BcdN0rQQR09Lv2jL5tHiu7/h1ToH/Ek7PjRFuPUZDDm3fBv7ZM7pCfl0+fXg7Sj82kX2cFjxpZz8dIK/mfY79TlHBhoeAuhSnRVDL9giJ43uj2fY61YtBBYoOFIdBquttHD9uRhz5IWlkIOMnai6VHBlrAe8aeQOBx/4ES+iQzQN2PUlYIuCwEXlYM/0hJyISjTHAPA97tP90HOkoNiaGe5Xbdh/Zh4u/0oX2ahRm5QXVCfRsO6jyM3f/MWwE/vY6CGgAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 18601,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "ShortLinks - Open Space Aarhus",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=ShortLinks%20-%20Open%20Space%20Aarhus&pos=0&uri=https://wiki.osaa.dk/index.php/ShortLinks",
+          "width": 0,
+          "windowId": 18594
+        },
+        "18610": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADdklEQVRYR9WXT0gbQRTGx6wkNN0GjTH1IKWIja2KFKQHgwFNLh4s4qFWqrSKfwg5KeYiCAXxIAhG8BQS4qHVW4hYijcRES+9NCAtWBHpIUSrEVZzMKgt82VeyUaNoaBL9/LbNzsz+82bmTdvCtj1TwH/JMtyNefJyclzUfWRoD6raUrYP0W7r6LdN1H+WxD9MsZgk3GVjDsToFJksVgecDVHR0cvOc/Pz59wFhUVQaTT6QRtNptK9NbWFuzV1VUwkUiAkiT94CwuLv7EeXBwcJzpCf5zzQXQSO6Ll3eCpZzDw8OYq7GxMRSbzeZc08ZHjvoTExOo7/P5qP4v0e8HQXgiszPNBXQIZc+E8gvOoaEhHefFBUx2dnammnudDp//fi8sLIRN5QsLC2jY1dWVrsjYtuB8tge0EWAymbDKFUV5wzk4OAiBfr9fNTIakWr4OQzyGLUbGRlB7enpaVCW5TA8oLkAxthroegpZzQaxSquqKjAAl1bW4PicBiCWUlJCUieslqtsIPBIBiNRsGGhgawu7sbjMfjYFVVFagoCgIH/4nmAka5kpaWFsT25eVlKFxZWQFdLhdYW1sLxmIx0G63g5WVleDMzAzY2NgIrq+vg4FAAOzv7wfb2trApaUlnB3cA5oLeM+VeL1eKJuamgIHBgZAmttkMgmbVvf+/j5smtOOjvQunp/H9mY7Ozug2WwG6SwZHcV42eTkJMg98H8IODw8hGK9Pp0G7O7ugvX19WBraytIu2V7Ox3wZFkGy8rKwH/2wG0KuHIR0rne3NwM5XT+K4oCu66uDqyuRsJ0aRdsbGygfHZ2FvR4PGB7ezu4uLiYexfcpYC8AlEkEoHy0lKkCcztdoMmkwkMhUIgRUKHwwG7s7MTpEhYU1MDO5FIIFPKOxLemgC9Xo/zP5VKYSP39PRA4dzcHJh9qqEwjyfv01BzARmDeSXesax9Pl/OjOi6/IDKiaFQCP309fXdmBFpLsDIlep0urdi7h9y9vb2Ij8YHx+Hg8rLy3NmxbFYTFXf7/dnZ8UfhacRUDI700yA6mLCGLvHlUmSRDcj7BKjEfpYU1MTSPkBraHNzU28Uh5AEVOSpO+83GKxfObc29tLH6ti8JduRloIyLmrDQYDUp7T09MXouJjwetuxzgmDQbDF9GO7gHZa+fG2zH+c9sC/gB5+ljJanqM/gAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 18610,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Creative Commons — Attribution-ShareAlike 4.0 International — CC BY-SA 4.0",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Creative%20Commons%20%E2%80%94%20Attribution-ShareAlike%204.0%20International%20%E2%80%94%20CC%20BY-SA%204.0&pos=0&uri=https://creativecommons.org/licenses/by-sa/4.0/",
+          "width": 0,
+          "windowId": 18594
+        },
+        "18613": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFSklEQVRYR8VWbWxTVRh+33NvV8aGwW23ZYNMDKICBtl6u01QGQy2td1GJFliREOMGjWKUf/40/lP/6gJ+BETg8RgjBARt7b71KGCQm/5MAwBDSjgXD9YdLqxtfec15wmV5qlW1sQvT/Pec/7Pu9znvu8B+F//vBG14/6XFuRxJAWOGZkqnVDAUQ9ehUitKnAP7g5cOyX/xQAeW6zR3H+c0hw3hE09s7E9A1jIOrRPYC4CtWCHdrnB//8VwEQAEYbah2mjc+3MSxMCrqiJpXfHQOHowhAkYZaJ5sjniQuvnB0h7+ZTWd5MTDW6iqb4FTHEFcg4RxAJCKRQGQFQISENCmIhhRSygnIrhUb7+Ae4NcNgNpBiYzp6xQVV5OgURDihCDzjHP15jh2dAjq6GCRQ5+WMVTvQIY1gFhMBENasbHvugFQ+/KC2HjRQ0BUwQj7SrtDhqQ5U1cyNv5X4TaBMI6EJYA4rBWNf4R7TiWuSQOpu/a5t4CgCiboQ60n/JtMFGmrdSombyRO/daaXL/s1TdyhBp1inZwBeYKho8Aw2GHP7R7JtCzaiDic69mQjQoCuwq6QpfsLqIt9y9kHO1jSE6BLETzGYbsNOkfcqEp0FlX2mdoQMydrTFVck5bBWMDTj9oUN5+cBwq2uuauLzpCiGs+tw7/TDkp14k6tKqGw9AtkFwDgjoqGJeW+tGxw0rfhIS20jcq6bKr1Z0RmemJ5nRgYue6rrkogbhAKvZzpoJRppXFmk2Aq2AEE5IZsEIXq1oHHcolw2wji8aCPqLw0e/S5nANLDBcepBd3GxxkFB4Axj74KgdanVA+YYAxPkxArBVCETKVnQe+R8/LsSLP+IFPI7vCHd+UD4CXgcDCTkYw01tyKKm9igE4SdIoDxhRGdY5A+NVY25oKMhNNCFRpMjhQ3mUMRptd94ICaxz+8Gs5A4h59ZcJcL8jEDpuHZJGNMVxIwDczoF+5TbWs3B/6GLU614FIJolACt22Fe3bJ6wxecFv47JfQTapAWMV/ICAJw6tZ7w0ZQgk1iPCuocaKwAoL/Eb5y0kmUCkF4o1uSqBgVb8wXwAgM4WRow+qLNuhcZuDkQVxXYW9YZPp1eIBsA6Q8C4C4tYLyRMwNRn6udCEqdgfC78lBsY1UF2dUmFFQpAM6ZJg4u7A1dlHvZAES8rqcQ2KgjEPokZwCXPVXLBSrtU5R4f1Hw+0tX77Z6mSJYK0MolCZEfLKPqfal0zVgxV/yrFxkx4LHTI57y3tCQzkDkAMmFup8BgSOa0Fjp/VfR+uXF8Pcom1AFAFGGhBjgGJY+kC6CGUhaVYxj/4oIBVrNa075ODKGUDK8z2uJQzxYcGUby03jPjcm4FoiWMivv2SVo72cXMtknATQnI6AOmCTPB7iIvdjp6jP+VlxVZwrNW9FjjVSxBCxbNqwtxq/R3//J4P1JQmknB/WdeRfanOOzpY1AhukMVNAQfKu43BTMXlWk4Pkqiv+j4ktp4IkoDwhxYw3p5pug17q26xkdoISBWg4KA1mK4LQErpHt2DCDWpDpFGgehHBIqbXL2iKmYhAZYB4lL5DpD7AtC/wG+cm6mwtZ4TA3LgMJvtWQT8AZN0lqu4ggFUAsBNaQXGBMAFxaSh0t7wmZkYykuEVvCIV9/EkO40GWxPn4xf1terixeDuvhnMDFtBGfrOn0/KwPy8UHC9jgKDJR1h0L5JM8ldlYAqUeHT38C5AUHjPdypTWXwjlpIOardgGxFiVBO0v6rz7J8imQLXZWBuI+fQMXrNgZPPJZtkTXup9VA9eaONdzfwMhyX0/qipc/AAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 18613,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "power supply - Powering laptop from 12V sources without inverter - Electrical Engineering Stack Exchange",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=power%20supply%20-%20Powering%20laptop%20from%2012V%20sources%20without%20inverter%20-%20Electrical%20Engineering%20Stack%20Exchange&pos=3874.28564453125&uri=https://electronics.stackexchange.com/questions/10107/powering-laptop-from-12v-sources-without-inverter",
+          "width": 0,
+          "windowId": 18594
+        },
+        "18616": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://c1-onenote-15.cdn.office.net/o/resources/1033/FavIcon_OneNote.ico",
+          "height": 1163,
+          "highlighted": true,
+          "id": 18616,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Christoffer's Notebook 1 - Microsoft OneNote Online",
+          "url": "https://onedrive.live.com/redir?resid=6DA6DE33539410C3%21115&page=Edit&wd=target%28Quick%20Notes.one%7C8ec3ab61-c068-43c1-bf17-c90e441b8133%2FBeautiful%20image%20-%20Geological%20phenomena%20on%20earth%7Cee52cf21-e044-47da-bb47-5141f039e188%2F%29",
+          "width": 2146,
+          "windowId": 18594
+        },
+        "18619": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFSklEQVRYR8VWbWxTVRh+33NvV8aGwW23ZYNMDKICBtl6u01QGQy2td1GJFliREOMGjWKUf/40/lP/6gJ+BETg8RgjBARt7b71KGCQm/5MAwBDSjgXD9YdLqxtfec15wmV5qlW1sQvT/Pec/7Pu9znvu8B+F//vBG14/6XFuRxJAWOGZkqnVDAUQ9ehUitKnAP7g5cOyX/xQAeW6zR3H+c0hw3hE09s7E9A1jIOrRPYC4CtWCHdrnB//8VwEQAEYbah2mjc+3MSxMCrqiJpXfHQOHowhAkYZaJ5sjniQuvnB0h7+ZTWd5MTDW6iqb4FTHEFcg4RxAJCKRQGQFQISENCmIhhRSygnIrhUb7+Ae4NcNgNpBiYzp6xQVV5OgURDihCDzjHP15jh2dAjq6GCRQ5+WMVTvQIY1gFhMBENasbHvugFQ+/KC2HjRQ0BUwQj7SrtDhqQ5U1cyNv5X4TaBMI6EJYA4rBWNf4R7TiWuSQOpu/a5t4CgCiboQ60n/JtMFGmrdSombyRO/daaXL/s1TdyhBp1inZwBeYKho8Aw2GHP7R7JtCzaiDic69mQjQoCuwq6QpfsLqIt9y9kHO1jSE6BLETzGYbsNOkfcqEp0FlX2mdoQMydrTFVck5bBWMDTj9oUN5+cBwq2uuauLzpCiGs+tw7/TDkp14k6tKqGw9AtkFwDgjoqGJeW+tGxw0rfhIS20jcq6bKr1Z0RmemJ5nRgYue6rrkogbhAKvZzpoJRppXFmk2Aq2AEE5IZsEIXq1oHHcolw2wji8aCPqLw0e/S5nANLDBcepBd3GxxkFB4Axj74KgdanVA+YYAxPkxArBVCETKVnQe+R8/LsSLP+IFPI7vCHd+UD4CXgcDCTkYw01tyKKm9igE4SdIoDxhRGdY5A+NVY25oKMhNNCFRpMjhQ3mUMRptd94ICaxz+8Gs5A4h59ZcJcL8jEDpuHZJGNMVxIwDczoF+5TbWs3B/6GLU614FIJolACt22Fe3bJ6wxecFv47JfQTapAWMV/ICAJw6tZ7w0ZQgk1iPCuocaKwAoL/Eb5y0kmUCkF4o1uSqBgVb8wXwAgM4WRow+qLNuhcZuDkQVxXYW9YZPp1eIBsA6Q8C4C4tYLyRMwNRn6udCEqdgfC78lBsY1UF2dUmFFQpAM6ZJg4u7A1dlHvZAES8rqcQ2KgjEPokZwCXPVXLBSrtU5R4f1Hw+0tX77Z6mSJYK0MolCZEfLKPqfal0zVgxV/yrFxkx4LHTI57y3tCQzkDkAMmFup8BgSOa0Fjp/VfR+uXF8Pcom1AFAFGGhBjgGJY+kC6CGUhaVYxj/4oIBVrNa075ODKGUDK8z2uJQzxYcGUby03jPjcm4FoiWMivv2SVo72cXMtknATQnI6AOmCTPB7iIvdjp6jP+VlxVZwrNW9FjjVSxBCxbNqwtxq/R3//J4P1JQmknB/WdeRfanOOzpY1AhukMVNAQfKu43BTMXlWk4Pkqiv+j4ktp4IkoDwhxYw3p5pug17q26xkdoISBWg4KA1mK4LQErpHt2DCDWpDpFGgehHBIqbXL2iKmYhAZYB4lL5DpD7AtC/wG+cm6mwtZ4TA3LgMJvtWQT8AZN0lqu4ggFUAsBNaQXGBMAFxaSh0t7wmZkYykuEVvCIV9/EkO40GWxPn4xf1terixeDuvhnMDFtBGfrOn0/KwPy8UHC9jgKDJR1h0L5JM8ldlYAqUeHT38C5AUHjPdypTWXwjlpIOardgGxFiVBO0v6rz7J8imQLXZWBuI+fQMXrNgZPPJZtkTXup9VA9eaONdzfwMhyX0/qipc/AAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 18619,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "power supply - Powering laptop from 12V sources without inverter - Electrical Engineering Stack Exchange",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=power%20supply%20-%20Powering%20laptop%20from%2012V%20sources%20without%20inverter%20-%20Electrical%20Engineering%20Stack%20Exchange&pos=2564.571533203125&uri=https://electronics.stackexchange.com/questions/10107/powering-laptop-from-12v-sources-without-inverter/368456#368456",
+          "width": 0,
+          "windowId": 18594
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "18594": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 18594,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 2146
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Christoffer's Notebook 1 - Microsoft OneNote Online",
+    "date": 1604483703233,
+    "lastEditedTime": 1604483684807,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "9b6e36a6-e682-4141-b78e-fb624a3a8560"
+  }
+]

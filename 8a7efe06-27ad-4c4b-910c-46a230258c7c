@@ -1,0 +1,184 @@
+[
+  {
+    "windows": {
+      "2547": {
+        "2548": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://plos.org/wp-content/themes/plos/favicon/favicon-32x32.png",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2548,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175756",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175756",
+          "width": 1073,
+          "windowId": 2547
+        },
+        "2552": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.esri.com/content/dam/esrisites/en-us/common/favicon/esri-favicon-dark-32.png",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2552,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://community.esri.com/t5/arcgis-earth-questions/elevation-profile-in-arcgis-earth/td-p/849897",
+          "url": "https://community.esri.com/t5/arcgis-earth-questions/elevation-profile-in-arcgis-earth/td-p/849897",
+          "width": 1073,
+          "windowId": 2547
+        },
+        "2555": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://doc.arcgis.com/assets/img/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2555,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://doc.arcgis.com/en/arcgis-earth/get-started/get-started.htm",
+          "url": "https://doc.arcgis.com/en/arcgis-earth/get-started/get-started.htm",
+          "width": 1073,
+          "windowId": 2547
+        },
+        "2558": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://organizeyourmusic.playlistmachinery.com/images/favicon.png",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2558,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "organizeyourmusic.playlistmachinery.com/#",
+          "url": "http://organizeyourmusic.playlistmachinery.com/#",
+          "width": 1073,
+          "windowId": 2547
+        },
+        "2561": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2561,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://docs.google.com/spreadsheets/d/1X7ZLmAV_ethdREwK4twjtgPXMRbsHJlX8xToRXBX8Yc/edit#gid=0",
+          "url": "https://docs.google.com/spreadsheets/d/1X7ZLmAV_ethdREwK4twjtgPXMRbsHJlX8xToRXBX8Yc/edit#gid=0",
+          "width": 1073,
+          "windowId": 2547
+        },
+        "2564": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2564,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "GS - List all files in a folder (Google Apps Script)",
+          "url": "https://gist.github.com/perXautomatik/7ef4c2ccb795ea7ee4c228325fbf2afa",
+          "width": 1073,
+          "windowId": 2547
+        },
+        "2570": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": true,
+          "id": 2570,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "sql server invalid object name - but tables are listed in SSMS tables list - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/1362531/sql-server-invalid-object-name-but-tables-are-listed-in-ssms-tables-list",
+          "width": 1073,
+          "windowId": 2547
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2547": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 2547,
+        "incognito": false,
+        "left": 536,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 7,
+    "name": "sql server invalid object name - but tables are listed in SSMS tables list - Stack Overflow",
+    "date": 1611537115780,
+    "lastEditedTime": 1611537076317,
+    "tag": [
+      "winClose",
+      "loppy"
+    ],
+    "sessionStartTime": 1611535482936,
+    "id": "8a5f2055-0590-4520-bbde-e9c4cfe60f12"
+  }
+]

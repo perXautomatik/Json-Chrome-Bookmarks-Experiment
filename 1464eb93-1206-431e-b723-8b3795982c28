@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "4478": {
+        "4543": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://eidas.gotland.se/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 4543,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Portalen",
+          "url": "https://eidas.gotland.se/wa/chooseAuthmech?authmechs=Anv%c3%a4ndarnamn%20och%20L%c3%b6senord%3aAnv%c3%a4ndarnamn%20och%20L%c3%b6senord;b1tio2757gu8%3aForeign%20eID;Windows%20integrerad%3aWindows%20integrerad;e6j5is1jw64g%3ae-legitimation",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4544": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pdfsam.org/icns/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 4544,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Customize file names - PDFsam",
+          "url": "https://pdfsam.org/customize-file-names/",
+          "width": 1879,
+          "windowId": 4478
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4478": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 4478,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Customize file names - PDFsam",
+    "date": 1600027709093,
+    "lastEditedTime": 1601295397751,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "26a5fb2f-419a-4828-adc2-0bc40194519f"
+  }
+]

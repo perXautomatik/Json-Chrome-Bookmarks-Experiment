@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "4715": {
+        "4717": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gotlandskommun-my.sharepoint.com/_layouts/15/images/odbfavicon.ico?rev=47",
+          "height": 691,
+          "highlighted": false,
+          "id": 4717,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Files - OneDrive",
+          "url": "https://gotlandskommun-my.sharepoint.com/personal/christoffer_broback_edu_gotland_se/_layouts/15/onedrive.aspx",
+          "width": 1383,
+          "windowId": 4715
+        },
+        "4718": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://vivaldi.com/wp-content/uploads/cropped-favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 4718,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 4717,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "What’s New in Vivaldi 2.11 | Vivaldi Browser",
+          "url": "https://vivaldi.com/whats-new-in-vivaldi-2-11/",
+          "width": 1383,
+          "windowId": 4715
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4715": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 4715,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "What’s New in Vivaldi 2.11 | Vivaldi Browser",
+    "date": 1601173124617,
+    "lastEditedTime": 1601173122950,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "d6ddacce-9f45-4e6a-accd-b217aecde177"
+  }
+]

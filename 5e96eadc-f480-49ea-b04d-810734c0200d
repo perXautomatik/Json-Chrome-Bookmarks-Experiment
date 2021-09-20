@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "198": {
+        "200": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 200,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pendingUrl": "https://www.google.com/search?client=opera-gx&q=does+write+protecting+a+symbolic+lnk+protect+the+source%3F&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "",
+          "url": "",
+          "width": 1383,
+          "windowId": 198
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "198": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 198,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 1,
+    "name": "",
+    "date": 1601827447802,
+    "lastEditedTime": 1601827446588,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601744038342,
+    "id": "4a409280-b1e2-4c3b-b056-f070d340dff5"
+  }
+]

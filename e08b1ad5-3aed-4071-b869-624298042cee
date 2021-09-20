@@ -1,0 +1,143 @@
+[
+  {
+    "windows": {
+      "354": {
+        "357": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 652,
+          "highlighted": false,
+          "id": 357,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "modern webbrowser supporting local db - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=modern+webbrowser+supporting+local+db&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1324,
+          "windowId": 354
+        },
+        "358": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 652,
+          "highlighted": false,
+          "id": 358,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Is it possible to use local SQLite db on web browsers - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/45157719/is-it-possible-to-use-local-sqlite-db-on-web-browsers",
+          "width": 1324,
+          "windowId": 354
+        },
+        "359": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 652,
+          "highlighted": false,
+          "id": 359,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Web SQL Database - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Web_SQL_Database",
+          "width": 1324,
+          "windowId": 354
+        },
+        "361": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 652,
+          "highlighted": false,
+          "id": 361,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "GitHub - sql-js/sql.js: A javascript library to run SQLite on the web.",
+          "url": "https://github.com/sql-js/sql.js",
+          "width": 1324,
+          "windowId": 354
+        },
+        "381": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 652,
+          "highlighted": false,
+          "id": 381,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 361,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql.js demo: Online SQL interpreter",
+          "url": "https://sql.js.org/examples/GUI/",
+          "width": 1324,
+          "windowId": 354
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "354": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 354,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 5,
+    "name": "GitHub - sql-js/sql.js: A javascript library to run SQLite on the web.",
+    "date": 1615288079174,
+    "lastEditedTime": 1615288075026,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1615187048136,
+    "id": "e57e953c-4536-4480-9d1f-5b11ac37f5e4"
+  }
+]

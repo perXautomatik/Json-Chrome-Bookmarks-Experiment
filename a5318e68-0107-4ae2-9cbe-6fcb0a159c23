@@ -1,0 +1,100 @@
+[
+  {
+    "windows": {
+      "7020": {
+        "7022": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7022,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "GraphML - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/GraphML",
+          "width": 1383,
+          "windowId": 7020
+        },
+        "7023": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "height": 691,
+          "highlighted": false,
+          "id": 7023,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "ironcamel/Graph-Easy: Convert or render graphs (as ASCII, HTML, SVG or via Graphviz)",
+          "url": "https://github.com/ironcamel/Graph-Easy",
+          "width": 1383,
+          "windowId": 7020
+        },
+        "7024": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "height": 691,
+          "highlighted": false,
+          "id": 7024,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7023,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "ironcamel/Graph-Easy: Convert or render graphs (as ASCII, HTML, SVG or via Graphviz)",
+          "url": "https://github.com/ironcamel/Graph-Easy",
+          "width": 1383,
+          "windowId": 7020
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7020": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 7020,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 3,
+    "name": "ironcamel/Graph-Easy: Convert or render graphs (as ASCII, HTML, SVG or via Graphviz)",
+    "date": 1601177241691,
+    "lastEditedTime": 1601177238108,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "617e1a41-bc05-4c49-83b3-49eb55ebec4b"
+  }
+]

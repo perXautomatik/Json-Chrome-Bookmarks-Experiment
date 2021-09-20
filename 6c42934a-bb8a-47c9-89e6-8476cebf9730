@@ -1,0 +1,169 @@
+[
+  {
+    "windows": {
+      "280": {
+        "282": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://assets.readthedocs.org/static/images/favicon.f231b6609d0b.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 282,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Maze Found | Read the Docs",
+          "url": "https://pyautogui.readthedocs.io/en/latest/introduction.html",
+          "width": 843,
+          "windowId": 280
+        },
+        "283": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://miro.medium.com/fit/c/256/256/1*ChFMdf--f5jbm-AYv6VdYA@2x.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 283,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 282,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Automate UI Testing with PyAutoGUI in Python | by Costas Andreou | Towards Data Science",
+          "url": "https://towardsdatascience.com/automate-ui-testing-with-pyautogui-in-python-4a3762121973",
+          "width": 843,
+          "windowId": 280
+        },
+        "284": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1321,
+          "highlighted": false,
+          "id": 284,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 282,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Xpresser – Python library for GUI automation with image matching | Labix Blog",
+          "url": "https://blog.labix.org/2010/05/18/xpresser-python-library-for-gui-automation-with-image-matching",
+          "width": 843,
+          "windowId": 280
+        },
+        "285": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://code.launchpad.net/@@/launchpad.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 285,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 282,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "pyqt : Code : Xpresser",
+          "url": "https://code.launchpad.net/~henning-schroeder/xpresser/pyqt",
+          "width": 843,
+          "windowId": 280
+        },
+        "286": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 286,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 282,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "What do GIFs and PNGs do? I'm just clustering the colors and then replacing e... - DEV",
+          "url": "https://dev.to/strikingloo/comment/bd2h",
+          "width": 843,
+          "windowId": 280
+        },
+        "287": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 287,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 282,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "normal image details , colour difference per inch image process - Google Search",
+          "url": "https://www.google.com/search?q=normal+image+details+,+colour+difference+per+inch+image+process&client=opera-gx&hs=ZMP&sxsrf=ALeKk00SqxD0ZpfF1ReC5WzYSHS2odws6Q:1599423948579&tbm=isch&source=iu&ictx=1&fir=c9FHxPQPwhADCM%252CPqQ-Zs-786Q93M%252C_&vet=1&usg=AI4_-kSrkwVdJSXr0fmvV63Kx7U3iBNftw&sa=X&ved=2ahUKEwi3_7LCrtXrAhUNxosKHZFzAz8Q9QF6BAgKEAw&biw=1159&bih=1810#imgrc=c9FHxPQPwhADCM",
+          "width": 843,
+          "windowId": 280
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "280": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1410,
+        "id": 280,
+        "incognito": false,
+        "left": 2070,
+        "state": "normal",
+        "top": -415,
+        "type": "normal",
+        "width": 900
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Maze Found | Read the Docs",
+    "date": 1600012522897,
+    "lastEditedTime": 1601295398663,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600008450562,
+    "id": "b58c33f7-669c-4603-8e14-c9187a3d2ff6"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "windows": {
+      "2492": {
+        "2407": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.photome.de/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2407,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "edit_en.png (982×629)",
+          "url": "https://www.photome.de/images/screenshots/edit_en.png",
+          "width": 470,
+          "windowId": 2492
+        },
+        "2408": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ask.sage.co.uk/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2408,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "[14144] Error: 'Error 1327: Invalid Drive: [drive letter]' when installing",
+          "url": "https://ask.sage.co.uk/scripts/ask.cfg/php.exe/enduser/std_adp.php?p_faqid=14144",
+          "width": 740,
+          "windowId": 2492
+        },
+        "2409": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://img.findmysoft.com/i/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2409,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "» Download free trial NetGlance",
+          "url": "http://netglance.findmysoft.com/download/",
+          "width": 996,
+          "windowId": 2492
+        },
+        "2413": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2413,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "belvedere 0.7.1 download - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&hs=saJ&sxsrf=ALeKk014WY5aslph6V2LxhJ0HwM5dSqseQ%3A1599004571475&ei=m99OX_TFHK_prgT99ZjYBg&q=belvedere+0.7.1+download&oq=belvedere+0.7&gs_lcp=CgZwc3ktYWIQAxgGMgkIABCwAxAHEB4yCwgAELADEAcQChAeMgUIABCwAzIHCAAQsAMQHjIHCAAQsAMQHjIHCAAQsAMQHjIHCAAQsAMQHjIHCAAQsAMQHjIHCAAQsAMQHjIHCAAQsAMQHlAAWABgh4sBaAFwAHgAgAEAiAEAkgEAmAEAqgEHZ3dzLXdpesABAQ&sclient=psy-ab",
+          "width": 740,
+          "windowId": 2492
+        },
+        "2414": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ask.sage.co.uk/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2414,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "[14144] Error: 'Error 1327: Invalid Drive: [drive letter]' when installing",
+          "url": "https://ask.sage.co.uk/scripts/ask.cfg/php.exe/enduser/std_adp.php?p_faqid=14144",
+          "width": 740,
+          "windowId": 2492
+        },
+        "2415": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://img.findmysoft.com/i/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2415,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "» Download free trial NetGlance",
+          "url": "http://netglance.findmysoft.com/download/",
+          "width": 740,
+          "windowId": 2492
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2492": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 867,
+        "id": 2492,
+        "incognito": false,
+        "left": 534,
+        "state": "normal",
+        "top": 8,
+        "type": "normal",
+        "width": 527
+      }
+    },
+    "tabsNumber": 6,
+    "name": "edit_en.png (982×629)",
+    "date": 1600043379958,
+    "lastEditedTime": 1601295398253,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "7e75572c-63f8-41be-bc79-e56731f110d5"
+  }
+]

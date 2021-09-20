@@ -1,0 +1,774 @@
+[
+  {
+    "windows": {
+      "575": {
+        "963": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAhklEQVRYR2P8HKBUz0AGYPrHwMC96V4jSGvNXoZ6EJ8cwDjqgNEQGA2B0RAYDYHREBjwEPjuJ0d2bci+5RG4NqyipDYkpwqlph5GahpGjlmMDMs/kxUFDAwsDAyRnOAo+L+TgUwzGBgYGZa+J1MzCwNDNO+oA0ZDYDQERkNgNARGQ2DohwAAqlDCICneWlQAAAAASUVORK5CYII=",
+          "height": 970,
+          "highlighted": false,
+          "id": 963,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AI Demos",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=AI%20Demos&pos=1161&uri=https://aidemos.microsoft.com/computer-vision",
+          "width": 1879,
+          "windowId": 575
+        },
+        "964": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://azurecomcdn.azureedge.net/cvt-2facebc61575a626d0f88a6f0620fee73bc1135e37348496a52a128c08b58eb4/images/icon/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 964,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Computer Vision | Microsoft Azure",
+          "url": "https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/",
+          "width": 1879,
+          "windowId": 575
+        }
+      },
+      "5004": {
+        "5272": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5272,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "online ai demos - Google Search",
+          "url": "https://www.google.com/search?q=online+ai+demos&rlz=1CAZBMY_enSE834&oq=online+ai+demos&aqs=chrome.0.69i59j69i60.5988j0j4&sourceid=chrome&ie=UTF-8",
+          "width": 806,
+          "windowId": 5004
+        },
+        "5275": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABdUlEQVRYR91XMQ6CQBD0esMHjIm1saEjPkAf4B/sLITaWFirhZ0/wQcYOxtCbWL4ALE/E4fV3CkcmMNVaSZwyzEzt3vsCSnlvFF07XYYDUPgfg+MY/Wtbhf3/T5wOAQOBoXTi+8jcDqB8WYDjCJVESkkxaSPHCGHyLFeDxGTCbDTURx5doCNAH14NgND1wWOx8Bms3AtnwYvFzzaboHHI3CxUJx4OMBOIAjArNUC+n41xabo1QoRSQJcLm/wcICNQBhiH8gY3eudFAlh0lY8LiXGKSdGI9xngoVkJ+D7cCBv7ckBUlLWj7z3tFwQkp2A58GB9RraPE/VaNuBwwHzT6dZFbATcBw4cD6DmeO8dqDs2utxeu6kKSLa7cyBnyFgqwredqA2AuxJyE7AtBFRVpfdD0xxlXfC2gmYfkZ6XecpNCmneahbLv03rJ0AnQuqNiR6n2AqU+sdkXUCeU3pu72hta74YwQo2dgOJl9DQC+7fz8dXwFZEmtYjCNQ2wAAAABJRU5ErkJggg==",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5275,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Interesting AI Demos and Projects",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Interesting%20AI%20Demos%20and%20Projects&pos=0&uri=http://www.cs.cornell.edu/courses/cs478/2001sp/mllinks/interesting_ai_demos_and_project.htm",
+          "width": 806,
+          "windowId": 5004
+        },
+        "5278": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5278,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Demos",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Demos&pos=4477&uri=https://magenta.tensorflow.org/demos/",
+          "width": 806,
+          "windowId": 5004
+        },
+        "5281": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFG0lEQVRYR7VXa2ibVRh+djiEUEoIpYRQyhhS5mUyf9TCtrquirA/I9SpiIzaTSml6IZ42ebqGEpRh91m7X50JZQyulqc3SqlaFdq6+al1FLxzxyDaZ01ljRLY/j4PIaPg5zLl+v3pZmdB0qTk3N5zvNenvfd8BvxngA45CAUIOqj45DLuF4uvmQv1t/FFLHnxf+s9fb+rH0bFAA1OGdFbtcYxWbqsTdoEFyB5+IyZj8n5ywCqvaJNXKFAqkBKAa8jQ0gwSBgWXmvg5zjiQRSN2/CWloEsYGIAwkBt5icozUPwLP1IZCKCsDrBRiD9csiUgsLsBIxECLAa2ZAFACuUQW/vQbvjm1FWeCGAXN0FInXj4BHl+WrxOXexifh73gLnsd2gIiL84a1tASjuwfJri7FVgEDHAhMT8Db0AABiKTtKF7PAUqybAuwq98guns3ODNRFmpCYOQiQMXB0paZPzGXdVai8z0kjneAUK9ckzGBBDApzcAtC8Q+LO8lEpy4gFLEnnoWxuglVP96C3TTJvBUCsSj/SN/nzhTmIqlEHlwC/jtRcleLoCvJyUDylGUN1uRCNjMDMpCIZDycvmbDTDxTifMwU9QdevnzHXaJ9iVK2Bz8/AfO6oYsCOAEMSefg7GpU9BPGXuAORLKQWbnUVk+3ZUvn8SvqOHtYNCMpDsOg1zfBzB6ak09fJ+mrlk4+oqiN+vgOsz4y+1IdnfB0KLALAZEN4bqa2F79CrqOg+kwvgo7NgY2MITE2ow20exCv3tcAcHkbVyp+gIiKyWI21tsMI95YIYH4ekbo6+F97A/5TH+YB+Bjm2DiCUxMZE2iHje1rhjk0jOrVlTQD9qNirW0wwn3FTZBmYH4BkbpaVwBsbFwykB7aBxSAIVTdWZEMyFDXJkgDKMkE6wBgCAa0CXIAtAkTlOoDaQCH4T91ssAErgw83wxzeAjV//xdEJrx9oNI9p5dwwQ61pkN4JVDqOjpXtsHbBM0t8AYPI/y/S8qALYTisiauQrrxg0ZSa55QMoFIWBzc1jeuQuV586hfP8LuQA+6AKbmJAJrMAHWg7AOD/gmNZltBCRrvMzYXYi0umTJ5Pg0RhozX2ZO3RWS7x5RCab4LXpQgDNB2AMDoCU+TKvt1cJsZOMaDGyNTvgACD/CTILiklKEXmkFjQQQGDyC1cGpAwXCLTQFTXvnoqzxciBSKMvjGhbK3xNz6Dy8kVXBjwbFXM6uSshjicgVFWk6LUBiBTKmCJJaPv16zAvXIAR7gfnKZSF9iLw+YhjHjCGhlD9x+95iYgi/vJBGAPhEjPhwoJUPaF0ME2JXFws8ji3hBS7AJBhOIzqv+6A+Hw5HMbb2pHs6y1RjL6bRbS+Hhwi12tt11LNUybKQ3tRWYyBdWfCWRWGTn4kKqFiANy0IN7ajqQQo2JynNYCAaB+V04haf/maIJ7LkZuAEQRnMow8P/J8VoM7GlCYOzyXRYkrUj2h9drAqhq+NFtCP7wfWFJ9qUoyebgf/uYLskyZZ6qJT9zCMOsolSma12SResfL/QBu+PxelD104+gm2tKLEoZIvdvAV+6DZD8ojSrLFc1KQGbnUN0pxMAVbRKR9wTQmBkBPCUUJa/24nEieO5ZXmxxkTUhMt19YW9gp1gdVfkbXwC/o6O4o3JmR4kT7s1JgWtmRIcoYTsqxkHE9hmz2/NNsOz9eG7a83SR7k0p0Rqd7Fxj5pTx/ZcNrO5Ha0zlP/Wnv8Lpdff1BCp8XgAAAAASUVORK5CYII=",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5281,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://uk.pcmag.com/web-sites/86068/google-launches-ai-web-demos-try-them-for-yourself",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=https%3A%2F%2Fuk.pcmag.com%2Fweb-sites%2F86068%2Fgoogle-launches-ai-web-demos-try-them-for-yourself&pos=856&uri=https://uk.pcmag.com/web-sites/86068/google-launches-ai-web-demos-try-them-for-yourself",
+          "width": 806,
+          "windowId": 5004
+        },
+        "5284": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACD0lEQVRYR9WXsWoCQRCGf8UyWMZCLkQR8Uli6wvIISIWvkIgD+AbiIgYECv7WPsKKnYhARELERGxkEv4jSvh0Ju5eMZkmhP3dua7f3Zmd0P4slsADwDuAEQAhPb/B/34ALAF8AagB2DGQAyeB3ATdDTB3wrAMwFsAPcAHADhX4IwsV4J8LgPfCnZT30T0+Ew6JPmq8PhMBzHAZ9eZt7hU2NqAI2zn7wjAkQiESSTSd++l8slptOpOE8ESKVSGI/HO+k18m63WxC61WqhUCgc5p0iEQHS6TRGo5GYe3cAAti2fT6AWwF+4Xq9PimtUaDdbqNSqZwPYBSg/JS20+nsHPP3sZVu0rTZbLBasdd4mzoFBqDRaKBYLEp+1eO+AZrNpmpxaQn+D4DpgKzvyWRydHGZ/M9mM2SzWXAdSKZWQNuKGZAAiUTCs1oM2EUA5vM5LMsKFoDEVKHX66FarR4tw+8l2O/3j5apOyVqBUwZ1mo1lMtlKbXqcd8ApsezEbHrnbLAtmN3J2QfYCMyi1I6G0hS+FagXq+jVCpJftXjagCzCLnHD4dDT+mpzmKxQD6fFytBBOBuOBgMDtsxc68xbkTxeBxsXF4mAmQymd15wK+xC8ZisfMBotEocrmc3/i7Ntztdj0rhU5FBXxH9jlBBSAdxc/pBX/iYnL1q9nVL6dMISGyAKxfup6/A3jh0eETDx88+o9ctdMAAAAASUVORK5CYII=",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5284,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AI Experiments | Experiments with Google",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=AI%20Experiments%20%7C%20Experiments%20with%20Google&pos=0&uri=https://experiments.withgoogle.com/collection/ai",
+          "width": 806,
+          "windowId": 5004
+        },
+        "5287": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5287,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "online picture ai demo - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=online%20picture%20ai%20demo%20-%20Google%20Search&pos=264&uri=https://www.google.com/search?q=online+picture+ai+demo&rlz=1CAZBMY_enSE834&oq=online+picture+ai+demo&aqs=chrome..69i57j33.5699j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 806,
+          "windowId": 5004
+        },
+        "5296": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB/UlEQVRYR2M0K9+nz8DAwMDEzOAEohkYGPkgNI0A4//PYFv+Mu8H0wPuAMvqvQUgl/z/z8SPzc//oIL//sFY+EOGCSrNxARj4VAPC4kBd4BF1f56rD6HeliAlwUsba0mAqbZWFB99o8BovDjtz9g+t6LL2D6ydsfRCUixkHsAIjPtGQhmWJykgGY5uGAhMiPPxB59Dh/9wni8yVHHoHptcefgWlcKQhPCAwyB0xNMQL75NGbb5AQ2XEH4jOo11QleMD8ODs5MA1LK4WLLoH5Vx5+gIQYWu4gOgQG3AHToSFw5cknsE/y518A07+gaQHMYWBgKPZVA9MRVjJgumPDDUhaOAlJCyzkhsCgc0AhNARguQEWAqX+kBAIs4CEQMs6SAhsPE3lEBgwB9x7BSnperfAcgEkG2jLQMqLJCcFMA3LHfnQXHDnKSTtkJ0LYGlgwBwAKwm52CAl4bdfkLIf5iMOaB3xAloSztvzACy/9fwLWPLAShNdDgy4A2AF0bsvkLJ+wylIqv4DCQiGt99+gelr0HLiGeW1IWpdMOAOwFkQ/YJWBtBqkegWETRFEJ0GBp0DihdCajn0ugBvksciSXYIjDqADiEAiTBYq9hWA9IqfvsFkt9P3XwHponrLeBOGUS3imnmAHI7JugtG1JTPwOlPSOqOWDAO6cD7QAAkV3YyM5WeO4AAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 5296,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Picaas online demo | GSA AI image retouch",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Picaas%20online%20demo%20%7C%20GSA%20AI%20image%20retouch&pos=0&uri=https://picaas.io/demo.html",
+          "width": 0,
+          "windowId": 5004
+        }
+      },
+      "5162": {
+        "5196": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 5196,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "image ai online demo - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=image%20ai%20online%20demo%20-%20Google%20Search&pos=1057&uri=https://www.google.com/search?q=image+ai+online+demo&rlz=1CAZBMY_enSE834&oq=image+ai+online+demo&aqs=chrome..69i57j69i64j69i60.15712j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 0,
+          "windowId": 5162
+        },
+        "5202": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.nvidia.com/research/inpainting/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5202,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Inpainting Demo",
+          "url": "https://www.nvidia.com/research/inpainting/",
+          "width": 1065,
+          "windowId": 5162
+        },
+        "5205": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 5205,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Sensifai | Video AI | Image Recognition | Video Analysis",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Sensifai%20%7C%20Video%20AI%20%7C%20Image%20Recognition%20%7C%20Video%20Analysis&pos=0&uri=https://sensifai.com/",
+          "width": 0,
+          "windowId": 5162
+        },
+        "5208": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://uploads-ssl.webflow.com/5f1a77ee266703da4a55688a/5f1d2a44a5d407627ffa9fb8_rosebud_white_small_icon.png",
+          "height": 1001,
+          "highlighted": true,
+          "id": 5208,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Rosebud AI",
+          "url": "https://www.rosebud.ai/",
+          "width": 1065,
+          "windowId": 5162
+        },
+        "5214": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAC50lEQVRYR+1XO1cTURD+5m54qKCBCKwVawUddNBB6eGYQzpbOumk9GdoB52UdkE8HOiggy50oXI7eUp4FEuSveOZXXksezfs6uFgQdrMN/PtPL6ZS3jgHz1wfLQmUDwcBngAyvdAHTso99RSEc6ASyZQ3J8B0eBVQCYP4E0s920kkpjat9FG02DYEZyv17DSXzHhzARKB5PQmDAH4hp8rsJSLpo5L7Bpu7DhKweKho0YIW9ZC6YMmgm83ZuFUgOp0p3WiNUalgubt83NBIoHcyC8SOs7lZ3CBsp96ykJ7JVAaiTRsdZ7UDkXSocl0LBB5IC5IxHT5AWs9O+mIzDzoxPH3XMxhxI4p1dRfuUaA03tj6JNvYkTUVv4VlhN34RiKSR+PZ8E+2FH+6gkdXLEseBqXePw2QGRB6YKll9WkzLznwtRqu76N6MwA0HNn4wEzQRL5nzH1DCRUFJvSw9CkwfCLr4PbLekIiJl0RDg56GwiyV7S+wprPWz9wDlIw6avJRY86JpSshF79lXfHkdTsbNn0nYhHTP+SLB6AyAqFfh7HPMoeg88Tvj1wpG+xVwe9h0qp6HskYBdsz2epvQSnRUczE2ckmE/6oVuEaYPvyYKCD3TYBxklwCogv0nH3KVALByNyrelgCv90G9HiirLOUQJrwqGs2ZpS5CbGD3vNyjPCloEGPRarEOEHhfP56DI+ej4K0E4xInat3jmFwdPjDINWJZmBv3PdXQUs/HSDnBKPOykXhtCJkH5UwOQNSu4OnE7AsG1p7ILXdaqlcp/o4j0Z9LC3OTCBozO4PIO6Mjje5UNaS8TgNm3kMoPE4Lus6vktsREab2oVSoewy2yDlxAPfoJ/pILmPkyzTTXgfR2mCrmQ/yy/VjtmF1QhLIIonGgIMGVeCYMiaT3+Wi5fbD5NwvW2h93TduHLl79JxHn6jFHnQSPCGXs32MLn8DFE7i/+8cnKVTE8zwfnKg6WqrXCPSvgbnK9aGbZpVFUAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 5214,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Computer Vision and AI Enterprise Platform | All-in-One Tool | Clarifai",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Computer%20Vision%20and%20AI%20Enterprise%20Platform%20%7C%20All-in-One%20Tool%20%7C%20Clarifai&pos=0&uri=https://www.clarifai.com/",
+          "width": 0,
+          "windowId": 5162
+        },
+        "5217": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAER0lEQVRYR+1WS28bVRQ+5947fozj1EqVkipACg6tyCLx2K1C1ArcVkKYLpDYgILUBZv+ADYsQOpfoAsWlbpgg0qRUJCQ2NCQNnHbYE+cGNFQxKNKqip9iKRq5mHP3HvQKAox7th1q6B20Vnec86db8755jsfwhN+8Am/H1oCyOXcNGPyiO9DH2NkC8HnfD82Y5rotQOdzzt7LEvmfR+fZ4wcRLFQLkd/BEAZVhcKIJt1B4nkOFEzQFxTSp6vVruuAqBqvDCTWU0B6G8A+JnmF8ViuHjlin7uEQBYJ5SCvlZfikg1RL6iFFmIwBmjHimht11nolE8Mzur32jOCekAsUzG/nS7uSEEfl8u6z91AADAMNY/JsLodoLgXHxjmtGfOwKQyVjHAGB/6MwQ/2YMKpqGN2q1mCWExZXSUpz7g/U6DAOA1lwXkLG7O3FqagrdjgAMDVEkEnHHAdTAZgFj4GsaXpidjV9qJuBmzsGDd5KeF3urXmdDm2cBX6TkX1Wr8b86JuFGImE2W0tLWe9jjLu6bl8rFnvvdzKWsTG733H8AcZ4DVFfNE20WxK6kwv/z5ynQwkD9bJtddTzYDciWpzjXKkUm24169FR6vY8p4CILwNIj4j9gehOmmbPvbBunTxJbHLSPeS6tN/3KS4luxmJ0A+lkr6MhuEMAKjjRMAai4WA+XI58W3zhfk8xdbWnBMAlGqMIZKrFH23sJD8pfG8UKDuu3fddz1vi9BBHBFkMolfoGFYHxLBC+G/nP55pYJ3GmO5nH1ISjraihdCwIqUsKQUScZYDyKllQIRls8YWwoAfEIEPByANlGpRBYaY4Zhv09E+7aDmEEX0DDWPyLCrrALEwl5tljsvtYYy2SsdwDggYXzeIDIwpGR9TcRcewBhUJaP3Agcer06f+u3+Fh5yXG1PHwltKSpomZvXvXbk5PPyd37oRdRM5rStGrYflC8EuYy5FGZL2nFKa3VC/Y4+ysaepLYYUBD5SiI5vrGhGISF2cn++6AIDUXJPN1oYRvbelbNwv7DrnsS//1YHAgPh+fTcRtxMJffHyZXTatdUwqFcI5xUhACxL/l6tJm+3yx8bo7jjWPuU4slIBG+Xy9HfArBPhxA9HoG2p6qtJwSQhzecEdoDAzi3vBwrPswTBsKGCIcBVH8gTozBfKmUmHokT5jLraWV0j5o9oSc4ypj8nyp1LXYLNP5/GrKdSOvuy4Yzb3hHK+apv51qNaEHWazD/WEbjTKV1zXtxnjjIh6iGBXu6GkUnhmaqoDTxgsjomJZ57w3jEA0coTruo6ViwLlpXybU1jnEikhKB0vS5DPWFAxh07Ep917AkLBYreuuWOK6Ve3FJH8AHYxbm5WLG1J6SklE7Bdbekl3OqxePi3MxM7M+OSbiRSDg6Whv0POpTSrmJhP5rsYgdecKREbsf0d+DyGtS3l+sVvusVgR9poT/AIN98iWMonALAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 5217,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Portal | Clarifai Portal",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Portal%20%7C%20Clarifai%20Portal&pos=0&uri=https://portal.clarifai.com/signup?hsCtaTracking=6e598b12-ee20-4580-a864-412754d33071%7C9d6a991f-3120-494a-90e1-3a886b49f1f1",
+          "width": 0,
+          "windowId": 5162
+        },
+        "5220": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 5220,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "ImageAI 2.0.3",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=ImageAI%202.0.3&pos=3044&uri=http://imageai.org/",
+          "width": 0,
+          "windowId": 5162
+        },
+        "5226": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAhklEQVRYR2P8HKBUz0AGYPrHwMC96V4jSGvNXoZ6EJ8cwDjqgNEQGA2B0RAYDYHREBjwEPjuJ0d2bci+5RG4NqyipDYkpwqlph5GahpGjlmMDMs/kxUFDAwsDAyRnOAo+L+TgUwzGBgYGZa+J1MzCwNDNO+oA0ZDYDQERkNgNARGQ2DohwAAqlDCICneWlQAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 5226,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "AI Demos",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=AI%20Demos&pos=1116&uri=https://aidemos.microsoft.com/",
+          "width": 0,
+          "windowId": 5162
+        }
+      },
+      "14664": {
+        "5308": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5308,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "online ai demos - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=online%20ai%20demos%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=online+ai+demos&rlz=1CAZBMY_enSE834&oq=online+ai+demo&aqs=chrome.0.0j69i57.4502j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 806,
+          "windowId": 14664
+        },
+        "5311": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5311,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "10 Craziest AI Experiments to Try Online Today | Lionbridge AI",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=10%20Craziest%20AI%20Experiments%20to%20Try%20Online%20Today%20%7C%20Lionbridge%20AI&pos=1272&uri=https://lionbridge.ai/articles/10-craziest-ai-experiments-to-try-online-today/",
+          "width": 806,
+          "windowId": 14664
+        },
+        "5314": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://experiments.runwayml.com/assets/fav.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5314,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Generative Engine | RunwayML Experiments",
+          "url": "https://experiments.runwayml.com/generative_engine/",
+          "width": 806,
+          "windowId": 14664
+        },
+        "5317": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAhklEQVRYR2P8HKBUz0AGYPrHwMC96V4jSGvNXoZ6EJ8cwDjqgNEQGA2B0RAYDYHREBjwEPjuJ0d2bci+5RG4NqyipDYkpwqlph5GahpGjlmMDMs/kxUFDAwsDAyRnOAo+L+TgUwzGBgYGZa+J1MzCwNDNO+oA0ZDYDQERkNgNARGQ2DohwAAqlDCICneWlQAAAAASUVORK5CYII=",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5317,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AI Demos",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=AI%20Demos&pos=0&uri=https://aidemos.microsoft.com/",
+          "width": 806,
+          "windowId": 14664
+        },
+        "5320": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEPUlEQVRYR+2WS2yUVRTHf+d+7dSZPhOopoDyEhTEaIQoU6w4QulDQFnAThNiYiIGQ9IWFm6+ZW2VEllo2Jm4sSQYFcu0xAw19RGhKEuiCCLRWkAefVCm891j7pA2pR3aqWnCpt/6fOf87v/8z7lXuM+f3Of6zALMKjAtBeqPETWG5TNhXFF+ea+aM9MCaGhns8LqGQEIONFcS2fWAL6P6YtS5VlWqZAL5Kj8/ymSbADePsKcSISVIixR5SFPSTTWcHJ7K97SCEWax4IgYAXCMgc0HWUmBaj7moViqEBYjGANXAL+cgUU8hD6SHHpQj8XDu8g2N1GUchjnbGsVoOXDUhGgD0JSnKHqEmfSBhUy3cFKc74Wxh0Scd7wCj9Vvn+jz5+ciB74pSFlG3WUDoVxASAvR2ssQGVGEIacKYwTNyPMeS3EuovZrkRliD0olxMGQokYKmBp5winqUnKRxuqebfN0+RW3SFbQgrJoMYBXA/FF9hqwqrRFFVjr9fww+uzwsLedbA8yqEVbluhB/P36TbndYl35WgIHKbrU4xYxlMCp8eqOZvZ9j+tWxBePpeEKMADW28rh6LXaAIJ5o30eknKOi/zXaER4zyD5ajTbVcci0AlnkeXzRu5Hf3T7pYlJ3AAoGB/Bt86O8g6StmoJ23VJibCWIUoD7OywhrXJA1fLm/kp/r2lktsNkpkp/Hfj9G/1gPCNweDvHxgRjX98aJKVS4kTSWrqYavknHdrBOlY1TKuB/TslAmF1uto3lclMNH+1uIxQW3rGGiMLRD6ronmBC5VcjJC08kVYPupurOJqOi1MBxBxUuq0Z9sVdJmzoYL0qL6YTKV81V3N6VAUYGAo4dLCWm5k2oSvgCV2NVSS2t2IWFlE9oijKDWNoDQLmG8N6hfwRRe4CcIZbVMROFeYbZcikONS4mWv1cV5xRhLoHRygNZJPdOwqNspVA/HGan5zSysc5lUMC9IHCTifH+bISPv8BA8MDPOCWp5DMBPGcN9xioMUb2AodMYbLuKTlihDe+O8ZIVyIe3800bRYY+UBxfzKzl39Ri5eUJUhHLXRrEE1vJt4Um6fB876gFF9nUQDZQNGQFcYH07DxrlNSsUuFOnlM/cbNclmGuGeUYs18XjrBFykgGlBh4FVrld4FohwrlbAR0Ha7k81nwNbSzFY4NCWcYWjA122zDnzgjOc243hq7kNbpbdnArkwdcyxDOEnDKjepIrvQCK+RxJC35vPHTMOldkPZECWsloNxNApYk8CdCjzWoByksfWLpjYTp8WOkXIHdbeSFhUWBssK9G9wCm3IMJ1uXLmEurDTCY0aYj6GzaROn3D9ug+b1UhKCUk8oc0vL3jlpVrdiVtfxeLiGY9SK8KRVjLszprpwsroLppPkvr6IHOi77TycTDFnOtD3jI3Q0xyjJ+sn2YwUzZBkFmBWgf8A7tbLMC1iCSwAAAAASUVORK5CYII=",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5320,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Live Interactive Demos | NVIDIA Research",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Live%20Interactive%20Demos%20%7C%20NVIDIA%20Research&pos=0&uri=https://www.nvidia.com/en-us/research/ai-playground/",
+          "width": 806,
+          "windowId": 14664
+        },
+        "5323": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACD0lEQVRYR9WXsWoCQRCGf8UyWMZCLkQR8Uli6wvIISIWvkIgD+AbiIgYECv7WPsKKnYhARELERGxkEv4jSvh0Ju5eMZkmhP3dua7f3Zmd0P4slsADwDuAEQAhPb/B/34ALAF8AagB2DGQAyeB3ATdDTB3wrAMwFsAPcAHADhX4IwsV4J8LgPfCnZT30T0+Ew6JPmq8PhMBzHAZ9eZt7hU2NqAI2zn7wjAkQiESSTSd++l8slptOpOE8ESKVSGI/HO+k18m63WxC61WqhUCgc5p0iEQHS6TRGo5GYe3cAAti2fT6AWwF+4Xq9PimtUaDdbqNSqZwPYBSg/JS20+nsHPP3sZVu0rTZbLBasdd4mzoFBqDRaKBYLEp+1eO+AZrNpmpxaQn+D4DpgKzvyWRydHGZ/M9mM2SzWXAdSKZWQNuKGZAAiUTCs1oM2EUA5vM5LMsKFoDEVKHX66FarR4tw+8l2O/3j5apOyVqBUwZ1mo1lMtlKbXqcd8ApsezEbHrnbLAtmN3J2QfYCMyi1I6G0hS+FagXq+jVCpJftXjagCzCLnHD4dDT+mpzmKxQD6fFytBBOBuOBgMDtsxc68xbkTxeBxsXF4mAmQymd15wK+xC8ZisfMBotEocrmc3/i7Ntztdj0rhU5FBXxH9jlBBSAdxc/pBX/iYnL1q9nVL6dMISGyAKxfup6/A3jh0eETDx88+o9ctdMAAAAASUVORK5CYII=",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5323,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AI Experiments | Experiments with Google",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=AI%20Experiments%20%7C%20Experiments%20with%20Google&pos=3434&uri=https://experiments.withgoogle.com/collection/ai",
+          "width": 806,
+          "windowId": 14664
+        },
+        "5326": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADAElEQVRYR82XW0gUURzGx0UWWVRkk821Mt00LwlCWIGmeFnJsER7sPJCiXSxHkQkbRWUCsUkCatdsRIRRTPJxKLsQj0ZXcgwc9NFg0pk8UFsV2VRWaLvGx+CSkepaV9+e4Y5w/d9/3Pm/MdFWOWvvu5sBaYu2oD8ItO51TzKZTWTfsz5ZwIWFhbg9PH9Nmj98qEZdLM/o3YnMaeKAn1DD4P6fUdBDw+PPyazbAKyC2isO4UEtitNcGRlyQXL15+Lp9NyrHEnzY5kMLekd20JyCZgaGgAzi0dEXDit4HOOgfJeQXp5krOzZApoaTCITLyHv7EJ+3/ZRK/XQOyC+hoqkQCeu8yOLBM01HzRVI1Lzp0I22i4/R8jneHkd3D2WBOQau0BGQXUF+ZhgQORHXDwa0btDrXtgj6uYrFV3AxWOcZgTPZE8wwMLLeh4ziRLVZWgKyC7ha7IMENAorHCiDn7O2A5/orIuGVOFbQbWFLwhH4WVwYjCa87QaMKdiUloCsgswluqQwMh7Ot42GQcm++lAi5prYGNKCtifdQTUZZaALf0GMCjBByyssUpLQHYBteXcBY9echdEiodfXuZxjN0vnAHV3r7gg4hd4Iy4G9o9RzEOjw0Bq03D0hKQXUCjsRQJvBmpggPrFUBoqTSCtrRYOrZNgP5m7vuyvIPg9CHev0WXChqqeqQlILuAV31PkMCdu0lw0HOJjt6VNzKRxEBwatQMhvlHgnsTd3B8kvcnxdSC6VlF0hKQXYDdbkcCvdfWwcHAWx5/662sqV7txQQck+C4eifYN3yezo8xgRD9RzAoOFRaArILoH5BaG8oRhKxgTUY326nc+dNJagUeArOpKrA7AKeHU9fiz2hYY09oewC7LOzSODF9U2safgUaBRr7BA7pdx6MTKxM/KK+4wLAQGb19YVyy5gaS2MjY1xV9Sx7U3Yw12h4etA6Gogw9LZN0THxK/oW3HZL6P/RsCSkFlxTbSaCnDJ8W0czDjdBGq12hU5X3reihP4WwK+A12pvDDLDgi8AAAAAElFTkSuQmCC",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5326,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Interesting AI Demos and Projects",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Interesting%20AI%20Demos%20and%20Projects&pos=1994&uri=http://pages.cs.wisc.edu/~spring/demos.html",
+          "width": 806,
+          "windowId": 14664
+        },
+        "5329": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADn0lEQVRYR9WXTUgUYRjH/74M2zIMy7Asy7AsIsuyiESIiHSQVKKIrKiMQoqoLh7sEl2CIqnwFNEloS4aQXiyIDQkD30g4kEWEZFYZFmWRZZlWZZhGJZhGOOZ/cB1551d8bA0XkTnfd/f+3/+z8d07O/vT6GNT8d/CWBYgGaa0K2ydCIDJEGAhx1dypYV0C0LG0UdK3kNcVVHRjegWWUCiTGERQ/6fCLOBST0yyJE1hpNUwC67Y+8iplUDqtFDRr9weWRPAyDsoTJriDOB3xNVXEFyBompnez+JjOQzMtoLVLARaFhOFeZwBPowoUj8BF5gIkdQOT22ks59TWDz58jAVcCPowc7ITEdHjCOEIQDe/v5niH24BosDgFRhKpgWd1KHHSaEKxFxvl6MSDQAU4sd/M3iXzDVuaAEBj4C7nQFcDvrs3wuGiZW8itlMAXu6wYV4GAniTXe4wRMNAIs5FePxZM3hB3ULegRbzuuK3HDZ1YKGie00dtSSIwRlynxfBJeCvrpQ1AFQqo1tJLnSP4sqeBULcQ21nFdxO55CwTQb36mEYqE/UpeidQB/ChpGN3bLjj/0+AQBKwNRDMgiF4COndhKYzadd1ZBYFjqj+KMX6rtUQcwldjDy0TWcTHJ//t0DN2S17UOfMkWcSuegkm56JAVz2MhvIgpjQBkvmvxJL5ni44AVNmWBqIYPkDvRLKplnB2PcENw0VFxte+SM2MNQXIzSPru9hSdVcnv+0Jg19WgIRuYGgtgaxhOCpwyifi5+ko/JXiVAPIlEwMrSeQ1JxdTLuRD153h/AgHIDAqYoJvYShtV0uQETy2qEMe8vXOBJAtfFcVWSMBmX4PQw5w7SbUE/FG1tqCSMuIeACNA3BQUGpLTBAYAzUED/3duFmSLbf+JZTMRZPwqx0yro4WAA3BM1M6Gh9C7iiyJjr7YRfEGzfU/94n3JOQ3qBa0I6wC0ND9+EesGNkIzpWAhhb7nRUDWk21NYeMDcNKQFboWouiG12TuhAMYUGYN+Ed7K4EENbDyewq88v3vSWtdC1KwU2yYUGOZ762s6+efRTgaf9gr8ItVKKabVbs3I3t0ChgMSFvoidi5T4aHQLeaKTrWvBtRSM6K3XdtxZTsBDE+iQZxgDB/SeXs+dJ2WLKDldkxnNB1IABCERT9kfbdR7agDSVWzto5kVYi2DqVViLaO5Qdzqm0fJk6J3ZZPM36FOd5/mn6aHW/75qv/AQ9YM7/UpdAOAAAAAElFTkSuQmCC",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5329,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Teacher Resources & Education Marketplace | Wisewire",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Teacher%20Resources%20%26%C2%A0Education%20Marketplace%20%7C%C2%A0Wisewire&pos=0&uri=https://www.wisewire.com/",
+          "width": 806,
+          "windowId": 14664
+        },
+        "5332": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://lionbridge.ai/wp-content/uploads/2019/04/lionhead.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5332,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "10 Craziest AI Experiments to Try Online Today | Lionbridge AI",
+          "url": "https://lionbridge.ai/articles/10-craziest-ai-experiments-to-try-online-today/",
+          "width": 806,
+          "windowId": 14664
+        },
+        "5335": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFEklEQVRYR72Xf2hTVxTHv+8leUljGttQaoy1jXaGLkgX16JOJ4h2Cg6rE9xg/aPIYB34RyeFwVBQQScMxPnHBh0M8Q8H28BpZYNuVWRu1YquXSdpiXSmaftMS83SJE3z875xb5a3vCYvqZvuQrjJved9z+ede8+5NxxKtAsnths6Pupfy3HcC4SQSkmS7GqPcBwXJIT4OY4Ta0ym373BYLCUPqdmQB2/d+b2rnQ6vaGUiNq8JEmjLn36p/tRPFaFLjQhCIKTEHLw3zou8NyNVCp1q5BeXgSajFj5W0L77jN0zqQ0Gs1gPB7vWaybB2DU6ToSkmR91gBqEHkAWq32+PNwntVMpVInc/X/1wgIHOePJpPdRQE0Gs1bHMc1PI8o0KxIp9NfFQXQarXbAOx4HgAA8rIhbwmWmoI1ENDKGxlnD4liEomSzC8Jqc8X14Q8AHtFRcVkJNJZTK2FmHCSVCtMjvMz6OMjRSFqTKbzi6tjwUo4BqdqJtxFFGbwqIJWdka/jyKGEAg2IhOVQq0ebkUGUJuCAI/Q0E7AF6z554UZdCYyb9+m9bH+UqqW9Rf5INpJRUHnPIh3DUYvlixE1OAhnPt4wFVIKTcCs0ixSNAPHadNLQIEGFoH99UlAYzB+SqAnWqhpFFoS1iQBWBREAJyZFSeu14P988FAejGm5qf35ed1AGGRklftBz7QRRZYAVfdAMOc3F/EohljZLJJFsOeQ/odLpOSZIKL2BR6aefzK2IMoBer2/9L2f/U2LIBUmRBZOfbnElw+FW45o6zjM6I2uG5mIQvX5EQjGYzAbWN29TVut7t0blOWpjs1thXm6QNRwN1eAIF0sEnvTWHO4fyk7IAGJ3U9X0yPRhOmFtWg/e1shsAj4Rsz4PbI2bmYNELIE713qwftMWWGptss2DgX5s3tsKwSAwQHH4DqpqHbINEYcRm5qS6AP6SuEzW8f9WcUecL9va4mD35olc7QfyYtqQJyA914//I9nmTOLbXUGQJxgUNaVVbA3b5HHcwU8F8/BYDbCYNRLC/4n/c5PxD4FwPjZpoPRubCTGnjdj7mNRz5UAPiGBtnvasc6uPu+UzjKgjlbXseM5yGzq3Upr5J3z52B3bmSRYDXCSN1Xfe/UQA8OvXi5lgivTsWijLS6t1tMBhNiEUjeDA8Dt+YXwYK+kVYTSEYjSY2Fo1G4I+YUWHNLAkDqLdifWOdrDHTewlZbYOg6V1zbOSOAoDegl+x6Toql+szqVjlxNcXfsCPfe68pcgOmE2Z8yAUSanavNbixJuHdgGzGZ0/5+LB22Ky+9CJm6wmKLKAQuwoD+9dKLfYTn38S0UxYVWPBSYo6LEPtgbLwgHxRrj8WtZ5HgAdoLfi1Wb92wRSJr5FWnVt5rya8XlLmYIHF5kIxb8seh+gJdllWHhnKc6pR6Mjk6pRz3BJAGpAIYZiZV/k3gkUS9BqNbQDRPWvV64Xe8AsHz70cPJaQkuCAHhvjz8mH8sywP5Vy1wknZQPpGJqdE2PHj2AqsHMATS7geD06ctFN2OuHq/RXb0yNc+q4T8AVn3XUkJvX2tDR9cBEPGegpG3NaP77GV4/xBLRoIuxRV//KwSYNUyF9KpnWoQ9K1379+OPW9sYrlNWyQwzXqTZQXrac34/tsB9F65qRoN6hwa7fW8CGSxaRbUlZfV1TlWrXh5k4PdinKLSsnX+xskt3j9OuAZGvdMTY+HF8YXZ8FfLswMPyQftU4AAAAASUVORK5CYII=",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5335,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 5332,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Even Stranger Things",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Even%20Stranger%20Things&pos=0&uri=http://evenstranger.pw/",
+          "width": 806,
+          "windowId": 14664
+        },
+        "5338": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5338,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 5332,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NVIDIA/FastPhotoStyle: Style transfer, deep learning, feature transform",
+          "url": "https://github.com/NVIDIA/FastPhotoStyle",
+          "width": 806,
+          "windowId": 14664
+        },
+        "5341": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACkklEQVRYR+3Wy6tXVRQH8I+liWgq+Y4Co4GPMMkHkgNBHGSjSCUzrMRIbSTo2P4DhyFaKpg4kNKBFAhJEGJCpOW7Zln21AqNFF/FV/aBw+V63WdwuZO74McPzll77e9e6/v97jPEAMeQAd7fIIDBDnTtwAQsR/6/x8e4i5fwDP7CAfxSS+6uAFbhERzHyziMG1hWwMzjHrE/7C8Ab+AffIa38QVu4gVsxyJMwgf9BeBpvIqhuIyd+A9rMBm38RG+6y8AqTscYwqAzD+Rto/HtTKS2v2rjOhhTCuz/6ZUnoJnCxnz6ApO4VJ5P6uQ8wLu9IWmLxJOxHOYjRHYjZ/wIkK23uJbHELWrsN1nMYJ/Nbbgp4A0t6gz8aP41c8VH7vYSymPqC/F/En1heu3EI6FmkGyJn2mBoAKbwYMwuR0s6T+B2bcLRIr3q2mI8l2IrHyqEytmE4h8/xd0Oet8ocv0R7bjOK8aTIo5hTieBsAb8Zn6LhTvg0Hc9jXFQUAK+XonuLpNp75F10f7AsXFkJIAYVs4pDhg/v91iXfVc38nkX+8vJ23kZy0bswo+lUG0HzuMHPIm1xaTCp3akE68EyZZiHlnUjnAiSdsqT32/tHcQYn7SIyHjXREArxVz2dPS7GhswBF8XRbGfJ6qBBM/+KPkzsVS7Gg9CxfejBoCIAxNm6LZkCdSjPZ/xr5iKKmVbnTlQNZFxjnkE4hP/FvUNjLjbWQYhi8sSblcctV+1do8haL/nKQmcklFak0ERGQZR40MY2jHYt1dr+OazTvldAWQ8cSW+4p8H+RXFV0BjCq+EW33FrmUQuarVbuXa7Q2t8kLgxeU2zBXcA7R3IYxn3wTVEfXDlQXrk0cBDDYgQHvwP/QhYH5o/iGMAAAAABJRU5ErkJggg==",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5341,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Try our tech - Experiments - Artificial Intelligence - IBM Research",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Try%20our%20tech%20-%20Experiments%20-%20Artificial%20Intelligence%20-%20IBM%20Research&pos=0&uri=https://www.research.ibm.com/artificial-intelligence/experiments/try-our-tech/",
+          "width": 806,
+          "windowId": 14664
+        }
+      },
+      "26387": {
+        "967": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.gstatic.com/devrel-devsite/prod/v9d82702993bc22f782b7874a0f933b5e39c1f0889acab7d1fce0d6deb8e0f63d/cloud/images/favicons/onecloud/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 967,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Vision AI | Derive Image Insights via ML  |  Cloud Vision API",
+          "url": "https://cloud.google.com/vision",
+          "width": 1879,
+          "windowId": 26387
+        },
+        "968": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADaklEQVRYR+1XT0gUURh/74274WxRFHuQqMRCqCAisCjqUhTVpYJcCBJ0CYnQg7ozw3p6J9f5ox60kIJNUDDWILpUBJ0SJL1EUEGUmEGChhTkru36vhcTOzI+dx3XVbo4p+V9v+99v+/v+xaj//zh/2wfbRLwjACldMfc3FyIc15WSLowxlOBQCBBKf25kp4nAUVRajnn+wox7mAxxl9N0+xbM4GWlpZDGOPqtRh3dAghCcMwPua7I28EEomENDY21sA531EMAYzxz6qqqp5QKMRy3ZOXgKIoZzjnZ91KGOMMQuhHoYQAYLijo+PDqglQSrcmk8lGAPALSi8tyxoplEDBNUAp9adSqQbG2DZXQc0GAoG7lFLwIqCqag0A7BKi98k0zWei7rIUtLa2lqVSqT9+v38PY+yqowAAg52dnZ+8jNvy5ubmSkLIDRFLCHlgGMb3JcREkKqqdZzzedM0BxVFucU5340Q+mJZ1oAbGw6HKxBCB7Jnn+Px+LhbHolEbiKE9gtR+GaaZjwvAU3TDjPGrtsAjPEAxvgPANT5fL7eWCw24yjW1tZeRAidEMi/6evre+GcRaPRIGPsNgAQN06SpMe6rr9fTK3zg1JakkwmGwBgu31GCJmRZbl3fn6+vL29fdE723MAqMmVCkJIvzsSmqZdYowdd2MJIb9kWe6hlC78c9QRRiKRIwihawL4uWEYo0LoLwDAyTwERuLx+EtH1tTUVFpSUtLIOS8V8E8sy3rnSQBjnFpYWOju6upKOReEw+GNISCmwDEoSdKoruvPXQQ2JgW2AXcROgYJISBJ0sYXoWPQbkMA2CvUwrhhGP2FtGF2GNmtuvgRQiYNw3iYtw1tgT2I0ul0vVhkPp9vMBaLrWoQRaPRykwms2wQ+f3++21tbVMrEsim4gpj7OgSIMazExMT94aGhnK+ag62urpaKi8vv8M53+nWlyTpra7rT0XHcr6GxTxGmqadYoydF0KflmW5m1L6e1UEslE4zRg7J0Qh73OMMX4dDAYnp6en7b7fInj/Stf14VyzY10WEpxNT0VFxWXG2DGB9NoWEvsSVVUPAkAoF3MhxI84578QQvWc8yVOrXklcwx4LaWEkH8tmgtX9FJqk1hpLXeGVDqdDorL67qt5V7hL1bu+b+gWANe+psE/gKL5MMwtT10HAAAAABJRU5ErkJggg==",
+          "height": 970,
+          "highlighted": false,
+          "id": 968,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Step 1 of 2 – Free Trial – Google Cloud Platform",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Step%201%20of%202%20%E2%80%93%20Free%20Trial%20%E2%80%93%20Google%20Cloud%20Platform&pos=0&uri=https://console.cloud.google.com/freetrial/signup/tos?_ga=2.77053968.446877336.1599959708-2088923589.1599959708&pli=1",
+          "width": 1879,
+          "windowId": 26387
+        }
+      }
+    },
+    "windowsNumber": 5,
+    "windowsInfo": {
+      "575": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 575,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      },
+      "5004": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 5004,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 806
+      },
+      "5162": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 5162,
+        "incognito": false,
+        "left": 386,
+        "state": "normal",
+        "top": 253,
+        "type": "normal",
+        "width": 1065
+      },
+      "14664": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 5004,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 806
+      },
+      "26387": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 575,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 31,
+    "name": "Rosebud AI",
+    "date": 1599960621605,
+    "lastEditedTime": 1601295398921,
+    "tag": [
+      "winClose",
+      "loppy",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "dcb10770-58f0-4d62-aa38-461b216c2548"
+  }
+]

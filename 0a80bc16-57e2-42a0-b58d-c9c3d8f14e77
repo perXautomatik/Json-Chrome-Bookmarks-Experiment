@@ -1,0 +1,193 @@
+[
+  {
+    "windows": {
+      "1537": {
+        "1540": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a2211493564_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1540,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "see one dark eye | himukalt",
+          "url": "https://himukalt.bandcamp.com/album/see-one-dark-eye",
+          "width": 1324,
+          "windowId": 1537
+        },
+        "1541": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a2164109196_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1541,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1540,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Collection Vol.1 | Euthanasie Volontaire",
+          "url": "https://euthanasievolontaire.bandcamp.com/album/collection-vol-1",
+          "width": 1324,
+          "windowId": 1537
+        },
+        "1542": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 1542,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1540,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "OGRE",
+          "url": "https://ogre666.bandcamp.com/album/inseminoid",
+          "width": 1324,
+          "windowId": 1537
+        },
+        "1543": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a2991618027_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1543,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1540,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Eterno ritorno al Circeo | Attualità Nera | Murderabilia Records",
+          "url": "https://murderabiliarecords.bandcamp.com/album/eterno-ritorno-al-circeo",
+          "width": 1324,
+          "windowId": 1537
+        },
+        "1544": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.perl.org/perlweb/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1544,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1540,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Installing Perl on Windows (32 and 64 bit) - learn.perl.org",
+          "url": "https://learn.perl.org/installing/windows.html",
+          "width": 1324,
+          "windowId": 1537
+        },
+        "1545": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://strawberryperl.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1545,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1540,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Strawberry Perl for Windows - Releases",
+          "url": "http://strawberryperl.com/releases.html",
+          "width": 1324,
+          "windowId": 1537
+        },
+        "1546": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://magmasource.caltech.edu/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1546,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1540,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "[FAQ] Installing Perl and setting the PATH",
+          "url": "https://magmasource.caltech.edu/forum/index.php?topic=136.0",
+          "width": 1324,
+          "windowId": 1537
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1537": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 1537,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 7,
+    "name": "see one dark eye | himukalt",
+    "date": 1599750737757,
+    "lastEditedTime": 1601295398831,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599749435362,
+    "id": "ccdda9df-7b14-4b42-9751-90cf6b481b91"
+  }
+]

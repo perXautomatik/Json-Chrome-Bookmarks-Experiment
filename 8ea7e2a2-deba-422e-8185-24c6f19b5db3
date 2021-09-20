@@ -1,0 +1,143 @@
+[
+  {
+    "windows": {
+      "575": {
+        "932": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s.ytimg.com/yts/img/music/web/ytm_favicon_32-vfl2lNWut.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 932,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "YouTube Music",
+          "url": "https://music.youtube.com/playlist?list=OLAK5uy_nPlPyBf3xzD-UCCEj3lq9hpvefQH47m-I",
+          "width": 1879,
+          "windowId": 575
+        },
+        "933": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 970,
+          "highlighted": false,
+          "id": 933,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql server - SQL Split Period by Months - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/33510077/sql-split-period-by-months",
+          "width": 1879,
+          "windowId": 575
+        },
+        "934": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 970,
+          "highlighted": false,
+          "id": 934,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "ms access - Aggregate SQL query grouping by month - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7011619/aggregate-sql-query-grouping-by-month",
+          "width": 1879,
+          "windowId": 575
+        },
+        "935": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.red-gate.com/simple-talk/wp-content/uploads/2016/07/gatebase-favicon.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 935,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL Server APPLY Basics - Simple Talk",
+          "url": "https://www.red-gate.com/simple-talk/sql/t-sql-programming/sql-server-apply-basics/",
+          "width": 1879,
+          "windowId": 575
+        },
+        "936": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.erpsoftwareblog.com/wp-content/themes/erpblog/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 936,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Creating Microsoft Excel Connections to SQL databases - ERP Software Blog",
+          "url": "https://www.erpsoftwareblog.com/2017/01/microsoft-excel-connections-sql-databases/",
+          "width": 1879,
+          "windowId": 575
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "575": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 575,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 5,
+    "name": "sql server - SQL Split Period by Months - Stack Overflow",
+    "date": 1600031503004,
+    "lastEditedTime": 1601295398772,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600030279299,
+    "id": "c4590b56-9951-4d2c-af44-81b1ec7c04e3"
+  }
+]

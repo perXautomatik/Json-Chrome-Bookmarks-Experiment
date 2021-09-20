@@ -1,0 +1,124 @@
+[
+  {
+    "windows": {
+      "2039": {
+        "2042": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://campexplorer.io/favicon.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 2042,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Camp Explorer",
+          "url": "https://campexplorer.io/",
+          "width": 1324,
+          "windowId": 2039
+        },
+        "2043": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a0326654935_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 2043,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2042,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Modernity | NATURAL ORTHODOXY",
+          "url": "https://naturalorthodoxy.bandcamp.com/album/modernity",
+          "width": 1324,
+          "windowId": 2039
+        },
+        "2044": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a1342507676_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 2044,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2042,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Only Red | The Vomit Arsonist",
+          "url": "https://thevomitarsonist.bandcamp.com/album/only-red",
+          "width": 1324,
+          "windowId": 2039
+        },
+        "2045": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 2045,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2042,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "A tool to search for albums using multiple tags/genres : BandCamp",
+          "url": "https://www.reddit.com/r/BandCamp/comments/6r2u5l/a_tool_to_search_for_albums_using_multiple/",
+          "width": 1324,
+          "windowId": 2039
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2039": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 2039,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Camp Explorer",
+    "date": 1599751450262,
+    "lastEditedTime": 1601295398671,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599749435362,
+    "id": "b6f3bc9d-b3f3-4ff0-bdcd-63814a34262c"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "windows": {
+      "1010": {
+        "1013": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/c46c1860/img/favicon_32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1013,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": true,
+          "status": "complete",
+          "title": "when the sun is 1mm from the earth's surface - YouTube",
+          "url": "https://www.youtube.com/watch?v=PZ9nFDo9Zm0&list=TLPQMjcwOTIwMjBd0jPSFUtt3Q&index=2",
+          "width": 1383,
+          "windowId": 1010
+        },
+        "1015": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1015,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Adjust%20Chrome%20OS%20Cache%20Size%20%3A%20chromeos&pos=0&uri=https://www.reddit.com/r/chromeos/comments/an4hn4/adjust_chrome_os_cache_size/",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Adjust%20Chrome%20OS%20Cache%20Size%20%3A%20chromeos&pos=0&uri=https://www.reddit.com/r/chromeos/comments/an4hn4/adjust_chrome_os_cache_size/",
+          "width": 1383,
+          "windowId": 1010
+        },
+        "1019": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1019,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab Session Manager - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tab-session-manager/iaiomicjabeggjcfkbimgmglanimpnae",
+          "width": 1383,
+          "windowId": 1010
+        },
+        "1022": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1022,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "chrome://extensions/",
+          "width": 1383,
+          "windowId": 1010
+        },
+        "1028": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1028,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "History",
+          "url": "chrome://startpage/history",
+          "width": 1383,
+          "windowId": 1010
+        },
+        "1031": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1031,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Protectors of Sweden Paracord Armband",
+          "url": "https://www.protectorsofsweden.se/?gclid=Cj0KCQjwzbv7BRDIARIsAM-A6-26b34aWE09dr2bq4VQ08EsVP8Fhqye8t6lEAytowNSmRI2tTlViQ8aAhCHEALw_wcB",
+          "width": 1383,
+          "windowId": 1010
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1010": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 1010,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 6,
+    "name": "when the sun is 1mm from the earth's surface - YouTube",
+    "date": 1601170538437,
+    "lastEditedTime": 1601170534597,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "5dcdf4e5-8f58-40a7-81d5-b830712a566c"
+  }
+]

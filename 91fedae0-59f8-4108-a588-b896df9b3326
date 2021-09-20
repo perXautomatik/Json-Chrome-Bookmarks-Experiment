@@ -1,0 +1,298 @@
+[
+  {
+    "windows": {
+      "972": {
+        "975": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 975,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "tabSorter2 - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tabsorter2/lmmmdnmgmgnimgcfbnomdgeldehlfafn?hl=en",
+          "width": 1879,
+          "windowId": 972
+        },
+        "978": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 970,
+          "highlighted": false,
+          "id": 978,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "javascript - Custom cursor doesn't allow click? JS - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/43683537/custom-cursor-doesnt-allow-click-js",
+          "width": 1879,
+          "windowId": 972
+        },
+        "979": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.nvidia.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 979,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NVIDIA PhysX System Software 9.15.0428",
+          "url": "https://www.nvidia.com/en-us/drivers/physx/9_15_0428/physx-9-15-0428-driver/",
+          "width": 1879,
+          "windowId": 972
+        },
+        "980": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 980,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Signal (IPC) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Signal_(IPC)",
+          "width": 1879,
+          "windowId": 972
+        },
+        "981": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://img.findmysoft.com/i/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 981,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "» Download free trial NetGlance",
+          "url": "http://netglance.findmysoft.com/download/",
+          "width": 1879,
+          "windowId": 972
+        },
+        "982": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://downloadsafer.lavasoft.com/wp-content/uploads/2019/02/favicon6.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 982,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NetGlance | DownloadSafer",
+          "url": "https://downloadsafer.lavasoft.com/software/netglance/",
+          "width": 1879,
+          "windowId": 972
+        },
+        "983": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 970,
+          "highlighted": false,
+          "id": 983,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to view all JavaScript functions called in real time? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7049510/how-to-view-all-javascript-functions-called-in-real-time",
+          "width": 1879,
+          "windowId": 972
+        },
+        "984": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 984,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Firebug Lite for Google Chrome - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/ehemiojjcpldeipjhjkepfdaohajpbdo/related?hl=en",
+          "width": 1879,
+          "windowId": 972
+        },
+        "995": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.mrfdev.com/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 995,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How to use Enhancer for YouTube™",
+          "url": "https://www.mrfdev.com/how-to-use-enhancer-for-youtube",
+          "width": 459,
+          "windowId": 972
+        },
+        "996": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 996,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Clutter Free - Prevent duplicate tabs - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf?hl=en",
+          "width": 1879,
+          "windowId": 972
+        },
+        "1008": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1008,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JabRef - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/JabRef",
+          "width": 1879,
+          "windowId": 972
+        },
+        "1023": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1023,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "File:JabRef-3.6.png - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/File:JabRef-3.6.png",
+          "width": 1879,
+          "windowId": 972
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "972": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 972,
+        "incognito": false,
+        "left": 601,
+        "state": "normal",
+        "top": 287,
+        "type": "normal",
+        "width": 516
+      }
+    },
+    "tabsNumber": 12,
+    "name": "How to use Enhancer for YouTube™",
+    "date": 1600032372593,
+    "lastEditedTime": 1601295397572,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600030279299,
+    "id": "0c8c9c9f-138e-40a1-95fd-f0f16edad620"
+  }
+]

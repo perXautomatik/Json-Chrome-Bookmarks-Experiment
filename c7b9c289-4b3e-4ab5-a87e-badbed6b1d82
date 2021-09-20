@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "12974": {
+        "13012": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACbElEQVRYR82XLW/cQBCG35UOBBaGNSyBZS3LWIpUGFhY2J9QWJyfEBhYGFipkudYww6m7MoCAw+ctNXr7vrGe7v2XnLJdaG9nnnme+xQeUTkGJidAeu3AE4Kny2B2R9gfa+qDzWi3dQlEXkH4D2A46m7yXsC3KnqYuy7IoCIvAFwOWLtCkC0knBHZa/gVlUfc++zACJyFpQPhDrnFt773wCWqkqA/ogI754450699/SaPbxLiPsUYgsguJyW98c598t7P0+VllxLGOfcuff+Q3KHEIOQDACC5Z/MR3Tb99qESoH+JS4oj+GMh/J6T/QAIeZfTCwZ35taq8e8AeCzSWKG4zrmhAXgpVhetJyXViLybSN8Nlf9qSPKaDHlxNyhshsAlEfjoieYQ3yODiATdyrvMrwWILh7S7mRQzhCxNPlQwTgi67OmXBt2/6It2oAMgZ0lqe50zTNR5OYD6p67QK5JbuycZ8CqFUevMnQfDVeIMCFAOvzYP2ibdtbG+MxgF2UR5lN01xu+sRsTg/Y5BuUyFgOPEV5kMcmF0t9SQCT5Ri4vwSQUc6EZVJNDqDQMfswWICVql5lmsmgDIE1S8p2yp37hYgQoCtVC9DXZjkHuuFjp+LOyoNX+7D/VwAHDwG985wkrJobuSTcVxlW5UMycVmGe21EkxC5RpQOiee24iJE6n5O3JcaRlmI7DDa4zjmHlhsUJmhtxnHaXMIC8RTFpIsRGhs5YUkAHBb2VrJks73WFqvzf6Qruhs3Rw+sYPmV7LMpOKj11tKjQWpG7st6VXWcgNxuB8TA3G4X7NkHB/m5zSzmLzI7/lf2IP0oL1dqaUAAAAASUVORK5CYII=",
+          "height": 1001,
+          "highlighted": true,
+          "id": 13012,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pendingUrl": "https://www.kenwoodworld.com/sv-se/promo/kenwood-can-campaign-tcpxl?utm_source=youtube&utm_medium=video&utm_campaign=se_20201012_kenwood-can&gclid=CjwKCAjww5r8BRB6EiwArcckCxl5Su0ZIMtTNNoe5nUwQYdRjpHGWE3LFpWz_cNUTQZ6FHkeK4hObBoC7GoQAvD_BwE",
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Kenwood Can Campaign TCPXL | Kenwood Sverige",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Kenwood%20Can%20Campaign%20TCPXL%20%7C%20Kenwood%20Sverige&pos=0&uri=https://www.kenwoodworld.com/sv-se/promo/kenwood-can-campaign-tcpxl?utm_source=youtube&utm_medium=video&utm_campaign=se_20201012_kenwood-can&gclid=CjwKCAjww5r8BRB6EiwArcckCxl5Su0ZIMtTNNoe5nUwQYdRjpHGWE3LFpWz_cNUTQZ6FHkeK4hObBoC7GoQAvD_BwE",
+          "width": 789,
+          "windowId": 12974
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "12974": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 12974,
+        "incognito": false,
+        "left": 10,
+        "state": "normal",
+        "top": 216,
+        "type": "normal",
+        "width": 789
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Kenwood Can Campaign TCPXL | Kenwood Sverige",
+    "date": 1602688055875,
+    "lastEditedTime": 1602688053607,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "538366de-3a7e-4ddc-b5f2-eeef56aadde6"
+  }
+]

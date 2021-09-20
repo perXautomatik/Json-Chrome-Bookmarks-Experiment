@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "573": {
+        "335": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 652,
+          "highlighted": false,
+          "id": 335,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Extensions - Autofill",
+          "url": "chrome://extensions/?id=nlmmgnhgdeffjkdckmikfpnddkbbfkkk",
+          "width": 1324,
+          "windowId": 573
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "573": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 573,
+        "incognito": false,
+        "left": 300,
+        "state": "normal",
+        "top": 128,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Extensions - Autofill",
+    "date": 1615288764899,
+    "lastEditedTime": 1615288764224,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1615187048136,
+    "id": "4ffae544-e9a5-42bf-a112-b6d6bac19227"
+  }
+]

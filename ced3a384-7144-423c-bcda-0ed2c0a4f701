@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "203": {
+        "205": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.moddb.com/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 205,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Ungibbable Mod file - Mod DB",
+          "url": "https://www.moddb.com/mods/ungibbable-10/downloads/ungibbable-mod",
+          "width": 843,
+          "windowId": 203
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "203": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1410,
+        "id": 203,
+        "incognito": false,
+        "left": 2070,
+        "state": "normal",
+        "top": -415,
+        "type": "normal",
+        "width": 900
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Ungibbable Mod file - Mod DB",
+    "date": 1600012142747,
+    "lastEditedTime": 1601295397780,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600008450562,
+    "id": "2de2fc61-86fb-4d1c-9bcf-31cd897550e6"
+  }
+]

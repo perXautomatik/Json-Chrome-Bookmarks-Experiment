@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "5914": {
+        "5915": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://ow2.res.office365.com/todo/282871_2.26.1/favicon.ico",
+          "height": 1000,
+          "highlighted": true,
+          "id": 5915,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "instagram schedueled posting - To Do",
+          "url": "https://to-do.live.com/tasks/id/AQMkADAwATM3ZmYAZS1iZDJkLTA2OWYtMDACLTAwCgBGAAADoRozGRDjj0yFCYD_3YMT1gcAi4Deojh_JkGR0G8PBmSVSAAAAgESAAAAi4Deojh_JkGR0G8PBmSVSAADnzZ4HAAAAA==/details",
+          "width": 936,
+          "windowId": 5914
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5914": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 5914,
+        "incognito": false,
+        "left": 894,
+        "state": "normal",
+        "top": 102,
+        "type": "popup",
+        "width": 936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "instagram schedueled posting - To Do",
+    "date": 1600095721793,
+    "lastEditedTime": 1601295398632,
+    "tag": [
+      "winClose",
+      "loppy",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "b223fd37-97a0-4eda-a3f3-adb5e69449b9"
+  }
+]

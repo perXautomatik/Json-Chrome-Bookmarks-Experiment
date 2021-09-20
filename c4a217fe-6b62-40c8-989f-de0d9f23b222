@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "5872": {
+        "5874": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://zeleskitech.com/wp-content/uploads/2014/08/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5874,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Convert xlsx to csv - Powershell - ZeleskiTech",
+          "url": "https://zeleskitech.com/2014/10/26/convert-xlsx-csv-powershell/",
+          "width": 1383,
+          "windowId": 5872
+        },
+        "5875": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.gpsoft.com.au/help/opus11/themes/OpusTabsTheme/images/d2h-favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5875,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Regular Expression Syntax",
+          "url": "https://www.gpsoft.com.au/help/opus11/index.html#!Documents/Regular_Expression_Syntax.htm",
+          "width": 1383,
+          "windowId": 5872
+        },
+        "5876": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5876,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PowerGREP - Google Search",
+          "url": "https://www.google.com/search?q=PowerGREP&source=lmns&bih=1801&biw=780&hl=en&ved=2ahUKEwiP0brOkczoAhWP6CoKHW0oB38Q_AUoAHoECAEQAA",
+          "width": 1383,
+          "windowId": 5872
+        },
+        "5877": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5877,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "directory opus 11 regex - Google Search",
+          "url": "https://www.google.com/search?q=directory+opus+11+regex&sxsrf=ALeKk00UB4mCVNTualYcpiV72yZAJoRz0Q:1585912966140&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjj3PaXkszoAhVLlosKHTToAMgQ_AUoAXoECAwQAw&biw=780&bih=1801#imgrc=xP8W3lWMCBeOuM",
+          "width": 1383,
+          "windowId": 5872
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5872": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 5872,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 4,
+    "name": "PowerGREP - Google Search",
+    "date": 1601174996767,
+    "lastEditedTime": 1601174992136,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "7d63c12e-aa7a-4eae-bca6-33f09370e19d"
+  }
+]

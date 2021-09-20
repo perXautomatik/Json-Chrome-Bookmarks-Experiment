@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "255": {
+        "291": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.youtube.com/s/desktop/d5bd6dd9/img/favicon_32.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 291,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "(96) SCARA Robot | How To Build Your Own Arduino Based Robot - YouTube",
+          "url": "https://www.youtube.com/watch?v=1QHJksTrk8s&list=WL&index=20",
+          "width": 0,
+          "windowId": 255
+        },
+        "294": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://e-tjanster.1177.se/mvk/javax.faces.resource/favicon.ico.xhtml?ln=images",
+          "height": 691,
+          "highlighted": false,
+          "id": 294,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Logga ut - 1177 Vårdguidens e-tjänster",
+          "url": "https://e-tjanster.1177.se/mvk/login/logout.xhtml?reason=timeout",
+          "width": 1383,
+          "windowId": 255
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "255": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 255,
+        "incognito": false,
+        "left": 1624,
+        "state": "normal",
+        "top": 404,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Logga ut - 1177 Vårdguidens e-tjänster",
+    "date": 1602255160553,
+    "lastEditedTime": 1602254792862,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602086503320,
+    "id": "27f5f6e5-f0c6-4235-b9e9-4f42482cb7ea"
+  }
+]

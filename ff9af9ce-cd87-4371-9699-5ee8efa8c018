@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "419": {
+        "234": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/superuser/Img/favicon.ico?v=4852d6fb3f5d",
+          "height": 652,
+          "highlighted": false,
+          "id": 234,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "windows 10 - Remote Desktop intermittently freezing - Super User",
+          "url": "https://superuser.com/questions/1481191/remote-desktop-intermittently-freezing",
+          "width": 1324,
+          "windowId": 419
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "419": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 419,
+        "incognito": false,
+        "left": 119,
+        "state": "normal",
+        "top": 232,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 1,
+    "name": "windows 10 - Remote Desktop intermittently freezing - Super User",
+    "date": 1615288601432,
+    "lastEditedTime": 1615288600083,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1615187048136,
+    "id": "4bce459d-dfca-4b75-ad65-8e945d4bdbb0"
+  }
+]

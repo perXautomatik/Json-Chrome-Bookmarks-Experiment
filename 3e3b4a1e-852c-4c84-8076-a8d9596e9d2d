@@ -1,0 +1,165 @@
+[
+  {
+    "windows": {
+      "23": {
+        "86": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 86,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "konstruktor_k’s Music Profile | Last.fm",
+          "url": "https://www.last.fm/user/konstruktor_k",
+          "width": 0,
+          "windowId": 23
+        },
+        "91": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "http://organizeyourmusic.playlistmachinery.com/images/favicon.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 91,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Organize Your Music",
+          "url": "http://organizeyourmusic.playlistmachinery.com/#",
+          "width": 0,
+          "windowId": 23
+        },
+        "92": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 92,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "konstruktor_k’s Music Profile | Last.fm",
+          "url": "https://www.last.fm/user/konstruktor_k",
+          "width": 0,
+          "windowId": 23
+        },
+        "93": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.youtube.com/s/desktop/4eb4dcc1/img/favicon_32.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 93,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(29) The Residents - Diskomo - YouTube",
+          "url": "https://www.youtube.com/watch?v=0xUfXTcl1F4&feature=youtu.be",
+          "width": 0,
+          "windowId": 23
+        },
+        "94": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.youtube.com/s/desktop/4eb4dcc1/img/favicon_32.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 94,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(29) The Residents - Diskomo 2000 - YouTube",
+          "url": "https://www.youtube.com/watch?v=GHO6EogRNwY&feature=youtu.be",
+          "width": 0,
+          "windowId": 23
+        },
+        "95": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 95,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "complete",
+          "title": "Language Of The Birds · Michael Idehall",
+          "url": "https://open.spotify.com/",
+          "width": 0,
+          "windowId": 23
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "23": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 23,
+        "incognito": false,
+        "left": 201,
+        "state": "normal",
+        "top": 142,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 6,
+    "name": "residents",
+    "date": 1599941010678,
+    "lastEditedTime": 1601295398485,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599938405059,
+    "id": "9c6b609b-903c-4657-9bb1-53ad9a782f8f"
+  }
+]

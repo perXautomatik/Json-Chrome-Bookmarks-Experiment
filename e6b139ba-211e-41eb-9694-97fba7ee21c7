@@ -1,0 +1,54 @@
+[
+  {
+    "windows": {
+      "9002": {
+        "9004": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1001,
+          "highlighted": true,
+          "id": 9004,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": true,
+          "status": "loading",
+          "title": "https://open.spotify.com/playlist/37i9dQZF1DX6GRSnGELn7L",
+          "url": "https://open.spotify.com/playlist/37i9dQZF1DX6GRSnGELn7L",
+          "width": 936,
+          "windowId": 9002
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "9002": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 9002,
+        "incognito": false,
+        "left": 128,
+        "state": "normal",
+        "top": 97,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "https://open.spotify.com/playlist/37i9dQZF1DX6GRSnGELn7L",
+    "date": 1601560900771,
+    "lastEditedTime": 1601560861118,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1600633358975,
+    "id": "286844f9-e460-4108-a16f-3b7aab3fe8ab"
+  }
+]

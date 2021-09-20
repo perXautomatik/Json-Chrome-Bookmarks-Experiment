@@ -1,0 +1,238 @@
+[
+  {
+    "windows": {
+      "1818": {
+        "1821": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a1775634072_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1821,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Huren & Kareem 1995 - 2000 | Zhark",
+          "url": "https://zhark.bandcamp.com/album/huren-kareem-1995-2000",
+          "width": 1324,
+          "windowId": 1818
+        },
+        "1822": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://community.atlassian.com/html/assets/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 1822,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1821,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Solved: Forcing Trello URLs to Default to Desktop App",
+          "url": "https://community.atlassian.com/t5/Trello-questions/Forcing-Trello-URLs-to-Default-to-Desktop-App/qaq-p/643869",
+          "width": 1324,
+          "windowId": 1818
+        },
+        "1823": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://hackernoon.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1823,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1821,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Copying text to clipboard with JavaScript | Hacker Noon",
+          "url": "https://hackernoon.com/copying-text-to-clipboard-with-javascript-df4d4988697f",
+          "width": 1324,
+          "windowId": 1818
+        },
+        "1824": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.autohotkey.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1824,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1821,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "OnClipboardChange - Syntax & Usage | AutoHotkey",
+          "url": "https://www.autohotkey.com/docs/commands/OnClipboardChange.htm",
+          "width": 1324,
+          "windowId": 1818
+        },
+        "1825": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1825,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1821,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "windows dfs - Google Search",
+          "url": "https://www.google.com/search?q=windows%20dfs",
+          "width": 1324,
+          "windowId": 1818
+        },
+        "1826": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 1826,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1821,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Using Windows Indexing on a DFS Share? Can it be done? : sysadmin",
+          "url": "https://www.reddit.com/r/sysadmin/comments/4qffnv/using_windows_indexing_on_a_dfs_share_can_it_be/d4smdup/",
+          "width": 1324,
+          "windowId": 1818
+        },
+        "1827": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1827,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1821,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Replicate Folder Targets using DFS Replication | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/replicate-folder-targets-using-dfs-replication",
+          "width": 1324,
+          "windowId": 1818
+        },
+        "1828": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1828,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1821,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "dfs into junction - Google Search",
+          "url": "https://www.google.com/search?q=dfs%20into%20junction",
+          "width": 1324,
+          "windowId": 1818
+        },
+        "1829": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 1829,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1821,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "insidan.gotland.se",
+          "url": "http://insidan.gotland.se/49305",
+          "width": 1324,
+          "windowId": 1818
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1818": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 1818,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 9,
+    "name": "Huren & Kareem 1995 - 2000 | Zhark",
+    "date": 1599751126005,
+    "lastEditedTime": 1601295398451,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599749435362,
+    "id": "9990d5c4-1b53-4d02-a8e0-4d072a52aebc"
+  }
+]

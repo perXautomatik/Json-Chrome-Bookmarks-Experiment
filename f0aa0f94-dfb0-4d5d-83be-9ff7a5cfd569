@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "7391": {
+        "7393": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7393,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "vscode cursor at highlight - Google Search",
+          "url": "https://www.google.com/search?q=vscode%20cursor%20at%20highlight",
+          "width": 1383,
+          "windowId": 7391
+        },
+        "7394": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7394,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7393,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "vscode multiple cursors - Google Search",
+          "url": "https://www.google.com/search?sxsrf=ALeKk03wMNmHkvwaC6HE773Ve11_TEdNVA:1585069791252&q=vscode+multiple+cursors&sa=X&ved=2ahUKEwjN4eeOzbPoAhUnpIsKHcUhAAwQ1QIoBHoECAsQBQ&biw=758&bih=1801",
+          "width": 1383,
+          "windowId": 7391
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7391": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 7391,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "vscode multiple cursors - Google Search",
+    "date": 1601177970493,
+    "lastEditedTime": 1601177966985,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "79cc9f99-66ee-47e5-8009-18aa714ac77c"
+  }
+]

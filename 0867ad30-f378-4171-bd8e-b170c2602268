@@ -1,0 +1,273 @@
+[
+  {
+    "windows": {
+      "29": {
+        "62": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 667,
+          "highlighted": false,
+          "id": 62,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "My LastPass Vault",
+          "url": "chrome-extension://hnjalnkldgigidggphhmacmimbdlafdo/vault.html",
+          "width": 1247,
+          "windowId": 29
+        },
+        "68": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 667,
+          "highlighted": false,
+          "id": 68,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "python 3.x - Docker container always shows ssl connection error - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/48946036/docker-container-always-shows-ssl-connection-error",
+          "width": 1247,
+          "windowId": 29
+        },
+        "71": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 667,
+          "highlighted": false,
+          "id": 71,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "openssl - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=openssl&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1247,
+          "windowId": 29
+        },
+        "79": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 667,
+          "highlighted": false,
+          "id": 79,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Apache ssl-cert module - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=Apache+ssl-cert+module&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1247,
+          "windowId": 29
+        },
+        "82": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://tower.local/webGui/images/green-on.png",
+          "height": 979,
+          "highlighted": false,
+          "id": 82,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tower/ConfigEdit",
+          "url": "http://tower.local/Tools/ConfigEdit",
+          "width": 1879,
+          "windowId": 29
+        },
+        "85": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE+ElEQVRYR62XbWxTVRzGn3NfttJ2a4e42jBRQpgEXFx8CXzADQJhbhWCzJHxpQODmGD4QKISEWGwzWhSAwsEEBADSCQhTkLohkSUYYUAy3AjLHMLE3Cja6nttnZ9Wbt7zbltdeOud7fg+dDm3ntefuf/POd/ziGIF+aZXY0bh0dREI3RRyHxWv0fxzDgEWvz1aw4mE4HJDGEJmtHY/1Qdan6ESeoebHbg5VHf70Z+HzVIbUQSYAszSeNtlBtKc52uiC9ZFSwCIAIYMUcE8im7yHuLUdTlxtvH3W0Br8oP6wGYgzAOVuo1gJ7lwssHZskPymAiCJGAVjyTSCbG9D16TLMnqqHvdONihPXB0OfLf8YkKqkLDKAC91uMBziUZik0NkLMWDZ7FwJwFVjwQN/GIVmQxzi25aBUJ1lqxKEDODiHTcYhlGrAARBwJJZcYDYlyvx1+AIvOEIXjYbcJ7KcbxlYFgBQgbQfNcDomr4eHhEUUDxzGkSgLh7FUYFAX8HoxgciUpyUGOuPnnD791ZtmWiSMgAHHe9YNQYMCFPTACKnp+Kd07/jm+u9IwXLSZKxsza3oRATdlmAMFHVZUBXO31UgeqjoEAEdN1GszI0aZ0zJRtdoTr3vwAgH9SgBu9PsmBakwoSZD4SaauZPCSz/PzcpAWQEvfoCRBGipIk3o0d1Jz0vLq9DQB2lyyKE22GhW/v2TKSi8Ct92PBxCXjPxrYEGg4hDMzdVjyrYmhOvK1Hmg0xOQwqlWAioXtSzPMuAZAo5w4yJi0rPI3n4e/ppSdQDd3oBkLDUmpOmKDqxheZxq78ep1oe42uNL4BPQcKycl4vL95zw7lw0CcDWc7ZQnQV/+gKqNKeAmTwHz3AUq4+3gdH+hNUL7Vj2Yj84GNAXvA1/FGj9Ix+O9k3odRYOcB0N1b2nd4fGDvBfHkgA3PXJcoUMiIY9k2WkjDe//jIKC+bieEUrjCzQ0v6c+eE9d350KGAmsXC21DhjaMg5yjkvuWZ13Wy7sMZ1wjac7FQG0OcPx9e2QuEJoMvksWDfJRimPYs9lnwYMu7jtsNR5HfF5ii1vRPRtu96r+IVANLRRwbg8ocVz0MMATI4Fj/c6sOHF+9hb+XrmGdg0H35WFlwgOSp0W84Rq5vXG9dQPOYDMATjEDKISmWAccAOp5HyREHosYZ2LNkBnqu/VwU8TxQnPmjYKIofr123dr1MgB/ZFRxGRIG0PMs2I/O4K2SpajK6Tf7bl1Zrmbmsn2AIYtkm1FDRx+UTgMsxyA7g0XJgasoWbIY5aHfijHgeuFxAEBwVAZwttMJonAgYQmNAI+lX11DRakJi+93V3Kjkbjb0yyiKPZMAOACq7AZEUKg5zksPXAdNe8fg+mX0g1pjjuu+sQRoCKkMCF9reVZbLF3gX86gHfD/f8XQPxYfqbDGV8AKQgoMc8SOO54caDVjbq8B5VaceTJJcja0WhL92JSeugKFvCu4pmM/8lNaK621wZEolFzNaOrhOUALUvwmj5irpg6+MTLkB7ongKgewxDsdsPnvxuliZWkE5bQshha5V1Q9KE9DKUCcQvRWmWDADZ9QePNBg1fKGqtiJ+rFpX9cbYvUBVuxSVKLQGgH7/vv17dHpdpVJnyZkn66g5d6iBo/3QoxBvs9mKjUbjGo7lFhJCZtLGNOGAoJlhmGNWq7V5bIf/AHboF8MC6/Q8AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 85,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://www.kernel.org/doc/Documentation/cgroup-v1/freezer-subsystem.txt",
+          "url": "https://www.kernel.org/doc/Documentation/cgroup-v1/freezer-subsystem.txt",
+          "width": 0,
+          "windowId": 29
+        },
+        "88": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 667,
+          "highlighted": false,
+          "id": 88,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Downloads",
+          "url": "chrome://startpage/downloads",
+          "width": 1247,
+          "windowId": 29
+        },
+        "95": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.amazon.se/favicon.ico",
+          "height": 667,
+          "highlighted": false,
+          "id": 95,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NE555 NE555P IC Timer DIL DIP 555 timer x 10: Amazon.se: Electronics",
+          "url": "https://www.amazon.se/NE555-NE555P-Timer-DIL-timer/dp/B00Z8CAA46/ref=pd_sim_34?pd_rd_w=QVG8L&pf_rd_p=d8ab31a4-e513-4f8c-9dd4-7db3ad02df07&pf_rd_r=0Z6JGFV9NK80MR7D6JNE&pd_rd_r=febfa574-3ae9-4d6d-a5e7-438295f209aa&pd_rd_wg=jXB4G&pd_rd_i=B00Z8CAA46&psc=1",
+          "width": 1247,
+          "windowId": 29
+        },
+        "99": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "height": 0,
+          "highlighted": false,
+          "id": 99,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Create the intermediate pair — OpenSSL Certificate Authority — Jamie Nguyen",
+          "url": "https://jamielinux.com/docs/openssl-certificate-authority/create-the-intermediate-pair.html",
+          "width": 0,
+          "windowId": 29
+        },
+        "102": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 102,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Unraid becomes unresponsive rendomly/docker containers crashing - General Support - Unraid",
+          "url": "https://forums.unraid.net/topic/97881-unraid-becomes-unresponsive-rendomlydocker-containers-crashing/",
+          "width": 0,
+          "windowId": 29
+        },
+        "105": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 667,
+          "highlighted": false,
+          "id": 105,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "192.168.0.161",
+          "url": "http://192.168.0.161/",
+          "width": 1247,
+          "windowId": 29
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "29": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1096,
+        "id": 29,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 11,
+    "name": "Tower/ConfigEdit",
+    "date": 1617544319534,
+    "lastEditedTime": 1617544319534,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1617377284602,
+    "id": "d38d2628-636d-4a19-bea1-ec70a1c3b93a"
+  }
+]

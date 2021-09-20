@@ -1,0 +1,187 @@
+[
+  {
+    "windows": {
+      "364": {
+        "296": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "height": 1010,
+          "highlighted": false,
+          "id": 296,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Actions · perXautomatik/sql-getIndexes",
+          "url": "https://github.com/perXautomatik/sql-getIndexes/actions/new",
+          "width": 1801,
+          "windowId": 364
+        },
+        "372": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.techonthenet.com/favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 372,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MS Excel: How to use the LOOKUP Function (WS)",
+          "url": "https://www.techonthenet.com/excel/formulas/lookup.php#:~:text=The%20Microsoft%20Excel%20LOOKUP%20function,function%20(WS)%20in%20Excel.",
+          "width": 1801,
+          "windowId": 364
+        },
+        "375": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 375,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "excel over whole column - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=excel+over+whole+column&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1801,
+          "windowId": 364
+        },
+        "382": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.exceltip.com/wp-content/uploads/2018/08/fav-icon1.png",
+          "height": 1010,
+          "highlighted": false,
+          "id": 382,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Keyboard shortcut for applying Array",
+          "url": "https://www.exceltip.com/excel-keyboard-shortcuts/keyboard-shortcut-for-applying-array.html",
+          "width": 1801,
+          "windowId": 364
+        },
+        "385": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 967,
+          "highlighted": false,
+          "id": 385,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Excel function name translations - English-Swedish",
+          "url": "https://www.excel-function-translation.com/index.php?page=english-swedish.html",
+          "width": 1801,
+          "windowId": 364
+        },
+        "388": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://exceljet.net/sites/default/files/favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 388,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "How to use the Excel LOOKUP function | Exceljet",
+          "url": "https://exceljet.net/excel-functions/excel-lookup-function",
+          "width": 1801,
+          "windowId": 364
+        },
+        "394": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.techonthenet.com/favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 394,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 388,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "MS Excel: How to use the VLOOKUP Function (WS)",
+          "url": "https://www.techonthenet.com/excel/formulas/vlookup.php#:~:text=The%20VLOOKUP%20function%20performs%20a,as%20a%20Lookup%2FReference%20Function.",
+          "width": 1801,
+          "windowId": 364
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "364": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1096,
+        "id": 364,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 7,
+    "name": "MS Excel: How to use the VLOOKUP Function (WS)",
+    "date": 1601995652381,
+    "lastEditedTime": 1601995360870,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1601985000371,
+    "id": "f5852395-d875-49a0-9bcc-04c290c0bf3c"
+  }
+]

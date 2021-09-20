@@ -1,0 +1,143 @@
+[
+  {
+    "windows": {
+      "59": {
+        "65": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "height": 691,
+          "highlighted": false,
+          "id": 65,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "RBQL/README.md at master · mechatroner/RBQL · GitHub",
+          "url": "https://github.com/mechatroner/RBQL/blob/master/README.md#rbql-rainbow-query-language-description",
+          "width": 1383,
+          "windowId": 59
+        },
+        "68": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.educba.com/academy/wp-content/uploads/2020/05/cropped-apple-touch-icon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 68,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL Keywords | Learn Top 36 Keywords in SQL with Examples",
+          "url": "https://www.educba.com/sql-keywords/",
+          "width": 1383,
+          "windowId": 59
+        },
+        "75": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://rbql.org/favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 75,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "RBQL - Rainbow Query Language",
+          "url": "https://rbql.org/",
+          "width": 1383,
+          "windowId": 59
+        },
+        "78": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://awesomeopensource.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 78,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Rainbow_csv",
+          "url": "https://awesomeopensource.com/project/mechatroner/rainbow_csv#:~:text=RBQL%20is%20a%20technology%20for,with%20Python%20or%20JavaScript%20expressions.",
+          "width": 1383,
+          "windowId": 59
+        },
+        "79": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://developer.mozilla.org/static/img/favicon32.7f3da72dcea1.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 79,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "String.prototype.match() - JavaScript | MDN",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match",
+          "width": 1383,
+          "windowId": 59
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "59": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 59,
+        "incognito": false,
+        "left": 263,
+        "state": "normal",
+        "top": 181,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 5,
+    "name": "String.prototype.match() - JavaScript | MDN",
+    "date": 1601744048346,
+    "lastEditedTime": 1601744048004,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601744038342,
+    "id": "61c4e991-54d7-4dba-ae25-408dde4c59d2"
+  }
+]

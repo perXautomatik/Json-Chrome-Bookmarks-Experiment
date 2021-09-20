@@ -1,0 +1,163 @@
+[
+  {
+    "windows": {
+      "1779": {
+        "1580": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://digitalconfidence.com/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1580,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "MetadataTouch - Powerful Multi-Format Metadata Editor",
+          "url": "http://digitalconfidence.com/MetadataTouch.html",
+          "width": 911,
+          "windowId": 1779
+        },
+        "1582": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 970,
+          "highlighted": false,
+          "id": 1582,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Exif Copier: copy, backup and restore exif",
+          "url": "https://web.archive.org/web/20121122084216/http://exifcopier.110mb.com/",
+          "width": 1879,
+          "windowId": 1779
+        },
+        "1583": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 970,
+          "highlighted": false,
+          "id": 1583,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Exif Stats Software | The Art of Seeing",
+          "url": "https://web.archive.org/web/20111216212338/http://www.thezeal.com/blog/exif-stats/",
+          "width": 1879,
+          "windowId": 1779
+        },
+        "1585": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 970,
+          "highlighted": false,
+          "id": 1585,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "GUI2 Output Examples - GUI2 Program for [ExifTool ver 8.79]",
+          "url": "https://web.archive.org/web/20120225101352/http://gui2-for-exiftool.weebly.com/gui2-output-examples.html",
+          "width": 1879,
+          "windowId": 1779
+        },
+        "1667": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://alternativeto.net/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1667,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MetadataTouch Alternatives and Similar Software - AlternativeTo.net",
+          "url": "https://alternativeto.net/software/metadatatouch/",
+          "width": 1879,
+          "windowId": 1779
+        },
+        "1668": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.metalith.ru/files/metalith.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1668,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Metalith",
+          "url": "http://www.metalith.ru/en/download.html",
+          "width": 1879,
+          "windowId": 1779
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1779": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1779,
+        "incognito": false,
+        "left": 952,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 968
+      }
+    },
+    "tabsNumber": 6,
+    "name": "MetadataTouch - Powerful Multi-Format Metadata Editor",
+    "date": 1600034617301,
+    "lastEditedTime": 1601295397556,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600030279299,
+    "id": "097a011f-4b7d-40f5-9426-e98750b75cf4"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "170": {
+        "169": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.groovypost.com/wp-content/uploads/2017/11/cropped-gp-logo-512-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 169,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "3 Ways to Keep a Window Always on Top on Windows 10",
+          "url": "https://www.groovypost.com/howto/howto/windows-programs-always-on-top/#:~:text=To%20make%20the%20active%20window,top%E2%80%9D%20for%20the%20active%20window.",
+          "width": 1383,
+          "windowId": 170
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "170": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 170,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Always on Top on Windows 3 Ways to Keep a Window 10",
+    "date": 1599924734670,
+    "lastEditedTime": 1601295397600,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599910754768,
+    "id": "0ee73469-500f-4d81-a6ed-9e2803b4b6f9"
+  }
+]

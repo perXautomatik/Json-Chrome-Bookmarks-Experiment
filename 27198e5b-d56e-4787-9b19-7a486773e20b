@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "3700": {
+        "3728": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://flow.microsoft.com/images/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3728,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Digitally transform your enterprise with Microsoft Power Automate | Power Automate Blog",
+          "url": "https://flow.microsoft.com/en-us/blog/digitally-transform-your-enterprise-with-microsoft-power-automate/",
+          "width": 1383,
+          "windowId": 3700
+        },
+        "3750": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3750,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://flow.microsoft.com/en-us/blog/digitally-transform-your-enterprise-with-microsoft-power-automate/",
+          "url": "https://flow.microsoft.com/en-us/blog/digitally-transform-your-enterprise-with-microsoft-power-automate/",
+          "width": 1383,
+          "windowId": 3700
+        },
+        "3826": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3826,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://www.youtube.com/watch?v=o8s1_qlzzd4&list=PLXtHYVsvn_b9MQ5eu2zb9ZYNLnDWsYAeL",
+          "url": "https://www.youtube.com/watch?v=o8s1_qlzzd4&list=PLXtHYVsvn_b9MQ5eu2zb9ZYNLnDWsYAeL",
+          "width": 1383,
+          "windowId": 3700
+        },
+        "3867": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3867,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm",
+          "url": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm",
+          "width": 1383,
+          "windowId": 3700
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3700": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 3700,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Digitally transform your enterprise with Microsoft Power Automate | Power Automate Blog",
+    "date": 1601172573082,
+    "lastEditedTime": 1601172568572,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "f11bcb91-1074-4b50-8bff-769e6481a507"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "433": {
+        "572": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1820,
+          "highlighted": false,
+          "id": 572,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tab Session Manager - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tab-session-manager/iaiomicjabeggjcfkbimgmglanimpnae?hl=en",
+          "width": 1039,
+          "windowId": 433
+        },
+        "605": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 1820,
+          "highlighted": false,
+          "id": 605,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab session Manager Settings",
+          "url": "https://gist.github.com/perXautomatik/857e17e888dca94712970b518565b9fd",
+          "width": 1039,
+          "windowId": 433
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "433": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1906,
+        "id": 433,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -735,
+        "type": "normal",
+        "width": 1096
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Tab Session Manager - Chrome Web Store",
+    "date": 1601295927417,
+    "lastEditedTime": 1601373156328,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1601295271964,
+    "id": "adc8aadb-e730-4de5-8b3e-50696aab6022"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "windows": {
+      "3131": {
+        "2500": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 1155,
+          "highlighted": true,
+          "id": 2500,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "att lyssna på - playlist by Christoffer Brobäck | Spotify",
+          "url": "https://open.spotify.com/playlist/7pvcgbw9qS1Dej5ksgO67S",
+          "width": 1073,
+          "windowId": 3131
+        },
+        "2910": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2910,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://open.spotify.com/playlist/37i9dQZF1Ej8a76cYDkXe4",
+          "url": "https://open.spotify.com/playlist/37i9dQZF1Ej8a76cYDkXe4",
+          "width": 1073,
+          "windowId": 3131
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3131": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 3131,
+        "incognito": false,
+        "left": 716,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 2,
+    "name": "att lyssna på - playlist by Christoffer Brobäck | Spotify",
+    "date": 1611537216470,
+    "lastEditedTime": 1611537196553,
+    "tag": [
+      "winClose",
+      "loppy"
+    ],
+    "sessionStartTime": 1611535482936,
+    "id": "c0c51364-b9b5-4942-9050-ffa9c0db7da6"
+  }
+]

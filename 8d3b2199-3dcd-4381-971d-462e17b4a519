@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "6513": {
+        "6515": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://sc.dgtcdn.net/images/34fb4-4e783.ico",
+          "height": 1001,
+          "highlighted": true,
+          "id": 6515,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Download Vysor Android Control on PC for Windows - Free - 1.7.3",
+          "url": "https://downloads.digitaltrends.com/vysor-android-control-on-pc/windows",
+          "width": 936,
+          "windowId": 6513
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "6513": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 6513,
+        "incognito": false,
+        "left": 1095,
+        "state": "normal",
+        "top": 644,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Download Vysor Android Control on PC for Windows - Free - 1.7.3",
+    "date": 1600111180228,
+    "lastEditedTime": 1601295397831,
+    "tag": [
+      "winClose",
+      "loppy",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "39875217-fa1a-4e3a-8dbd-9feb3dd27a6d"
+  }
+]

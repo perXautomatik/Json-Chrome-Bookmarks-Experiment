@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "60": {
+        "62": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 62,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "keep window in focus - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&sxsrf=ALeKk009Ew1tfepa9CNwiMHCv9ASwl7WiQ%3A1599908524202&ei=rKpcX9jcC-fKrgSjoYOQDA&q=keep+window+in+focus&oq=keep+window+in+focus&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEAUQHjoRCAAQsAMQigMQtwMQ5QIQiwNQ0BtY0BtgkB1oAXAAeACAAUeIAUeSAQExmAEAoAEBqgEHZ3dzLXdpesgBCrgBAsABAQ&sclient=psy-ab&ved=0ahUKEwjY4ofau-PrAhVnpYsKHaPQAMIQ4dUDCAw&uact=5",
+          "width": 0,
+          "windowId": 60
+        },
+        "63": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/superuser/Img/favicon.ico?v=4852d6fb3f5d",
+          "height": 933,
+          "highlighted": false,
+          "id": 63,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to Keep Window Focused/More than One Window Focused - Super User",
+          "url": "https://superuser.com/questions/733212/how-to-keep-window-focused-more-than-one-window-focused",
+          "width": 1879,
+          "windowId": 60
+        },
+        "64": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/superuser/Img/favicon.ico?v=4852d6fb3f5d",
+          "height": 933,
+          "highlighted": false,
+          "id": 64,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "macos - Easily tell if focused on VirtualBox window? - Super User",
+          "url": "https://superuser.com/questions/118314/easily-tell-if-focused-on-virtualbox-window",
+          "width": 1879,
+          "windowId": 60
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "60": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 60,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 3,
+    "name": "macos - Easily tell if focused on VirtualBox window? - Super User",
+    "date": 1599910773277,
+    "lastEditedTime": 1601295397748,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599910754768,
+    "id": "267a8e07-e39b-483d-9bce-e7a3629e7c52"
+  }
+]

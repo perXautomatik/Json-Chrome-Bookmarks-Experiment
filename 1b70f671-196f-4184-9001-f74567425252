@@ -1,0 +1,187 @@
+[
+  {
+    "windows": {
+      "186": {
+        "190": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 190,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Compare-Object (Microsoft.PowerShell.Utility) - PowerShell | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/compare-object?view=powershell-7",
+          "width": 1879,
+          "windowId": 186
+        },
+        "196": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 196,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tee-Object (Microsoft.PowerShell.Utility) - PowerShell | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/tee-object?view=powershell-7",
+          "width": 1879,
+          "windowId": 186
+        },
+        "204": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://img.netwrix.com/fav.v002.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 204,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PowerShell Variables and Arrays",
+          "url": "https://blog.netwrix.com/2018/10/04/powershell-variables-and-arrays/",
+          "width": 1879,
+          "windowId": 186
+        },
+        "209": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 970,
+          "highlighted": false,
+          "id": 209,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell - PSCustomObject to Hashtable - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/3740128/pscustomobject-to-hashtable",
+          "width": 1879,
+          "windowId": 186
+        },
+        "214": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 214,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell get-childitem recurse verbos - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=powershell+get-childitem+recurse+verbos&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1879,
+          "windowId": 186
+        },
+        "219": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://adamtheautomator.com/wp-content/uploads/2020/06/cropped-favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 219,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PowerShell Multithreading: A Deep Dive",
+          "url": "https://adamtheautomator.com/powershell-multithreading/#Understanding_PowerShell_Multithreading",
+          "width": 1879,
+          "windowId": 186
+        },
+        "228": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 970,
+          "highlighted": false,
+          "id": 228,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "file - Comparing folders and content with PowerShell - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/6526441/comparing-folders-and-content-with-powershell",
+          "width": 1879,
+          "windowId": 186
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "186": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 186,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 7,
+    "name": "file - Comparing folders and content with PowerShell - Stack Overflow",
+    "date": 1601394903032,
+    "lastEditedTime": 1601414868122,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601394370171,
+    "id": "85c2edf9-698e-4bd6-87c1-fcad63e3ec68"
+  }
+]

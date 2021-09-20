@@ -1,0 +1,188 @@
+[
+  {
+    "windows": {
+      "302": {
+        "299": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.jula.se/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 299,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Allt för hemmafixare och proffs.",
+          "url": "https://www.jula.se/search/?query=mobil&area=products&f.loopCategory.terms=%5B%22Hemelektronik%22%5D&sort.by=relevance&sort.order=desc",
+          "width": 1324,
+          "windowId": 302
+        },
+        "318": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.jula.se/favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 318,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Universalställ | MARQUANT",
+          "url": "https://www.jula.se/catalog/hem-och-hushall/hemelektronik/tillbehor-for-surfplattor-och-mobiler/hallare-och-fasten/universalstall-002283/",
+          "width": 1801,
+          "windowId": 302
+        },
+        "324": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.kjell.com/favicons/favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 324,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "mobil ställ | Kjell.com",
+          "url": "https://www.kjell.com/se/sok?q=mobil+st%C3%A4ll",
+          "width": 1801,
+          "windowId": 302
+        },
+        "336": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 336,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "use smartphone surveillance camera - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&hs=oRW&sxsrf=ALeKk003xMebvSCpar8VC-hnhUTF0Eehaw%3A1601993260123&ei=LHp8X-STB6uSrgSMyavwBg&q=use+smartphone+surveillance+camera&oq=user+smartphone+surveillance+ca&gs_lcp=CgZwc3ktYWIQAxgAMggIIRAWEB0QHjoECAAQRzoICAAQCBAHEB46CQgAEMkDEBYQHlD7mwFYoq0BYOu1AWgAcAJ4AIABc4gB-ASSAQM3LjGYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=psy-ab",
+          "width": 1324,
+          "windowId": 302
+        },
+        "339": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cnet3.cbsistatic.com/fly/bundles/cnetcss/images/core/icon/favicon-32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 339,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Turn an old phone into a security camera in 3 steps. Here's how to do it - CNET",
+          "url": "https://www.cnet.com/how-to/turn-old-phone-into-security-camera-in-3-steps-heres-how-android-iphone/",
+          "width": 1324,
+          "windowId": 302
+        },
+        "346": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://icdn2.digitaltrends.com/image/digitaltrends/dt-site-icon-144x144.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 346,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to Turn Your Old Phone into a Security Camera | Digital Trends",
+          "url": "https://www.digitaltrends.com/home/how-to-turn-your-old-phone-into-a-security-camera/",
+          "width": 1324,
+          "windowId": 302
+        },
+        "349": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.gstatic.com/android/market_images/web/favicon_v2.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 349,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 346,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Alfred Home Security Camera, Baby Monitor, Webcam - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.ivuu&hl=en&gl=US",
+          "width": 1324,
+          "windowId": 302
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "302": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 302,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Alfred Home Security Camera, Baby Monitor, Webcam - Apps on Google Play",
+    "date": 1601993418091,
+    "lastEditedTime": 1601993383039,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1601985000371,
+    "id": "f123e185-bbed-4b6b-9b5a-5e2e56dcbea9"
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "87": {
+        "90": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.rescuetime.com/favicon.ico",
+          "height": 660,
+          "highlighted": false,
+          "id": 90,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "RescueTime - All Activities",
+          "url": "https://www.rescuetime.com/browse/activity/by/rank",
+          "width": 1247,
+          "windowId": 87
+        },
+        "98": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://miro.medium.com/fit/c/128/128/1*ChFMdf--f5jbm-AYv6VdYA@2x.png",
+          "height": 449,
+          "highlighted": false,
+          "id": 98,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Python Interactive Network Visualization Using NetworkX, Plotly, and Dash | by Jiahui Wang | Towards Data Science",
+          "url": "https://towardsdatascience.com/python-interactive-network-visualization-using-networkx-plotly-and-dash-e44749161ed7",
+          "width": 909,
+          "windowId": 87
+        },
+        "127": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAj0lEQVRYR+1XQQ6AMAgb/9ufjH/igcYDHjDTbmYpku06Am2BJkghPyHXL1Jr3Z5AqOp+/r/FoUQsn8XHAeCRGWOvgI9Dmft8NwUWgN8q0LsdzS0YVSAMgNHtuHzgqwJ0AKgf5JsBlPlywrwKhDEidBinrSHdiOgA6C2gAUAL5/WBPAq0mOS/jNAezoqjX8cHRgmgMIX7sGQAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 127,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "A Photo Album with Python and PIL",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=A%20Photo%20Album%20with%20Python%20and%20PIL&pos=0&uri=https://lethain.com/a-photo-album-with-python-and-pil/",
+          "width": 0,
+          "windowId": 87
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "87": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 784,
+        "id": 87,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1304
+      }
+    },
+    "tabsNumber": 3,
+    "name": "RescueTime - All Activities",
+    "date": 1605617499407,
+    "lastEditedTime": 1605617488663,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1605584529589,
+    "id": "ec3dce67-824c-42c6-b01c-73e4e2cf692a"
+  }
+]

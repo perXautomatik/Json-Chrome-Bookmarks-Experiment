@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "5256": {
+        "5258": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn57.androidauthority.net/wp-content/uploads/2016/11/favicon1.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5258,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Buyer's guide: What is a Chromebook, what can and can't it do?",
+          "url": "https://www.androidauthority.com/what-is-a-chromebook-873948/",
+          "width": 1383,
+          "windowId": 5256
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5256": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 5256,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Buyer's guide: What is a Chromebook, what can and can't it do?",
+    "date": 1601173967366,
+    "lastEditedTime": 1601173966564,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "80eee3cd-b5df-4a23-bd55-edba283c46e5"
+  }
+]

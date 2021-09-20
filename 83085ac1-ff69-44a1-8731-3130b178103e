@@ -1,0 +1,144 @@
+[
+  {
+    "windows": {
+      "18553": {
+        "18554": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 1155,
+          "highlighted": true,
+          "id": 18554,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Introduction to GPU programming: When and how to use GPU-acceleration? | www.hpc2n.umu.se",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Introduction%20to%20GPU%20programming%3A%20When%20and%20how%20to%20use%20GPU-acceleration%3F%20%7C%20www.hpc2n.umu.se&pos=401.1428527832031&uri=https://www.hpc2n.umu.se/events/courses/when-and-how-to-use-gpu-acceleration",
+          "width": 1583,
+          "windowId": 18553
+        },
+        "18555": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 1155,
+          "highlighted": false,
+          "id": 18555,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "POSTPONED: Introduction to GPU programming: When and how to use GPU-acceleration? | www.hpc2n.umu.se",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=POSTPONED%3A%20Introduction%20to%20GPU%20programming%3A%20When%20and%20how%20to%20use%20GPU-acceleration%3F%20%7C%20www.hpc2n.umu.se&pos=0&uri=https://www.hpc2n.umu.se/events/courses/c3se2020-when-and-how-to-use-gpu-acceleration",
+          "width": 1583,
+          "windowId": 18553
+        },
+        "18556": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.hpc2n.umu.se/sites/all/themes/venture-hpc2n/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 18556,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Courses | www.hpc2n.umu.se",
+          "url": "https://www.hpc2n.umu.se/events/courses",
+          "width": 1583,
+          "windowId": 18553
+        },
+        "18557": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.hpc2n.umu.se/sites/all/themes/venture-hpc2n/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 18557,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "An introduction to parallel programming using Message Passing with MPI | www.hpc2n.umu.se",
+          "url": "https://www.hpc2n.umu.se/events/courses/2020/MPI",
+          "width": 1583,
+          "windowId": 18553
+        },
+        "18558": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.hpc2n.umu.se/sites/all/themes/venture-hpc2n/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 18558,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 18557,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Heterogeneous computing with performance modelling, 2020-11-(04-05) | www.hpc2n.umu.se",
+          "url": "https://www.hpc2n.umu.se/events/courses/2020/heterogeneous-computing-fall",
+          "width": 1583,
+          "windowId": 18553
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "18553": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 18553,
+        "incognito": false,
+        "left": 119,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1583
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Introduction to GPU programming: When and how to use GPU-acceleration? | www.hpc2n.umu.se",
+    "date": 1604482904476,
+    "lastEditedTime": 1604482899027,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "0bad25fe-08b6-4bce-8e76-e23b0def9b26"
+  }
+]

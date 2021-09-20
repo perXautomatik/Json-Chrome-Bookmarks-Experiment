@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "772": {
+        "773": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn1-images.nutaku.com/images/icons/favicon.ico",
+          "height": 956,
+          "highlighted": true,
+          "id": 773,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": true,
+            "reason": "user"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Booty Farm - Simulation Sex Game | Nutaku",
+          "url": "https://www.nutaku.net/games/booty-farm/play/",
+          "width": 1181,
+          "windowId": 772
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "772": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1036,
+        "id": 772,
+        "incognito": false,
+        "left": 691,
+        "state": "normal",
+        "top": 0,
+        "type": "popup",
+        "width": 1181
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Booty Farm - Simulation Sex Game | Nutaku",
+    "date": 1600205763736,
+    "lastEditedTime": 1601295398715,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600157465223,
+    "id": "bf168087-b73a-4ae2-a828-90c09f9ddda8"
+  }
+]

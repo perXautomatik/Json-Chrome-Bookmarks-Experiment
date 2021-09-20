@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "8748": {
+        "8758": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEEElEQVRYR7WXW2xUVRSGv3Vm7HSooSCValMgtQ8YokEhMdHEayTREIwJINfER33RxCewls6uNt7jg2++6YOxhngheEusEG7GoAlRbqK0gK1KwYIW2lI65yyzz8zQzpw9nWk77LeZsy7/Wnut9a8tlHVUMMzDZzFCAzFmA3MISITqHiMo/wGD+PxJjN8xDIBoKfMyuYAKHTSS5k4CmvGYi1BChwCff/E4hfILhl6kOJDixozaKO9BWArcWCoS53dlCOEwCX5gq9gMRY4bQIcuwOdRYOG0HBcqKb0oXbTLH4WfogBatZk4jyPMq4jznBFlgDRf0yHdE+3mA0jpQoQnpuA8yBrzygJrQcTZQav05uTHAdg7F1aXSHsa6EPoCSs+YJQ0QjzshjnAbUADQqwoIOUMI3zGG5mayAII22wFwr2TKsJBoAcjV5xyL2iSWpqyxbtoElv7MLJrHECHLiLNWoQah1KAcogke9gil8pKdSabDwJ3hVMiei6jfIyRPoEw+pUIy53GfX6iji6el9GynOeE3tUEF3ksC8Klup+UfCe0aD1VrEOY65DqYYjPebPMyAsNbNFaEqwhRqPD9jlG6BSMPgA8FJlwAWPE+YRtcmJKkRcKG12GsDJyFYqPx06hXdcBtzucnETZjpGrMwLwltZwiY3EaIjY8dlvM/AsQn3ko/ItRr6fkfOccpuuIsYyh63fhJRuxcuy2vjUsiz2KUaOVATANr2fOI84guwX2vQ5vAKGs3xWxRe0ypmKAHhZl6I86biCQXsFlvXyTxKliWGeEv/6A6iIhxJGbKcJDzukzpZaLioDz6gluLsdxn4tD8DrWssVFkd62a5i9RzjGRkritQOo1lsBOY7ZPaWB+AVbcZnQ4TlLL3C+xi5XBSA0fsQVjgKMI3HDluEHmPcSjXV2GkfxxbeX3kDaLoAjN6Spfg6B8A+S0gWQDWwHmEBiu3/Ya7yIa9K/zWl6QCwqU+yCqHZmR2hizY5kAEQsOkaYQSMUMUHvDQDABmCs/uF27nPP1TTSYsMZAAImyDLWDMBYNRuz3cQsJwYrrTbZAQI39AmP9ofwnt6A3+Hy0MdEl6Cj083VQzjh2Vn/5tNQFMeY2r4axTlFGCDsA+XRmJhtRffEZXD3MSXuf0i0wWqQjtCCuVtZjEUZsQWkK0JD5+TeGwH7E6YOQalhfkk2DyFd8NplJ0YuZAzE23DdzTJIE/nMaTSzRI+iozmF/VmEqGsa5XLrz27jMJXGDk38cP1B2AvUDiKsnti5FPPAHRiZPwKrIVSGfC5QJyDBPxcbJOOZsBoHFiCT01YgJlCvEiKE5FHpguA1Qg4j8dxRjnOa3J+MkIpbxQXs2DUds4GNHyI2MI6i0c/Q5zOPTxKsdn/sG2DeRZTWPIAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 8758,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Recommended Security Measures to Protect Your Servers | DigitalOcean",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Recommended%20Security%20Measures%20to%20Protect%20Your%20Servers%20%7C%20DigitalOcean&pos=0&uri=https://www.digitalocean.com/community/tutorials/recommended-security-measures-to-protect-your-servers",
+          "width": 0,
+          "windowId": 8748
+        },
+        "8763": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 1001,
+          "highlighted": true,
+          "id": 8763,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Configure availability group listeners & load balancer (Azure portal) - SQL Server on Azure VM | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-load-balancer-portal-configure",
+          "width": 936,
+          "windowId": 8748
+        },
+        "8769": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 8769,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "load balancing sql server - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=load%20balancing%20sql%20server%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=load+balancing+sql+server&rlz=1CAZBMY_enSE834&oq=load+balancing+sql+s&aqs=chrome.0.0l2j69i57j0l5.11140j1j7&sourceid=chrome&ie=UTF-8",
+          "width": 0,
+          "windowId": 8748
+        },
+        "8772": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE4UlEQVRYR8VX329URRT+7mQcb6+3t7vbZanttoBB0mgQkYgvaJAQok9GSEj8H3zxLzD+Bb74P5iQFOOTxhAkkRd/IkEJqQZsXUpZttvl9nK5jpOz5szsLrtLW/bWGM9Te/fMmW/O+c43ZzyMal+3JdbX50HYB4EZtBEB3phb3n4IDzEItyFwC8XiDbzpmVFCe090OtdW8O6/Do9ehec9/UR/i6f9F9rie7QnvsFZT2+3ZnsAC+t70KYz8MR4N4g0GkHSRBKVQULaz9JkCJIW0rAEI9Wj/dq0AU8s4ExxaSsQWwP4vL4f5qn3AIj+xYXmCnwiEBGSqAQLKEutSxyESIPC8F4E+feneKfy+2YgNgdwrh5CyPc55SpLwOc00p220GoMIuqLyj5JEAFEEER2jVaBKwmZT3C2kgyD2BzA+bW30BavsXPYWkVoBvmUmQzUXAUJAQhpsyAKFSjerM9iKZEWptwXj77F6ckvRwXwAdoisvVNmijETUjlgwSQ1ZchNlqblpQmygjK0wABOmkhCSPo8lwXQIzTkx+PBmBh/cOuo4obiJKWBaDjBmhtZdtGELuqUExGo5EKibRSfUSjM8WPRgYgyKDUqEF2mM4L06Xr4O/bGUmFYHa+50Jk0ChXXcfkAQAyKCz+ABWVIDq1TW8vQujMBueAYiwAhAA9SHrASPkIZg5YHy4DpTFa80ctV/ID+PErG8jf95ILmMYwSRN+uQrRlxkLiAx0owYRlqC4E0DIbv1i17WOnMoPQBiN6MoFDKfUmAxS+ptWYfi3bsbiwydtnFwZkDpDePUixOQUVFRxaddprxxMMsF0Z4pZ9XN6pbMEyg/d33EdtLaK5NAJGOXnA6B0Bv/aJSsoj0xAFCtQBQeI08yK2C0Hb053bg5kh7mSHXwDOi8AZnuludo7hT3peMGe2S/P2ZY066sWoJzZD6kC6OYKiEn60AmemJyGisqol6Z21gWV+jIoS2Du1WxA3sjcXQY3IqtfvzH7GQxniLr+k1WIIES9MrcDEpJGeO0yVHEK5u4fDsDsAatyFpB2F1DPnokgfL5CpAVp/XfPQa/XkRw8BhI5Sah0iuDqJWCibNPIHBNCwRgD3axBPIihOCNc97VViIkSIH2rGwySQNCtOnC/gfTQcXcp5RGiHgArOgJy917HbiKkjWUHYM8LVoiypeuQ4wUIP4IMItsJnLUugXcEwN7zVy72Ws1xXkDuqoKMhgqjTvs5ETJJbMGYeyuPrUkPn3CDSp4MsBSXazd69Rws+Oj/MQ8a1fn8JGQApdoikMagjeboO/arxngJCCI0qwfyA+hKsZydB6VMNNeKo5rotKD58wZ2JsVGI7xywbXTs3shVAhjxac+UOMBLWCOFCuQPLDqBOaOa9/k8Mn8HGAljDq3oY2iAshd01bxHCFtrznjFu3cBUanloj9OhEfOZVTCc+v2ZGswDowLDi8+VgIGYSurhaNgUkTiI4ED5RJBWgdOs4zYY6R7LPm2yDvqEpjBL9eHrXsm/qlLx6D5vlAtL/Du6Uvhp2eOJYHrTrkbz9tWfet0LFmmOdfQco3Z+6xnKP2PUwky/LNn7echodB0HgB6XMvwzi+7OBh0o049DRTWQy/XgPixmP1Zl4gKiOrVKF9O9ED/+pp1gXxvz5O+3P7Hz3P/wFGtIk/D0tp1wAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 8772,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Load Balancing with SQL Server - Database Administrators Stack Exchange",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Load%20Balancing%20with%20SQL%20Server%20-%20Database%20Administrators%20Stack%20Exchange&pos=0&uri=https://dba.stackexchange.com/questions/7451/load-balancing-with-sql-server",
+          "width": 0,
+          "windowId": 8748
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "8748": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 8748,
+        "incognito": false,
+        "left": 384,
+        "state": "normal",
+        "top": 329,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Configure availability group listeners & load balancer (Azure portal) - SQL Server on Azure VM | Microsoft Docs",
+    "date": 1601476078762,
+    "lastEditedTime": 1601476073035,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1600633358975,
+    "id": "f48c3bec-f9af-473e-95e0-75d182119b14"
+  }
+]

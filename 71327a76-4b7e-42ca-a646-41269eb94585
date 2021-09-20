@@ -1,0 +1,54 @@
+[
+  {
+    "windows": {
+      "18941": {
+        "18942": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": true,
+          "id": 18942,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "What's really behind the US's Huawei ban?",
+          "url": "https://www.newstatesman.com/spotlight-america/cyber/2019/11/whats-really-behind-uss-huawei-ban",
+          "width": 1583,
+          "windowId": 18941
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "18941": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 18941,
+        "incognito": false,
+        "left": 386,
+        "state": "normal",
+        "top": 472,
+        "type": "normal",
+        "width": 1583
+      }
+    },
+    "tabsNumber": 1,
+    "name": "What's really behind the US's Huawei ban?",
+    "date": 1604501461666,
+    "lastEditedTime": 1604501244669,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "d38ab25c-c427-4f07-ac50-3a50bed64215"
+  }
+]

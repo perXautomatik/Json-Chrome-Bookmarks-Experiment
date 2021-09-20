@@ -1,0 +1,210 @@
+[
+  {
+    "windows": {
+      "228": {
+        "105": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/b4620429/img/favicon_32.png",
+          "height": 1810,
+          "highlighted": false,
+          "id": 105,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(88) HitClips - The truth behind the toy - YouTube",
+          "url": "https://www.youtube.com/watch?v=X8568_3amO4",
+          "width": 1159,
+          "windowId": 228
+        },
+        "306": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://mk0trombiasweephbe5d.kinstacdn.com/wp-content/uploads/2020/08/cropped-Trombia-ICON-32x32.jpg",
+          "height": 0,
+          "highlighted": false,
+          "id": 306,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Trombia FREE • Trombia",
+          "url": "https://trombia.com/free/?gclid=Cj0KCQjw5eX7BRDQARIsAMhYLP_wNo9lT-EhrsW7b3XpW31dTqmtJT46-8KytP45-7xhHPZ8VKMTxvEaAl6jEALw_wcB",
+          "width": 0,
+          "windowId": 228
+        },
+        "332": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://store.steampowered.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 332,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Save 33% on HellSign on Steam",
+          "url": "https://store.steampowered.com/app/606500/HellSign/",
+          "width": 0,
+          "windowId": 228
+        },
+        "335": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://store.steampowered.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 335,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "NEKOPARA Vol. 1 on Steam",
+          "url": "https://store.steampowered.com/app/333600/NEKOPARA_Vol_1/",
+          "width": 0,
+          "windowId": 228
+        },
+        "338": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://store.steampowered.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 338,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "ISEKAI QUEST on Steam",
+          "url": "https://store.steampowered.com/app/1268110/ISEKAI_QUEST/",
+          "width": 0,
+          "windowId": 228
+        },
+        "344": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://store.steampowered.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 344,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Fission Superstar X on Steam",
+          "url": "https://store.steampowered.com/app/793680/Fission_Superstar_X/?curator_clanid=34077545",
+          "width": 0,
+          "windowId": 228
+        },
+        "347": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://store.steampowered.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 347,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Hatred on Steam",
+          "url": "https://store.steampowered.com/app/341940/Hatred/",
+          "width": 0,
+          "windowId": 228
+        },
+        "350": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://dbrand.com/sites/all/themes/dbrand_v3/img/misc/favicon/favicon-32.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 350,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 105,
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Teardown » Special Edition Drop » dbrand",
+          "url": "https://dbrand.com/shop/special-edition/teardown",
+          "width": 0,
+          "windowId": 228
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "228": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1896,
+        "id": 228,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -658,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 8,
+    "name": "(88) HitClips - The truth behind the toy - YouTube",
+    "date": 1601913232230,
+    "lastEditedTime": 1601845093601,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601744038342,
+    "id": "9761c40e-9d75-4612-87f0-1ec41e9f737d"
+  }
+]

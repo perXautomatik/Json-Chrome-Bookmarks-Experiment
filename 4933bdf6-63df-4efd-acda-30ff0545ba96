@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "42": {
+        "41": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.gotland.se/favicon.ico",
+          "height": 474,
+          "highlighted": false,
+          "id": 41,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Dokumentinformation",
+          "url": "https://www.gotland.se/servlet/EditLink?RETURN=/imcms/ckeditor/plugins/imcms_link/return_link.jsp&TYPE=1&HREF=%2F61773&TARGET=window",
+          "width": 784,
+          "windowId": 42
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "42": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 600,
+        "id": 42,
+        "incognito": false,
+        "left": 78,
+        "state": "normal",
+        "top": 0,
+        "type": "popup",
+        "width": 800
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Dokumentinformation",
+    "date": 1606132475359,
+    "lastEditedTime": 1606132437139,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1606130855215,
+    "id": "e03d5ffd-7a4c-4d13-9e7f-bed2613585e8"
+  }
+]

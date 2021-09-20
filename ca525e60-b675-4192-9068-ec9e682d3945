@@ -1,0 +1,192 @@
+[
+  {
+    "windows": {
+      "2053": {
+        "2056": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.electronicsforu.com/wp-contents/uploads/2016/03/cropped-Screen-Shot-2016-03-07-at-13.29.14-1-1-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 2056,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Automatic USB Controlled Power Switch | Full Project Available",
+          "url": "https://www.electronicsforu.com/electronics-projects/hardware-diy/automatic-usb-controlled-power-switch",
+          "width": 1324,
+          "windowId": 2053
+        },
+        "2057": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 2057,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2056,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Arduino PC key event ?",
+          "url": "https://forum.arduino.cc/index.php?topic=117620.0",
+          "width": 1324,
+          "windowId": 2053
+        },
+        "2058": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/electronics/Img/favicon.ico?v=a17b31b3918d",
+          "height": 721,
+          "highlighted": false,
+          "id": 2058,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2056,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "microcontroller - I'd like to learn how to make my own USB gadgets - Electrical Engineering Stack Exchange",
+          "url": "https://electronics.stackexchange.com/questions/267/id-like-to-learn-how-to-make-my-own-usb-gadgets",
+          "width": 1324,
+          "windowId": 2053
+        },
+        "2059": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 2059,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2056,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "plan arduino project - Google Search",
+          "url": "https://www.google.com/search?q=plan+arduino+project&sxsrf=ALeKk03R1iTnC1sQIn5JOSdQ9nd8g-_Ssg:1584534166931&source=lnms&tbm=isch&sa=X&ved=2ahUKEwieyp3hgaToAhXBy6YKHZkbBNAQ_AUoAXoECBAQAw&biw=988&bih=633",
+          "width": 1324,
+          "windowId": 2053
+        },
+        "2060": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 2060,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2056,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Arduino ESP32 : Turn on LED on Button… – EverythingESP",
+          "url": "https://everythingesp.com/arduino-esp32-turn-on-led-on-button/",
+          "width": 1324,
+          "windowId": 2053
+        },
+        "2061": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 2061,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2056,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "arduino * turn off * when * event * turn on * when * push of button - Google Search",
+          "url": "https://www.google.com/search?q=arduino+*+turn+off+*+when+*+event+*+turn+on+*+when+*+push+of+button&tbm=isch&ved=2ahUKEwiC96S0gqToAhUQwyoKHT0fCPMQ2-cCegQIABAA&oq=arduino+*+turn+off+*+when+*+event+*+turn+on+*+when+*+push+of+button&gs_l=img.3...6671.34919..35220...4.0..0.72.1344.24......0....1..gws-wiz-img.......35i39.S0GQoW44qH0&ei=RRNyXsLABpCGqwG9vqCYDw&bih=633&biw=988",
+          "width": 1324,
+          "windowId": 2053
+        },
+        "2062": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.circuitbasics.com/wp-content/uploads/2017/01/cropped-Circuit-Basics-Image-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 2062,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2056,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Turn Any Appliance into a Smart Device with an Arduino Controlled Power Outlet",
+          "url": "https://www.circuitbasics.com/build-an-arduino-controlled-power-outlet/",
+          "width": 1324,
+          "windowId": 2053
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2053": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 2053,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Automatic USB Controlled Power Switch | Full Project Available",
+    "date": 1599751486167,
+    "lastEditedTime": 1601295397588,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599749435362,
+    "id": "0e290ea1-2107-4646-adbe-24ffc1e043a0"
+  }
+]

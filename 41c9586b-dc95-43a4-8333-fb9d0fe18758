@@ -1,0 +1,54 @@
+[
+  {
+    "windows": {
+      "75": {
+        "113": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 967,
+          "highlighted": false,
+          "id": 113,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "DirectoryFileComparator (Commons IO 2.4 API)",
+          "url": "file:///E:/Programming(projects)/projects/io/comparator/DirectoryFileComparator.html",
+          "width": 843,
+          "windowId": 75
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "75": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 75,
+        "incognito": false,
+        "left": 740,
+        "state": "normal",
+        "top": 305,
+        "type": "normal",
+        "width": 900
+      }
+    },
+    "tabsNumber": 1,
+    "name": "DirectoryFileComparator (Commons IO 2.4 API)",
+    "date": 1599859352607,
+    "lastEditedTime": 1601295397494,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599858850642,
+    "id": "012f34e8-a76c-4906-b6f3-0dc6e0dfb4ad"
+  }
+]

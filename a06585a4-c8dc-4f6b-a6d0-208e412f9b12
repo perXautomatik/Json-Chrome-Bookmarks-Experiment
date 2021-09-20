@@ -1,0 +1,407 @@
+[
+  {
+    "windows": {
+      "570": {
+        "613": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 613,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Powershell Multidimensional Arrays - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/9397137/powershell-multidimensional-arrays",
+          "width": 1383,
+          "windowId": 570
+        },
+        "616": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://devblogs.microsoft.com/scripting/wp-content/uploads/sites/29/2018/10/Microsoft-Favicon.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 616,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Use PowerShell to Compare Two Files | Scripting Blog",
+          "url": "https://devblogs.microsoft.com/scripting/use-powershell-to-compare-two-files/",
+          "width": 0,
+          "windowId": 570
+        },
+        "624": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 624,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "batch file compare powershell - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=batch+file+compare+powershell&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 0,
+          "windowId": 570
+        },
+        "627": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "",
+          "height": 0,
+          "highlighted": false,
+          "id": 627,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Speed Dial",
+          "url": "chrome://startpageshared/",
+          "width": 0,
+          "windowId": 570
+        },
+        "628": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 628,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "get file difference powershell - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=get+file+difference+powershell&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 0,
+          "windowId": 570
+        },
+        "631": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/serverfault/Img/favicon.ico?v=18e9cc4f2aea",
+          "height": 0,
+          "highlighted": false,
+          "id": 631,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "How do I diff two text files in Windows Powershell? - Server Fault",
+          "url": "https://serverfault.com/questions/5598/how-do-i-diff-two-text-files-in-windows-powershell",
+          "width": 0,
+          "windowId": 570
+        },
+        "634": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 634,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "fc | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/fc",
+          "width": 0,
+          "windowId": 570
+        },
+        "637": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 637,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell compare json - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=powershell+compare+json&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 570
+        },
+        "638": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 638,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Batch File to Compare Properties Files [beginner] - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/38882426/batch-file-to-compare-properties-files-beginner",
+          "width": 0,
+          "windowId": 570
+        },
+        "643": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://dotnet-helpers.com/wp-content/uploads/2020/10/dotnet-helpers_resize_image_Icon.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 643,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Powershell : How to Compare Two Files, and List Differences | Dotnet Helpers",
+          "url": "https://dotnet-helpers.com/powershell/compare-two-files-list-differences/",
+          "width": 0,
+          "windowId": 570
+        },
+        "646": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 646,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "mulesoft - How to compare JSON in powershell - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/58185002/how-to-compare-json-in-powershell",
+          "width": 1383,
+          "windowId": 570
+        },
+        "649": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://secure.gravatar.com/blavatar/f91b142ae12a167bfb94f9cb9d0dfffc?s=32",
+          "height": 691,
+          "highlighted": false,
+          "id": 649,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Comparing Objects using JSON in PowerShell for Pester Tests – PowerShell, Programming and DevOps",
+          "url": "https://dscottraynsford.wordpress.com/2015/08/23/comparing-objects-using-json-in-powershell-for-pester-tests/",
+          "width": 1383,
+          "windowId": 570
+        },
+        "652": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://community.spiceworks.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 652,
+          "incognito": false,
+          "index": 16,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "json object comparison in powershell - Spiceworks",
+          "url": "https://community.spiceworks.com/topic/2282924-json-object-comparison-in-powershell",
+          "width": 1383,
+          "windowId": 570
+        },
+        "655": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 655,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Powershell Compare text files and show differences - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/19402629/powershell-compare-text-files-and-show-differences",
+          "width": 0,
+          "windowId": 570
+        },
+        "658": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 658,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell compare files against eachother - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=powershell+compare+files+against+eachother&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 0,
+          "windowId": 570
+        },
+        "667": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://mcpmag.com/design/ECG/mcpmag/img/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 667,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "How To Compare the Contents of Two Folders with PowerShell -- Microsoft Certified Professional Magazine Online",
+          "url": "https://mcpmag.com/articles/2016/04/14/contents-of-two-folders-with-powershell.aspx",
+          "width": 0,
+          "windowId": 570
+        },
+        "673": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 673,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "creating two dimensional ressult array powershell - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=creating+two+dimensional+ressult+array+powershell&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 0,
+          "windowId": 570
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "570": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 570,
+        "incognito": false,
+        "left": 223,
+        "state": "normal",
+        "top": 111,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 17,
+    "name": "mulesoft - How to compare JSON in powershell - Stack Overflow",
+    "date": 1602258146958,
+    "lastEditedTime": 1602258100678,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602086503320,
+    "id": "50aeb2aa-76ab-4140-8e2a-b35ac48ca526"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "34": {
+        "33": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.gotland.se/favicon.ico",
+          "height": 1813,
+          "highlighted": false,
+          "id": 33,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Ändra bild",
+          "url": "https://www.gotland.se/servlet/ImageBrowse",
+          "width": 1122,
+          "windowId": 34
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "34": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1936,
+        "id": 34,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "popup",
+        "width": 1138
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Ändra bild",
+    "date": 1606132410540,
+    "lastEditedTime": 1606132402184,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1606130855215,
+    "id": "af97b7b8-3d58-41ae-b6fe-7615cd3efc3b"
+  }
+]

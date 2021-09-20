@@ -1,0 +1,208 @@
+[
+  {
+    "windows": {
+      "3947": {
+        "3937": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://community.atlassian.com/html/assets/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3937,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Solved: Forcing Trello URLs to Default to Desktop App",
+          "url": "https://community.atlassian.com/t5/Trello-questions/Forcing-Trello-URLs-to-Default-to-Desktop-App/qaq-p/643869",
+          "width": 459,
+          "windowId": 3947
+        },
+        "3938": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://hackernoon.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3938,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Copying text to clipboard with JavaScript | Hacker Noon",
+          "url": "https://hackernoon.com/copying-text-to-clipboard-with-javascript-df4d4988697f",
+          "width": 459,
+          "windowId": 3947
+        },
+        "3939": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.autohotkey.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3939,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "OnClipboardChange - Syntax & Usage | AutoHotkey",
+          "url": "https://www.autohotkey.com/docs/commands/OnClipboardChange.htm",
+          "width": 459,
+          "windowId": 3947
+        },
+        "3941": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3941,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "windows dfs - Google Search",
+          "url": "https://www.google.com/search?q=windows%20dfs",
+          "width": 459,
+          "windowId": 3947
+        },
+        "3942": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3942,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Using Windows Indexing on a DFS Share? Can it be done? : sysadmin",
+          "url": "https://www.reddit.com/r/sysadmin/comments/4qffnv/using_windows_indexing_on_a_dfs_share_can_it_be/d4smdup/",
+          "width": 459,
+          "windowId": 3947
+        },
+        "3944": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3944,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Replicate Folder Targets using DFS Replication | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/replicate-folder-targets-using-dfs-replication",
+          "width": 459,
+          "windowId": 3947
+        },
+        "3945": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3945,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "dfs into junction - Google Search",
+          "url": "https://www.google.com/search?q=dfs%20into%20junction",
+          "width": 459,
+          "windowId": 3947
+        },
+        "3946": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 3946,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "insidan.gotland.se",
+          "url": "http://insidan.gotland.se/49305",
+          "width": 459,
+          "windowId": 3947
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3947": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 3947,
+        "incognito": false,
+        "left": 965,
+        "state": "normal",
+        "top": 88,
+        "type": "normal",
+        "width": 516
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Solved: Forcing Trello URLs to Default to Desktop App",
+    "date": 1600024638300,
+    "lastEditedTime": 1601295399023,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "ea948a48-078d-406a-afa3-1245f89bb779"
+  }
+]

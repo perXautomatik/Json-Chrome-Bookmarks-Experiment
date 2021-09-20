@@ -1,0 +1,123 @@
+[
+  {
+    "windows": {
+      "15505": {
+        "15504": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1155,
+          "highlighted": false,
+          "id": 15504,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "database - How can I make use of a .db file in SQL server 2008? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/24962255/how-can-i-make-use-of-a-db-file-in-sql-server-2008",
+          "width": 1138,
+          "windowId": 15505
+        },
+        "15509": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.mssqltips.com/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 15509,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 15504,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Creating a SQL Server Linked Server to SQLite to Import Data",
+          "url": "https://www.mssqltips.com/sqlservertip/3087/creating-a-sql-server-linked-server-to-sqlite-to-import-data/",
+          "width": 1138,
+          "windowId": 15505
+        },
+        "15512": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 15512,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 15504,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQLite ODBC Driver",
+          "url": "http://www.ch-werner.de/sqliteodbc/",
+          "width": 1138,
+          "windowId": 15505
+        },
+        "15515": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1155,
+          "highlighted": true,
+          "id": 15515,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 15504,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Import data from SQLite to SQL Server with SqlBulkCopy class - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/1333592/import-data-from-sqlite-to-sql-server-with-sqlbulkcopy-class",
+          "width": 1138,
+          "windowId": 15505
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "15505": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 15505,
+        "incognito": false,
+        "left": 533,
+        "state": "normal",
+        "top": 415,
+        "type": "normal",
+        "width": 1138
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Import data from SQLite to SQL Server with SqlBulkCopy class - Stack Overflow",
+    "date": 1603265787311,
+    "lastEditedTime": 1603265783565,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "b8821ac6-b5e7-4a39-bb8f-38cd4df34f43"
+  }
+]

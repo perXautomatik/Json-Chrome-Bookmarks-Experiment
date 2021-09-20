@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "18999": {
+        "18998": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.howtogeek.com/public/images/x32x32.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.ladCzNKJij.png",
+          "height": 1155,
+          "highlighted": false,
+          "id": 18998,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to Speed Up, Disable, or Rebuild the Windows Search Index",
+          "url": "https://www.howtogeek.com/howto/windows-vista/speed-up-or-disable-windows-search-indexing-in-vista/",
+          "width": 1073,
+          "windowId": 18999
+        },
+        "19003": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1123,
+          "highlighted": true,
+          "id": 19003,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 18998,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "New Tab",
+          "url": "chrome://newtab/",
+          "width": 1073,
+          "windowId": 18999
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "18999": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 18999,
+        "incognito": false,
+        "left": 993,
+        "state": "normal",
+        "top": 844,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 2,
+    "name": "New Tab",
+    "date": 1604564976676,
+    "lastEditedTime": 1604564694144,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "f078051b-ee7e-45af-9cff-c520394f6851"
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "windows": {
+      "3718": {
+        "3734": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 3734,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/",
+          "url": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/",
+          "width": 1383,
+          "windowId": 3718
+        },
+        "3762": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a1710201881_3.jpg",
+          "height": 691,
+          "highlighted": false,
+          "id": 3762,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Krach und Stahl für immer! | FLUTWACHT",
+          "url": "https://flutwacht.bandcamp.com/album/krach-und-stahl-f-r-immer",
+          "width": 1383,
+          "windowId": 3718
+        },
+        "3844": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://accounts.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3844,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Error 404 (Not Found)!!1",
+          "url": "https://accounts.google.com/signin/chrome/sync?ssp=1&continue=https%3A%2F%2Fwww.google.com%2F",
+          "width": 1383,
+          "windowId": 3718
+        },
+        "3882": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3882,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome history save - Google Search",
+          "url": "https://www.google.com/search?sxsrf=ALeKk02gV4GgNou1Wl_vRgiEaZX08V_-cA%3A1587467491737&ei=49SeXv7CLL6NwPAPq5aQwAw&q=chrome+history+save&oq=chrome+history+save&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgAEEc6BAgjECdQwZECWLmVAmDblgJoAHADeACAAVWIAY4CkgEBNJgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwi-wL-fsfnoAhW-BhAIHSsLBMgQ4dUDCAw&uact=5",
+          "width": 1383,
+          "windowId": 3718
+        },
+        "3917": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3917,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Export History/Bookmarks to JSON/CSV*/XLS* - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/export-historybookmarks-t/dcoegfodcnjofhjfbhegcgjgapeichlf?hl=en",
+          "width": 1383,
+          "windowId": 3718
+        },
+        "3946": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3946,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Smart History Classifier - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/smart-history-classifier/aidekkbjhnjbijljkpgdmmcgigjkknba?hl=en",
+          "width": 1383,
+          "windowId": 3718
+        },
+        "3966": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3966,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Export History - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/export-history/hcohnnbbiggngobheobhdipbgmcbelhh?hl=en",
+          "width": 1383,
+          "windowId": 3718
+        },
+        "3978": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3978,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Export History/Bookmarks to JSON/CSV*/XLS* - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/export-historybookmarks-t/dcoegfodcnjofhjfbhegcgjgapeichlf?hl=en",
+          "width": 1383,
+          "windowId": 3718
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3718": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 3718,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Krach und Stahl für immer! | FLUTWACHT",
+    "date": 1601172568243,
+    "lastEditedTime": 1601172566671,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "9c5c262e-702c-4d1a-9a9a-9445f37c8ee6"
+  }
+]

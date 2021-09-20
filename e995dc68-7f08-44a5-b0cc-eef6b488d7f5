@@ -1,0 +1,231 @@
+[
+  {
+    "windows": {
+      "6764": {
+        "6767": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://community.atlassian.com/html/assets/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 6767,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Opening hyperlinks to cards in the Trello app (not...",
+          "url": "https://community.atlassian.com/t5/Trello-questions/Opening-hyperlinks-to-cards-in-the-Trello-app-not-a-web-browser/qaq-p/640774",
+          "width": 1383,
+          "windowId": 6764
+        },
+        "6769": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.digitalcitizen.life/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 6769,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The complete guide to setting the default apps in Windows 10 | Digital Citizen",
+          "url": "https://www.digitalcitizen.life/default-apps-windows10",
+          "width": 1383,
+          "windowId": 6764
+        },
+        "6773": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://theme.zdassets.com/theme_assets/7538/b0cb3f20a70e215b2704195b7e61c32c51d79598.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 6773,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Launching applications using custom browser protocols – Shotgun Support",
+          "url": "https://support.shotgunsoftware.com/hc/en-us/articles/219031308-Launching-applications-using-custom-browser-protocols",
+          "width": 1383,
+          "windowId": 6764
+        },
+        "6776": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://social.technet.microsoft.com/wiki/themes/TechNetMetro/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 6776,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PowerShell: Running Executables - TechNet Articles - United States (English) - TechNet Wiki",
+          "url": "https://social.technet.microsoft.com/wiki/contents/articles/7703.powershell-running-executables.aspx",
+          "width": 1383,
+          "windowId": 6764
+        },
+        "6777": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 6777,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Running a command as Administrator using PowerShell? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7690994/running-a-command-as-administrator-using-powershell",
+          "width": 1383,
+          "windowId": 6764
+        },
+        "6780": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ss64.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 6780,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Run with elevated permissions UAC - PowerShell - SS64.com",
+          "url": "https://ss64.com/ps/syntax-elevate.html",
+          "width": 1383,
+          "windowId": 6764
+        },
+        "6785": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 6785,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Working with AppLocker rules (Windows 10) - Windows security | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/working-with-applocker-rules",
+          "width": 1383,
+          "windowId": 6764
+        },
+        "6788": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/superuser/Img/favicon.ico?v=4852d6fb3f5d",
+          "height": 691,
+          "highlighted": false,
+          "id": 6788,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "windows 10 - How do I figure out the installation path of apps from the Microsoft Store - Super User",
+          "url": "https://superuser.com/questions/1298194/how-do-i-figure-out-the-installation-path-of-apps-from-the-microsoft-store",
+          "width": 1383,
+          "windowId": 6764
+        },
+        "6789": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://i.stack.imgur.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 6789,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sWieq.png (1334×740)",
+          "url": "https://i.stack.imgur.com/sWieq.png",
+          "width": 1383,
+          "windowId": 6764
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "6764": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 6764,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 9,
+    "name": "Opening hyperlinks to cards in the Trello app (not...",
+    "date": 1601177439153,
+    "lastEditedTime": 1601177438473,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "25c44932-31b7-4226-b16e-851a608593c5"
+  }
+]

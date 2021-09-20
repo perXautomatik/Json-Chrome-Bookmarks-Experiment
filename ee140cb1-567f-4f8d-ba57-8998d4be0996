@@ -1,0 +1,274 @@
+[
+  {
+    "windows": {
+      "867": {
+        "680": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 680,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Widsith Records' Community | Widsith Records",
+          "url": "https://widsithrecords.bandcamp.com/community",
+          "width": 559,
+          "windowId": 867
+        },
+        "681": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 681,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Artists | American Dreams",
+          "url": "https://americandreamsrecords.bandcamp.com/",
+          "width": 559,
+          "windowId": 867
+        },
+        "682": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 682,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Artists | Lay Bare Recordings",
+          "url": "https://laybarerecordings.com/artists",
+          "width": 1175,
+          "windowId": 867
+        },
+        "683": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 683,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Music | Gondolin Records",
+          "url": "https://gondolinrecords.bandcamp.com/",
+          "width": 1175,
+          "windowId": 867
+        },
+        "684": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 684,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Frayle | Spotify",
+          "url": "https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1?autoplay=true",
+          "width": 1175,
+          "windowId": 867
+        },
+        "685": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 685,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Moral Excerpt August Playlist - playlist by Moral Excerpt | Spotify",
+          "url": "https://open.spotify.com/playlist/3JfsR0inR4tXTwNZgM3fI8",
+          "width": 1175,
+          "windowId": 867
+        },
+        "686": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/c6e04acca5e9d4b211066f43e5ebe4b3b5d1dabc/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 686,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MSH Music Group Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/1363490-MSH-Music-Group",
+          "width": 1175,
+          "windowId": 867
+        },
+        "687": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/c6e04acca5e9d4b211066f43e5ebe4b3b5d1dabc/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 687,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audiodrive Studio Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/800622-Audiodrive-Studio",
+          "width": 1175,
+          "windowId": 867
+        },
+        "688": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 688,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Music | Pest Productions",
+          "url": "https://pestproductions.bandcamp.com/",
+          "width": 1175,
+          "windowId": 867
+        },
+        "689": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a2592807483_3.jpg",
+          "height": 691,
+          "highlighted": false,
+          "id": 689,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Dreamlike Ailment | IX reflections",
+          "url": "https://ixreflections.bandcamp.com/album/dreamlike-ailment",
+          "width": 1175,
+          "windowId": 867
+        },
+        "690": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 690,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Music | Orb Tapes",
+          "url": "https://orbtapes.bandcamp.com/",
+          "width": 1175,
+          "windowId": 867
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "867": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 867,
+        "incognito": false,
+        "left": 622,
+        "state": "normal",
+        "top": 7,
+        "type": "normal",
+        "width": 616
+      }
+    },
+    "tabsNumber": 11,
+    "name": "Widsith Records' Community | Widsith Records",
+    "date": 1600113539920,
+    "lastEditedTime": 1601295399041,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600112532784,
+    "id": "eafdd129-91cd-4757-99f9-f06c8df24dea"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "windows": {
+      "109": {
+        "108": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 668,
+          "highlighted": false,
+          "id": 108,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "windows cmd restart process by name - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=windows+cmd+restart+process+by+name&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 753,
+          "windowId": 109
+        }
+      },
+      "118": {
+        "117": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 668,
+          "highlighted": false,
+          "id": 117,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "win cmd reboot - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=win+cmd+reboot&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 753,
+          "windowId": 118
+        }
+      },
+      "129": {
+        "128": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 668,
+          "highlighted": false,
+          "id": 128,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Warpath of Disease · Lorna Shore",
+          "url": "https://open.spotify.com/",
+          "width": 753,
+          "windowId": 129
+        }
+      },
+      "165": {
+        "171": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAATlJREFUWAm9VsEJAjEQPPz5t4A8bMIiBLGClGApNiCkAduwCT/5+/cnOiMXCMuAd3i7A8OZsOxMzpskw+CDw9S2q6mFM+qOqN3PqF+0dIduTzAv2nVisy3qHuAbTGAoNlC7gxSvYCjWULuBFCcLGAZ+xFewifOZwTCcodSL83eKUj8J8Rolzqy/hIESYaBl3b76kP+/z7oykDzfQJ91JV49xW3WlYHiZUBlXRnIXgZU1pWB5GVA9aWYMmHnaN4FGV2tmB1zi/a4b3wXVH4Y4OHED9cNFZ3tituYxzIj64aEzk3MPnkh4WbliozuVphjXsW4TbujQMEa4MHEAyoEFSrWAI/mECSoWHG3rKsVZWPANevKQOkMuGddGaijAfesK/E0iodkXRnImAzLujJwwWRY1pWBg5r8d+4DPAafI44hXKIAAAAASUVORK5CYII=",
+          "height": 668,
+          "highlighted": false,
+          "id": 171,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Dubolt - Discover new music on Spotify",
+          "url": "https://dubolt.com/",
+          "width": 753,
+          "windowId": 165
+        }
+      }
+    },
+    "windowsNumber": 4,
+    "windowsInfo": {
+      "109": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 788,
+        "id": 109,
+        "incognito": false,
+        "left": 642,
+        "state": "normal",
+        "top": 315,
+        "type": "normal",
+        "width": 810
+      },
+      "118": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 788,
+        "id": 118,
+        "incognito": false,
+        "left": 597,
+        "state": "normal",
+        "top": 176,
+        "type": "normal",
+        "width": 810
+      },
+      "129": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 788,
+        "id": 129,
+        "incognito": false,
+        "left": 613,
+        "state": "normal",
+        "top": 21,
+        "type": "normal",
+        "width": 810
+      },
+      "165": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 788,
+        "id": 165,
+        "incognito": false,
+        "left": 479,
+        "state": "normal",
+        "top": 83,
+        "type": "normal",
+        "width": 810
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Dubolt - Discover new music on Spotify",
+    "date": 1620981660741,
+    "lastEditedTime": 1620981660741,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1620979644404,
+    "id": "8b421612-136e-4d83-bb6a-1a93f2bdee35"
+  }
+]

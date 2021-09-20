@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "19359": {
+        "19392": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://einsteinathome.org/sites/default/files/einstein_favicon.ico",
+          "height": 1155,
+          "highlighted": true,
+          "id": 19392,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Einstein@Home",
+          "url": "https://einsteinathome.org/",
+          "width": 586,
+          "windowId": 19359
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "19359": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 19359,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 586
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Einstein@Home",
+    "date": 1604921251129,
+    "lastEditedTime": 1604921245554,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "88bcefb9-24b1-4626-8900-43b08cdc13ed"
+  }
+]

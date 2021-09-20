@@ -1,0 +1,408 @@
+[
+  {
+    "windows": {
+      "935": {
+        "789": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 789,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Rising Pulse Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/188745-Rising-Pulse-Records?sort=year&sort_order=desc",
+          "width": 911,
+          "windowId": 935
+        },
+        "790": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 790,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "4iB Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/373020-4iB-Records?sort=year&sort_order=desc",
+          "width": 1879,
+          "windowId": 935
+        },
+        "791": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 791,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "New Approach Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/173105-New-Approach-Records",
+          "width": 1383,
+          "windowId": 935
+        },
+        "792": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 792,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Black Monolith Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/11860-Black-Monolith-Records",
+          "width": 1383,
+          "windowId": 935
+        },
+        "793": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 793,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Raw Power Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/75058-Raw-Power-Records",
+          "width": 1383,
+          "windowId": 935
+        },
+        "794": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 794,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Dry Lungs Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/209939-Dry-Lungs-Records",
+          "width": 1383,
+          "windowId": 935
+        },
+        "795": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 795,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Glossolalia Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/428417-Glossolalia-Records",
+          "width": 1383,
+          "windowId": 935
+        },
+        "796": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 796,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Ksenza Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/791829-Ksenza-Records?sort=year&sort_order=desc",
+          "width": 1383,
+          "windowId": 935
+        },
+        "797": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 797,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Raw Power Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/75058-Raw-Power-Records",
+          "width": 1383,
+          "windowId": 935
+        },
+        "798": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 798,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Dry Lungs Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/209939-Dry-Lungs-Records",
+          "width": 1383,
+          "windowId": 935
+        },
+        "799": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 799,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Raderkraft | Discography | Discogs",
+          "url": "https://www.discogs.com/artist/5425143-Raderkraft",
+          "width": 1383,
+          "windowId": 935
+        },
+        "800": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 800,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Oxen Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/736189-Oxen",
+          "width": 1383,
+          "windowId": 935
+        },
+        "801": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 801,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Chaosynod Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/137020-Chaosynod?sort=year&sort_order=desc",
+          "width": 1383,
+          "windowId": 935
+        },
+        "802": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 802,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Vinyl Records, CDs, and More from Redscroll For Sale at Discogs Marketplace",
+          "url": "https://www.discogs.com/seller/Redscroll/profile",
+          "width": 1383,
+          "windowId": 935
+        },
+        "803": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 803,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Cadabra Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/891578-Cadabra-Records",
+          "width": 1383,
+          "windowId": 935
+        },
+        "804": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 804,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MSH Music Group Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/1363490-MSH-Music-Group",
+          "width": 1383,
+          "windowId": 935
+        },
+        "805": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 805,
+          "incognito": false,
+          "index": 16,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audiodrive Studio Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/800622-Audiodrive-Studio",
+          "width": 1879,
+          "windowId": 935
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "935": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 935,
+        "incognito": false,
+        "left": 952,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 968
+      }
+    },
+    "tabsNumber": 17,
+    "name": "Rising Pulse Records Label | Releases | Discogs",
+    "date": 1600035509378,
+    "lastEditedTime": 1601295398327,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600035071828,
+    "id": "8cab8b34-02af-4c79-8a60-a00d3117f540"
+  }
+]

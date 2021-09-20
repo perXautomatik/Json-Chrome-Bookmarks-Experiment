@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "113": {
+        "126": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/b4620429/img/favicon_32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 126,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(88) when it rains at 2,000,000,000x light speed - YouTube",
+          "url": "https://www.youtube.com/watch?v=5ZhgK6HoNEM",
+          "width": 1879,
+          "windowId": 113
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "113": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 763,
+        "id": 113,
+        "incognito": false,
+        "left": 633,
+        "state": "minimized",
+        "top": 32,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(88) when it rains at 2,000,000,000x light speed - YouTube",
+    "date": 1601828968439,
+    "lastEditedTime": 1601828480152,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601744038342,
+    "id": "a279d205-59a5-47cc-bd7a-f2e4c62c7cca"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "windows": {
+      "3981": {
+        "4331": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 958,
+          "highlighted": false,
+          "id": 4331,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "should i upload my music to youtube music - Google Search",
+          "url": "https://www.google.com/search?q=should+i+upload+my+music+to+youtube+music&sxsrf=ALeKk02NrkMjK9LFuy_CV9p4RLyFMfsm6Q:1585919708301&ei=3DaHXsP9EeWvrgSxraKgBA&start=20&sa=N&ved=2ahUKEwjD2-umq8zoAhXll4sKHbGWCEQ4ChDw0wN6BAgMED8&biw=793&bih=1801",
+          "width": 1589,
+          "windowId": 3981
+        },
+        "4332": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 958,
+          "highlighted": false,
+          "id": 4332,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Drag and drop from outlook : PowerShell",
+          "url": "https://www.reddit.com/r/PowerShell/comments/81dmj4/drag_and_drop_from_outlook/",
+          "width": 1589,
+          "windowId": 3981
+        },
+        "4333": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.howtogeek.com/public/images/x32x32.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.ladCzNKJij.png",
+          "height": 958,
+          "highlighted": false,
+          "id": 4333,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How Do You Emulate Drag and Drop Without Holding the Mouse Button Down?",
+          "url": "https://www.howtogeek.com/269070/how-do-you-emulate-drag-and-drop-without-holding-the-mouse-button-down/",
+          "width": 1589,
+          "windowId": 3981
+        },
+        "4334": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 958,
+          "highlighted": false,
+          "id": 4334,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "slangvinda - Google Shopping",
+          "url": "https://www.google.com/search?q=slangvinda&sa=N&hl=en&biw=722&bih=1801&tbm=shop&sxsrf=ALeKk02SvSDbAV8VGwh_2rRR8qKvi-Zklg:1585922771227&tbs=vw:l,ss:44,p_ord:p&ei=00KHXpOkDa72qwGEuK1g&ved=0ahUKEwjT2a3btszoAhUu-yoKHQRcCww4FBC7DQjOAigC",
+          "width": 1589,
+          "windowId": 3981
+        },
+        "4335": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 958,
+          "highlighted": false,
+          "id": 4335,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Brennenstuhl 1130710, Svart | Google Shopping",
+          "url": "https://www.google.com/shopping/product/16923366463010450069?q=slangvinda&hl=en&biw=722&bih=1801&sxsrf=ALeKk02SvSDbAV8VGwh_2rRR8qKvi-Zklg:1585922771227&prds=epd:2264514728984179185,paur:ClkAsKraXxzXiSijIsZmSouRVBh62fB9RCA0uHqPUXp5faHx-0aLt7Ui7XnzXG-zadldV_6OM7tdDAgWMiQ0Y9oKVL7ckkk1pp04OA_W4gZTjnU-8Lulce7cBxIZAFPVH717zLM7zycE6p5h_zRv6QqkAYSCuA,prmr:1&sa=X&ved=0ahUKEwijmOPhtszoAhVUi8MKHT9NCMYQ8wII2AI",
+          "width": 1589,
+          "windowId": 3981
+        },
+        "4336": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://b2c.cdon.se/assets/b2c/favicon-consumer.ico",
+          "height": 958,
+          "highlighted": false,
+          "id": 4336,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Brennenstuhl 1130710 Svart Slangvinda tom | CDON.COM",
+          "url": "https://b2c.cdon.se/hushallsapparater/brennenstuhl-1130710-svart-slangvinda-tom-p34727991?gclid=CjwKCAjwvZv0BRA8EiwAD9T2VcEEGJRhp59ETMm2VRBTpkY9XUKT6wMLsY-RegwTdL-UrN-XOskjJhoCehYQAvD_BwE&gclsrc=aw.ds#fo_c=1753&fo_k=25869afafb1a72781a78af67776803f2&fo_s=gplase",
+          "width": 1589,
+          "windowId": 3981
+        },
+        "4337": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "height": 958,
+          "highlighted": false,
+          "id": 4337,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "konstruktor_k’s Library | Last.fm",
+          "url": "https://www.last.fm/user/konstruktor_k/library/tracks?from=2014-07-01&rangetype=year",
+          "width": 1589,
+          "windowId": 3981
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3981": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1047,
+        "id": 3981,
+        "incognito": false,
+        "left": -7,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1646
+      }
+    },
+    "tabsNumber": 7,
+    "name": "konstruktor_k’s Library | Last.fm",
+    "date": 1600026665647,
+    "lastEditedTime": 1601295398142,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "6309c9d4-5c46-4e50-9a78-f86fd6f266dd"
+  }
+]

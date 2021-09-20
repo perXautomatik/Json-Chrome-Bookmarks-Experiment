@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "3309": {
+        "3311": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.partitionwizard.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3311,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Thanks for Downloading MiniTool Partition Wizard Free",
+          "url": "https://www.partitionwizard.com/download-free-from-cnet.html?p=pw&e=pw-free&r=www.partitionwizard.com/",
+          "width": 1383,
+          "windowId": 3309
+        },
+        "3312": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.partitionwizard.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3312,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MiniTool Partition Wizard | Best partition magic alternative for Windows PC and Server",
+          "url": "https://www.partitionwizard.com/",
+          "width": 1383,
+          "windowId": 3309
+        },
+        "3313": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.partitionwizard.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3313,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AHCI VS RAID: Which One Should I Choose for Better Performance?",
+          "url": "https://www.partitionwizard.com/partitionmanager/ahci-vs-raid.html",
+          "width": 1383,
+          "windowId": 3309
+        },
+        "3316": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.partitionwizard.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3316,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Thanks for Downloading MiniTool Partition Wizard Free",
+          "url": "https://www.partitionwizard.com/download-free-from-cnet.html?p=pw&e=pw-free&r=www.partitionwizard.com/",
+          "width": 1383,
+          "windowId": 3309
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3309": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 3309,
+        "incognito": false,
+        "left": 205,
+        "state": "normal",
+        "top": 359,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Thanks for Downloading MiniTool Partition Wizard Free",
+    "date": 1601172059965,
+    "lastEditedTime": 1601172044780,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "974e1b15-4603-42bc-b2d0-dd9946f4f564"
+  }
+]

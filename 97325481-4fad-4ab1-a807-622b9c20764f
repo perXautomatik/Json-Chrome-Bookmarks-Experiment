@@ -1,0 +1,187 @@
+[
+  {
+    "windows": {
+      "247": {
+        "267": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.npap.me/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 267,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "SQLite split string - Nikos Papandreou",
+          "url": "https://www.npap.me/blog/sqlite-split-string",
+          "width": 0,
+          "windowId": 247
+        },
+        "270": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 270,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "datagrip sqlite custom function - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=datagrip+sqlite+custom+function&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 247
+        },
+        "273": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.thetopsites.net/img/favicon/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 273,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "How to split comma-separated value in SQLite?",
+          "url": "https://www.thetopsites.net/article/59270040.shtml#:~:text=Select%20the%20cells%20you%20need,comma%20separated%20values%20in%20SQLite.",
+          "width": 0,
+          "windowId": 247
+        },
+        "276": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 276,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "[SQLITE_ERROR] SQL error or missing database (near \"function\": syntax error) - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=%5BSQLITE_ERROR%5D+SQL+error+or+missing+database+(near+%22function%22%3A+syntax+error)&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 0,
+          "windowId": 247
+        },
+        "279": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://sqlite.org/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 279,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Application-Defined SQL Functions",
+          "url": "https://sqlite.org/appfunc.html",
+          "width": 0,
+          "windowId": 247
+        },
+        "282": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 282,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "java - Creating custom function in sqlite3 in android - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/25303766/creating-custom-function-in-sqlite3-in-android",
+          "width": 0,
+          "windowId": 247
+        },
+        "285": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 285,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "android - How can I create a user-defined function in SQLite? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7867099/how-can-i-create-a-user-defined-function-in-sqlite",
+          "width": 0,
+          "windowId": 247
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "247": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 247,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 7,
+    "name": "datagrip sqlite custom function - Google Search",
+    "date": 1601834943915,
+    "lastEditedTime": 1601833776081,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601744038342,
+    "id": "cefd6b5a-0912-4dc2-ae03-96c30ef69420"
+  }
+]

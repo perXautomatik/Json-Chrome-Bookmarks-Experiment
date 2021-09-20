@@ -1,0 +1,122 @@
+[
+  {
+    "windows": {
+      "698": {
+        "701": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 701,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Announcing the Docs Markdown Extension for Visual Studio Code | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/teamblog/docs-extension",
+          "width": 1383,
+          "windowId": 698
+        },
+        "702": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 702,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Enable Block at First Sight to detect malware in seconds - Windows security | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/configure-block-at-first-sight-microsoft-defender-antivirus",
+          "width": 1879,
+          "windowId": 698
+        },
+        "754": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://img.rl.se/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 754,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "RT90, WGS84 och SWEREF 99: Omvandla koordinater",
+          "url": "https://rl.se/rt90",
+          "width": 1879,
+          "windowId": 698
+        },
+        "757": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 757,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "A tool to search for albums using multiple tags/genres : BandCamp",
+          "url": "https://www.reddit.com/r/BandCamp/comments/6r2u5l/a_tool_to_search_for_albums_using_multiple/",
+          "width": 1879,
+          "windowId": 698
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "698": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1056,
+        "id": 698,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Enable Block at First Sight to detect malware in seconds - Windows security | Microsoft Docs",
+    "date": 1600031070003,
+    "lastEditedTime": 1601295399161,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600030279299,
+    "id": "f684f95b-1ff3-4236-acf1-dd5292d7b1db"
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "1587": {
+        "1647": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 681,
+          "highlighted": false,
+          "id": 1647,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "c# 4.0 - PDFsharp edit a pdf file - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/17647872/pdfsharp-edit-a-pdf-file",
+          "width": 1410,
+          "windowId": 1587
+        },
+        "1650": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://aws1.discourse-cdn.com/uipath/optimized/3X/0/7/077e6958f14022e7848fb6f2d9eba984ce327d67_2_32x32.png",
+          "height": 681,
+          "highlighted": false,
+          "id": 1650,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PdfSharp PdfReader.Open problem - Build - UiPath Community Forum",
+          "url": "https://forum.uipath.com/t/pdfsharp-pdfreader-open-problem/14339",
+          "width": 1410,
+          "windowId": 1587
+        },
+        "1653": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/22000623387/fav_icon/5621EU2sMJlWv9-0TpFdnQFGdR_-wTspdQ.ico",
+          "height": 681,
+          "highlighted": false,
+          "id": 1653,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How to merge multiple PDF with Pdfsharp and Powershell : coolOrange",
+          "url": "https://support.coolorange.com/support/solutions/articles/22000211000-how-to-merge-multiple-pdf-with-pdfsharp-and-powershell",
+          "width": 1410,
+          "windowId": 1587
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1587": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 801,
+        "id": 1587,
+        "incognito": false,
+        "left": 845,
+        "state": "normal",
+        "top": 302,
+        "type": "normal",
+        "width": 1467
+      }
+    },
+    "tabsNumber": 3,
+    "name": "How to merge multiple PDF with Pdfsharp and Powershell : coolOrange",
+    "date": 1600267071237,
+    "lastEditedTime": 1601295397994,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600156534702,
+    "id": "52fd2321-98b9-48e0-8774-2c8cfe3be896"
+  }
+]

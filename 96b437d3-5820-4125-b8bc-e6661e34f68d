@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "19011": {
+        "19010": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1155,
+          "highlighted": true,
+          "id": 19010,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "hysterectomy - Google Search",
+          "url": "https://www.google.com/search?q=hysterectomy&rlz=1CAZBMY_enSE834&oq=hystor&aqs=chrome.1.69i57j0l3j46j0l3.2630j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 1713,
+          "windowId": 19011
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "19011": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 19011,
+        "incognito": false,
+        "left": 988,
+        "state": "normal",
+        "top": 338,
+        "type": "normal",
+        "width": 1713
+      }
+    },
+    "tabsNumber": 1,
+    "name": "hysterectomy - Google Search",
+    "date": 1604565933512,
+    "lastEditedTime": 1604565914591,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "a129590c-2659-4c39-b442-91c5e3e3e9fc"
+  }
+]

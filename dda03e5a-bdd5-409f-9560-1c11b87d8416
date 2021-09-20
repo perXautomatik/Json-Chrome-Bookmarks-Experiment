@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "4141": {
+        "4143": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1001,
+          "highlighted": true,
+          "id": 4143,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "crosh",
+          "url": "chrome-untrusted://crosh/",
+          "width": 936,
+          "windowId": 4141
+        },
+        "4150": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 4150,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Enabling Swap Memory on ChromeOS. If you own a Chromebook with a low… | by Nithil Krishnaraj | TechTalkers | Medium",
+          "url": "https://medium.com/techtalkers/enabling-swap-memory-on-chromeos-41dcfc4cf93",
+          "width": 936,
+          "windowId": 4141
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4141": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 4141,
+        "incognito": false,
+        "left": 130,
+        "state": "normal",
+        "top": 488,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Enabling Swap Memory on ChromeOS. If you own a Chromebook with a low… | by Nithil Krishnaraj | TechTalkers | Medium",
+    "date": 1599917423165,
+    "lastEditedTime": 1601295397880,
+    "tag": [
+      "winClose",
+      "loppy",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "44136210-5816-4018-90a8-6c96fffb9354"
+  }
+]

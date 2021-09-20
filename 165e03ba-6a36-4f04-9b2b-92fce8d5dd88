@@ -1,0 +1,100 @@
+[
+  {
+    "windows": {
+      "115": {
+        "118": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.evernote.com/favicon.ico?v2",
+          "height": 647,
+          "highlighted": false,
+          "id": 118,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Evernote",
+          "url": "https://www.evernote.com/business/BillyBusinessCheckout.action?businessSignupFlow.present=true&businessSignupFlow.contactEmail=christoffer.broback%40edu.gotland.se&businessSignupFlow.contactName=christoffer+brob%C3%A4ck&businessSignupFlow.adminChosen=true&businessSignupFlow.businessName=Region+Gotland&businessSignupFlow.createBob=true&businessSignupFlow.pswd=TuA_GlivdkrDk6l8-70myOlr9U3Izl8ggeOl6USrwoE&businessSignupFlow.canInvoice=false&businessSignupFlow.inviteTeam=true&businessSignupFlow.createBilly=false&businessSignupFlow.freeTrial=true&businessSignupFlow.encodedSignupCode=eyJidXNpbmVzc1R5cGUiOiJCT0IiLCJlbnRyeVBvaW50IjoiYnVzaW5lc3NQYWdlIiwicHVyY2hhc2VUeXBlIjoiVFJJQUwiLCJ1c2VyVHlwZSI6Ik5FVyJ9",
+          "width": 1183,
+          "windowId": 115
+        },
+        "148": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://192.168.0.161/webGui/images/green-on.png",
+          "height": 667,
+          "highlighted": false,
+          "id": 148,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tower/Docker",
+          "url": "http://192.168.0.161/Docker",
+          "width": 1247,
+          "windowId": 115
+        },
+        "151": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://192.168.0.161:8081/app/images/icons/novnc-32x32.png",
+          "height": 667,
+          "highlighted": false,
+          "id": 151,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 148,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Chrome - noVNC",
+          "url": "http://192.168.0.161:8081/vnc.html?autoconnect=true",
+          "width": 1247,
+          "windowId": 115
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "115": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 784,
+        "id": 115,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1304
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Chrome - noVNC",
+    "date": 1615565928712,
+    "lastEditedTime": 1615565928712,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1615560243832,
+    "id": "7e289e23-4f0d-4215-bd69-1b211f2d0f01"
+  }
+]

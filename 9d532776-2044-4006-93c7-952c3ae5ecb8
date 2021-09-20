@@ -1,0 +1,327 @@
+[
+  {
+    "windows": {
+      "2006": {
+        "2009": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.programiz.com/sites/all/themes/programiz/assets/favicon.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 2009,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Python JSON: Read, Write, Parse JSON (With Examples)",
+          "url": "https://www.programiz.com/python-programming/json",
+          "width": 1324,
+          "windowId": 2006
+        },
+        "2011": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.howtogeek.com/public/images/x32x32.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.ladCzNKJij.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 2011,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2009,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "When Can You Move a Windows License to a New PC?",
+          "url": "https://www.howtogeek.com/261053/when-can-you-move-a-windows-license-to-a-new-pc/",
+          "width": 1324,
+          "windowId": 2006
+        },
+        "2012": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.howtogeek.com/public/images/x32x32.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.ladCzNKJij.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 2012,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2009,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Can You Move a Windows Installation to Another Computer?",
+          "url": "https://www.howtogeek.com/239815/why-cant-you-move-a-windows-installation-to-another-computer/",
+          "width": 1324,
+          "windowId": 2006
+        },
+        "2013": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.howtogeek.com/public/images/x32x32.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.ladCzNKJij.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 2013,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2009,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "How To Uninstall Your Windows Product Key Before You Sell Your PC",
+          "url": "https://www.howtogeek.com/124286/how-to-uninstall-your-windows-product-key-before-you-sell-your-pc/",
+          "width": 1324,
+          "windowId": 2006
+        },
+        "2014": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 721,
+          "highlighted": false,
+          "id": 2014,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2009,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Find and replace with a newline in Visual Studio Code - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/30351529/find-and-replace-with-a-newline-in-visual-studio-code",
+          "width": 1324,
+          "windowId": 2006
+        },
+        "2015": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 2015,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2009,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Regex Tutorial - Lookahead and Lookbehind Zero-Length Assertions",
+          "url": "https://www.regular-expressions.info/lookaround.html",
+          "width": 1324,
+          "windowId": 2006
+        },
+        "2016": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 2016,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2009,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Lookahead and Lookbehind Tutorial—Tips &Tricks",
+          "url": "https://www.rexegg.com/regex-lookarounds.html",
+          "width": 1324,
+          "windowId": 2006
+        },
+        "2017": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 2017,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2009,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Highlight Search Keywords - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/highlight-search-keywords/nflhamjkngakbdnihackfkjoabknmooi/related?hl=en",
+          "width": 1324,
+          "windowId": 2006
+        },
+        "2018": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 2018,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2009,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "opera://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "url": "chrome://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "width": 1324,
+          "windowId": 2006
+        },
+        "2019": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.debuggex.com/static/img/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 2019,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2009,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.",
+          "url": "https://www.debuggex.com/",
+          "width": 1324,
+          "windowId": 2006
+        },
+        "2020": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 2020,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2009,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "french variant of omelet - Google Search",
+          "url": "https://www.google.com/search?q=french%20variant%20of%20omelet",
+          "width": 1324,
+          "windowId": 2006
+        },
+        "2021": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 2021,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2009,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "datagrip select on ressult table - Google Search",
+          "url": "https://www.google.com/search?q=datagrip%20select%20on%20ressult%20table",
+          "width": 1324,
+          "windowId": 2006
+        },
+        "2022": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 2022,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2009,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Regex Cheat Sheet",
+          "url": "https://www.rexegg.com/regex-quickstart.html",
+          "width": 1324,
+          "windowId": 2006
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2006": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 2006,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 13,
+    "name": "Python JSON: Read, Write, Parse JSON (With Examples)",
+    "date": 1599751422427,
+    "lastEditedTime": 1601295398214,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599749435362,
+    "id": "78433304-feb5-4a59-bc31-51bdf3021f7f"
+  }
+]

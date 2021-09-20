@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "11860": {
+        "11867": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 1001,
+          "highlighted": true,
+          "id": 11867,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Pirple.com: What will you learn today?",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Pirple.com%3A%20What%20will%20you%20learn%20today%3F&pos=0&uri=https://www.pirple.com/?campaignid=10950477961&adgroupid=111186735327&adid=459769371297&gclid=CjwKCAjwlID8BRAFEiwAnUoK1bvC-PVFX42TTtZLiBZiv_4j-hda5VvPCNY8nehGzI_A_sMMrxgfbhoCGtgQAvD_BwE",
+          "width": 936,
+          "windowId": 11860
+        },
+        "11929": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.1177.se/build/1177/static/favicons/favicon-32x32.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 11929,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Hitta vård - 1177 Vårdguiden",
+          "url": "https://www.1177.se/Gotland/hitta-vard/",
+          "width": 936,
+          "windowId": 11860
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "11860": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 11860,
+        "incognito": false,
+        "left": -44,
+        "state": "normal",
+        "top": 41,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Pirple.com: What will you learn today?",
+    "date": 1602259724570,
+    "lastEditedTime": 1602259723111,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "2db921fa-d60a-439b-9283-c015fdc0ac83"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "windows": {
+      "242": {
+        "241": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.wolframalpha.com/_next/static/images/favicon_fzx75d1e.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 241,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(A union B) intersect C - Wolfram|Alpha",
+          "url": "https://www.wolframalpha.com/input/?i=%28A+union+B%29+intersect+C&lk=3",
+          "width": 805,
+          "windowId": 242
+        },
+        "251": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 251,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "expressing sql table relations with set math - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=expressing+sql+table+relations+with+set+math&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 805,
+          "windowId": 242
+        },
+        "254": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.sqlshack.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 254,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "From mathematics to SQL Server, a fast introduction to set theory",
+          "url": "https://www.sqlshack.com/mathematics-sql-server-fast-introduction-set-theory/",
+          "width": 805,
+          "windowId": 242
+        },
+        "257": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 257,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiFxZTJwqLsAhVdAhAIHQEyDq4QFjACegQIAhAC&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRelational_algebra&usg=AOvVaw068e7mYkJpkUkr4kaqDxsu",
+          "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiFxZTJwqLsAhVdAhAIHQEyDq4QFjACegQIAhAC&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRelational_algebra&usg=AOvVaw068e7mYkJpkUkr4kaqDxsu",
+          "width": 805,
+          "windowId": 242
+        },
+        "258": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1010,
+          "highlighted": false,
+          "id": 258,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Lecture Notes: Relational Algebra",
+          "url": "http://www.databasteknik.se/webbkursen/relalg-lecture/",
+          "width": 1801,
+          "windowId": 242
+        },
+        "263": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 263,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "wolfram alpha simplfy relational algebra - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=wolfram+alpha+simplfy+relational+algebra&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1801,
+          "windowId": 242
+        },
+        "266": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://dbis-uibk.github.io/relax/assets/favicon/favicon-32x32.png",
+          "height": 1010,
+          "highlighted": false,
+          "id": 266,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 263,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "RelaX - relational algebra calculator",
+          "url": "https://dbis-uibk.github.io/relax/landing",
+          "width": 1801,
+          "windowId": 242
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "242": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1096,
+        "id": 242,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 7,
+    "name": "RelaX - relational algebra calculator",
+    "date": 1602075170551,
+    "lastEditedTime": 1602075125692,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602068426777,
+    "id": "264770d0-5667-43f1-bc53-56188f778771"
+  }
+]

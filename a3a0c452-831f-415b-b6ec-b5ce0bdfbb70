@@ -1,0 +1,140 @@
+[
+  {
+    "windows": {
+      "1522": {
+        "2219": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pdfsam.org/icns/favicon.ico",
+          "height": 998,
+          "highlighted": false,
+          "id": 2219,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Download PDF Split And Merge - PDFsam",
+          "url": "https://pdfsam.org/downloads/",
+          "width": 878,
+          "windowId": 1522
+        },
+        "2220": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 998,
+          "highlighted": false,
+          "id": 2220,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Customize file names - PDFsam",
+          "url": "https://pdfsam.org/customize-file-names/",
+          "width": 878,
+          "windowId": 1522
+        },
+        "2221": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 998,
+          "highlighted": false,
+          "id": 2221,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "substitute - Google Search",
+          "url": "https://www.google.com/search?q=substitute",
+          "width": 878,
+          "windowId": 1522
+        },
+        "2222": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 998,
+          "highlighted": false,
+          "id": 2222,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "SQL Server SELECT TOP By Practical Examples",
+          "url": "https://www.sqlservertutorial.net/sql-server-basics/sql-server-select-top/",
+          "width": 878,
+          "windowId": 1522
+        },
+        "2223": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 998,
+          "highlighted": false,
+          "id": 2223,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "sql - Get top 1 row of each group - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/6841605/get-top-1-row-of-each-group",
+          "width": 878,
+          "windowId": 1522
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1522": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1087,
+        "id": 1522,
+        "incognito": false,
+        "left": 71,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 935
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Download PDF Split And Merge - PDFsam",
+    "date": 1599751784882,
+    "lastEditedTime": 1601295398002,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599749435362,
+    "id": "53cb2d99-c4df-4af0-aa0b-7925822152a1"
+  }
+]

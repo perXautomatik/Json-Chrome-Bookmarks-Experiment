@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "380": {
+        "382": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.compuphase.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 382,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Quick colour averaging",
+          "url": "https://www.compuphase.com/graphic/scale3.htm",
+          "width": 1383,
+          "windowId": 380
+        },
+        "383": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 383,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 382,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Build C++ code using cmd or powershell - Microsoft Q&A",
+          "url": "https://docs.microsoft.com/en-us/answers/questions/92830/build-c-code-using-cmd-or-powershell.html",
+          "width": 1383,
+          "windowId": 380
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "380": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 380,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Quick colour averaging",
+    "date": 1602490827882,
+    "lastEditedTime": 1602490818217,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602486715090,
+    "id": "ed8d0220-fe27-4ea6-9fe7-cef7e5b1b139"
+  }
+]

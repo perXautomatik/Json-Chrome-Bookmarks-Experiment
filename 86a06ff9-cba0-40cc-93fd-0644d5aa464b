@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "8404": {
+        "8369": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/c46c1860/img/favicon_32.png",
+          "height": 1920,
+          "highlighted": false,
+          "id": 8369,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(69) Skyrim with 1 Hit Point, but Mayonnaise if I die - YouTube",
+          "url": "https://www.youtube.com/watch?v=F00YymoMq94&list=TLPQMjcwOTIwMjBhTzFwhakV5w&index=25",
+          "width": 1200,
+          "windowId": 8404
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "8404": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1920,
+        "id": 8404,
+        "incognito": false,
+        "left": 1920,
+        "state": "fullscreen",
+        "top": -650,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(69) Skyrim with 1 Hit Point, but Mayonnaise if I die - YouTube",
+    "date": 1601235321431,
+    "lastEditedTime": 1601235321431,
+    "tag": [
+      "regular",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "41a95d3a-2313-4a5b-bf53-295e55a4f513"
+  }
+]

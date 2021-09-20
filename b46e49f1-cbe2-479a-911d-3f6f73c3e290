@@ -1,0 +1,140 @@
+[
+  {
+    "windows": {
+      "3115": {
+        "2385": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "height": 1202,
+          "highlighted": false,
+          "id": 2385,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "DWService - christoffer.broback@gmail.com",
+          "url": "https://www.dwservice.net/session.dw#s",
+          "width": 887,
+          "windowId": 3115
+        },
+        "2388": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "height": 1155,
+          "highlighted": true,
+          "id": 2388,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Home2",
+          "url": "https://www.dwservice.net/session.dw?parent=mng#s",
+          "width": 1073,
+          "windowId": 3115
+        },
+        "2753": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2753,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Privacy error",
+          "url": "https://node443189.dwservice.net/tmpres/BKPnONjiejskpfZLgxrUwwSuNWhvRMdBtyiuVoir.dw#s",
+          "width": 1073,
+          "windowId": 3115
+        },
+        "2970": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2970,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "https://www.dwservice.net/en/download.html",
+          "url": "https://www.dwservice.net/en/download.html",
+          "width": 1073,
+          "windowId": 3115
+        },
+        "2993": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2993,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Privacy error",
+          "url": "https://node443189.dwservice.net/tmpres/QubxeGESnBtqgXTjbAcGaasxyYPePBkfTVVqzNtq.dw#s",
+          "width": 1073,
+          "windowId": 3115
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3115": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 3115,
+        "incognito": false,
+        "left": 636,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Home2",
+    "date": 1611537246883,
+    "lastEditedTime": 1611537220794,
+    "tag": [
+      "winClose",
+      "loppy"
+    ],
+    "sessionStartTime": 1611535482936,
+    "id": "0a652b70-362b-43f1-910b-f7e8d980ffa7"
+  }
+]

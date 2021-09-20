@@ -1,0 +1,134 @@
+[
+  {
+    "windows": {
+      "20080": {
+        "19587": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/e31c6cad/img/favicon_32.png",
+          "height": 1155,
+          "highlighted": true,
+          "id": 19587,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(181) EEVblog #1346 - How An Infrared Optical Touch Screen Works - YouTube",
+          "url": "https://www.youtube.com/watch?v=qnZ9KfJNjRQ&list=TLPQMTExMTIwMjBUabeFWCX10A&index=9",
+          "width": 663,
+          "windowId": 20080
+        }
+      },
+      "20219": {
+        "20218": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.shopify.com/s/files/1/0085/1863/1479/t/8/assets/favicon.ico?v=6372981725351003708",
+          "height": 1163,
+          "highlighted": false,
+          "id": 20218,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Why capacitors fail, capacitor failure modes and common causes",
+          "url": "https://www.electrocube.com/pages/why-capacitors-fail-technical-bulletin#:~:text=The%20classic%20capacitor%20failure%20mechanism%20is%20dielectric%20breakdown.&text=Dielectric%20breakdown%20may%20occur%20as,may%20cause%20a%20premature%20failure.",
+          "width": 2146,
+          "windowId": 20219
+        },
+        "20226": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1163,
+          "highlighted": true,
+          "id": 20226,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Lecture 5, Sept. 15, 2000",
+          "url": "http://hep.physics.wayne.edu/~harr/courses/2140/f00/lecture5.htm",
+          "width": 2146,
+          "windowId": 20219
+        },
+        "20229": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 20229,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "earth skye thunder capacitance - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=earth%20skye%20thunder%20capacitance%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=earth+skye+thunder+capacitance&rlz=1CAZBMY_enSE834&oq=earth+skye++thunder+capacitance&aqs=chrome..69i57.12196j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 0,
+          "windowId": 20219
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "20080": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 20080,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 663
+      },
+      "20219": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 20219,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 2146
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Lecture 5, Sept. 15, 2000",
+    "date": 1605127410224,
+    "lastEditedTime": 1605127410224,
+    "tag": [
+      "regular",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "01123722-da51-4996-bc98-a9f58305f69c"
+  }
+]

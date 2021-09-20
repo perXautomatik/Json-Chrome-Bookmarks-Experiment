@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "370": {
+        "373": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.codeproject.com/favicon/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 373,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PDF File Writer C# Class Library (Version 1.27.0) - CodeProject",
+          "url": "https://www.codeproject.com/Articles/570682/PDF-File-Writer-Csharp-Class-Library-Version-1-27",
+          "width": 1410,
+          "windowId": 370
+        },
+        "376": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.codeproject.com/favicon/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 376,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 373,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PDF File Writer C# Class Library (Version 1.27.0) - CodeProject",
+          "url": "https://www.codeproject.com/Articles/570682/PDF-File-Writer-Csharp-Class-Library-Version-1-27#BookmarkSupport",
+          "width": 1410,
+          "windowId": 370
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "370": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 370,
+        "incognito": false,
+        "left": 132,
+        "state": "normal",
+        "top": 100,
+        "type": "normal",
+        "width": 1467
+      }
+    },
+    "tabsNumber": 2,
+    "name": "PDF File Writer C# Class Library (Version 1.27.0) - CodeProject",
+    "date": 1599824139441,
+    "lastEditedTime": 1601295398820,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599820276730,
+    "id": "cc4ff3fc-ac11-4437-b833-fb89867939ca"
+  }
+]

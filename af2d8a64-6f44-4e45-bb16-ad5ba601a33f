@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "1414": {
+        "1417": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1417,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Sign%20in%20to%20Outlook&pos=0&uri=https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fmail%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=bb1e0721-68a4-4fc5-bb10-d4021e997f4d&protectedtoken=true&claims=%7b\"id_token\"%3a%7b\"xms_cc\"%3a%7b\"values\"%3a%5b\"CP1\"%5d%7d%7d%7d&nonce=637353455289455514.bc2f00ef-1443-4e12-8dd4-1b23cc452f31&state=Dcu7DoIwGEBh0GdxRGj7V3BsAjEYLjaCBDYoIOWikRCCPr0dzrcdXdO0vWqn0i2FZp-ITSgBSrFzVlIEx0rg1rKa1kAAxIAGYcOpazBQhYkQQHFLkK7e0pxKOZryVb03U9YmY3xg7rUL3ceYJ943SMQ3zvgSucOW35Es-hSCpBvzvphil0Fx8X_hk3Hm-wvPuOWl6zqL2-w7H6-J8gOp_w",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Sign%20in%20to%20Outlook&pos=0&uri=https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fmail%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=bb1e0721-68a4-4fc5-bb10-d4021e997f4d&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=637353455289455514.bc2f00ef-1443-4e12-8dd4-1b23cc452f31&state=Dcu7DoIwGEBh0GdxRGj7V3BsAjEYLjaCBDYoIOWikRCCPr0dzrcdXdO0vWqn0i2FZp-ITSgBSrFzVlIEx0rg1rKa1kAAxIAGYcOpazBQhYkQQHFLkK7e0pxKOZryVb03U9YmY3xg7rUL3ceYJ943SMQ3zvgSucOW35Es-hSCpBvzvphil0Fx8X_hk3Hm-wvPuOWl6zqL2-w7H6-J8gOp_w",
+          "width": 1383,
+          "windowId": 1414
+        },
+        "1419": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1419,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql union - Google Search",
+          "url": "https://www.google.com/search?q=sql+union&sxsrf=ALeKk00vwL0sitwFFuTthLEndGL2hfADAA:1587385100548&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiOt6io_vboAhX5AxAIHUDTC7UQ_AUoAXoECBIQAw&biw=1845&bih=961#imgrc=mUWf3ZBigXIWiM",
+          "width": 1383,
+          "windowId": 1414
+        },
+        "1420": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1420,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "windows reduce size of page files - Google Search",
+          "url": "https://www.google.com/search?q=windows%20reduce%20size%20of%20page%20files",
+          "width": 1383,
+          "windowId": 1414
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1414": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 1414,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 3,
+    "name": "windows reduce size of page files - Google Search",
+    "date": 1600040293093,
+    "lastEditedTime": 1601295398098,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "5cf17c9c-2fdc-4329-9d90-bb30f427a77e"
+  }
+]

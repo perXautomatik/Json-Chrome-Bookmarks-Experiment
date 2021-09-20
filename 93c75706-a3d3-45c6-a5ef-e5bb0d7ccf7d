@@ -1,0 +1,54 @@
+[
+  {
+    "windows": {
+      "79": {
+        "78": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 512,
+          "highlighted": false,
+          "id": 78,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "",
+          "url": "",
+          "width": 884,
+          "windowId": 79
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "79": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 600,
+        "id": 79,
+        "incognito": false,
+        "left": 471,
+        "state": "normal",
+        "top": 240,
+        "type": "popup",
+        "width": 900
+      }
+    },
+    "tabsNumber": 1,
+    "name": "",
+    "date": 1618227811235,
+    "lastEditedTime": 1618227799653,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1618224077342,
+    "id": "31b2aa0b-816b-44b1-aa5e-debee6380491"
+  }
+]

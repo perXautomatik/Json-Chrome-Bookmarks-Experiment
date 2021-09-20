@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "19367": {
+        "19369": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.neff-home.com/store/medias/sys_master/root/h42/hf0/9700892672030/NEFF-favicon-32x32.png",
+          "height": 1163,
+          "highlighted": true,
+          "id": 19369,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Upptäck NEFF vitvaror | NEFF",
+          "url": "https://www.neff-home.com/se/upptack-neff/om-oss/varfor-neff?cid=nk%7Coth%7C1220%7Ccpc%7Cgoo%7Cyoutube%7Ckitchdes%7Cvid%7Cnkv2%7C",
+          "width": 2146,
+          "windowId": 19367
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "19367": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 19367,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 2146
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Upptäck NEFF vitvaror | NEFF",
+    "date": 1604882794580,
+    "lastEditedTime": 1604882784414,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "6dd9da84-4aaa-4d91-8dca-c4610a75bb7c"
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "windows": {
+      "1372": {
+        "1375": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1375,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "windows reduce size of page files - Google Search",
+          "url": "https://www.google.com/search?q=windows%20reduce%20size%20of%20page%20files",
+          "width": 1383,
+          "windowId": 1372
+        },
+        "1377": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://aadcdn.msauth.net/ests/2.1/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1377,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sign in to Outlook",
+          "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fmail%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=bb1e0721-68a4-4fc5-bb10-d4021e997f4d&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=637353455289455514.bc2f00ef-1443-4e12-8dd4-1b23cc452f31&state=Dcu7DoIwGEBh0GdxRGj7V3BsAjEYLjaCBDYoIOWikRCCPr0dzrcdXdO0vWqn0i2FZp-ITSgBSrFzVlIEx0rg1rKa1kAAxIAGYcOpazBQhYkQQHFLkK7e0pxKOZryVb03U9YmY3xg7rUL3ceYJ943SMQ3zvgSucOW35Es-hSCpBvzvphil0Fx8X_hk3Hm-wvPuOWl6zqL2-w7H6-J8gOp_w",
+          "width": 1383,
+          "windowId": 1372
+        },
+        "1378": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://aadcdn.msauth.net/ests/2.1/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1378,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sign in to Outlook",
+          "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fmail%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=54ce78f7-1586-48c7-b01b-3ac1475d68eb&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=637353455289414237.8beba654-24f0-4b33-9af3-846142e544e8&state=JYvLcoIwGIWhfRbdISH5uS2cThDHsYJ4wTqwCxIRocBEpNoX7ms0054z51t9R1UU5VXuRU5FEoptEZuYBEwTOy4YgIk9cTKeMcsEDcMZaZARornsTDQHLClwE4A7qvz-qPqJ1bzJmdBzzru6bCpdcJbrlIYV9d8vof9RJ_H8GcSnZ3Tc9mu_eiR7o0yvBwjiS51c08_Ip5Ault9h4S3oX_yUWAKV98cuDgK8jXoorsvQ-_KO4f6RujBb7USkQyFGOLsEm_r_NV9LLCp-MKkYjDg5Id9bbYaZlFJKZwVGViWNEcnfBi5uZdtMMcIIgSyZIHfctV177wc8NcY1Z03Wtv2tF6ybGr8",
+          "width": 1383,
+          "windowId": 1372
+        },
+        "1379": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1379,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Redirection",
+          "url": "https://exchange.gotland.se/owa/auth/errorFE.aspx?redirectType=Manual&extDomain=gotlandskommun.mail.onmicrosoft.com&extDirOrgId=&extEmail=christoffer.broback%40gotlandskommun.mail.onmicrosoft.com",
+          "width": 1383,
+          "windowId": 1372
+        },
+        "1380": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://aadcdn.msauth.net/ests/2.1/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1380,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sign in to Outlook",
+          "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fmail%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=76e8dfce-fb59-40ba-bbce-c307a9efa8c6&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=637353455289485928.e353c014-2f01-48df-bfc7-e47073faff8d&state=DYs5DoAwDMBSGHlL6ZWS9Dm9IiFxrDyfDPZgyQYAVmVRjFcBHYlSTphz5IKcS-R9aug-oI3ig0UeYpt0shPJU5IqwsPou7m7npc7n_Z-Pw#authRedirect=true",
+          "width": 1383,
+          "windowId": 1372
+        },
+        "1381": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://trello.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1381,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Error | Trello",
+          "url": "https://trello.com/christofferbroback/boards",
+          "width": 1383,
+          "windowId": 1372
+        },
+        "1382": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/564f8f0290336053e408b893/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1382,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Using Trello with an Atlassian account - Trello Help",
+          "url": "https://help.trello.com/article/1197-using-trello-with-an-atlassian-account#1",
+          "width": 1383,
+          "windowId": 1372
+        },
+        "1383": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1383,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "opera://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "url": "chrome://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "width": 1383,
+          "windowId": 1372
+        },
+        "1384": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1384,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql union - Google Search",
+          "url": "https://www.google.com/search?q=sql+union&sxsrf=ALeKk00vwL0sitwFFuTthLEndGL2hfADAA:1587385100548&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiOt6io_vboAhX5AxAIHUDTC7UQ_AUoAXoECBIQAw&biw=1845&bih=961#imgrc=mUWf3ZBigXIWiM",
+          "width": 1383,
+          "windowId": 1372
+        },
+        "1385": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 1385,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "mysql - union of left and right joins sql - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/38821205/union-of-left-and-right-joins-sql",
+          "width": 1383,
+          "windowId": 1372
+        },
+        "1386": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1386,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "%s - Google Search",
+          "url": "https://www.google.com/search?site=imghp&tbm=isch&q=%s",
+          "width": 1383,
+          "windowId": 1372
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1372": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 1372,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 11,
+    "name": "Redirection",
+    "date": 1600040209498,
+    "lastEditedTime": 1601295398839,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "cdde38c5-2b3c-4947-a012-fd16deb0a98c"
+  }
+]

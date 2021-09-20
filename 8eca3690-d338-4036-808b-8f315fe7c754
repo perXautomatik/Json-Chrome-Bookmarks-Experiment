@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "109": {
+        "118": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 720,
+          "highlighted": false,
+          "id": 118,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Help detecting IndexDB errors automatically · Issue #600 · sienori/Tab-Session-Manager",
+          "url": "https://github.com/sienori/Tab-Session-Manager/issues/600",
+          "width": 1323,
+          "windowId": 109
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "109": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 809,
+        "id": 109,
+        "incognito": false,
+        "left": 331,
+        "state": "normal",
+        "top": 158,
+        "type": "normal",
+        "width": 1380
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Help detecting IndexDB errors automatically · Issue #600 · sienori/Tab-Session-Manager",
+    "date": 1600783990050,
+    "lastEditedTime": 1601295398372,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600783952348,
+    "id": "903eaad8-fe3d-4143-9f9d-d284f3d33c42"
+  }
+]

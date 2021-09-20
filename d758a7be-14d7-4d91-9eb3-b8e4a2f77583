@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "5711": {
+        "5720": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5720,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "substitute - Google Search",
+          "url": "https://www.google.com/search?q=substitute",
+          "width": 1383,
+          "windowId": 5711
+        },
+        "5723": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sqlservertutorial.net/wp-content/uploads/cropped-favicon-1-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 5723,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL Server SELECT TOP By Practical Examples",
+          "url": "https://www.sqlservertutorial.net/sql-server-basics/sql-server-select-top/",
+          "width": 1383,
+          "windowId": 5711
+        },
+        "5726": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 5726,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "sql - Get top 1 row of each group - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/6841605/get-top-1-row-of-each-group",
+          "width": 1383,
+          "windowId": 5711
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5711": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 5711,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 3,
+    "name": "sql - Get top 1 row of each group - Stack Overflow",
+    "date": 1601174817746,
+    "lastEditedTime": 1601174816727,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "b8a29f0e-8af8-4e9b-b154-516b3a67ca88"
+  }
+]

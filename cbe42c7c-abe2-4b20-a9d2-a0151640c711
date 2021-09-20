@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "794": {
+        "793": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://portalen.gotland.se/favicon.ico",
+          "height": 653,
+          "highlighted": false,
+          "id": 793,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Portalen",
+          "url": "https://portalen.gotland.se/wa/desktop.html",
+          "width": 1383,
+          "windowId": 794
+        },
+        "799": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://outlook-1.cdn.office.net/owamail/20201005002.08/resources/images/favicons/mail-seen.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 799,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 793,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Email - Christoffer Brobäck - Outlook",
+          "url": "https://outlook.office365.com/mail/inbox",
+          "width": 1879,
+          "windowId": 794
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "794": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 794,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Email - Christoffer Brobäck - Outlook",
+    "date": 1602265433575,
+    "lastEditedTime": 1602265290454,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602086503320,
+    "id": "d6686cfe-2fd0-4990-a88c-3f7804b27b65"
+  }
+]

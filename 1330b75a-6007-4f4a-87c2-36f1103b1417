@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "18912": {
+        "18911": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1123,
+          "highlighted": false,
+          "id": 18911,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "New Tab",
+          "url": "chrome://newtab/",
+          "width": 1583,
+          "windowId": 18912
+        },
+        "18917": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/icon_min.svg",
+          "height": 1155,
+          "highlighted": true,
+          "id": 18917,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tab Session Manager",
+          "url": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/options/index.html#sessions",
+          "width": 1583,
+          "windowId": 18912
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "18912": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 18912,
+        "incognito": false,
+        "left": 401,
+        "state": "normal",
+        "top": 625,
+        "type": "normal",
+        "width": 1583
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Tab Session Manager",
+    "date": 1604498268137,
+    "lastEditedTime": 1604488310326,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "38985038-5041-4d83-824c-17c97b4ed93a"
+  }
+]

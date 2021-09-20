@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "82": {
+        "140": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 686,
+          "highlighted": false,
+          "id": 140,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pendingUrl": "https://open.spotify.com/playlist/7ovTonGCFXDy01Hp83oznh",
+          "pinned": true,
+          "selected": true,
+          "status": "loading",
+          "title": "Spotify – Dubolt Mix: Yabibo Hazurfa / Moral Order / Headless Horseman / Shelley Parker",
+          "url": "https://open.spotify.com/playlist/7ovTonGCFXDy01Hp83oznh",
+          "width": 753,
+          "windowId": 82
+        },
+        "145": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.sqlshack.com/favicon.ico",
+          "height": 686,
+          "highlighted": false,
+          "id": 145,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The Table Variable in SQL Server",
+          "url": "https://www.sqlshack.com/the-table-variable-in-sql-server/",
+          "width": 753,
+          "windowId": 82
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "82": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 775,
+        "id": 82,
+        "incognito": false,
+        "left": 229,
+        "state": "normal",
+        "top": 305,
+        "type": "normal",
+        "width": 810
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Spotify – Dubolt Mix: Yabibo Hazurfa / Moral Order / Headless Horseman / Shelley Parker",
+    "date": 1605006276162,
+    "lastEditedTime": 1605006255366,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1605006245574,
+    "id": "5165adc9-8b2e-4ce0-9015-15f012dcf077"
+  }
+]

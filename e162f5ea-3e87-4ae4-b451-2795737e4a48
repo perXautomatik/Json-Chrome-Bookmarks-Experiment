@@ -1,0 +1,143 @@
+[
+  {
+    "windows": {
+      "47": {
+        "109": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.agilent.com/cs/agilent_images/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 109,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "CrossLab Smart Alerts, Usage Based Preventive Maintenance | Agilent",
+          "url": "https://www.agilent.com/en/service/laboratory-services/maintenance-repair/workflow-diagnostics/crosslab-smart-alerts?gclid=Cj0KCQjwk8b7BRCaARIsAARRTL5FkOX4jUQxOzXgVUoTJPfEr4hv5AuVJrqBXI5X5cUM3RVRUI2EVi8aAuZ-EALw_wcB&gclsrc=aw.ds",
+          "width": 0,
+          "windowId": 47
+        },
+        "112": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.greenprojectitalia.it/wp/wp-content/uploads/2016/08/favicon.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 112,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Eco-friendly unpackaged detergents and cosmetics | Greenproject Italia",
+          "url": "https://www.greenprojectitalia.it/en/eco-friendly-unpackaged-detergents-and-cosmetics/?gclid=Cj0KCQjwk8b7BRCaARIsAARRTL7fEBdRma6MLVSaC0-juJknL1cj1PQaoBT3G8_loo8UidGKOrSRIxUaAsWPEALw_wcB",
+          "width": 0,
+          "windowId": 47
+        },
+        "115": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://dup9c9x433v2u.cloudfront.net/static/img/favicons/favicon-32x32.cbc789a9f3eb.png",
+          "height": 1810,
+          "highlighted": false,
+          "id": 115,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Arctis 1 Wireless Gaming Headset | SteelSeries",
+          "url": "https://steelseries.com/gaming-headsets/arctis-1-wireless?utm_source=youtube&utm_medium=cpc&utm_campaign=prospecting_headsets-evergreen_v2&utm_content=3108&gclid=Cj0KCQjwtsv7BRCmARIsANu-CQcq6lx5RdbkmWEXx4jq7zgHM2nDXKHEZOVco5cKulmSBlAmzKwg3FMaArzKEALw_wcB",
+          "width": 1159,
+          "windowId": 47
+        },
+        "118": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://kartrausers.s3.amazonaws.com/growthpower/12082639_5f316b0283297_Logga_GPP_V_1_ram.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 118,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "De 6 Stegen Föreläsning!",
+          "url": "https://www.growthpower.pro/de6stegen?gclid=Cj0KCQjwtsv7BRCmARIsANu-CQfeOq8_xfqkjkESdDRcLklrJCOXIRYLky99J02TyIZQqvWed3IHumwaAoKoEALw_wcB&r_done=1",
+          "width": 0,
+          "windowId": 47
+        },
+        "124": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.andrewalliance.com/wp-content/uploads/2020/03/favicon.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 124,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Pipetting robot using electronic pipettes for liquid handling - Andrew+ - Andrew Alliance",
+          "url": "https://www.andrewalliance.com/pipetting-robot/?gclid=Cj0KCQjwtsv7BRCmARIsANu-CQc1V6PlTabiRhM-Q9N2fvlOSMdZPkgl-1ZpLRFuFsXSJlFZ1B7WRlgaAhcsEALw_wcB",
+          "width": 0,
+          "windowId": 47
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "47": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 47,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -658,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Arctis 1 Wireless Gaming Headset | SteelSeries",
+    "date": 1601412460009,
+    "lastEditedTime": 1601412459592,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601394370171,
+    "id": "37a8923e-ad94-4cd1-9360-93ff665be198"
+  }
+]

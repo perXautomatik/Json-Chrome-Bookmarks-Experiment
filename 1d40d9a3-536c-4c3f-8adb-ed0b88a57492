@@ -1,0 +1,122 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "49": {
+        "width": 1440,
+        "type": "normal",
+        "top": 130,
+        "state": "normal",
+        "left": 240,
+        "incognito": false,
+        "height": 780,
+        "focused": true,
+        "alwaysOnTop": false,
+        "id": 49
+      }
+    },
+    "windows": {
+      "49": {
+        "64": {
+          "title": "Endlec music, videos, stats, and photos | Last.fm",
+          "windowId": 49,
+          "width": 1383,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.last.fm/music/Endlec",
+          "id": 64,
+          "index": 0
+        },
+        "68": {
+          "title": "(58) Solid State Wind Energy | Random Thursday - YouTube",
+          "windowId": 49,
+          "width": 1383,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://www.youtube.com/s/desktop/4aac258c/img/favicon_32.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.youtube.com/watch?v=ds_I1hEycNc&list=TLPQMjEwOTIwMjB0M7LqXeMliA&index=10",
+          "id": 68,
+          "index": 1
+        },
+        "90": {
+          "title": "The Table Variable in SQL Server",
+          "windowId": 49,
+          "width": 1383,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://www.sqlshack.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.sqlshack.com/the-table-variable-in-sql-server/",
+          "id": 90,
+          "index": 2
+        },
+        "95": {
+          "title": "STRING_SPLIT (Transact-SQL) - SQL Server | Microsoft Docs",
+          "windowId": 49,
+          "width": 1383,
+          "status": "loading",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/functions/string-split-transact-sql?view=sql-server-ver15",
+          "id": 95,
+          "index": 3
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Home",
+      "Loppy"
+    ],
+    "tabsNumber": 4,
+    "sessionStartTime": 1600888953766,
+    "name": "STRING_SPLIT (Transact-SQL) - SQL Server | Microsoft Docs",
+    "lastEditedTime": 1601167836321,
+    "date": 1600888963431,
+    "id": "04f2c21d-f94f-4768-b2c8-d67c725947bf"
+  }
+]

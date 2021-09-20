@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "253": {
+        "285": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 1328,
+          "highlighted": false,
+          "id": 285,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "@@ROWCOUNT (Transact-SQL) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/functions/rowcount-transact-sql?view=sql-server-ver15",
+          "width": 753,
+          "windowId": 253
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "253": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1417,
+        "id": 253,
+        "incognito": false,
+        "left": 2067,
+        "state": "normal",
+        "top": -244,
+        "type": "normal",
+        "width": 810
+      }
+    },
+    "tabsNumber": 1,
+    "name": "@@ROWCOUNT (Transact-SQL) - SQL Server | Microsoft Docs",
+    "date": 1601649287569,
+    "lastEditedTime": 1601642619218,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1601635479176,
+    "id": "48dc7224-b113-4b70-9147-35836944806b"
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "windows": {
+      "97": {
+        "100": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a1467254696_3.jpg",
+          "height": 1810,
+          "highlighted": false,
+          "id": 100,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Manta | A Shell in the Pit",
+          "url": "https://ashellinthepit.bandcamp.com/track/manta",
+          "width": 1159,
+          "windowId": 97
+        },
+        "101": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a1054166533_3.jpg",
+          "height": 691,
+          "highlighted": false,
+          "id": 101,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Hydrophile | A Shell in the Pit",
+          "url": "https://ashellinthepit.bandcamp.com/album/hydrophile",
+          "width": 1383,
+          "windowId": 97
+        },
+        "102": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 102,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Game Save Problems :: DOOM 3: BFG Edition General Discussions",
+          "url": "https://steamcommunity.com/app/208200/discussions/0/846960628309418649/",
+          "width": 1383,
+          "windowId": 97
+        },
+        "103": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.myanimelist.net/images/favicon.ico",
+          "height": 1810,
+          "highlighted": false,
+          "id": 103,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sidonia no Kishi (Knights of Sidonia) - MyAnimeList.net",
+          "url": "https://myanimelist.net/anime/19775/Sidonia_no_Kishi",
+          "width": 1159,
+          "windowId": 97
+        },
+        "104": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.myanimelist.net/images/favicon.ico",
+          "height": 1810,
+          "highlighted": false,
+          "id": 104,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Akira (Shin Anime) - MyAnimeList.net",
+          "url": "https://myanimelist.net/anime/40054/Akira_Shin_Anime",
+          "width": 1159,
+          "windowId": 97
+        },
+        "105": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 691,
+          "highlighted": false,
+          "id": 105,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Speed Dial",
+          "url": "chrome://startpageshared/",
+          "width": 1383,
+          "windowId": 97
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "97": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 97,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -658,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Manta | A Shell in the Pit",
+    "date": 1600008745928,
+    "lastEditedTime": 1601295398021,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600008450562,
+    "id": "5626bb39-a0a7-4e70-bf7c-08937c6db10f"
+  }
+]

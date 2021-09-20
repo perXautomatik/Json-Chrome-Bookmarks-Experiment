@@ -1,0 +1,166 @@
+[
+  {
+    "windows": {
+      "730": {
+        "732": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 732,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Signal (IPC) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Signal_(IPC)",
+          "width": 843,
+          "windowId": 730
+        },
+        "733": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bleepstatic.com/favicon/bleeping.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 733,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SimpLite-MSN - SimpLite-MSN.exe - Program Information",
+          "url": "https://www.bleepingcomputer.com/startups/SimpLite_MSN-4938.html",
+          "width": 843,
+          "windowId": 730
+        },
+        "734": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 734,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Statistics and related apps",
+          "url": "https://www.softpedia.com/downloadTag/statistics",
+          "width": 843,
+          "windowId": 730
+        },
+        "735": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.sftcdn.net/images/t_favicon-v2/p/8c87ed1a-96d3-11e6-b836-00163ed833e7/3080404726/umplayer-logo.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 735,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "UMPlayer - Download",
+          "url": "https://umplayer.en.softonic.com/",
+          "width": 843,
+          "windowId": 730
+        },
+        "736": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.mrfdev.com/favicon-32x32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 736,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to use Enhancer for YouTube™",
+          "url": "https://www.mrfdev.com/how-to-use-enhancer-for-youtube",
+          "width": 843,
+          "windowId": 730
+        },
+        "737": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://img.findmysoft.com/i/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 737,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 736,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "» Download free trial NetGlance",
+          "url": "http://netglance.findmysoft.com/download/",
+          "width": 843,
+          "windowId": 730
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "730": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1410,
+        "id": 730,
+        "incognito": false,
+        "left": 2070,
+        "state": "normal",
+        "top": -415,
+        "type": "normal",
+        "width": 900
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Signal (IPC) - Wikipedia",
+    "date": 1601170124019,
+    "lastEditedTime": 1601170122581,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "f9880d7a-7034-4612-b04b-429280f1603b"
+  }
+]

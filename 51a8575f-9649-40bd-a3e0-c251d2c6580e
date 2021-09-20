@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "140": {
+        "141": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/b70e86a1/img/favicon_32.png",
+          "height": 1154,
+          "highlighted": true,
+          "id": 141,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(7) Elon Musk DESTROYS Pronoun Police & Twitter FAILS To Cancel Him & Space X Again - YouTube",
+          "url": "https://www.youtube.com/watch?v=iWDAAjff3Os&list=PLKz9dRhwlGu1JRo_rw28VBeXR5SBg0nTy&index=7",
+          "width": 706,
+          "windowId": 140
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "140": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1186,
+        "id": 140,
+        "incognito": false,
+        "left": 0,
+        "state": "minimized",
+        "top": 0,
+        "type": "popup",
+        "width": 706
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(7) Elon Musk DESTROYS Pronoun Police & Twitter FAILS To Cancel Him & Space X Again - YouTube",
+    "date": 1611537114496,
+    "lastEditedTime": 1611537076317,
+    "tag": [
+      "winClose",
+      "loppy"
+    ],
+    "sessionStartTime": 1611535482936,
+    "id": "4cd3e729-68ac-487a-b508-978150a1383b"
+  }
+]

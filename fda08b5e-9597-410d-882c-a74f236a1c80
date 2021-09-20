@@ -1,0 +1,210 @@
+[
+  {
+    "windows": {
+      "6107": {
+        "6109": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6109,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "explorer mark file as past version git - Google Search",
+          "url": "https://www.google.com/search?q=explorer%20mark%20file%20as%20past%20version%20git",
+          "width": 936,
+          "windowId": 6107
+        },
+        "6114": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1001,
+          "highlighted": true,
+          "id": 6114,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "diff - Is it possible to compare two directories in Git - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/45232039/is-it-possible-to-compare-two-directories-in-git",
+          "width": 936,
+          "windowId": 6107
+        },
+        "6117": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6117,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "version control - Diffing between two entire directories/projects in hg or git? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/1791854/diffing-between-two-entire-directories-projects-in-hg-or-git",
+          "width": 936,
+          "windowId": 6107
+        },
+        "6120": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6120,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "opera://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "url": "chrome://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "width": 936,
+          "windowId": 6107
+        },
+        "6123": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6123,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "hg diff - Google Search",
+          "url": "https://www.google.com/search?q=hg%20diff",
+          "width": 936,
+          "windowId": 6107
+        },
+        "6126": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6126,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "svn diff - Google Search",
+          "url": "https://www.google.com/search?q=svn%20diff",
+          "width": 936,
+          "windowId": 6107
+        },
+        "6129": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.worthe-it.co.za/assets/favicon/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6129,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Automated Syncing with Git",
+          "url": "https://www.worthe-it.co.za/blog/2016-08-13-automated-syncing-with-git.html",
+          "width": 936,
+          "windowId": 6107
+        },
+        "6132": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6132,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "git merge and move - Google Search",
+          "url": "https://www.google.com/search?q=git%20merge%20and%20move",
+          "width": 936,
+          "windowId": 6107
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "6107": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 6107,
+        "incognito": false,
+        "left": 936,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 8,
+    "name": "diff - Is it possible to compare two directories in Git - Stack Overflow",
+    "date": 1600110057605,
+    "lastEditedTime": 1601295398648,
+    "tag": [
+      "winClose",
+      "loppy",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "b3eb0d73-fc83-4f63-85fd-9b568f00bfd3"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "214": {
+        "217": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s0.wp.com/i/favicon.ico",
+          "height": 1328,
+          "highlighted": false,
+          "id": 217,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "STUFF AND FOR XML PATH for String Concatenation – SQL Server Repository",
+          "url": "https://sqlwhisper.wordpress.com/2013/03/24/stuff-and-for-xml-path-for-string-concatenation/",
+          "width": 753,
+          "windowId": 214
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "214": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1417,
+        "id": 214,
+        "incognito": false,
+        "left": 2055,
+        "state": "normal",
+        "top": -491,
+        "type": "normal",
+        "width": 810
+      }
+    },
+    "tabsNumber": 1,
+    "name": "STUFF AND FOR XML PATH for String Concatenation – SQL Server Repository",
+    "date": 1601637370237,
+    "lastEditedTime": 1601635777971,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1601635479176,
+    "id": "2207e1b9-9240-4d3e-bbf2-5143d9e40e1f"
+  }
+]

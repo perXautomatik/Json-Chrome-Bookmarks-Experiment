@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "6453": {
+        "6761": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1001,
+          "highlighted": true,
+          "id": 6761,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Close Duplicate Tab - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/close-duplicate-tab/lccfnphpgnpeghoffocbacbkohbapinm/related?hl=en",
+          "width": 936,
+          "windowId": 6453
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "6453": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 6453,
+        "incognito": false,
+        "left": 851,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Close Duplicate Tab - Chrome Web Store",
+    "date": 1600111656936,
+    "lastEditedTime": 1601295398365,
+    "tag": [
+      "winClose",
+      "loppy",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "8f95e171-b53a-4a89-9d53-fb2fab3fea0d"
+  }
+]

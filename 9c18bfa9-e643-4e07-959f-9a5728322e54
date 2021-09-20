@@ -1,0 +1,144 @@
+[
+  {
+    "windows": {
+      "1292": {
+        "1294": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1294,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Science / CAD Downloads",
+          "url": "https://www.softpedia.com/get/Science-CAD/?utm_source=spd&utm_campaign=postdl_redir",
+          "width": 1383,
+          "windowId": 1292
+        },
+        "1295": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1295,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Statistics and related apps",
+          "url": "https://www.softpedia.com/downloadTag/statistics",
+          "width": 1383,
+          "windowId": 1292
+        },
+        "1297": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1297,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Variance analyzer and related apps",
+          "url": "https://www.softpedia.com/downloadTag/variance%20analyzer",
+          "width": 1383,
+          "windowId": 1292
+        },
+        "1298": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1298,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1297,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Variance and related apps",
+          "url": "https://www.softpedia.com/downloadTag/variance",
+          "width": 1383,
+          "windowId": 1292
+        },
+        "1315": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 1315,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Variable and related apps",
+          "url": "https://www.softpedia.com/downloadTag/variable",
+          "width": 0,
+          "windowId": 1292
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1292": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 1292,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Statistics and related apps",
+    "date": 1601170763189,
+    "lastEditedTime": 1601170762554,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "c5c92138-52ee-4c5d-a5f5-a31a0407b61b"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "15145": {
+        "15451": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFi0lEQVRYR81We0xTZxT/fbcVscOGlbbUrmMdFFDU6XzNGibMxcfccFG3+Aoa54NYMKbZTGaWxRpjyEIMMsEXzkcccQMf07HFuVhEGUPETTd1oC0gYzzaUhWRldLeb7mlZbSUtv4zdv65ufee853f+Z3fd76PACAAqPsJt/1n71zyYTUOwLAzMKwsPBMDkiTNc0wvGe8EG8ejjJRlIHD1j9KnDCHtDjjrR3axt1taDnWHqqnQqldrR0na7W+AhymUUl4g0RDKOAhBjcAhLm9s1NmCCSwoA/I4jcJO6PsAGR1sMe//5DF4pNhSl98aaJd5APhdW6raHEupczkl4D9b8j5vAtLLd6KotaGgaaj4IRmIUK2VjGIE6ylLw4YKVsaIoZBFoaK6bkh8BMTWY7MVdjZ/8XCAU/+c8a8BnY4RF7WvByVjPEEMw0AZI0GCSoZxiXLMmBILkVCAxel56LbZAxJEeORPc13BUXcrvHz9MiCJ10yiFO9ynrNnjcO6VclInpkAu4NFS4sVhnoTyn+qxanS67DbHSF1hw9yqs1QcNd30vrVgDg+KwOUjd6SMR+RkQIYG0w4U3od3d2BK/UgEQjCXL7z5kzERf3vbj0wzWZD/hFftIMYGJ2wMWoky8+MEIQjRhEFy6MnyFw3F9uzTw9ZKcMAcpkIDocDednpeCVJgcVr8rE/ZzV27j4P/ZU7rlgn69jzsP5Q58BdMUgD4rhNU0HIO55s69NT0PzXI1zQ3+oHEKMQoanZCu2m+RCJIjBhrAIOB+tqx8HjenyYuRAl56oxJjoSdcY2WK1dqKiqA4/PnGmvze+jxG2DGBCpNHMZQO1xOFqwAZ/llmLGNBUqqw3YunkB7hnaUFTyM1KTx7las3vnCuw/qsfJQg0ytMdgsXRiTkoSXo4RQxUrc4Ep/uYa+GDK2wz55b4MeLEgVmWlAeyrHgA3ynbAYunCrtxSTJqowOPHNoxPlOPk2SooZCKkvTUZX5+uxr36Vly/tB37jughFArw6a4SxCqjXexwyTljKa5Zjft+CMhAdHzm205Kp3JOkUIBOAApadlobrGi7NttyM4tRWHuB/iyuAL8MD5i5CJIpZHQX7mLc9/9AqlUiMsVf/QlZFkv3TBgqkyG/IsBNSBTZaU6wKZwke8tmo41K5KRtiLXtdCtq7tQ32hCV7cNhccv41GnDb/dfjBInIsWTkVBzmqs2nAAVyr7wHDGUP6PJuPnlQEZiErISiQsu4xzyt6+DMKIcGRuPe6KmTzhJRfVgbYjN7DKzm1D0lg51m4+jNILv/4LgISdMN3f0xBQA0qlbuTfI8wfOSnlnSzMRFWNAXkHvdo2qOKBHzTr3sSOj5egqdkC9fyd/YOKMKQ3ZnRvzo0bh7wml/9JmKhZSp0Yf/bEFuTs/R6V1fcDJvX8XL5EjbzslbDZHViano+am8b+OApys8NQcN79IfBZIFFqZJRPNs6ZnUQ4QXFi4g6esLARuGfgTldvk8ki8Yk2DcuXzHTNhwztEdTc5Jh2GwHbwyP7ntQWdPjGDnkaSuI0CyjBawMDZk6Lx+vqBE7f6OjoxvNRAkybHIvZsxLQ1GTFieJKHCsqH3Q4Ucpe7TAeKBuwlhcDfk/E1FQd706reTV10hd9UUvFQiSNfcEl0M4uOwz1ra5t6s8oRUOH0VwElHjvyX5yAt2K1dpwibl3JQWrCEkEPk6EkkYzYb6CYW/PUHfEoHfC1FQd/06TeR5l6PTQQVDKgFSZDOZLQIkzUFzQO6FHteLELDlx0mRKaCIoGH+LEkKcYGgtGWG/arp92OSv5/52QVAWvJKpteFjLD3KXkqlhPL6ruUMfUoZtj2iJ/pBY6OOoztkC5mBUO/5vhUGe3+26kOuK3TH/wUDw8rCP7bfU1cQhU52AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 15451,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Karl Fazer - Fazer",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Karl%20Fazer%20-%20Fazer&pos=0&uri=https://www.fazer.se/karlfazer",
+          "width": 0,
+          "windowId": 15145
+        },
+        "15454": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/f17cea96/img/favicon_32.png",
+          "height": 1155,
+          "highlighted": true,
+          "id": 15454,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(128) Office PC meets 3DFX Voodoo Banshee - YouTube",
+          "url": "https://www.youtube.com/watch?v=MhPQzyp6grk&list=WL&index=14",
+          "width": 1073,
+          "windowId": 15145
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "15145": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 15145,
+        "incognito": false,
+        "left": 1073,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 2,
+    "name": "(128) Office PC meets 3DFX Voodoo Banshee - YouTube",
+    "date": 1603264482472,
+    "lastEditedTime": 1603264447749,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "39da5df6-dde7-4edc-bbc4-97516607cffb"
+  }
+]

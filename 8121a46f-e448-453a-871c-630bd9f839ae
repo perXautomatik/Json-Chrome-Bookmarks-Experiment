@@ -1,0 +1,170 @@
+[
+  {
+    "windows": {
+      "344": {
+        "346": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 346,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Chrome Web Store - wiki",
+          "url": "https://chrome.google.com/webstore/search/wiki?_category=extensions",
+          "width": 843,
+          "windowId": 344
+        },
+        "347": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 347,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 346,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQLizer - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/sqlizer/gialokobpnodfmmbfofdbfnoijhlodgl/related",
+          "width": 843,
+          "windowId": 344
+        },
+        "348": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 348,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 346,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "ToYoutubePlaylist - Google Sheets",
+          "url": "https://docs.google.com/spreadsheets/d/15MBVzSDcf9ItkmLjjdqibxaUwuu74qZznim6MGO4d90/edit#gid=1667456972",
+          "width": 843,
+          "windowId": 344
+        },
+        "349": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 349,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 346,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Clutter Free - Prevent duplicate tabs - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf",
+          "width": 843,
+          "windowId": 344
+        },
+        "350": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.top-password.com/blog/wp-content/themes/cordobo-green-park-2/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 350,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 346,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to Set .PS1 Script to Open with PowerShell By Default | Password Recovery",
+          "url": "https://www.top-password.com/blog/set-ps1-script-to-open-with-powershell-by-default/",
+          "width": 843,
+          "windowId": 344
+        },
+        "351": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1321,
+          "highlighted": false,
+          "id": 351,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 346,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions - SQLizer",
+          "url": "chrome://extensions/?id=gialokobpnodfmmbfofdbfnoijhlodgl",
+          "width": 843,
+          "windowId": 344
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "344": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1410,
+        "id": 344,
+        "incognito": false,
+        "left": 2070,
+        "state": "normal",
+        "top": -415,
+        "type": "normal",
+        "width": 900
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Chrome Web Store - wiki",
+    "date": 1600012603095,
+    "lastEditedTime": 1601295397568,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600008450562,
+    "id": "0bf50e85-5cd5-4b99-b993-d89dee713821"
+  }
+]

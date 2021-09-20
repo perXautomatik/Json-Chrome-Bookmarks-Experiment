@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "103": {
+        "104": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/social/photosui/images/logo/1x/photos_64dp.png",
+          "height": 1163,
+          "highlighted": true,
+          "id": 104,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Photo - Google Photos",
+          "url": "https://photos.google.com/photo/AF1QipOT_xjxMdYrfbJr22iCYlFl7JB4anhn9V1Id1GC",
+          "width": 2146,
+          "windowId": 103
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "103": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 103,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 2146
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Photo - Google Photos",
+    "date": 1605143532402,
+    "lastEditedTime": 1605143456770,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1605140538703,
+    "id": "5b4cfa56-9d23-4fbe-94cf-179242ed4fcf"
+  }
+]

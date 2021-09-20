@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "278": {
+        "277": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 1850,
+          "highlighted": false,
+          "id": 277,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "BEGIN TRANSACTION (Transact-SQL) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/language-elements/begin-transaction-transact-sql?view=sql-server-ver15",
+          "width": 977,
+          "windowId": 278
+        },
+        "289": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 1850,
+          "highlighted": false,
+          "id": 289,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 277,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "TRY...CATCH (Transact-SQL) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/language-elements/try-catch-transact-sql?view=sql-server-ver15",
+          "width": 977,
+          "windowId": 278
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "278": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1672,
+        "id": 278,
+        "incognito": false,
+        "left": 1982,
+        "state": "minimized",
+        "top": -727,
+        "type": "normal",
+        "width": 1032
+      }
+    },
+    "tabsNumber": 2,
+    "name": "TRY...CATCH (Transact-SQL) - SQL Server | Microsoft Docs",
+    "date": 1602584716045,
+    "lastEditedTime": 1602582998769,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602501436493,
+    "id": "76db5641-be9f-4a6b-be1a-3ca1d8407b79"
+  }
+]

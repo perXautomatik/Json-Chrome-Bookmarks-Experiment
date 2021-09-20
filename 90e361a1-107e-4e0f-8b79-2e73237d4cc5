@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "18651": {
+        "18659": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://a.fsdn.com/allura/nf/1604428556/_ew_/theme/sftheme/images/sandiego/svg/originals/sf-icon-orange-no_sf.svg",
+          "height": 1155,
+          "highlighted": true,
+          "id": 18659,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Locate32 / Discussion / Locate32 support forum: Search operators for Locate32",
+          "url": "https://sourceforge.net/p/locate32/discussion/support/thread/15b3e76c/",
+          "width": 1583,
+          "windowId": 18651
+        },
+        "18662": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACPklEQVRYR8WXvVIbMRSFj9ZrzMQ2cQelutCFMl3oTJd0oTMddNCkCDgzZjBpUtFBh0s66MgbUIY3EJ2p+LGHscl6xWiJmEVI3quFGbuUf75PuveelRkm/GIT5sNboL/JF2SAL2lxFuOk8kv8zbMZLwEbXALnM21xnAeuvkMWyIL3v/M5TKFeLuKItcSAKkQSoMDjEhoMmAbQrYToUCUyBbLgaqe9n3wNErOpXZMlxgpQ4Aqqjj+ewgpjKPlKOAUo8H6TL1Xa4vQ1ElYBCvyqxWthhPWCxJ93u+Isr8QLAQo8qXuTLwL4LIFBNcSebjrfcjwToMKvWpyHERq63mYQ+Ug8CVDhssWnexHW/49c4iAZLmZ2xGF69qkSiQAVnhz9Jl9GgA9m0FTbYltBy2Vc+5SD+cB149lSLgqxB6BW+oc53ZSUxmSWEAEb4qDyW3RN0N0W/zRiqDsEOmo9jFCvtsUBuRyqpv0RVtJJpjo7GKJjSujOzxBoqHKYn1HlkSWsGuvdpAeoEuME5AhHKGCeAR9tArdN/lW9Zz7Gn6aAInH7g8+zAr7ZTiAGrgOgZpsIF1zdIZ7lAEXiZotvBAzvXY9bMxPGwa33gSwJx3w/5oFxOcmCOy8kFAlZxKLOg1jipgicpcePAncK+DSmrRRU+FiBvBI+8EwBXwlfOEnAJQGGy+qO2NclyAMnC5gSUmIY3ONQJ2VeuJeAluiNsBwMcPoWcG8Bs+Nfs3P9W5nXclfivdVftNwCLjHf9YkLPACAzueLvyQ32wAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 18662,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Locate32 / Wiki / Home",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Locate32%20%2F%20Wiki%20%2F%20Home&pos=0&uri=https://sourceforge.net/p/locate32/wiki/Home/",
+          "width": 0,
+          "windowId": 18651
+        },
+        "18665": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAHEUlEQVRYR8WXb2wT5x3HP3i3q2dOrnt4nrFSxwtJcLIsBAiUpgxQhGhFK4QAIaYy9mJsLza0N3vXrrOmSdvabdrYC1jHmAYRICpRoi6bCgSatlFCA4I0BJYFNzFecD3XuOZyNcfhXqbncagITRyQJvWRTo+s893v83x/f28OX/Ca8wXbZ1aAFw71xubpOi7FheM4D8zrcrko2kVGkwn2vPzyCRJdZ6d7eHaAI72xumgUF64pzztOEdPI8WFiGCOVgNumBHR9WUXRdB6vbcLj8zOaHCNv5Nnz29+c4oMzPfdDTAtw/PjxWCAQQNM0qqpqGRoaxLZtVFUlGm2gv/88iUSCkcQYXn8AXQ+i+3U8bhWzUCCXzZJKp7lhgUuvwKMHuXPnzsSvXvjZSRKdU5SYFuDo0aOxrVu3kk5n6O8foKVlBZrmIZvN09XVRSgU5MLgEL5QLV7dT3UkhNfjAaFKwaJQMMmaRTKpBJcHLqAEoyxcsoLLg1d45devnOBff+8DpD+nBThy5Ehs27ZtdHS8Sa/p4/lGH9FoLe3tHcQtN2puhFDDKgxbJRSuoN7vQlUVikVHKiVWzrQwbEglR7jc9w7zm1ahegNcujLIn/74h07+fapXQJQFyGRyUoEVy5vRvB7i8QSdnSfxRRrQwstxig4hzSLk1xBBJ2K0YFkoiiJB8qZNMlsgOXSet94+TdG3AN88v7x/+MVv7wY+KQtQChhHvtiyLHp6ekjnDPRoK6he3ApU6aAoJUGLDhiGCW6NQsEmkzOJZwwUVcG8cpKrN2x8j0dJpVO89tJ3DgIflY2Be9MunU7TebITLRzFE1qC4nJJwwJAGC7YYBchMZbC7w+UoIpFrIJJIpOnkE0wmkjwjVXPkbh+feIXW5cfAf47I8CWLVumZIyI+s4zZwg1rsXtq5AAqgJedwlAXEKRbHoMVXGVXCLf4MKwivQPJbh+uZuFqzfwyFx94gcr5x8GMmVdcK8Cw8PDdHd3E2zehNfrQ3EhL2FUgMjdNRnaQN4wZVBatk3WsOkdTGBc7aLyiXV85bHgxK41lTMDtLW1xVqf2cBYNv+ZCmOJEeJX+gku2Yji1j4D0DUFvyb0nowYpwQh4kbsUp2ii3+804NxtYfKZeuYOy84sav16+UBtm/fPqX0JpNJOjo6iK54Bl8gImUWJ1ZV0FQh9FTDAqDoODIuDMvhn2928OEHg9Q89RyPPKpP7FpTBuDAgQOxtes3TlHANAzOdnUSqY2ihpqk7MKo2H0eFY866XNheFIBmRWWQ9Fx8d7Jw6Q+Mlj89CbmfMk98cPZXHC/AkLgvr4+BgYGaFqzAb/ul24QKrjEPgl017g4uSVPD7nMGEfb9qJ8dQGLV63nzqdOeYDpFBAApmlwoaebYDCIr6oZtypalCNBhB7yt+iCk2lpFR1ZD7JDXZx4u5faJ5+mbkkLt25Z5QH27dsX27lz533tt5RU8fgI7e3trGxdjx4M4/e5cYu0K5Us6XPbAdt2SGXzDPd3UzBynDh3lcWrnyVS38gn4+bsAOs2bCKdM+9rwQ7DgwNgGbL2GwWbQEU1Xl3H7RaRKEpwUVbNXCZNMj4os6GxoZ5Dp/pY9GQrFVW1jM8GsH///tiOHTuknHcz27Js+s6eZ2wshWHmef/9i1RWVsq6LuqF1+tFdbspmCamaeLxeIhEIoTDYbn/5HcHqVu2klC4anYA4YJ7FRCNZSwex8xl0Twq7/a+i1efz6Jly2VRMow8uWxGnlzMDG6PB03zynten5dIKMBLuw9St7RFAtwcN8sXor1798oYkK3IcWRHvCL6v+5jcHCAjz++webNm6mursbn88oAFBOSkF8oJpRzuZTJXTQrhe/F9kiAoFTAKF8HhALrN26VdSCdTJIcHqK2OkI8PszFS5eoW7SUaEMjPpGKsuuUXxV+Hy/u/tuDA4g0FHVAdMDXX3+DJY1NjCRHuHjxIjU1C2hpaaGqqqoUeJNFZyrC1OH1oRUQI1ljcwsd7W+wcnkzqUyKc+few3YUvrl0GeFIFZpXSP9g66EVEENpNpMjHI6IzJKDyO3bt1i9+lvU1zcQCPil3z+/Pj+2izQUCnz/5w8RA21thyRAU1MjF/rPM/qf61QuWEh1tB5/ICgj/WGWVOD3f2WhDMJqxm/mJ368dsHM3fDVva/GREqJUWp0dJSamho5GVdUhGV+z7xKCtz//SIU+NEv/0xd80oCoYj8z/OLHxUA009Ex44diw0Nx7l27RqaT2fxE08RClXg0UrD58MuocDqjd+9+Vi41vb6v/Zp4datid6//LRrRoDTp0/HGhoaGBmJyzogjOvi82xG49Of/C6oUGDu3LlngBQwPvk5IB4an+nTTAOCgNj/X0s0lrRoqve+cCYAUV3cwOxV5sHxRJm0xJR27yP/A2mEfYCvhMByAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 18665,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Locate32",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Locate32&pos=0&uri=https://locate32.cogit.net/",
+          "width": 0,
+          "windowId": 18651
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "18651": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 18651,
+        "incognito": false,
+        "left": 170,
+        "state": "normal",
+        "top": 428,
+        "type": "normal",
+        "width": 1583
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Locate32 / Discussion / Locate32 support forum: Search operators for Locate32",
+    "date": 1604488263002,
+    "lastEditedTime": 1604488243859,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "8ea4f9f1-e120-4d81-b82e-5f9d9fb2049e"
+  }
+]

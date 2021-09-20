@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "5619": {
+        "5621": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.scdn.co/i/_global/favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 5621,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Link Spotify to other apps - Spotify",
+          "url": "https://support.spotify.com/us/article/revoke-access-from-3rd-party-app/",
+          "width": 1383,
+          "windowId": 5619
+        },
+        "5622": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.scdn.co/i/_global/favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 5622,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 5621,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Approved applications - Spotify",
+          "url": "https://www.spotify.com/us/account/apps/?_ga=2.222221009.871852698.1584970447-112616077.1583499445",
+          "width": 1383,
+          "windowId": 5619
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5619": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 5619,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Link Spotify to other apps - Spotify",
+    "date": 1601174611065,
+    "lastEditedTime": 1601174610444,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "f04b0d2e-94b6-4ab4-8320-c04fcdfa0b44"
+  }
+]

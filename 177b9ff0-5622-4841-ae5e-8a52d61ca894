@@ -1,0 +1,253 @@
+[
+  {
+    "windows": {
+      "3906": {
+        "3892": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.scdn.co/i/_global/favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3892,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Link Spotify to other apps - Spotify",
+          "url": "https://support.spotify.com/us/article/revoke-access-from-3rd-party-app/",
+          "width": 459,
+          "windowId": 3906
+        },
+        "3894": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.digitalcitizen.life/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3894,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The complete guide to setting the default apps in Windows 10 | Digital Citizen",
+          "url": "https://www.digitalcitizen.life/default-apps-windows10",
+          "width": 459,
+          "windowId": 3906
+        },
+        "3895": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://theme.zdassets.com/theme_assets/7538/b0cb3f20a70e215b2704195b7e61c32c51d79598.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3895,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Launching applications using custom browser protocols – Shotgun Support",
+          "url": "https://support.shotgunsoftware.com/hc/en-us/articles/219031308-Launching-applications-using-custom-browser-protocols",
+          "width": 459,
+          "windowId": 3906
+        },
+        "3896": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://community.atlassian.com/html/assets/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3896,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Opening hyperlinks to cards in the Trello app (not...",
+          "url": "https://community.atlassian.com/t5/Trello-questions/Opening-hyperlinks-to-cards-in-the-Trello-app-not-a-web-browser/qaq-p/640774",
+          "width": 459,
+          "windowId": 3906
+        },
+        "3897": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://social.technet.microsoft.com/wiki/themes/TechNetMetro/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3897,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PowerShell: Running Executables - TechNet Articles - United States (English) - TechNet Wiki",
+          "url": "https://social.technet.microsoft.com/wiki/contents/articles/7703.powershell-running-executables.aspx",
+          "width": 459,
+          "windowId": 3906
+        },
+        "3898": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 3898,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Running a command as Administrator using PowerShell? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7690994/running-a-command-as-administrator-using-powershell",
+          "width": 459,
+          "windowId": 3906
+        },
+        "3900": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ss64.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3900,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Run with elevated permissions UAC - PowerShell - SS64.com",
+          "url": "https://ss64.com/ps/syntax-elevate.html",
+          "width": 459,
+          "windowId": 3906
+        },
+        "3901": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3901,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Working with AppLocker rules (Windows 10) - Windows security | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/working-with-applocker-rules",
+          "width": 459,
+          "windowId": 3906
+        },
+        "3902": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/superuser/Img/favicon.ico?v=4852d6fb3f5d",
+          "height": 691,
+          "highlighted": false,
+          "id": 3902,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "windows 10 - How do I figure out the installation path of apps from the Microsoft Store - Super User",
+          "url": "https://superuser.com/questions/1298194/how-do-i-figure-out-the-installation-path-of-apps-from-the-microsoft-store",
+          "width": 459,
+          "windowId": 3906
+        },
+        "3903": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://i.stack.imgur.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3903,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sWieq.png (1334×740)",
+          "url": "https://i.stack.imgur.com/sWieq.png",
+          "width": 459,
+          "windowId": 3906
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3906": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 3906,
+        "incognito": false,
+        "left": 965,
+        "state": "normal",
+        "top": 88,
+        "type": "normal",
+        "width": 516
+      }
+    },
+    "tabsNumber": 10,
+    "name": "Link Spotify to other apps - Spotify",
+    "date": 1600024577005,
+    "lastEditedTime": 1601295397712,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "224792dc-4877-446b-a0c6-d010126c7586"
+  }
+]

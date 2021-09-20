@@ -1,0 +1,165 @@
+[
+  {
+    "windows": {
+      "1892": {
+        "1893": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADcElEQVRYR82Xb0hTURjGt9sYNiSoZIiIlJCI2B90lcoctixNiLIQKxl+GjFkRMgIiSHihyEiskQiLEpChEBN11gpmVpqlA4zSymLGhImNiTGGMMu0fOec2nXRdGX6/3yu+/ZuXfP+5xz7nuO2uPx1KtUKpUgCL/w2yWPRfYbb+ex7LG/hbLXqBUX4PV64UCB0QTtgkZDOYjrBJFJFng7T5G1s34bEv+DQdFoFF2n/FOgWnkBPh8cMJkKoEir3RabjEiK//eSHJS9YGRkhDmgtACf7xEcMJryoEgjc0CQOSAKWporckv+0SnuiOSA8gK8feRAkTnGAXnmUsLMASlmmUcikRhPoiKtmvXI97jTZ2ZmhuaAT3EBni448GlNB0WPJ2eZ4h8y5Vti4qXlr4hT9Eng0fyDYLHxUNyM7w+Oof3D5yXwVGEGc2CzCQiFaSzn3wfAF7PzoKX8GMjHevTlG8Qrq0EwPS0VbK6zx3WgwX0zpr2q5EB8BxQQ0E2rwFwGRVpNAnjtTi/Y43sKdragm3Q5XG24T07aCU74X4G1VgtYkJMd09/mbKL23P1gfqaeO6C0AG8/Uisys2oo0GqotDeCvBjysQ2FaI5UO8gRW9VZcHyaVk+ijp6vtV4APwa+gA6XO8YhvS7MHFBcgG8IqZjNVA2DQfpyldvIgeLCw6DldCk44Z8DWzrugs11l8DFAK3vG109YHvDFXB24R21d/eBbfUOMBJcYA4oL4CqocGQA0VTc5QJH7OL52mMjxsNYC/7ovUNjSLubHKCfANkr29GnJe7F+TX8+nXuHU7L4NLixPcAYUF8C1ZRuY+KHo45gf5mLkcNYjTU5PB1tv3wOXVb6Cr1sYcIA8Ghp+BT8anQZ2Oviv6HdvBGssZcCVA/yPtCRUTwLflu9Lp29z1YBAcnqQMOhppNvNRvtragSh7z26wooz2EXwShCK0vh2udjDM9gkVJUcQl5qoWq4us1WwaQSkpmVBmdN9C9QlbKVMrOfAUJgysze0gtXlJ0CTgeaOdAxgN9e7B9Duf0vV1Fp5EjRk0T5gLUjVVjoZKS5An0LK5KnwWsB/4OVal0Czm7fLHeDtfA4kyPqH1qhGSA4oJqC/n6qhhp8JWV6SFWzXK7CTgKiiM6Mg0pxQsTOjKCSyJ9kZcsPJIf5hUa20gJ93yG/TVuwvrwAAAABJRU5ErkJggg==",
+          "height": 1001,
+          "highlighted": true,
+          "id": 1893,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Powershell - locate all sites with specific text in the URL",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Powershell%20-%20locate%20all%20sites%20with%20specific%20text%20in%20the%20URL&pos=34&uri=https://social.technet.microsoft.com/Forums/en-US/5737adcc-37f3-4c05-aac2-4428cefdefd3/powershell-locate-all-sites-with-specific-text-in-the-url?forum=sharepointadminprevious",
+          "width": 936,
+          "windowId": 1892
+        },
+        "1898": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1001,
+          "highlighted": false,
+          "id": 1898,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "r - How to point iframe to a url within a docker network? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/55628586/how-to-point-iframe-to-a-url-within-a-docker-network",
+          "width": 936,
+          "windowId": 1892
+        },
+        "1913": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADU0lEQVRYR+2VXYhUZRjH///3HHd2PDOurEo7y2Y5OyurIBhIXkRh3aVBN2UIFQRGd+FdrNTsu65kd0HdBCJdVEJRBBJEX3eKHyCSkEh7ZhWRdpvcWd2ds83szHkfOWd2RAanMztODETP1fl6/8/v+TxEl41d9o//ATqaAU8/OgjE9hrIqaTO5Vspb8cA5KNMzJvHIQK9BlK4Jf7xLfp6KQqiYwCBo8XJkW3KyP7gWgDXybonyeCyuT0UgAhYPJzZmDzm/lV3sZgdflZZfCaEEJ5J6Kmf/zWAO9mRfbbCE1Dmeyebu7gSOT2dPkCqkeDeVPF1ctL9rRlE2xmQD9J9XpkHCSYCcUIuxwfWf8e3LlaCfigW5E1FboBBRSr+icT71/58EETbAIFYXm9PrEXlJVIeC6MF8lKyv1p37Orcgt66UYk5SIWYgLcXxDs+qP9YaoR4KIAw5VorD188R8pT4b1BWYhTSe1eKen0Vp/qwEpppp2s+3ljU64aoHhkdIdtUI7pq1MMm71mC/rxUUX7xWAMQ4c+zjnK/ankZ542NvbUnyWOuD/cn4VVAYSzfguHaKHXCOctyIV4Py7xbbcciN7RQ/024y8DMlCLmjcckW+KRj0vlklbVfnRmaw1a91WBbA4ltnENeYFWmpzXcD3sWwp86tf7jkf1F70HnuJN/cB2FkbRfGqVX4LZ7mwfuzGfEd6wDu8LYVY5UkId4Bi1UWD5WOLnI/pXG7pvcxO2LJXwCVHcILaXej4FIgeXFuCs8uH7CKRrDswInMG5oIvnF1Dlv7pv9ByCUrvpkeqPeg1xp5Jjv8+d383i4YqYni7kLstYOheeYz5Zd3E9OlmS6i2P1q0oh5+neSW8HODik/MWjCz8NWMWNUZB9fz1DDBH5Hs2W2AtCOxj6mvLHcIIPMqBEPBYnmgoNAHTN43nLHEzFat5VyfvlmIiq/lDKwsEy6OjfYzXh2gMSlQpWCYopJ4oyOrYk72Hp2eahvg08++HA8Ov/HaKxNRIoV30n123KQIe4Awg6B6xLm96RN+ePbvKJ2mGYg6GAVVfx+l0zKAN5EJM9KqOeNumLn/DkCrkTd+17EMdA2gXceN55pNU2QTdg2gU46jdFa1CaPE2nnfdYC72TuAMDgVU1UAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 1913,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Get Domain from URL in Powershell - Stack Overflow",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Get%20Domain%20from%20URL%20in%20Powershell%20-%20Stack%20Overflow&pos=568&uri=https://stackoverflow.com/questions/14363214/get-domain-from-url-in-powershell",
+          "width": 0,
+          "windowId": 1892
+        },
+        "1916": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADl0lEQVRYR71XPVATURDefTmGw8YgjtCZ4UcCIyEddKS000476KCD0s6xk0466aC00w466LALwUku8uPRBUflbOQCd2+dd5l3vFze5RJgpGAIb9/bb7/d/XaD0MVP5slU1kAYJ8Q0Y2gSpyFxHRnWOCcXiZwUoFWtlqqdPotJhpl8Pm1c+HOcQZYRmkn24pwjuYyD5dUHtm17x213py2A0Wy+wNGf6dRx1FEAhGDvyDrYjQOhBZDJFMyee+fzkuJOom4bJcPa1d/+TR0bLQAymckh1peav2nUcUAEG/zC37Ttck21aQIgImd9v5bv2rl02AAxsKYyEQLQ0Y7EzzjDGgFmGMH9blLBEf4gkM0I0gT4WN4VHXNY3l8PP8s/RMEB8Lkmepj3+bBcLor/jU1O5n0yChIIAp2qtj6wIQbUywHrKXa1Je8FrcvwZTN4tntkFXeCFha/RKuxur8Ypd4AtmlZRVteFiwB/EhH8xie5/NpcNKuSrGoKcM0FlUAaioCACMTUy+QcDpKcRRANylQQRkuX47eJaT948rBpwDAcHb6taAvaoRKCm7iPGBXm4KGWJ1UDlYx1gCwzt3+90lKlgSs0Vm/l3RF7HH6iHH030X0EpwoYOLG85Y0MPiCY9mpBbVNpJHnPli9bfSqw9Fs7k1LioFOcWz86RIhG2yqUsD6ibX/Lonebs51gQpNQB0yTuCcVEtr3ThIso1jWgtAPHZkld4mPdrN+fBEbkVXiBh38D9qIJDrWGruQANCMYrRAiHnODKZe4YcZlpaBMA+tkqb3dAcZxsXJIk2jBMi8ZiHsG1XSnu3ARGnAcH7QogCpTLPV3RS3HBMO+1WqnbgdBNW2oupKZRWM4zYrsf9Wg9SQeqDaEuGaPl4aX2vVJrGcBRANpvPuD4fZAxmGUI6DqCg/7hc2grHsZxYcnUCeOT09P5ciIqUWFIOq18/6B4emci9QoLxTlLmmWzNLhadcCNS6QpA9KaCrYW5tKSmR+TN/nZg6ZzoZr8eTGQhCYeGIstyXosaMUxnVtggu3TkphMXpU5ZVdsog61LqVKQnuutx20/NwEgC0+7lIaiIdZys2chpJ2oCAiOPE/qiDgGGs6vNtqu5dcgCqauADuZEdqxS/zsqv5wo6MvJiq1uj5OGlKtAK4LTpe2jr6cpi75LHHMiweS9gSxXwYFi9zye1M7otXatWUiADUtkHbMpAfFih9dzdsB+AdFB/LogQELOgAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 1916,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "budtmo/docker-android: Android in docker solution with noVNC supported and video recording",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=budtmo%2Fdocker-android%3A%20Android%20in%20docker%20solution%20with%20noVNC%20supported%20and%20video%20recording&pos=0&uri=https://github.com/budtmo/docker-android",
+          "width": 0,
+          "windowId": 1892
+        },
+        "1919": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADl0lEQVRYR71XPVATURDefTmGw8YgjtCZ4UcCIyEddKS000476KCD0s6xk0466aC00w466LALwUku8uPRBUflbOQCd2+dd5l3vFze5RJgpGAIb9/bb7/d/XaD0MVP5slU1kAYJ8Q0Y2gSpyFxHRnWOCcXiZwUoFWtlqqdPotJhpl8Pm1c+HOcQZYRmkn24pwjuYyD5dUHtm17x213py2A0Wy+wNGf6dRx1FEAhGDvyDrYjQOhBZDJFMyee+fzkuJOom4bJcPa1d/+TR0bLQAymckh1peav2nUcUAEG/zC37Ttck21aQIgImd9v5bv2rl02AAxsKYyEQLQ0Y7EzzjDGgFmGMH9blLBEf4gkM0I0gT4WN4VHXNY3l8PP8s/RMEB8Lkmepj3+bBcLor/jU1O5n0yChIIAp2qtj6wIQbUywHrKXa1Je8FrcvwZTN4tntkFXeCFha/RKuxur8Ypd4AtmlZRVteFiwB/EhH8xie5/NpcNKuSrGoKcM0FlUAaioCACMTUy+QcDpKcRRANylQQRkuX47eJaT948rBpwDAcHb6taAvaoRKCm7iPGBXm4KGWJ1UDlYx1gCwzt3+90lKlgSs0Vm/l3RF7HH6iHH030X0EpwoYOLG85Y0MPiCY9mpBbVNpJHnPli9bfSqw9Fs7k1LioFOcWz86RIhG2yqUsD6ibX/Lonebs51gQpNQB0yTuCcVEtr3ThIso1jWgtAPHZkld4mPdrN+fBEbkVXiBh38D9qIJDrWGruQANCMYrRAiHnODKZe4YcZlpaBMA+tkqb3dAcZxsXJIk2jBMi8ZiHsG1XSnu3ARGnAcH7QogCpTLPV3RS3HBMO+1WqnbgdBNW2oupKZRWM4zYrsf9Wg9SQeqDaEuGaPl4aX2vVJrGcBRANpvPuD4fZAxmGUI6DqCg/7hc2grHsZxYcnUCeOT09P5ciIqUWFIOq18/6B4emci9QoLxTlLmmWzNLhadcCNS6QpA9KaCrYW5tKSmR+TN/nZg6ZzoZr8eTGQhCYeGIstyXosaMUxnVtggu3TkphMXpU5ZVdsog61LqVKQnuutx20/NwEgC0+7lIaiIdZys2chpJ2oCAiOPE/qiDgGGs6vNtqu5dcgCqauADuZEdqxS/zsqv5wo6MvJiq1uj5OGlKtAK4LTpe2jr6cpi75LHHMiweS9gSxXwYFi9zye1M7otXatWUiADUtkHbMpAfFih9dzdsB+AdFB/LogQELOgAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 1919,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "chromium-os-docker.md",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=chromium-os-docker.md&pos=0&uri=https://gist.github.com/iansltx/67ec69844a045be5179be6bab678ff4d",
+          "width": 0,
+          "windowId": 1892
+        },
+        "1922": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 1922,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "stackoverflow as gist - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=stackoverflow%20as%20gist%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=stackoverflow+as+gist&rlz=1CAZBMY_enSE834&oq=stackoverflow+as+gist&aqs=chrome..69i57j69i64.12144j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 0,
+          "windowId": 1892
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1892": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 1892,
+        "incognito": false,
+        "left": 936,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Powershell - locate all sites with specific text in the URL",
+    "date": 1599768333046,
+    "lastEditedTime": 1601295398221,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599767327574,
+    "id": "78c97f31-cb5a-4bb6-80ff-3ccb0f5b424a"
+  }
+]

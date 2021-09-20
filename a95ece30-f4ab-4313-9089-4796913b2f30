@@ -1,0 +1,188 @@
+[
+  {
+    "windows": {
+      "6341": {
+        "6343": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6343,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "GEOSECMA",
+          "url": "https://gis.gotland.se/map/?app=Fastighetskartan&lang=sv#search",
+          "width": 936,
+          "windowId": 6341
+        },
+        "6348": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6348,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "sql server - Get size of all tables in database - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7892334/get-size-of-all-tables-in-database",
+          "width": 936,
+          "windowId": 6341
+        },
+        "6351": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://dbmstools.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6351,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "82 Database diagram / Reverse Engineering tools - DBMS Tools",
+          "url": "https://dbmstools.com/categories/database-diagram-tools",
+          "width": 936,
+          "windowId": 6341
+        },
+        "6354": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6354,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SchemaSpy",
+          "url": "http://schemaspy.sourceforge.net/",
+          "width": 936,
+          "windowId": 6341
+        },
+        "6357": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6357,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SchemaSpy – Freecode",
+          "url": "http://freshmeat.sourceforge.net/projects/schemaspy",
+          "width": 936,
+          "windowId": 6341
+        },
+        "6362": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1001,
+          "highlighted": true,
+          "id": 6362,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "sql server - Get size of all tables in database - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7892334/get-size-of-all-tables-in-database",
+          "width": 936,
+          "windowId": 6341
+        },
+        "6367": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://dbmstools.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6367,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "82 Database diagram / Reverse Engineering tools - DBMS Tools",
+          "url": "https://dbmstools.com/categories/database-diagram-tools",
+          "width": 936,
+          "windowId": 6341
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "6341": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 6341,
+        "incognito": false,
+        "left": 624,
+        "state": "normal",
+        "top": 341,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 7,
+    "name": "sql server - Get size of all tables in database - Stack Overflow",
+    "date": 1600110604333,
+    "lastEditedTime": 1601295398079,
+    "tag": [
+      "winClose",
+      "loppy",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "5ba051f1-c55e-459c-a998-0fb69d9adbb1"
+  }
+]
