@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "10810": {
+        "10818": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 10818,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Raiders! on Steam",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Raiders!%20on%20Steam&pos=0&uri=https://store.steampowered.com/app/972010/Raiders/?gclid=Cj0KCQjw5eX7BRDQARIsAMhYLP9Gz9lWugy8boYka1o19nrWm3Wtl0OzIP8su9bf3C0ZMV1xJ2wzNzgaAhVHEALw_wcB",
+          "width": 0,
+          "windowId": 10810
+        },
+        "11046": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAC5klEQVRYR+2WX0hTURzHz72MITIMN3U2c/NPRtlDoQVaDwYhMfbYSw/RQy9l2Z9hY4hE7EF6CEX7+2L2UNGTyBAZMmSMJUbaWmKJiNbCUcuG5YPEkBF+f+fcdW8jeonz0n3wc8/vnnP8ns89O5vibDx2gzHGcur2X8Y4GMvlqMArWp1Xtf6im6hziolU7TndbKk0k8rnV6QHcOw9AgMqT2ZcuViQRqGCryzHDAqEMbF00U9buX5GRX6APS1kgAfb4jQZ3+lvKv5cKOwlP0b8P8UhO0BFXRMMpJdf/dUab98fRr/LF86CR9tPgisrH8Bc/nOkm8+5y4H2TDQI2uubQUV+gJqDMLCd/VeMjTxCsydwC5ybf8ef09tLJ1+DA3eHwN6+O2D+HNEJYD5vBwrXrp4nA64D3IDsAFZHo94ADx4afYo7f+AmGUhwA9xUJrWA+sfVVbC51U0CtRNUGCCzM7EQWFdXA9qq95EB6QFKKnfTOaCdWJR8IvgM7L7eC8bn5sWSwNQS7YFvGxvguYs+8PmLl7p+LYea0H78kPZIscUCVtXzPSA9gMXq5HtAF5yFx0dQ8PcEyEBiTm8g+RbtoeEnYEWZFey4RCbENdhHe2jzxyZ45vQpMuDaDyrSAxSVVJIBwxd+JEQnVlc3PY4nErqVpZNLaLe1e8BoeAx0NdC7Fd+S7xffoO320IkZ5vPaXQ1kQHoAc7G14B6ITI6TAX8PGZjVG1j7lES9fKcLnI5NgoP3HoDZbBbs9nWBh1vbQG1cVS0ZkB7AZC4paCAamUBCr89vMEAHRmYtBdrKq8HOTjrjT7QfJwNb9Mtiamoa7O8fMIyrIgPSA6imosIGovROvV5uID6LtrjWM2ncltrsoLWsDEwuL+r61TbQ5/3rl8+gcZwiPQBTTQUNxKJRJL7ipV0cNxj4vp5BfUepTbfi4Ogo2mazGXR76JwQl3GcIj8AUwsa0MX+hw2FyQ/AZBv4H0CugZ8CirtklUtdzAAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 11046,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Twin Mirror : Le Nouveau Jeu Vidéo du Studio Français DONTNOD",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Twin%20Mirror%20%3A%20Le%20Nouveau%20Jeu%20Vid%C3%A9o%20du%20Studio%20Fran%C3%A7ais%20DONTNOD&pos=0&uri=https://www.twinmirror-game.com/",
+          "width": 0,
+          "windowId": 10810
+        },
+        "11066": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABS0lEQVRYR+2XMW7CQBBFxwbSgBQpUrhD7sABOEgQNLkCEg0dVQoKOEhukoYTUEQgQQOONyLzv4TXXlwAGkuG5mtmd71v/w72biSBnxOJAk2hPLu7onGRSChfPI05QMiZW+fL7Lz1fLnn5QCcyBN6vUA7npZBc693GEf9OcWRyOGcojoATuQNZH1oG9q4ch9+MX4P/YIT31BNmwE4Ea7wA4TPUO4lt6nwf3zBHX8c4y3GfP47UAUAVvsIZE1vVdlC7Xa1eb3OdotjjdPUN8V37ogOczpgDoAlyTvIWpkaiGN1gCubTLS511MdDlVXq1A5+LVEB5Z0wBzgFegDzwENmyiJJNF4PFalE5uNxrOZ6nSqmq8FOkQHFnTgAWDugHkRmgOYv4jMAWr+NeTryexAUhmAM5CanopDH/N758suGfeeP3gDPh3T63E7/gNKgtEJRAYjQAAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 11066,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "(90) Coronavirus Update 20rd September: USA hits 200 000 deaths! - YouTube",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(90)%20Coronavirus%20Update%2020rd%20September%3A%20USA%20hits%20200%20000%20deaths!%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=NqytRgQSy3E&list=TLPQMDMxMDIwMjB32uoSpHNl3Q&index=160&t=866s",
+          "width": 0,
+          "windowId": 10810
+        },
+        "11073": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1001,
+          "highlighted": true,
+          "id": 11073,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Världslärardagen - Sök på Google",
+          "url": "https://www.google.com/search?q=V%C3%A4rldsl%C3%A4rardagen&oi=ddle&ct=144867838&hl=sv&source=doodle-ntp&ved=0ahUKEwjln__7kJ3sAhVCl4sKHehrC3gQPQgB",
+          "width": 1117,
+          "windowId": 10810
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10810": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 10810,
+        "incognito": false,
+        "left": 377,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1117
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Världslärardagen - Sök på Google",
+    "date": 1601890721054,
+    "lastEditedTime": 1601890698771,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "150ee04f-e33b-4a9a-9451-9940626fd59a"
+  }
+]

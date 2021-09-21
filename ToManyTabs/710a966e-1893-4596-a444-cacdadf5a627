@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "321": {
+        "178": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "height": 1010,
+          "highlighted": false,
+          "id": 178,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PDF-Bookmark-Split/splitPdfByBookmarksJoinSameNameAdjecending.ps1 at master · perXautomatik/PDF-Bookmark-Split",
+          "url": "https://github.com/perXautomatik/PDF-Bookmark-Split/blob/master/splitPdfByBookmarksJoinSameNameAdjecending.ps1",
+          "width": 1801,
+          "windowId": 321
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "321": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1096,
+        "id": 321,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 1,
+    "name": "PDF-Bookmark-Split/splitPdfByBookmarksJoinSameNameAdjecending.ps1 at master · perXautomatik/PDF-Bookmark-Split",
+    "date": 1602067306331,
+    "lastEditedTime": 1602066884689,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602058062832,
+    "id": "ffa0e2d5-f922-45d1-9036-29768396b905"
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "windows": {
+      "776": {
+        "794": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.pdfsharp.net/wiki/Themes/empira-Wiki/Icon.ico",
+          "height": 1789,
+          "highlighted": false,
+          "id": 794,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PDFsharp Sample: HelloWorld (VB) - PDFsharp and MigraDoc Wiki",
+          "url": "http://www.pdfsharp.net/wiki/HelloWorld-sample-VB.ashx",
+          "width": 1039,
+          "windowId": 776
+        },
+        "795": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1789,
+          "highlighted": false,
+          "id": 795,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "c# - foreach on unknown type - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/2110178/foreach-on-unknown-type",
+          "width": 1039,
+          "windowId": 776
+        },
+        "803": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1789,
+          "highlighted": false,
+          "id": 803,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Using Visual Studio Code for vb.net : How to enable vb.net intellisense? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/52052380/using-visual-studio-code-for-vb-net-how-to-enable-vb-net-intellisense",
+          "width": 1039,
+          "windowId": 776
+        },
+        "806": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://marketplace.visualstudio.com/favicon.ico",
+          "height": 1789,
+          "highlighted": false,
+          "id": 806,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "VB.NET Grammars and Snippets - Visual Studio Marketplace",
+          "url": "https://marketplace.visualstudio.com/items?itemName=gordonwalkedby.vbnet",
+          "width": 1039,
+          "windowId": 776
+        },
+        "809": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.tutorialspoint.com/favicon.ico",
+          "height": 1789,
+          "highlighted": false,
+          "id": 809,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "VB.Net - Regular Expressions - Tutorialspoint",
+          "url": "https://www.tutorialspoint.com/vb.net/vb.net_regular_expressions.htm",
+          "width": 1039,
+          "windowId": 776
+        },
+        "812": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "height": 0,
+          "highlighted": false,
+          "id": 812,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PDFsharp & MigraDoc Foundation • View topic - How to read the outlines from the existing pdf?",
+          "url": "https://forum.pdfsharp.net/viewtopic.php?f=2&t=702",
+          "width": 0,
+          "windowId": 776
+        },
+        "815": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://community.idera.com/cfs-filesystemfile/__key/themefiles/s-3fc3f82483d14ec485ef92e206116d49-files/Favicon_2D00_Duck_2D00_Green.png?_=636027432567382626",
+          "height": 0,
+          "highlighted": false,
+          "id": 815,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Combining PowerShell And VBScript - Power Tips - Power Tips - IDERA Community",
+          "url": "https://community.idera.com/database-tools/powershell/powertips/b/tips/posts/combining-powershell-and-vbscript",
+          "width": 0,
+          "windowId": 776
+        },
+        "821": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1789,
+          "highlighted": false,
+          "id": 821,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "windows - VBScript Expected End 800A03F6 - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/1029216/vbscript-expected-end-800a03f6",
+          "width": 1039,
+          "windowId": 776
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "776": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1906,
+        "id": 776,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -735,
+        "type": "normal",
+        "width": 1096
+      }
+    },
+    "tabsNumber": 8,
+    "name": "c# - foreach on unknown type - Stack Overflow",
+    "date": 1600179492788,
+    "lastEditedTime": 1601295398729,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600156534702,
+    "id": "c00ac69a-fced-4064-a21c-4b28c807986b"
+  }
+]

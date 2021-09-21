@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "154": {
+        "153": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://community.powerbi.com/html/@8CD084108A7D11AE597D419ADED393F1/assets/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 153,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Solved: IF - OR Formula in Add Custom Column - Microsoft Power BI Community",
+          "url": "https://community.powerbi.com/t5/Desktop/IF-OR-Formula-in-Add-Custom-Column/td-p/6308",
+          "width": 1073,
+          "windowId": 154
+        },
+        "158": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://d3puyuj3fofz1f.cloudfront.net/favicon.ico",
+          "height": 1155,
+          "highlighted": true,
+          "id": 158,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 153,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Power Query if Statements • My Online Training Hub",
+          "url": "https://www.myonlinetraininghub.com/power-query-if-statements",
+          "width": 1073,
+          "windowId": 154
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "154": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 154,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Power Query if Statements • My Online Training Hub",
+    "date": 1605213112749,
+    "lastEditedTime": 1605213108426,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1605140538703,
+    "id": "81efc541-d0b8-4154-a40b-af2dccfbb192"
+  }
+]

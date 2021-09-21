@@ -1,0 +1,122 @@
+[
+  {
+    "windows": {
+      "1139": {
+        "1191": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1191,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "windows set autostart on login - Google Search",
+          "url": "https://www.google.com/search?q=windows%20set%20autostart%20on%20login",
+          "width": 523,
+          "windowId": 1139
+        },
+        "1192": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1192,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "subquery insead of view declartion - Google Search",
+          "url": "https://www.google.com/search?q=subquery%20insead%20of%20view%20declartion",
+          "width": 1103,
+          "windowId": 1139
+        },
+        "1193": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1193,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "vscode cursor at highlight - Google Search",
+          "url": "https://www.google.com/search?q=vscode%20cursor%20at%20highlight",
+          "width": 1103,
+          "windowId": 1139
+        },
+        "1194": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1194,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "vscode multiple cursors - Google Search",
+          "url": "https://www.google.com/search?sxsrf=ALeKk03wMNmHkvwaC6HE773Ve11_TEdNVA:1585069791252&q=vscode+multiple+cursors&sa=X&ved=2ahUKEwjN4eeOzbPoAhUnpIsKHcUhAAwQ1QIoBHoECAsQBQ&biw=758&bih=1801",
+          "width": 1103,
+          "windowId": 1139
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1139": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1056,
+        "id": 1139,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 17,
+        "type": "normal",
+        "width": 580
+      }
+    },
+    "tabsNumber": 4,
+    "name": "windows set autostart on login - Google Search",
+    "date": 1600039472416,
+    "lastEditedTime": 1601295399195,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "f7c9525e-ab2f-4bbc-b82c-3f131894203f"
+  }
+]

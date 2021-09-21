@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "216": {
+        "215": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 215,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "programming thermenolegy turn cod into a executable - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=programming+thermenolegy+turn+cod+into+a+executable&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1324,
+          "windowId": 216
+        },
+        "225": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 225,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 215,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Executable - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Executable",
+          "width": 1324,
+          "windowId": 216
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "216": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 216,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Executable - Wikipedia",
+    "date": 1602058863066,
+    "lastEditedTime": 1602058735081,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602058062832,
+    "id": "5a1f5b3e-444c-4081-91cc-989072fefb83"
+  }
+]

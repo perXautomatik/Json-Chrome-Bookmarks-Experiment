@@ -1,0 +1,187 @@
+[
+  {
+    "windows": {
+      "3250": {
+        "3253": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www-static-sites.operacdn.com/wp-content/themes/opera-2018/static/img/favicon.94e3b24366e3faaceae2583c84668c09.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3253,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Features - Opera Help",
+          "url": "https://help.opera.com/en/latest/features/#workspaces",
+          "width": 1383,
+          "windowId": 3250
+        },
+        "3255": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://zdnet2.cbsistatic.com/fly/bundles/zdnetcss/images/logos/logo-192x192.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3255,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "DNS-over-HTTPS causes more problems than it solves, experts say | ZDNet",
+          "url": "https://www.zdnet.com/article/dns-over-https-causes-more-problems-than-it-solves-experts-say/",
+          "width": 1383,
+          "windowId": 3250
+        },
+        "3259": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3259,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "OPERA GX PROFILES : operabrowser",
+          "url": "https://www.reddit.com/r/operabrowser/comments/gs0gx3/opera_gx_profiles/",
+          "width": 1383,
+          "windowId": 3250
+        },
+        "3262": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3262,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "create a new user profile to another device windows - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&biw=1383&bih=691&ei=9FxOX8KpDoiQmwXs14nADg&q=create+a+new+user+profile+to+another+device+windows&oq=create+a+new+user+profile+to+another+device+windows&gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjIICCEQFhAdEB4yCAghEBYQHRAeMggIIRAWEB0QHjIICCEQFhAdEB46BAgAEEc6BQghEKABUJcNWN4kYJkpaABwAXgAgAFTiAHtBJIBATiYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjC8_bOl8jrAhUIyKYKHexrAugQ4dUDCAw&uact=5",
+          "width": 1383,
+          "windowId": 3250
+        },
+        "3265": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.majorgeeks.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3265,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MajorGeeks.Com - MajorGeeks",
+          "url": "https://www.majorgeeks.com/",
+          "width": 1383,
+          "windowId": 3250
+        },
+        "3268": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3268,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Basic and Dynamic Disks - Win32 apps | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/windows/win32/fileio/basic-and-dynamic-disks",
+          "width": 1383,
+          "windowId": 3250
+        },
+        "3280": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3280,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "LinkmanDatabase",
+          "url": "file:///E:/ToDatabase/Html/without%20folders%20unique%20urls.html",
+          "width": 1383,
+          "windowId": 3250
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3250": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 3250,
+        "incognito": false,
+        "left": 216,
+        "state": "normal",
+        "top": 97,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Features - Opera Help",
+    "date": 1601172058449,
+    "lastEditedTime": 1601172044780,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "76f7982c-eac2-4024-a2c5-4c6a4bfe832a"
+  }
+]

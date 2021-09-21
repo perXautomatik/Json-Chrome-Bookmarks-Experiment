@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "5783": {
+        "5788": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://accounts.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5788,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Error 404 (Not Found)!!1",
+          "url": "https://accounts.google.com/signin/chrome/sync?ssp=1&continue=https%3A%2F%2Fwww.google.com%2F",
+          "width": 1383,
+          "windowId": 5783
+        },
+        "5798": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 5798,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Smart History Classifier - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/smart-history-classifier/aidekkbjhnjbijljkpgdmmcgigjkknba?hl=en",
+          "width": 1383,
+          "windowId": 5783
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5783": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 5783,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Smart History Classifier - Chrome Web Store",
+    "date": 1601174933523,
+    "lastEditedTime": 1601174918674,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "eabf9690-800a-4a64-8e1d-b6286a043494"
+  }
+]

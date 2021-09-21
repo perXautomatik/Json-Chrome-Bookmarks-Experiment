@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "185": {
+        "184": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/e3f9a4259092f61a45928a54281ea12b285bf3b4/images/favicon-32x32.png",
+          "height": 683,
+          "highlighted": false,
+          "id": 184,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tymon | Discography | Discogs",
+          "url": "https://www.discogs.com/artist/3147575-Tymon-3?sort=year%2Cdesc&limit=25",
+          "width": 1324,
+          "windowId": 185
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "185": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 185,
+        "incognito": false,
+        "left": 497,
+        "state": "normal",
+        "top": 81,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Tymon | Discography | Discogs",
+    "date": 1604418011850,
+    "lastEditedTime": 1604417987942,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1604399022104,
+    "id": "397b5ea5-234e-4417-8629-d78206bf987a"
+  }
+]

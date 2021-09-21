@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "56": {
+        "64": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/superuser/Img/favicon.ico?v=4852d6fb3f5d",
+          "height": 691,
+          "highlighted": false,
+          "id": 64,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": true,
+          "status": "loading",
+          "title": "command line - How do I start Chrome using a specified \"user profile\"? - Super User",
+          "url": "https://superuser.com/questions/377186/how-do-i-start-chrome-using-a-specified-user-profile",
+          "width": 1383,
+          "windowId": 56
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "56": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 56,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 1,
+    "name": "command line - How do I start Chrome using a specified \"user profile\"? - Super User",
+    "date": 1601737404653,
+    "lastEditedTime": 1601737344188,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601737338583,
+    "id": "22a35d46-ea4f-401c-8354-1f0e8e2eab68"
+  }
+]

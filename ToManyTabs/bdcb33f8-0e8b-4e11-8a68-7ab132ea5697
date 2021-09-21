@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "306": {
+        "309": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://database.guide/favicon.ico",
+          "height": 1351,
+          "highlighted": false,
+          "id": 309,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "How to Use GOTO in SQL Server | Database.Guide",
+          "url": "https://database.guide/how-to-use-goto-in-sql-server/",
+          "width": 706,
+          "windowId": 306
+        },
+        "310": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 1351,
+          "highlighted": false,
+          "id": 310,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 309,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Batches of SQL Statements - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/odbc/reference/develop-app/batches-of-sql-statements?view=sql-server-ver15",
+          "width": 706,
+          "windowId": 306
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "306": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1440,
+        "id": 306,
+        "incognito": false,
+        "left": 2109,
+        "state": "normal",
+        "top": -487,
+        "type": "normal",
+        "width": 763
+      }
+    },
+    "tabsNumber": 2,
+    "name": "How to Use GOTO in SQL Server | Database.Guide",
+    "date": 1601642231943,
+    "lastEditedTime": 1601642228554,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1601635479176,
+    "id": "9b215348-5a6b-4f70-a7e9-2348c9f55dab"
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "windows": {
+      "1480": {
+        "1436": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 970,
+          "highlighted": false,
+          "id": 1436,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Web%20database%20builder%2C%20simple%20as%20Excel%2C%20powerful%20as%20a%20database.%20-%20Ragic&pos=0&uri=https://www.ragic.com/intl/en/home?campaign=youtube_en&gclid=Cj0KCQjwwOz6BRCgARIsAKEG4FXLhEoG--BWWqgbyKiNafsoxLaNXUGp8G2t6X2lDWeCbHEENsnELAcaApYaEALw_wcB",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Web%20database%20builder%2C%20simple%20as%20Excel%2C%20powerful%20as%20a%20database.%20-%20Ragic&pos=0&uri=https://www.ragic.com/intl/en/home?campaign=youtube_en&gclid=Cj0KCQjwwOz6BRCgARIsAKEG4FXLhEoG--BWWqgbyKiNafsoxLaNXUGp8G2t6X2lDWeCbHEENsnELAcaApYaEALw_wcB",
+          "width": 1879,
+          "windowId": 1480
+        },
+        "1452": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1452,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tabzen/fkcljmgncjjkckdandfdodbgdefgbjep",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tabzen/fkcljmgncjjkckdandfdodbgdefgbjep",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1453": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1453,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tabmate/pjnjpllpengglloikgcanfdmpkgfholi",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tabmate/pjnjpllpengglloikgcanfdmpkgfholi",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1455": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1455,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tab-grouper/glfmdmkkhokfolknaabkokpcibhlagen",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tab-grouper/glfmdmkkhokfolknaabkokpcibhlagen",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1456": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 970,
+          "highlighted": false,
+          "id": 1456,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tab-sidebar/egmcoemabahnkbkfgdifiafkhebcfpfo",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tab-sidebar/egmcoemabahnkbkfgdifiafkhebcfpfo",
+          "width": 1879,
+          "windowId": 1480
+        },
+        "1457": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1457,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tabfern-tab-manager-and-b/hbajjpcdbninabigakflkhiogmmjaakm",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tabfern-tab-manager-and-b/hbajjpcdbninabigakflkhiogmmjaakm",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1458": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1458,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/manage-my-tabs-tab-manage/jbhejjmjopbmikcoffcckcnbaiohgbge",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/manage-my-tabs-tab-manage/jbhejjmjopbmikcoffcckcnbaiohgbge",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1459": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1459,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tab-manager-by-shimomire/lhnjllodihbcobjkppfbafclibgpofje",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tab-manager-by-shimomire/lhnjllodihbcobjkppfbafclibgpofje",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1460": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1460,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=caching%20-%20Chrome%20memory%20cache%20vs%20disk%20cache%20-%20Stack%20Overflow&pos=1493&uri=https://stackoverflow.com/questions/44596937/chrome-memory-cache-vs-disk-cache",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=caching%20-%20Chrome%20memory%20cache%20vs%20disk%20cache%20-%20Stack%20Overflow&pos=1493&uri=https://stackoverflow.com/questions/44596937/chrome-memory-cache-vs-disk-cache",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1461": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1461,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Managing%20HTML5%20Offline%20Storage%20-%20Google%20Chrome&pos=2346&uri=https://developer.chrome.com/apps/offline_storage",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Managing%20HTML5%20Offline%20Storage%20-%20Google%20Chrome&pos=2346&uri=https://developer.chrome.com/apps/offline_storage",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1462": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1462,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=chrome%20increase%20offline%20cache%20size%20-%20Google%20Search&pos=98&uri=https://www.google.com/search?rlz=1CAZBMY_enSE834&sxsrf=ALeKk01jv2ffT5djd4htm_gtkHrGTFmpUg%3A1599875201314&ei=gShcX5PrEs3KrgTJi624DA&q=chrome+increase+offline+cache+size&oq=chrome+increa+offline+cache+size&gs_lcp=CgZwc3ktYWIQAxgAMgQIIRAKOhEIABCwAxCKAxC3AxDlAhCLA1CI8wFYvf8BYOiOAmgBcAB4AIABf4gBhwSSAQM1LjGYAQCgAQGqAQdnd3Mtd2l6yAEKuAECwAEB&sclient=psy-ab",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=chrome%20increase%20offline%20cache%20size%20-%20Google%20Search&pos=98&uri=https://www.google.com/search?rlz=1CAZBMY_enSE834&sxsrf=ALeKk01jv2ffT5djd4htm_gtkHrGTFmpUg%3A1599875201314&ei=gShcX5PrEs3KrgTJi624DA&q=chrome+increase+offline+cache+size&oq=chrome+increa+offline+cache+size&gs_lcp=CgZwc3ktYWIQAxgAMgQIIRAKOhEIABCwAxCKAxC3AxDlAhCLA1CI8wFYvf8BYOiOAmgBcAB4AIABf4gBhwSSAQM1LjGYAQCgAQGqAQdnd3Mtd2l6yAEKuAECwAEB&sclient=psy-ab",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1463": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1463,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=What%20is%20the%20Service%20Worker%20⚙%EF%B8%8F%20Cache%20Storage%20Limit%3F%20How%20Much%20Your%20Progressive%20Web%20App%20(PWA)%20Can%20Store&pos=1182&uri=https://love2dev.com/blog/what-is-the-service-worker-cache-storage-limit/",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=What%20is%20the%20Service%20Worker%20%E2%9A%99%EF%B8%8F%20Cache%20Storage%20Limit%3F%20How%20Much%20Your%20Progressive%20Web%20App%20(PWA)%20Can%20Store&pos=1182&uri=https://love2dev.com/blog/what-is-the-service-worker-cache-storage-limit/",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1464": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1464,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=How%20To%20Change%20HTTP%20Browser%20Cache%20Size&pos=5014&uri=https://www.c-sharpcorner.com/article/how-to-change-http-browser-cache-size/#:~:text=Increase%20Cache%20Size%20in%20Chrome&text=Type%20\"Google%20Chrome\"%20in%20the,is%20equivalent%20to%2050%20MB.",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=How%20To%20Change%20HTTP%20Browser%20Cache%20Size&pos=5014&uri=https://www.c-sharpcorner.com/article/how-to-change-http-browser-cache-size/#:~:text=Increase%20Cache%20Size%20in%20Chrome&text=Type%20%22Google%20Chrome%22%20in%20the,is%20equivalent%20to%2050%20MB.",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1465": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1465,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=chromebook%20incerase%20cache%20size%20-%20Google%20Search&pos=105&uri=https://www.google.com/search?q=chromebook+incerase+cache+size&rlz=1CAZBMY_enSE834&oq=chromebook+incerase+cache+size&aqs=chrome..69i57j33.5811j0j7&sourceid=chrome&ie=UTF-8",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=chromebook%20incerase%20cache%20size%20-%20Google%20Search&pos=105&uri=https://www.google.com/search?q=chromebook+incerase+cache+size&rlz=1CAZBMY_enSE834&oq=chromebook+incerase+cache+size&aqs=chrome..69i57j33.5811j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1466": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1466,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Adjust%20Chrome%20OS%20Cache%20Size%20%3A%20chromeos&pos=0&uri=https://www.reddit.com/r/chromeos/comments/an4hn4/adjust_chrome_os_cache_size/",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Adjust%20Chrome%20OS%20Cache%20Size%20%3A%20chromeos&pos=0&uri=https://www.reddit.com/r/chromeos/comments/an4hn4/adjust_chrome_os_cache_size/",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1467": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1467,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Running%20out%20of%20memory%20on%20a%20Chromebook%3F%20Here’s%20a%2030-second%20solution%20–%20Gigaom&pos=2916&uri=https://gigaom.com/2013/04/05/running-out-of-memory-on-a-chromebook-heres-a-30-second-solution/",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Running%20out%20of%20memory%20on%20a%20Chromebook%3F%20Here%E2%80%99s%20a%2030-second%20solution%20%E2%80%93%20Gigaom&pos=2916&uri=https://gigaom.com/2013/04/05/running-out-of-memory-on-a-chromebook-heres-a-30-second-solution/",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1468": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1468,
+          "incognito": false,
+          "index": 16,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Wayback%20Machine&pos=0&uri=https://web.archive.org/web/*/https://groups.google.com/access-error?continue=https://groups.google.com/g/chromebook-central/c/r27r3ZcchhM",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Wayback%20Machine&pos=0&uri=https://web.archive.org/web/*/https://groups.google.com/access-error?continue=https://groups.google.com/g/chromebook-central/c/r27r3ZcchhM",
+          "width": 1383,
+          "windowId": 1480
+        },
+        "1469": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 1469,
+          "incognito": false,
+          "index": 17,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Google%20Code%20Archive%20-%20Long-term%20storage%20for%20Google%20Code%20Project%20Hosting.&pos=0&uri=https://code.google.com/archive/p/compcache/downloads",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Google%20Code%20Archive%20-%20Long-term%20storage%20for%20Google%20Code%20Project%20Hosting.&pos=0&uri=https://code.google.com/archive/p/compcache/downloads",
+          "width": 1383,
+          "windowId": 1480
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1480": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1480,
+        "incognito": false,
+        "left": 952,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 968
+      }
+    },
+    "tabsNumber": 18,
+    "name": "REDIRECTOR",
+    "date": 1600033741040,
+    "lastEditedTime": 1601295397953,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600030279299,
+    "id": "4ba7800b-aade-4192-b179-1c24fedbb0a6"
+  }
+]

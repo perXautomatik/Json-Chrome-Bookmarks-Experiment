@@ -1,0 +1,122 @@
+[
+  {
+    "windows": {
+      "13784": {
+        "14363": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 1001,
+          "highlighted": false,
+          "id": 14363,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Busstidtabeller - Region Gotland",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Busstidtabeller%20-%20Region%20Gotland&pos=289&uri=https://www.gotland.se/85667",
+          "width": 936,
+          "windowId": 13784
+        },
+        "14368": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABS0lEQVRYR+2XMW7CQBBFxwbSgBQpUrhD7sABOEgQNLkCEg0dVQoKOEhukoYTUEQgQQOONyLzv4TXXlwAGkuG5mtmd71v/w72biSBnxOJAk2hPLu7onGRSChfPI05QMiZW+fL7Lz1fLnn5QCcyBN6vUA7npZBc693GEf9OcWRyOGcojoATuQNZH1oG9q4ch9+MX4P/YIT31BNmwE4Ea7wA4TPUO4lt6nwf3zBHX8c4y3GfP47UAUAVvsIZE1vVdlC7Xa1eb3OdotjjdPUN8V37ogOczpgDoAlyTvIWpkaiGN1gCubTLS511MdDlVXq1A5+LVEB5Z0wBzgFegDzwENmyiJJNF4PFalE5uNxrOZ6nSqmq8FOkQHFnTgAWDugHkRmgOYv4jMAWr+NeTryexAUhmAM5CanopDH/N758suGfeeP3gDPh3T63E7/gNKgtEJRAYjQAAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 14368,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "PRO BLOOD - DEATH WISH - YouTube",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=PRO%20BLOOD%20-%20DEATH%20WISH%20-%20YouTube&pos=0&uri=https://www.youtube.com/watch?v=q8BSMtCESno&list=WL&index=31&t=12s",
+          "width": 0,
+          "windowId": 13784
+        },
+        "14371": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADdUlEQVRYR82XX0gUURTGZ4dhWIZhGSREREJCQsQHkYweItTMzCgMDXwNCRERkRIpCREREROxEInoQYOiREWiiK1Mil6ihxAzEZEQtyRElmVZlmEYovt9d5ZdW+olxnk5c//tfuc35557buBHQ3OfoiiKu7f326QeXeO7Suumjyft9LYq57HbcfAif0fT035HNUOiHfBdQKSyVhBIVFVB8Jevwmpr68K6QSp3SYCeaSeOY96Z08KqebmYz3F3ZVW0nYXn6N/ZAYFgEPMNAwT8F3AKBKI916C4qEhYY24OgmfmoZyP3tEm3vTmJvRojJXMUGFMuFtbYlqybxAkPi+DQC6IBSIHRkBnOwgcK4djG5vChrq64fHlRtib1+F5MgnL2HC3v8Mz00T/oRxYj8Q2lrV2pK1LETgwAsrLQGB1DQSGR4U1JsfhUNEReBCLwaMhjDsfP2Gc0a13Ila06krMZz6wb9/BfO6O/QT8EhDjJ7ClgOUVodR6PAMCE/BUCSGDOdOPhI3PzMJ2Yxdpm4yd+WdYd+8u1uXnYd2LsLA2yXoE/BPATBjt4C6QBLhfrdkFeDI+DE8sELB7RPpQYozyOPODytiwBjDf7AUZtaQEBMKLWD84IqyXCf0TwESU9RMwE+4ncAsEFGTCRFsLCMXiADWKXWP2dJFAMQm8ziDguwDGQIwxsG8XZCXAGIDfSqLt6h8JhEhAKclG4KAI+GsQTo7BQ+Z6+wZjwEblk2hvxXicMTCCGMhOAHnl33fBfxPgBSFyt12G01BlRssZQyYLDg+gnxlNnmqxigrRn2xqAIFoVBhrCPvc7O/FuuLMGJAEfBdwskaEc7zxEjy5WA9PWNsZT1EZGW/eop8VkJ2D8z7e3Smsa1kY/oYKKEQCxgRiRz2KSssJyzwgCfgugJ/AoUfRfkS3oqfX8dr6BjxhrndKkdtdVrmy2jUeTINY+JWwwSdTWFd4GAReZsmE/gmoqcfN6OeuUGjXVOPbtlwBCXkvQCv1yHsCT0N96Z0YMyfuY46GMjnIXaDV1YLA4hL+h1VyIOK7gMo6EEgkoJzVrlNaiua5s1BeWEDPcPqpu7hLBt9/EFanZxmcvKZ+4TzeC/JBYOqhsIGI3wK8y2kcVa73MMd77RDrfXkT4rmv2Lwly12TeUuWsSJv0wbvhjxTUrdjnwT8Ato6n69C0CTTAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 14371,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Tavelupphängning av STAS, det enklaste sättet att hänga upp tavlor! STAS Tavelupphängning",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Tavelupph%C3%A4ngning%20av%20STAS%2C%20det%20enklaste%20s%C3%A4ttet%20att%20h%C3%A4nga%20upp%20tavlor!%20STAS%20Tavelupph%C3%A4ngning&pos=0&uri=https://www.skenor.se/?gclid=CjwKCAjwiaX8BRBZEiwAQQxGx6Fyhe_TgniCdwlQVUuMz2xvQ-YIITpUQ9VNmiWoIATBwHxHwqZI8hoCUH8QAvD_BwE",
+          "width": 0,
+          "windowId": 13784
+        },
+        "14385": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.gotland.se/favicon.ico",
+          "height": 1001,
+          "highlighted": true,
+          "id": 14385,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 14363,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "64588",
+          "url": "https://www.gotland.se/64588",
+          "width": 936,
+          "windowId": 13784
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "13784": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 13784,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 4,
+    "name": "64588",
+    "date": 1602928041416,
+    "lastEditedTime": 1602927081615,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "bfb935c2-243d-4be9-a843-6c89989dbb8f"
+  }
+]

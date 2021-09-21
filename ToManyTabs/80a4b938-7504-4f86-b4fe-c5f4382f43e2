@@ -1,0 +1,363 @@
+[
+  {
+    "windows": {
+      "4478": {
+        "4696": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 4696,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "tabSorter2 - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tabsorter2/lmmmdnmgmgnimgcfbnomdgeldehlfafn?hl=en",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4699": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 970,
+          "highlighted": false,
+          "id": 4699,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "javascript - Custom cursor doesn't allow click? JS - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/43683537/custom-cursor-doesnt-allow-click-js",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4700": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.nvidia.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 4700,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NVIDIA PhysX System Software 9.15.0428",
+          "url": "https://www.nvidia.com/en-us/drivers/physx/9_15_0428/physx-9-15-0428-driver/",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4701": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 4701,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Signal (IPC) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Signal_(IPC)",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4704": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 970,
+          "highlighted": false,
+          "id": 4704,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to view all JavaScript functions called in real time? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7049510/how-to-view-all-javascript-functions-called-in-real-time",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4705": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 4705,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Firebug Lite for Google Chrome - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/ehemiojjcpldeipjhjkepfdaohajpbdo/related?hl=en",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4715": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 970,
+          "highlighted": false,
+          "id": 4715,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://mhckaeojpndkpchffabjhnkeiildpjhg/options.html",
+          "url": "chrome-extension://mhckaeojpndkpchffabjhnkeiildpjhg/options.html",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4717": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 4717,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Clutter Free - Prevent duplicate tabs - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf?hl=en",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4793": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 4793,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Clutter Free - Prevent duplicate tabs - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf?hl=en",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4817": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 4817,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Firebug Lite for Google Chrome - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/ehemiojjcpldeipjhjkepfdaohajpbdo/related?hl=en",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4822": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 970,
+          "highlighted": false,
+          "id": 4822,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to view all JavaScript functions called in real time? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7049510/how-to-view-all-javascript-functions-called-in-real-time",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4849": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 4849,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "V7 Extension Manager",
+          "url": "chrome-extension://mhckaeojpndkpchffabjhnkeiildpjhg/options.html",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4859": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 4859,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Merge Windows - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/merge-windows/mmpokgfcmbkfdeibafoafkiijdbfblfg?hl=en",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4860": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 970,
+          "highlighted": false,
+          "id": 4860,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions - Merge Windows",
+          "url": "chrome://extensions/?id=mmpokgfcmbkfdeibafoafkiijdbfblfg",
+          "width": 1879,
+          "windowId": 4478
+        },
+        "4861": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://singleclickapps.com/assets/ico/favicon.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 4861,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MergeWindows · Introduction",
+          "url": "https://singleclickapps.com/merge-windows/postinstall-chrome.html",
+          "width": 1879,
+          "windowId": 4478
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4478": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 4478,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 15,
+    "name": "Signal (IPC) - Wikipedia",
+    "date": 1600029116497,
+    "lastEditedTime": 1601295398886,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "d7738918-a4a7-4f2d-98a5-8bbf80c56a16"
+  }
+]

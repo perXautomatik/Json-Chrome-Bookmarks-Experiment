@@ -1,0 +1,144 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4114": {
+        "width": 1872,
+        "type": "normal",
+        "top": 0,
+        "state": "maximized",
+        "left": 0,
+        "incognito": false,
+        "height": 1080,
+        "focused": true,
+        "alwaysOnTop": false,
+        "id": 4114
+      }
+    },
+    "windows": {
+      "4114": {
+        "4129": {
+          "title": "Account settings",
+          "windowId": 4114,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADl0lEQVRYR71XPVATURDefTmGw8YgjtCZ4UcCIyEddKS000476KCD0s6xk0466aC00w466LALwUku8uPRBUflbOQCd2+dd5l3vFze5RJgpGAIb9/bb7/d/XaD0MVP5slU1kAYJ8Q0Y2gSpyFxHRnWOCcXiZwUoFWtlqqdPotJhpl8Pm1c+HOcQZYRmkn24pwjuYyD5dUHtm17x213py2A0Wy+wNGf6dRx1FEAhGDvyDrYjQOhBZDJFMyee+fzkuJOom4bJcPa1d/+TR0bLQAymckh1peav2nUcUAEG/zC37Ttck21aQIgImd9v5bv2rl02AAxsKYyEQLQ0Y7EzzjDGgFmGMH9blLBEf4gkM0I0gT4WN4VHXNY3l8PP8s/RMEB8Lkmepj3+bBcLor/jU1O5n0yChIIAp2qtj6wIQbUywHrKXa1Je8FrcvwZTN4tntkFXeCFha/RKuxur8Ypd4AtmlZRVteFiwB/EhH8xie5/NpcNKuSrGoKcM0FlUAaioCACMTUy+QcDpKcRRANylQQRkuX47eJaT948rBpwDAcHb6taAvaoRKCm7iPGBXm4KGWJ1UDlYx1gCwzt3+90lKlgSs0Vm/l3RF7HH6iHH030X0EpwoYOLG85Y0MPiCY9mpBbVNpJHnPli9bfSqw9Fs7k1LioFOcWz86RIhG2yqUsD6ibX/Lonebs51gQpNQB0yTuCcVEtr3ThIso1jWgtAPHZkld4mPdrN+fBEbkVXiBh38D9qIJDrWGruQANCMYrRAiHnODKZe4YcZlpaBMA+tkqb3dAcZxsXJIk2jBMi8ZiHsG1XSnu3ARGnAcH7QogCpTLPV3RS3HBMO+1WqnbgdBNW2oupKZRWM4zYrsf9Wg9SQeqDaEuGaPl4aX2vVJrGcBRANpvPuD4fZAxmGUI6DqCg/7hc2grHsZxYcnUCeOT09P5ciIqUWFIOq18/6B4emci9QoLxTlLmmWzNLhadcCNS6QpA9KaCrYW5tKSmR+TN/nZg6ZzoZr8eTGQhCYeGIstyXosaMUxnVtggu3TkphMXpU5ZVdsog61LqVKQnuutx20/NwEgC0+7lIaiIdZys2chpJ2oCAiOPE/qiDgGGs6vNtqu5dcgCqauADuZEdqxS/zsqv5wo6MvJiq1uj5OGlKtAK4LTpe2jr6cpi75LHHMiweS9gSxXwYFi9zye1M7otXatWUiADUtkHbMpAfFih9dzdsB+AdFB/LogQELOgAAAABJRU5ErkJggg==",
+          "discarded": true,
+          "autoDiscardable": false,
+          "audible": false,
+          "active": false,
+          "url": "https://github.com/settings/admin",
+          "id": 4129,
+          "index": 0
+        },
+        "4136": {
+          "title": "Add your GitHub repo to your LinkedIn profile",
+          "windowId": 4114,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,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",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://transitionintotech.com/add-github-repo-to-linkedin/",
+          "id": 4136,
+          "index": 1
+        },
+        "4144": {
+          "title": "SignUp - Onlizer",
+          "windowId": 4114,
+          "width": 1872,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": true,
+          "height": 1009,
+          "favIconUrl": "https://portal.onlizer.com/Content/img/faviconnew.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://portal.onlizer.com/Security/SignUp",
+          "id": 4144,
+          "index": 4
+        },
+        "4153": {
+          "title": "github feature linked in integration - Google Search",
+          "windowId": 4114,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?q=github+feature+linked+in+integration&rlz=1CAZBMY_enSE834&oq=github+feature+linked+in+integration&aqs=chrome..69i57j69i64.13104j0j7&sourceid=chrome&ie=UTF-8",
+          "id": 4153,
+          "index": 2
+        },
+        "4156": {
+          "title": "Make GitHub part of your professional reputation | Official LinkedIn Blog",
+          "windowId": 4114,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABaklEQVRYR2NkGGDAOMD2MyAc0LCfg+HHtwiGfwzyNHUUE8NDBg6uFQwNjj9A9iAcULE1geaWw3wGckSH9wJUB5Rtraepz9EN7/JuJOgAPWk+sLZLTz9R322EHDA/3IAhwUgKbPGCc88YEldeoK4j8DkA5POLeTYoFupPOkLdkBjUDgB5fUCjABb2A5oIqZvisJhGKBf87/RC0cVYvg3OR5ar33OHoWn3LQZQaE300WJwUBICq/vw4w9D/5EHDBMOP2D49OMXpguo5YAN114x1O+5xXAwzYJBgIMFw6ID994xOM48QTsHPPgALtIZFAQ4cMaa/5JzDJsuv0CVp1YIwEy98OILw4dvkKCGRQNMDmtBRk0H5G+5wTDp8D24D+2URRgOppnB+VijgZoOQE6gMFuRE+qAOwAUPYb9h2iXBgiFALjaRcrGYJfQMwpGHTAaAkMzBAa8Oqa/Awa8YzLgXTOahzl2Cwa8dwwALYslMK1PAI0AAAAASUVORK5CYII=",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://blog.linkedin.com/2011/03/08/github-linkedin",
+          "id": 4156,
+          "index": 3
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Loppy",
+      "Home"
+    ],
+    "tabsNumber": 5,
+    "sessionStartTime": 1600633358975,
+    "name": "SignUp - Onlizer",
+    "lastEditedTime": 1601167836660,
+    "date": 1600956628042,
+    "id": "45523331-7fcf-4457-8eaf-32ee192c060f"
+  }
+]

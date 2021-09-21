@@ -1,0 +1,231 @@
+[
+  {
+    "windows": {
+      "4108": {
+        "4615": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 4615,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Open Multiple URLs - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/open-multiple-urls/oifijhaokejakekmnjmphonojcfkpbbh/related?hl=en",
+          "width": 936,
+          "windowId": 4108
+        },
+        "4633": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 4633,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "OpenList - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/openlist/nkpjembldfckmdchbdiclhfedcngbgnl?hl=en",
+          "width": 936,
+          "windowId": 4108
+        },
+        "4636": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://1ce.org/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 4636,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "1CE - 1Click Extensions for Google Chrome",
+          "url": "https://1ce.org/",
+          "width": 936,
+          "windowId": 4108
+        },
+        "4639": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 4639,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "google translate - Google Search",
+          "url": "https://www.google.com/search?q=google+translate&rlz=1CAZBMY_enSE834&oq=&aqs=chrome.0.35i39l6j69i59l2.8778154j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 936,
+          "windowId": 4108
+        },
+        "4642": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 4642,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Multiple URL Opener - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/multiple-url-opener/lompiehpjobkhelnjlhjiedhddijiekg/related?hl=en",
+          "width": 936,
+          "windowId": 4108
+        },
+        "4645": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 4645,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Open multiple url at one click - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/open-multiple-url-at-one/lbconijpakmibclapcagiaiehaddopbf?hl=en",
+          "width": 936,
+          "windowId": 4108
+        },
+        "4648": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 4648,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Bulk URL Opener - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/bulk-url-opener/kgnfciolbjojfdbbelbdbhhocjmhenep?hl=en",
+          "width": 936,
+          "windowId": 4108
+        },
+        "4651": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 4651,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Multi-links - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/multi-links/gflgnmgilmokfhbckilljalhemjjeldl?hl=en",
+          "width": 936,
+          "windowId": 4108
+        },
+        "4654": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 4654,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Multilink - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/multilink/hakpaefefpemiaahboigpjchbmgkejaj?hl=en",
+          "width": 936,
+          "windowId": 4108
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4108": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 4108,
+        "incognito": false,
+        "left": 936,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 9,
+    "name": "multiple Tabs chrome",
+    "date": 1599919243120,
+    "lastEditedTime": 1601295399145,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "f3fcb865-5a66-4ef6-9f59-ad2eac0c401f"
+  }
+]

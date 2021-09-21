@@ -1,0 +1,54 @@
+[
+  {
+    "windows": {
+      "72": {
+        "71": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 642,
+          "highlighted": false,
+          "id": 71,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "www.gotland.se",
+          "url": "https://www.gotland.se/servlet/PageDispatcher",
+          "width": 1272,
+          "windowId": 72
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "72": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 768,
+        "id": 72,
+        "incognito": false,
+        "left": 78,
+        "state": "normal",
+        "top": 0,
+        "type": "popup",
+        "width": 1288
+      }
+    },
+    "tabsNumber": 1,
+    "name": "www.gotland.se",
+    "date": 1606135222037,
+    "lastEditedTime": 1606135220311,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1606130855215,
+    "id": "3cc6d181-baac-4306-a864-202096b8b740"
+  }
+]

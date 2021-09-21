@@ -1,0 +1,100 @@
+[
+  {
+    "windows": {
+      "12067": {
+        "12068": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.tweakhound.com/wp-content/uploads/2016/08/cropped-th_siteicon_512-32x32.png",
+          "height": 1001,
+          "highlighted": true,
+          "id": 12068,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "My Windows 10 Tweaks - TweakHound",
+          "url": "https://www.tweakhound.com/2015/08/10/my-windows-10-tweaks/",
+          "width": 936,
+          "windowId": 12067
+        },
+        "12069": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 1001,
+          "highlighted": false,
+          "id": 12069,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Collection of Windows 10 Hidden Secret Registry Tweaks - AskVG",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Collection%20of%20Windows%2010%20Hidden%20Secret%20Registry%20Tweaks%20-%20AskVG&pos=0&uri=https://www.askvg.com/collection-of-windows-10-hidden-secret-registry-tweaks/",
+          "width": 936,
+          "windowId": 12067
+        },
+        "12070": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADNElEQVRYR8VXIXDbQBBcs4c/RT9BP0EaI0+gUcdQ0NAwMDCwpKiFgWUNDDQUNKunyDVqhTxCGbE+6jxsV9Ilb1l6Kc5MesQz8r1uf+9u7zT59PXXR/wne39lMCGAD9fJm0PY7l0V8ywAeenxs/RPoJVSuDKA0Wr0RV4MIMs9vPe4MgrWdAfaFh7OeUytgh0As80d4EcwwJeWzmM506Nv5z2Q5S56ZhQD671Dmmio8cwegeT5PuC9AHhoalSVY/722TorghoA0oXtdGWlHEpgagAyM7P1O6MA6JDvysqxq0MesgJFUIR9fp/v8+ody9SCYd1YAItEgzV0d5+zTk5AjAGwzx2ybfl0lsxeavXMQF8R0nFhFTY7h7yoe5XGyl+lNc2k8u6hvh2Nt7sNtERuXv2nan8yGdZEZwr2pcehrCueDu80sN25qgvEtFK4WVls9g7fmzSRYpbLl/VzXdD/dpVgsyuRzk11fBAAHWjsdYbkzaTn27TzebsOBOTN0kJrVd28aMAnRmFfePwBMLequwg3uYfzzz1PxWvbdlei7HhOP3ZCu2UZWIwADo2mnKSAQHk4a9rwJHLrQdiGidWYTuNCxaIuHfoBUPFITUw8Qgxhoc2sRrqo8xwzMsC8zkxHCkj/IjkPABlYjgRAlpmWkxS8hoGwRc9mgNXKCXZOCqQ1x6Tg0QHprKcLZM4PTb4w/xL0emkH94FoF4hQ8DcGYL0pnxSSApRlRaUZtKHN6tUAQgmWAcPgYUvGQLDQ54mqBC46DfsYEOpZySI6BMUev29kmApIJeyyIymODaOuJUSCSwDWCwNXAtZIdgiQcyC0k2nYt5TKPAhZCItOKA4BMJBIrviGqaACUuJHLyQMziU0TVQ14bhotousD4DsAeJf74ecL/UwGrUREQBjbnLXuxn1AWBg7goMzDXdXJqq72kvAiD5IwOU2fbOHwNQgyiwTM3Ren4EIFaE7S4QgZpbDdMMPT4jKFlWpAZia/xZDISVLPs+n/FrSLYWfrDQCIgTtc9GAZANZkjXz/mfM0M+mI6EiF+pb23Fo4O90Jh8+/G7/jwnc+0NrOvZENKx71HAxT86/gJXA4+5x0WeggAAAABJRU5ErkJggg==",
+          "height": 1001,
+          "highlighted": false,
+          "id": 12070,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 12069,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Registry Tweaker - Internet tweaks",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Registry%20Tweaker%20-%20Internet%20tweaks&pos=0&uri=http://www.new-utilities.net/internet_tweaks.html",
+          "width": 936,
+          "windowId": 12067
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "12067": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 12067,
+        "incognito": false,
+        "left": 733,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 3,
+    "name": "My Windows 10 Tweaks - TweakHound",
+    "date": 1602261327520,
+    "lastEditedTime": 1602261322468,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "ae452087-18a9-432e-9365-5fa83302cdf3"
+  }
+]

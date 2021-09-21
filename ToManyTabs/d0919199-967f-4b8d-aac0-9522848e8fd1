@@ -1,0 +1,562 @@
+[
+  {
+    "windows": {
+      "2844": {
+        "2846": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2846,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Analyze metadata and related apps",
+          "url": "https://www.softpedia.com/downloadTag/analyze%20metadata",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2847": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2847,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Analyzer and related apps",
+          "url": "https://www.softpedia.com/downloadTag/analyzer",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2848": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2848,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download ANOVA",
+          "url": "https://www.softpedia.com/get/Programming/Components-Libraries/ANOVA.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2849": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2849,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download BestSync 2020 (15.0.2.0)",
+          "url": "https://www.softpedia.com/get/System/Back-Up-and-Recovery/BestSync-Folder-Synchronizer.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2850": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2850,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download Diskeeper Home Edition 20.0.1302.64",
+          "url": "https://www.softpedia.com/get/System/Hard-Disk-Utils/Diskeeper-Lite.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2851": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2851,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download FET 5.46.1",
+          "url": "https://www.softpedia.com/get/Others/Home-Education/FET.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2852": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2852,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download Graph Connectivity 1.0",
+          "url": "https://www.softpedia.com/get/Others/Home-Education/Graph-Connectivity.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2853": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2853,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download ndCurveMaster 6.2",
+          "url": "https://www.softpedia.com/get/Science-CAD/ndCurveMaster.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2854": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2854,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download tlCorpus 12.1.0.2846",
+          "url": "https://www.softpedia.com/get/Office-tools/Other-Office-Tools/tlCorpus.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2855": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2855,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Graph generator and related apps",
+          "url": "https://www.softpedia.com/downloadTag/graph%20generator",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2856": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2856,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Science / CAD Downloads",
+          "url": "https://www.softpedia.com/get/Science-CAD/?utm_source=spd&utm_campaign=postdl_redir",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2857": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2857,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Variable and related apps",
+          "url": "https://www.softpedia.com/downloadTag/variable",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2858": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2858,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Variance analyzer and related apps",
+          "url": "https://www.softpedia.com/downloadTag/variance%20analyzer",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2859": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2859,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Variance and related apps",
+          "url": "https://www.softpedia.com/downloadTag/variance",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2860": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2860,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Analyze metadata and related apps",
+          "url": "https://www.softpedia.com/downloadTag/analyze%20metadata",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2861": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2861,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download Alternate DLL Analyzer 1.810",
+          "url": "https://www.softpedia.com/get/Programming/Other-Programming-Files/DLL-Analyzer.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2862": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2862,
+          "incognito": false,
+          "index": 16,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download Link Analyzer 1.1",
+          "url": "https://www.softpedia.com/get/Internet/Other-Internet-Related/Link-Analyzer.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2863": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2863,
+          "incognito": false,
+          "index": 17,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download Metalith 10.07",
+          "url": "https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/Metalith.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2864": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2864,
+          "incognito": false,
+          "index": 18,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download PeStudio 9.06",
+          "url": "https://www.softpedia.com/get/Programming/Other-Programming-Files/PeStudio.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2865": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2865,
+          "incognito": false,
+          "index": 19,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download Probability Calculator 1.2.1.259",
+          "url": "https://www.softpedia.com/get/Others/Home-Education/Probability-Calculator.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2866": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2866,
+          "incognito": false,
+          "index": 20,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download R for Windows 4.0.2 / 4.1.0 r79193 Pre-release",
+          "url": "https://www.softpedia.com/get/Programming/Coding-languages-Compilers/R-for-Windows.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2867": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2867,
+          "incognito": false,
+          "index": 21,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download RogueKiller 14.7.2.0",
+          "url": "https://www.softpedia.com/get/Security/Security-Related/RogueKiller.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2868": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2868,
+          "incognito": false,
+          "index": 22,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download VennCircles",
+          "url": "https://www.softpedia.com/get/Science-CAD/VennCircles.shtml",
+          "width": 1383,
+          "windowId": 2844
+        },
+        "2869": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2869,
+          "incognito": false,
+          "index": 23,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2868,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Statistics and related apps",
+          "url": "https://www.softpedia.com/downloadTag/statistics",
+          "width": 1383,
+          "windowId": 2844
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2844": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 2844,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 24,
+    "name": "Analyze metadata and related apps",
+    "date": 1601171747578,
+    "lastEditedTime": 1601171746515,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "614f99b9-eb41-446b-ba59-1ebb9ace3836"
+  }
+]

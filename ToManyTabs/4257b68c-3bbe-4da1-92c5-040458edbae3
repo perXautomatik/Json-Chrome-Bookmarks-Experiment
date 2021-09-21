@@ -1,0 +1,78 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3943": {
+        "width": 1872,
+        "type": "normal",
+        "top": 0,
+        "state": "maximized",
+        "left": 0,
+        "incognito": false,
+        "height": 1080,
+        "focused": true,
+        "alwaysOnTop": false,
+        "id": 3943
+      }
+    },
+    "windows": {
+      "3943": {
+        "3971": {
+          "title": "perXautomatik/wordy-extension: word frequency analysis in a chrome extension",
+          "windowId": 3943,
+          "width": 1872,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1009,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://github.com/perXautomatik/wordy-extension",
+          "id": 3971,
+          "index": 0
+        },
+        "3974": {
+          "title": "NLTK's list of english stopwords",
+          "windowId": 3943,
+          "width": 1872,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": true,
+          "height": 1009,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://gist.github.com/perXautomatik/1d5a90b4975101fa1666d66382799002",
+          "id": 3974,
+          "index": 1
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Loppy",
+      "Home"
+    ],
+    "tabsNumber": 2,
+    "sessionStartTime": 1600633358975,
+    "name": "NLTK's list of english stopwords",
+    "lastEditedTime": 1601167837044,
+    "date": 1600954805059,
+    "id": "877aa74e-dedf-43c6-adfe-0a1e549babef"
+  }
+]

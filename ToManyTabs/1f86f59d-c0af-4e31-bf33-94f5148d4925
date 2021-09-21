@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "13297": {
+        "13298": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAC6ElEQVRYR71XLXATQRT+bptJMoMAB446cNRRR0SbxIEDx04MdWAYLkEQBE0YTHFgMovEUdekFcGBKw5ZXHHFXTLpHrOXLHm3t3t3ucwQk8n+vP3ee9/33ouHNT413r2mro9F96KoGa/oxRrvViss4Or+RFbFWHSDIrYKA6jz9gMgvDN/1PsxEr0v/w3ALu9seZD36YMh2OGx2D/Va3Xevh3C21a/GeT5UPSPbABXjkCNP79RZiUOGVZiBpk3mcqZGIt352p9h/s1BtzLitBKAHTeQ4nrUeAZfqtv+lvzYZd3uAd5U+1LbAxPxJtva0cglveFx8CVoMwme8uIzPlQb7V9vTbF5UcdGRNE7giYeWfApyPRP1MGo7Rg44k2LoGvy/ADI9F/7SJoLgDmAybhlHEbMaP0gP06FvuiMIB53id7oQyvZhEqLs35aRWNE9EfFwbQ5J1HEvJWHm8WkfhHvgXgzyPR+1kIwA5/uc1w2dCMz1PxTKWkKSCy60IWy7uh8ayKZ9YKSthcKjDznmbABabJ/U0JPI72IwcqB7Z+YY2AkfdYic3ynu5TZbjUkACQt4TmBUKVYVNEAgCtYGkFJC8Ada7O/Vc6FaNBr0/vJgDQGj5F9W3RPq8fUUNLGcFTl4wTABrcb4bA3Yg7pNyu4jE9S8noAd/NtmzhwFL7WRrOA4pyymYvASAmnzUmHQ2OktAW0QQAVQPKCF7YcqbyWUKwleb5DNVTOqRmccpaB1xKoOBcIKaovqcA0hTgLMUG6oRBW1HRd6h0sxTgBJCmBNtDkdZbbd9DeDEc9D/o6GQpwAmAdkGzemlS2UJtRoYqwDbEOAGkKUEbpYzW511g02qKsx1r8pheqXkfCB9STes100vKJVdZdwJotNrP9BgWJ9Z8AKXe2qJCe4DHvD/DQe/AphwngFWUoNs37R15FODkgNqIt+UkduoVBWvzMm0wdUZAEWsGbKZVPT3tKrBp50rAmf4PYZ77C57cDD9UrgczAAAAAElFTkSuQmCC",
+          "height": 1001,
+          "highlighted": true,
+          "id": 13298,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Using SQL Server cursors – Advantages and disadvantages",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Using%20SQL%20Server%20cursors%20%E2%80%93%20Advantages%20and%20disadvantages&pos=5412&uri=https://www.sqlshack.com/using-sql-server-cursors-advantages-and-disadvantages/",
+          "width": 789,
+          "windowId": 13297
+        },
+        "13299": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAhklEQVRYR2P8HKBUz0AGYPrHwMC96V4jSGvNXoZ6EJ8cwDjqgNEQGA2B0RAYDYHREBjwEPjuJ0d2bci+5RG4NqyipDYkpwqlph5GahpGjlmMDMs/kxUFDAwsDAyRnOAo+L+TgUwzGBgYGZa+J1MzCwNDNO+oA0ZDYDQERkNgNARGQ2DohwAAqlDCICneWlQAAAAASUVORK5CYII=",
+          "height": 1001,
+          "highlighted": false,
+          "id": 13299,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 13298,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Cursors (SQL Server) - SQL Server | Microsoft Docs",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Cursors%20(SQL%20Server)%20-%20SQL%20Server%20%7C%20Microsoft%20Docs&pos=0&uri=https://docs.microsoft.com/en-us/sql/relational-databases/cursors?redirectedfrom=MSDN&view=sql-server-ver15",
+          "width": 789,
+          "windowId": 13297
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "13297": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 13297,
+        "incognito": false,
+        "left": 730,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 789
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Using SQL Server cursors – Advantages and disadvantages",
+    "date": 1602748660421,
+    "lastEditedTime": 1602748660052,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "df616b97-da22-4465-b5c0-3ea08147947a"
+  }
+]

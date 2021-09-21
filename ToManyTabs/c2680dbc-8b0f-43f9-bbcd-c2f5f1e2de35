@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "11323": {
+        "11320": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1001,
+          "highlighted": true,
+          "id": 11320,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Extension Manager - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco",
+          "width": 1117,
+          "windowId": 11323
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "11323": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 11323,
+        "incognito": false,
+        "left": 344,
+        "state": "normal",
+        "top": 258,
+        "type": "normal",
+        "width": 1117
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Extension Manager - Chrome Web Store",
+    "date": 1602101395912,
+    "lastEditedTime": 1602101392388,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "0f4bf43a-ba9e-4bd3-8328-3fc2823721fb"
+  }
+]

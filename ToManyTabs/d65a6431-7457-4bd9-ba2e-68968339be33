@@ -1,0 +1,101 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "55": {
+        "width": 1440,
+        "type": "normal",
+        "top": 130,
+        "state": "normal",
+        "left": 240,
+        "incognito": false,
+        "height": 780,
+        "focused": false,
+        "alwaysOnTop": false,
+        "id": 55
+      }
+    },
+    "windows": {
+      "55": {
+        "66": {
+          "title": "Spatial Data (SQL Server) - SQL Server | Microsoft Docs",
+          "windowId": 55,
+          "width": 1383,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://docs.microsoft.com/en-us/sql/relational-databases/spatial/spatial-data-sql-server?view=sql-server-ver15",
+          "id": 66,
+          "index": 0
+        },
+        "71": {
+          "title": "OPENQUERY (Transact-SQL) - SQL Server | Microsoft Docs",
+          "windowId": 55,
+          "width": 1383,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/functions/openquery-transact-sql?view=sql-server-ver15",
+          "id": 71,
+          "index": 1
+        },
+        "84": {
+          "title": "SqlGeometry Class (Microsoft.SqlServer.Types) | Microsoft Docs",
+          "windowId": 55,
+          "width": 1383,
+          "status": "loading",
+          "selected": true,
+          "pinned": false,
+          "pendingUrl": "https://docs.microsoft.com/en-us/dotnet/api/microsoft.sqlserver.types.sqlgeometry?view=sql-dacfx-150",
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://docs.microsoft.com/en-us/dotnet/api/microsoft.sqlserver.types.sqlgeometry?view=sql-dacfx-150",
+          "id": 84,
+          "index": 2
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Home",
+      "Loppy"
+    ],
+    "tabsNumber": 3,
+    "sessionStartTime": 1600888953766,
+    "name": "SqlGeometry Class (Microsoft.SqlServer.Types) | Microsoft Docs",
+    "lastEditedTime": 1601167837098,
+    "date": 1600888965512,
+    "id": "92f36491-3680-4dd6-9cf5-86c696f7b444"
+  }
+]

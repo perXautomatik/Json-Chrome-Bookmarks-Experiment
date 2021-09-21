@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "18487": {
+        "18486": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://forums.tomshardware.com/styles/tomshardware/images/favicon.png",
+          "height": 1155,
+          "highlighted": true,
+          "id": 18486,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Need Advice: Budget GPU computer for scientific calculations | Tom's Hardware Forum",
+          "url": "https://forums.tomshardware.com/threads/need-advice-budget-gpu-computer-for-scientific-calculations.765873/",
+          "width": 1583,
+          "windowId": 18487
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "18487": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 18487,
+        "incognito": false,
+        "left": 404,
+        "state": "normal",
+        "top": 296,
+        "type": "normal",
+        "width": 1583
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Need Advice: Budget GPU computer for scientific calculations | Tom's Hardware Forum",
+    "date": 1604482557329,
+    "lastEditedTime": 1604482543571,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "f924584a-5085-4278-9236-7350a0f55394"
+  }
+]

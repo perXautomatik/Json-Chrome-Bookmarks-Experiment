@@ -1,0 +1,100 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "355": {
+        "width": 1440,
+        "type": "normal",
+        "top": 130,
+        "state": "normal",
+        "left": 240,
+        "incognito": false,
+        "height": 780,
+        "focused": true,
+        "alwaysOnTop": false,
+        "id": 355
+      }
+    },
+    "windows": {
+      "355": {
+        "357": {
+          "title": "How to Switch A Tab to Incognito Mode Easily in Google Chrome",
+          "windowId": 355,
+          "width": 1383,
+          "status": "loading",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://www.maketecheasier.com/assets/themes/MTE-twelve/images/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://www.maketecheasier.com/switch-a-tab-to-incognito-mode-easily-in-google-chrome/",
+          "id": 357,
+          "index": 0
+        },
+        "358": {
+          "title": "Go Incognito - Chrome Web Store",
+          "windowId": 355,
+          "width": 1383,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://chrome.google.com/webstore/detail/go-incognito/oimfnddepdafdfmammggkfmdepfmipai?hl=en",
+          "id": 358,
+          "index": 1
+        },
+        "359": {
+          "title": "https://browsernative.com/go-incognito/",
+          "windowId": 355,
+          "width": 1383,
+          "status": "loading",
+          "selected": false,
+          "pinned": false,
+          "openerTabId": 358,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://browsernative.com/wp-content/uploads/cropped-browsernative-150x150.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://browsernative.com/go-incognito/",
+          "id": 359,
+          "index": 2
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "tabsNumber": 3,
+    "sessionStartTime": 1601165373205,
+    "name": "How to Switch A Tab to Incognito Mode Easily in Google Chrome",
+    "lastEditedTime": 1601167836962,
+    "date": 1601165759892,
+    "id": "7865c7ab-3da5-42c6-935a-129c7d9814fe"
+  }
+]

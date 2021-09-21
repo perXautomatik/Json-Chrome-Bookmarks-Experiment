@@ -1,0 +1,54 @@
+[
+  {
+    "windows": {
+      "30": {
+        "32": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 452,
+          "highlighted": false,
+          "id": 32,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "https://www.onenote.com/webclipper/auth?code=M.R3_BAY.8e1d593a-38f7-10e5-9146-7fe9490fbecc&state=66c846b5-06c2-4a29-a5ea-f0e985ccd5ef",
+          "url": "https://www.onenote.com/webclipper/auth?code=M.R3_BAY.8e1d593a-38f7-10e5-9146-7fe9490fbecc&state=66c846b5-06c2-4a29-a5ea-f0e985ccd5ef",
+          "width": 674,
+          "windowId": 30
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "30": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 540,
+        "id": 30,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "popup",
+        "width": 690
+      }
+    },
+    "tabsNumber": 1,
+    "name": "https://www.onenote.com/webclipper/auth?code=M.R3_BAY.8e1d593a-38f7-10e5-9146-7fe9490fbecc&state=66c846b5-06c2-4a29-a5ea-f0e985ccd5ef",
+    "date": 1618225297189,
+    "lastEditedTime": 1618225294150,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1618224077342,
+    "id": "f210857a-d663-478f-99a7-b5360fd949bc"
+  }
+]

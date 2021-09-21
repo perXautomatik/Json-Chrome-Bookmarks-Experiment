@@ -1,0 +1,297 @@
+[
+  {
+    "windows": {
+      "248": {
+        "300": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 300,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "powershell colors - Google Search",
+          "url": "https://www.google.com/search?q=powershell+colors&client=opera-gx&hs=eeG&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-lvutx67sAhVulYsKHcNUBzAQ_AUoAXoECBMQAw&biw=1383&bih=691#imgrc=sZIABXhiYVSpoM",
+          "width": 0,
+          "windowId": 248
+        },
+        "303": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://jdhitsolutions.com/blog/wp-content/uploads/2015/03/faveicon-551a9375v1_site_icon-32x32.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 303,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Friday Fun: Color My World • The Lonely Administrator",
+          "url": "https://jdhitsolutions.com/blog/powershell/904/friday-fun-color-my-world/",
+          "width": 0,
+          "windowId": 248
+        },
+        "309": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://jdhitsolutions.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 309,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://jdhitsolutions.com/blog/wp-content/uploads/2010/09/demo-color.txt",
+          "url": "https://jdhitsolutions.com/blog/wp-content/uploads/2010/09/demo-color.txt",
+          "width": 0,
+          "windowId": 248
+        },
+        "315": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 315,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "c# - Converting Color to ConsoleColor? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/1988833/converting-color-to-consolecolor",
+          "width": 0,
+          "windowId": 248
+        },
+        "321": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 321,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "What is the best algorithm for finding the closest color in an array to another color? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/1720528/what-is-the-best-algorithm-for-finding-the-closest-color-in-an-array-to-another",
+          "width": 0,
+          "windowId": 248
+        },
+        "331": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 331,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "windows - Get Color Palette of Image using PowerShell - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/46614133/get-color-palette-of-image-using-powershell",
+          "width": 0,
+          "windowId": 248
+        },
+        "334": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/math/Img/favicon.ico?v=92addaa54d18",
+          "height": 0,
+          "highlighted": false,
+          "id": 334,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "linear algebra - closeness of a set of vectors - Mathematics Stack Exchange",
+          "url": "https://math.stackexchange.com/questions/867447/closeness-of-a-set-of-vectors",
+          "width": 0,
+          "windowId": 248
+        },
+        "337": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 337,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "math - Calculate Euclidean distance between 4-dimensional vectors - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/23353977/calculate-euclidean-distance-between-4-dimensional-vectors",
+          "width": 0,
+          "windowId": 248
+        },
+        "340": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 340,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell less than - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=powershell+less+than&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 248
+        },
+        "394": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 394,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extract thumbnail from jpeg file - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/10349622/extract-thumbnail-from-jpeg-file",
+          "width": 1383,
+          "windowId": 248
+        },
+        "397": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.powershellgallery.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 397,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PowerShell Gallery | Get-Thumbnail.ps1 0.1",
+          "url": "https://www.powershellgallery.com/packages/RoughDraft/0.1/Content/Get-Thumbnail.ps1",
+          "width": 1383,
+          "windowId": 248
+        },
+        "400": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 400,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 397,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "winapi - How to get thumbnail of file using the Windows API? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/19523599/how-to-get-thumbnail-of-file-using-the-windows-api",
+          "width": 1383,
+          "windowId": 248
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "248": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 248,
+        "incognito": false,
+        "left": -32,
+        "state": "normal",
+        "top": 226,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 12,
+    "name": "winapi - How to get thumbnail of file using the Windows API? - Stack Overflow",
+    "date": 1602520467275,
+    "lastEditedTime": 1602490997726,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602486715090,
+    "id": "7a1a0a30-a315-4ebb-912a-75466a78424e"
+  }
+]

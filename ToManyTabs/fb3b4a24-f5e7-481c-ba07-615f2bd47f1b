@@ -1,0 +1,166 @@
+[
+  {
+    "windows": {
+      "116": {
+        "136": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 136,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome extension always keep tab in separate window - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=chrome+extension+always+keep+tab+in+separate+window&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1801,
+          "windowId": 116
+        },
+        "158": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1010,
+          "highlighted": false,
+          "id": 158,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Keep One Pinned Tab - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/keep-one-pinned-tab/nmcefdbkkkjndgafnlaikloffhdeknod",
+          "width": 1801,
+          "windowId": 116
+        },
+        "187": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1010,
+          "highlighted": false,
+          "id": 187,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab to Window/Popup - Keyboard Shortcut - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tab-to-windowpopup-keyboa/adbkphmimfcaeonicpmamfddbbnphikh?hl=en",
+          "width": 1801,
+          "windowId": 116
+        },
+        "188": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/superuser/Img/favicon.ico?v=4852d6fb3f5d",
+          "height": 1010,
+          "highlighted": false,
+          "id": 188,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Keyboard shortcut to pull Google Chrome tab into its own window - Super User",
+          "url": "https://superuser.com/questions/182720/keyboard-shortcut-to-pull-google-chrome-tab-into-its-own-window#:~:text=With%20the%20Vimium%20extension%20for,tab%20to%20a%20new%20window.",
+          "width": 1801,
+          "windowId": 116
+        },
+        "189": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 973,
+          "highlighted": false,
+          "id": 189,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Convert To Popup - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/convert-to-popup/ipbclffpmnocdigdcpmahfmdlibcggal/related?hl=en",
+          "width": 1801,
+          "windowId": 116
+        },
+        "190": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1010,
+          "highlighted": false,
+          "id": 190,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 189,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Extensions - Convert To Popup",
+          "url": "chrome://extensions/?id=ipbclffpmnocdigdcpmahfmdlibcggal",
+          "width": 1801,
+          "windowId": 116
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "116": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1096,
+        "id": 116,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Extensions - Convert To Popup",
+    "date": 1599821797771,
+    "lastEditedTime": 1601295398033,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599820276730,
+    "id": "5705cada-9ea4-47e3-9518-332a66193a0d"
+  }
+]

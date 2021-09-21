@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "13246": {
+        "13236": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.sqlshack.com/favicon.ico",
+          "height": 1001,
+          "highlighted": true,
+          "id": 13236,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "KILL SPID command in SQL Server",
+          "url": "https://www.sqlshack.com/kill-spid-command-in-sql-server/",
+          "width": 789,
+          "windowId": 13246
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "13246": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 13246,
+        "incognito": false,
+        "left": 764,
+        "state": "normal",
+        "top": 872,
+        "type": "normal",
+        "width": 789
+      }
+    },
+    "tabsNumber": 1,
+    "name": "KILL SPID command in SQL Server",
+    "date": 1602748711528,
+    "lastEditedTime": 1602748678207,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "a127b0f3-767d-4232-b8f2-84326840bb70"
+  }
+]

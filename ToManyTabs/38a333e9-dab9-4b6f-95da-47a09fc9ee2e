@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "4171": {
+        "4210": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.gotland.se/images_gui/_/icons/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4210,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Klart vatten - Region Gotland",
+          "url": "https://www.gotland.se/klartvatten",
+          "width": 1383,
+          "windowId": 4171
+        },
+        "4239": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4239,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Microsoft Authenticator – Kom åt och hantera dina onlinekonton säkert",
+          "url": "https://www.microsoft.com/sv-se/account/authenticator",
+          "width": 1383,
+          "windowId": 4171
+        },
+        "4339": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://idp.gotland.se/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4339,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Portalen",
+          "url": "https://idp.gotland.se/wa/chooseAuthmech?authmechs=Anv%c3%a4ndarnamn%20och%20L%c3%b6senord%3aAnv%c3%a4ndarnamn%20och%20L%c3%b6senord;b1tio2757gu8%3aForeign%20eID;Windows%20integrerad%3aWindows%20integrerad;e6j5is1jw64g%3ae-legitimation",
+          "width": 1383,
+          "windowId": 4171
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4171": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 4171,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Microsoft Authenticator – Kom åt och hantera dina onlinekonton säkert",
+    "date": 1601172846396,
+    "lastEditedTime": 1601172837692,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "ace17606-ab82-4d8e-9662-4603315881b6"
+  }
+]

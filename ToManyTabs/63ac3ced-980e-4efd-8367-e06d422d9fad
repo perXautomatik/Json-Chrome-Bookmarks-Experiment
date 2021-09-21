@@ -1,0 +1,166 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "216": {
+        "width": 1440,
+        "type": "normal",
+        "top": 306,
+        "state": "normal",
+        "left": 238,
+        "incognito": false,
+        "height": 780,
+        "focused": false,
+        "alwaysOnTop": false,
+        "id": 216
+      }
+    },
+    "windows": {
+      "216": {
+        "559": {
+          "title": "windows explorer folder size column - Google Search",
+          "windowId": 216,
+          "width": 1383,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?client=opera-gx&q=windows+explorer+folder+size+column&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "id": 559,
+          "index": 1
+        },
+        "585": {
+          "title": "Is it Possible to Show folder size too in explorer - Page 2 - Windows 10 Forums",
+          "windowId": 216,
+          "width": 1383,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://www.tenforums.com/fav.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://www.tenforums.com/general-support/107059-possible-show-folder-size-too-explorer-2.html",
+          "id": 585,
+          "index": 2
+        },
+        "588": {
+          "title": "Folder Sizes in Windows Explorer",
+          "windowId": 216,
+          "width": 1383,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://www.folder-size-explorer.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.folder-size-explorer.com/folder-sizes-in-windows-explorer.shtml",
+          "id": 588,
+          "index": 5
+        },
+        "591": {
+          "title": "Free Software Downloads and Software Reviews - CNET Download.com",
+          "windowId": 216,
+          "width": 1383,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://dl3.cbsistatic.com/asset/637/bundles/downloadcore/images/favicon-32.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://download.cnet.com/Directory-Report/3055-2248_4-10059457.html",
+          "id": 591,
+          "index": 4
+        },
+        "595": {
+          "title": "JAM Software - Customer Area",
+          "windowId": 216,
+          "width": 1383,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "openerTabId": 585,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://customers.jam-software.de/img/static/jam_logo_icons/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://customers.jam-software.de/downloadTrialProcess.php",
+          "id": 595,
+          "index": 3
+        },
+        "598": {
+          "title": "chrome stroage manager - Google Search",
+          "windowId": 216,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?client=opera-gx&q=chrome+stroage+manager&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "id": 598,
+          "index": 0
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "tabsNumber": 6,
+    "sessionStartTime": 1601158821079,
+    "name": "Is it Possible to Show folder size too in explorer - Page 2 - Windows 10 Forums",
+    "lastEditedTime": 1601167837541,
+    "date": 1601161121081,
+    "id": "ccbb4ffe-c53b-46fd-a020-7e7ad1be4593"
+  }
+]

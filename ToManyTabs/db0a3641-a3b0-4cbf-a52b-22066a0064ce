@@ -1,0 +1,54 @@
+[
+  {
+    "windows": {
+      "15713": {
+        "15710": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": true,
+          "id": 15710,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Startsida - Roofac",
+          "url": "https://www.roofac.se/?gclid=Cj0KCQjw28T8BRDbARIsAEOMBczoQuhW-AhR67hM_vC5odX-vjnAzwJ_NNYHdo6-K2f-lpQo280klUsaAiEuEALw_wcB",
+          "width": 1573,
+          "windowId": 15713
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "15713": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 15713,
+        "incognito": false,
+        "left": 117,
+        "state": "normal",
+        "top": 411,
+        "type": "normal",
+        "width": 1573
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Startsida - Roofac",
+    "date": 1603434415908,
+    "lastEditedTime": 1603434409131,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "7eb8ed74-9b7b-4126-bb70-12f48fb15395"
+  }
+]

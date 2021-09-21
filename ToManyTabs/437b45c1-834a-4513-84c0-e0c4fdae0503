@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "44": {
+        "46": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://logincdn.msauth.net/16.000.28941.7/images/favicon.ico",
+          "height": 452,
+          "highlighted": false,
+          "id": 46,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sign in to your Microsoft account",
+          "url": "https://login.live.com/oauth20_authorize.srf?client_id=045b8763-28d5-48a2-9484-1b6921b3c275&scope=wl.signin+wl.basic+wl.emails+wl.offline_access+office.onenote_update&redirect_uri=https%3a%2f%2fwww.onenote.com%2fwebclipper%2fauth&response_type=code&state=12ece42e-67c1-7662-120b-94d68dba171e",
+          "width": 674,
+          "windowId": 44
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "44": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 540,
+        "id": 44,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "popup",
+        "width": 690
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Sign in to your Microsoft account",
+    "date": 1614548890735,
+    "lastEditedTime": 1614548827818,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1614432577338,
+    "id": "09bd194d-a12e-4891-9d53-025f1d69ae6f"
+  }
+]

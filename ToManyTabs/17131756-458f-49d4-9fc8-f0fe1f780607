@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "441": {
+        "394": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://hub.docker.com/favicon.ico",
+          "height": 652,
+          "highlighted": false,
+          "id": 394,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Explore",
+          "url": "https://hub.docker.com/search?q=browser&type=image&page=3",
+          "width": 1324,
+          "windowId": 441
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "441": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 441,
+        "incognito": false,
+        "left": -50,
+        "state": "normal",
+        "top": 196,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Explore",
+    "date": 1615288614659,
+    "lastEditedTime": 1615288612998,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1615187048136,
+    "id": "a22bb34c-c8cd-4b6e-ab40-90a27075a529"
+  }
+]

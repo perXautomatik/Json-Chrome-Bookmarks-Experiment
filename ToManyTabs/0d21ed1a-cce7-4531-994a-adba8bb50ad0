@@ -1,0 +1,169 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4124": {
+        "width": 936,
+        "type": "normal",
+        "top": 0,
+        "state": "normal",
+        "left": 307,
+        "incognito": false,
+        "height": 1080,
+        "focused": true,
+        "alwaysOnTop": false,
+        "id": 4124
+      }
+    },
+    "windows": {
+      "4124": {
+        "4169": {
+          "title": "Your Projects",
+          "windowId": 4124,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADl0lEQVRYR71XPVATURDefTmGw8YgjtCZ4UcCIyEddKS000476KCD0s6xk0466aC00w466LALwUku8uPRBUflbOQCd2+dd5l3vFze5RJgpGAIb9/bb7/d/XaD0MVP5slU1kAYJ8Q0Y2gSpyFxHRnWOCcXiZwUoFWtlqqdPotJhpl8Pm1c+HOcQZYRmkn24pwjuYyD5dUHtm17x213py2A0Wy+wNGf6dRx1FEAhGDvyDrYjQOhBZDJFMyee+fzkuJOom4bJcPa1d/+TR0bLQAymckh1peav2nUcUAEG/zC37Ttck21aQIgImd9v5bv2rl02AAxsKYyEQLQ0Y7EzzjDGgFmGMH9blLBEf4gkM0I0gT4WN4VHXNY3l8PP8s/RMEB8Lkmepj3+bBcLor/jU1O5n0yChIIAp2qtj6wIQbUywHrKXa1Je8FrcvwZTN4tntkFXeCFha/RKuxur8Ypd4AtmlZRVteFiwB/EhH8xie5/NpcNKuSrGoKcM0FlUAaioCACMTUy+QcDpKcRRANylQQRkuX47eJaT948rBpwDAcHb6taAvaoRKCm7iPGBXm4KGWJ1UDlYx1gCwzt3+90lKlgSs0Vm/l3RF7HH6iHH030X0EpwoYOLG85Y0MPiCY9mpBbVNpJHnPli9bfSqw9Fs7k1LioFOcWz86RIhG2yqUsD6ibX/Lonebs51gQpNQB0yTuCcVEtr3ThIso1jWgtAPHZkld4mPdrN+fBEbkVXiBh38D9qIJDrWGruQANCMYrRAiHnODKZe4YcZlpaBMA+tkqb3dAcZxsXJIk2jBMi8ZiHsG1XSnu3ARGnAcH7QogCpTLPV3RS3HBMO+1WqnbgdBNW2oupKZRWM4zYrsf9Wg9SQeqDaEuGaPl4aX2vVJrGcBRANpvPuD4fZAxmGUI6DqCg/7hc2grHsZxYcnUCeOT09P5ciIqUWFIOq18/6B4emci9QoLxTlLmmWzNLhadcCNS6QpA9KaCrYW5tKSmR+TN/nZg6ZzoZr8eTGQhCYeGIstyXosaMUxnVtggu3TkphMXpU5ZVdsog61LqVKQnuutx20/NwEgC0+7lIaiIdZys2chpJ2oCAiOPE/qiDgGGs6vNtqu5dcgCqauADuZEdqxS/zsqv5wo6MvJiq1uj5OGlKtAK4LTpe2jr6cpi75LHHMiweS9gSxXwYFi9zye1M7otXatWUiADUtkHbMpAfFih9dzdsB+AdFB/LogQELOgAAAABJRU5ErkJggg==",
+          "discarded": true,
+          "autoDiscardable": false,
+          "audible": false,
+          "active": false,
+          "url": "https://github.com/perXautomatik?tab=projects",
+          "id": 4169,
+          "index": 0
+        },
+        "4172": {
+          "title": "GitHub Marketplace · Tools to improve your workflow",
+          "windowId": 4124,
+          "width": 936,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": true,
+          "height": 1001,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "discarded": false,
+          "autoDiscardable": false,
+          "audible": false,
+          "active": true,
+          "url": "https://github.com/marketplace?category=project-management&query=trello",
+          "id": 4172,
+          "index": 2
+        },
+        "4178": {
+          "title": "manage github projects - Google Search",
+          "windowId": 4124,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?q=manage+github+projects&rlz=1CAZBMY_enSE834&oq=manage+github+projects&aqs=chrome..69i57j0.15827j0j7&sourceid=chrome&ie=UTF-8",
+          "id": 4178,
+          "index": 1
+        },
+        "4181": {
+          "title": "Trello-GitHub Sync · GitHub Marketplace",
+          "windowId": 4124,
+          "width": 936,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "openerTabId": 4172,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1001,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://github.com/marketplace/trello-github-sync",
+          "id": 4181,
+          "index": 3
+        },
+        "4184": {
+          "title": "Attach to Trello Card · Actions · GitHub Marketplace",
+          "windowId": 4124,
+          "width": 936,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "openerTabId": 4172,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1001,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://github.com/marketplace/actions/attach-to-trello-card",
+          "id": 4184,
+          "index": 4
+        },
+        "4187": {
+          "title": "Marketplace · Tools to improve your workflow",
+          "windowId": 4124,
+          "width": 936,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "openerTabId": 4172,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1001,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://github.com/marketplace",
+          "id": 4187,
+          "index": 5
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Loppy",
+      "Home"
+    ],
+    "tabsNumber": 6,
+    "sessionStartTime": 1600633358975,
+    "name": "GitHub Marketplace · Tools to improve your workflow",
+    "lastEditedTime": 1601167837132,
+    "date": 1600956804253,
+    "id": "962d2b2c-f83b-4440-b8df-4d8ca4b0dd31"
+  }
+]

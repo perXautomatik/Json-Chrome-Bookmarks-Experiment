@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "881": {
+        "677": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/9f6471b0/img/favicon_32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 677,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(33) I Watch 3 Episodes of Mind Field With Our Experts & Researchers - YouTube",
+          "url": "https://www.youtube.com/watch?reload=9&v=b0cakXwiZ8s",
+          "width": 630,
+          "windowId": 881
+        },
+        "678": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pricespy-75b8.kxcdn.com/rfe/g/favicon.960d4ec09156a9f26b54df9be2a80d60.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 678,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Asus ZenBook 14 UM425IA-PURE3 - Hitta bästa pris på Prisjakt",
+          "url": "https://www.prisjakt.nu/produkt.php?p=5425265&gclid=Cj0KCQjwhvf6BRCkARIsAGl1GGhzA6hNK6I1-T3gXGeoKrXz9m5MjxXPEHHComM47pVpUUvAf9VoULUaAt84EALw_wcB",
+          "width": 630,
+          "windowId": 881
+        },
+        "679": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pastebin.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 679,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Primary Image Source – shutterstockSecondary Image Sources: https://search.cre - Pastebin.com",
+          "url": "https://pastebin.com/ZgusXNcR",
+          "width": 1316,
+          "windowId": 881
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "881": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 881,
+        "incognito": false,
+        "left": 693,
+        "state": "normal",
+        "top": 7,
+        "type": "normal",
+        "width": 687
+      }
+    },
+    "tabsNumber": 3,
+    "name": "(33) I Watch 3 Episodes of Mind Field With Our Experts & Researchers - YouTube",
+    "date": 1600113563080,
+    "lastEditedTime": 1601295397792,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600112532784,
+    "id": "304239b4-72d5-4821-81c1-6618aa903fa1"
+  }
+]

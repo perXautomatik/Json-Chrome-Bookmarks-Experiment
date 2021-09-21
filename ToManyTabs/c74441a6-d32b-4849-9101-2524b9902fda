@@ -1,0 +1,232 @@
+[
+  {
+    "windows": {
+      "442": {
+        "446": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 1010,
+          "highlighted": false,
+          "id": 446,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "work project - split pdf on drop by bookmark ( single file )",
+          "url": "https://gist.github.com/perXautomatik/6ec7af4dc7dfdc054b8eb8b93ca227fa",
+          "width": 1801,
+          "windowId": 442
+        },
+        "447": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.pdfsharp.net/wiki/Themes/empira-Wiki/Icon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 447,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PDFsharp Sample: Concatenate Documents - PDFsharp and MigraDoc Wiki",
+          "url": "http://www.pdfsharp.net/wiki/Default.aspx?Page=ConcatenateDocuments-sample&NS=&AspxAutoDetectCookieSupport=1",
+          "width": 1801,
+          "windowId": 442
+        },
+        "449": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.pdfsharp.net/wiki/Themes/empira-Wiki/Icon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 449,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PDFsharp Samples - PDFsharp and MigraDoc Wiki",
+          "url": "http://www.pdfsharp.net/wiki/PDFsharpSamples.ashx",
+          "width": 1801,
+          "windowId": 442
+        },
+        "450": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.pdfsharp.net/wiki/Themes/empira-Wiki/Icon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 450,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PDFsharp sample: Multiple Pages - PDFsharp and MigraDoc Wiki",
+          "url": "http://www.pdfsharp.net/wiki/MultiplePages-sample.ashx",
+          "width": 1801,
+          "windowId": 442
+        },
+        "451": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.pdfsharp.net/wiki/Themes/empira-Wiki/Icon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 451,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PDFsharp Sample: Split Document - PDFsharp and MigraDoc Wiki",
+          "url": "http://www.pdfsharp.net/wiki/SplitDocument-sample.ashx",
+          "width": 1410,
+          "windowId": 442
+        },
+        "455": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 455,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "vs code variable inliner refractoring c# - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&hs=lyR&sxsrf=ALeKk02CdnI-0Lm5rgSNfonBOJN7YzlLDw%3A1599831204018&ei=pHxbX-dKxYavBN7QpagN&q=vs+code+variable+inliner+refractoring+c%23&oq=vs+code+variable+inliner+refractoring+c%23&gs_lcp=CgZwc3ktYWIQAzoOCAAQsAMQigMQtwMQ5QI6BwghEAoQoAE6CAghEBYQHRAeOgQIIRAVUO6IEVjX0hFghNURaApwAHgAgAGWAYgB-Q-SAQQxMi44mAEAoAEBqgEHZ3dzLXdpergBAsABAQ&sclient=psy-ab&ved=0ahUKEwjnrPbUm-HrAhVFw4sKHV5oCdUQ4dUDCAw&uact=5",
+          "width": 1410,
+          "windowId": 442
+        },
+        "456": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://code.visualstudio.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 456,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Refactoring source code in Visual Studio Code",
+          "url": "https://code.visualstudio.com/docs/editor/refactoring",
+          "width": 1410,
+          "windowId": 442
+        },
+        "457": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 457,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "variable inlining c# refractoring vscode - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=variable+inlining+c%23+refractoring+vscode&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1410,
+          "windowId": 442
+        },
+        "458": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://code.visualstudio.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 458,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 457,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Java code refactoring and Source Actions for Visual Studio Code",
+          "url": "https://code.visualstudio.com/docs/java/java-refactoring",
+          "width": 1410,
+          "windowId": 442
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "442": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 442,
+        "incognito": false,
+        "left": 531,
+        "state": "normal",
+        "top": 198,
+        "type": "normal",
+        "width": 1467
+      }
+    },
+    "tabsNumber": 9,
+    "name": "Java code refactoring and Source Actions for Visual Studio Code",
+    "date": 1599831918663,
+    "lastEditedTime": 1601295398583,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599820276730,
+    "id": "aacc892c-fcf6-4531-b712-99c2f7f15f9f"
+  }
+]

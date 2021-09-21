@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "426": {
+        "428": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1321,
+          "highlighted": false,
+          "id": 428,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "sql server - sqldumper error leads to C drive getting full - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/59238987/sqldumper-error-leads-to-c-drive-getting-full",
+          "width": 843,
+          "windowId": 426
+        },
+        "437": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "height": 0,
+          "highlighted": false,
+          "id": 437,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 428,
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://nielsberglund.com/2019/11/20/fix-polybase-in-sql-server-2019-developers-edition/",
+          "url": "https://nielsberglund.com/2019/11/20/fix-polybase-in-sql-server-2019-developers-edition/",
+          "width": 0,
+          "windowId": 426
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "426": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1410,
+        "id": 426,
+        "incognito": false,
+        "left": 2070,
+        "state": "normal",
+        "top": -415,
+        "type": "normal",
+        "width": 900
+      }
+    },
+    "tabsNumber": 2,
+    "name": "sql server - sqldumper error leads to C drive getting full - Stack Overflow",
+    "date": 1602253274573,
+    "lastEditedTime": 1602253273753,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602086503320,
+    "id": "1497e57f-03c5-409e-b597-6b5aacc7a6c6"
+  }
+]

@@ -1,0 +1,364 @@
+[
+  {
+    "windows": {
+      "3488": {
+        "3490": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3490,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Download and use Chrome extensions in Opera - Install Chrome Extensions - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/install-chrome-extensions/",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3492": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3492,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Text to Voice extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/text-to-voice/",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3493": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3493,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tree Tabs extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/tree-tabs/",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3494": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3494,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "V7 Extension Manager extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/v7-extension-manager/",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3495": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3495,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "quickiePages extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/quickiepages/",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3496": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3496,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "uMatrix extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/umatrix/",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3497": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3497,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "V7 Sessions extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/v7-sessions/",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3498": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3498,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "V7 Stash extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/v7-stash/",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3499": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3499,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "V7 Sessions extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/v7-sessions/",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3500": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3500,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download and use Chrome extensions in Opera - Install Chrome Extensions - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/install-chrome-extensions/",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3501": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/favicon/favicon.12c955371a4b.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3501,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Workspaces | Tidy your browser with Opera | Opera",
+          "url": "https://www.opera.com/features/workspaces",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3502": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3502,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "quickiePages extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/quickiepages/",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3503": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3503,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Cool Waterfall HD wallpaper - Opera add-ons",
+          "url": "https://addons.opera.com/en/wallpapers/details/cool-waterfall-hd/",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3504": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://forums.opera.com/assets/uploads/system/favicon.ico?v=rnj5bhgqg58",
+          "height": 691,
+          "highlighted": false,
+          "id": 3504,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 3503,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "[Solved]Restoring Extension Button to Toolbar | Opera forums",
+          "url": "https://forums.opera.com/topic/31336/solved-restoring-extension-button-to-toolbar",
+          "width": 1383,
+          "windowId": 3488
+        },
+        "3551": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 3551,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Sidebar for YouTube™ extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/youtubetm-sidebar/",
+          "width": 0,
+          "windowId": 3488
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3488": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 3488,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 15,
+    "name": "Download and use Chrome extensions in Opera - Install Chrome Extensions - Opera add-ons",
+    "date": 1601172194054,
+    "lastEditedTime": 1601172192266,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "37c6fcfe-75c2-4487-8694-44d594899fcc"
+  }
+]

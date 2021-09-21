@@ -1,0 +1,216 @@
+[
+  {
+    "windows": {
+      "359": {
+        "361": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bleepstatic.com/favicon/bleeping.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 361,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Windows Defender error message for MiniTool Partition - Windows 10 Support",
+          "url": "https://www.bleepingcomputer.com/forums/t/722207/windows-defender-error-message-for-minitool-partition/",
+          "width": 843,
+          "windowId": 359
+        },
+        "362": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://antivirus.comodo.com/blog/wp-content/themes/comodo%20theme%20v1.1/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 362,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 361,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "What is a PUP Malware? | How to Remove PUP Virus from Devices",
+          "url": "https://antivirus.comodo.com/blog/computer-safety/pup-virus/",
+          "width": 843,
+          "windowId": 359
+        },
+        "363": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 363,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 361,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "List of Linux distributions - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_Linux_distributions",
+          "width": 843,
+          "windowId": 359
+        },
+        "364": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 364,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 361,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "filter wiki page by list - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=filter+wiki+page+by+list&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 843,
+          "windowId": 359
+        },
+        "365": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 365,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 361,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "ToYoutubePlaylist - Google Sheets",
+          "url": "https://docs.google.com/spreadsheets/d/15MBVzSDcf9ItkmLjjdqibxaUwuu74qZznim6MGO4d90/edit#gid=1667456972",
+          "width": 843,
+          "windowId": 359
+        },
+        "366": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://tunemymusic-xvbumqfixmhzxo.stackpathdns.com/imgs/favicon.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 366,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 361,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Transfer Playlists Between Music Services! 100% free | Tune My Music",
+          "url": "https://www.tunemymusic.com/#step1",
+          "width": 843,
+          "windowId": 359
+        },
+        "367": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://devblogs.microsoft.com/scripting/wp-content/uploads/sites/29/2018/10/Microsoft-Favicon.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 367,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 361,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "How Can I Tile the Windows on the Desktop? | Scripting Blog",
+          "url": "https://devblogs.microsoft.com/scripting/how-can-i-tile-the-windows-on-the-desktop/",
+          "width": 843,
+          "windowId": 359
+        },
+        "368": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.powershellmagazine.com/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 368,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 361,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Registry – PowerShell Magazine",
+          "url": "https://www.powershellmagazine.com/tag/registry/",
+          "width": 843,
+          "windowId": 359
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "359": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1410,
+        "id": 359,
+        "incognito": false,
+        "left": 2070,
+        "state": "normal",
+        "top": -415,
+        "type": "normal",
+        "width": 900
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Windows Defender error message for MiniTool Partition - Windows 10 Support",
+    "date": 1600012623761,
+    "lastEditedTime": 1601295399122,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600008450562,
+    "id": "f30cc9fb-f0aa-4b78-b04e-40a55ea2f583"
+  }
+]

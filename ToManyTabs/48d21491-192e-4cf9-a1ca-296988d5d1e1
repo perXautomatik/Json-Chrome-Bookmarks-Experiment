@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "5115": {
+        "5118": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5118,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "should i upload my music to youtube music - Google Search",
+          "url": "https://www.google.com/search?q=should+i+upload+my+music+to+youtube+music&sxsrf=ALeKk02NrkMjK9LFuy_CV9p4RLyFMfsm6Q:1585919708301&ei=3DaHXsP9EeWvrgSxraKgBA&start=20&sa=N&ved=2ahUKEwjD2-umq8zoAhXll4sKHbGWCEQ4ChDw0wN6BAgMED8&biw=793&bih=1801",
+          "width": 1383,
+          "windowId": 5115
+        },
+        "5136": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5136,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "konstruktor_k’s Library | Last.fm",
+          "url": "https://www.last.fm/user/konstruktor_k/library/tracks?from=2014-07-01&rangetype=year",
+          "width": 1383,
+          "windowId": 5115
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5115": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 5115,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "konstruktor_k’s Library | Last.fm",
+    "date": 1601173859741,
+    "lastEditedTime": 1601173855756,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "e4d643ed-0c14-4de8-9105-bd9bd17fdb83"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "38": {
+        "62": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://officehome.cdn.office.net/images/content/images/favicon-8f211ea639.ico",
+          "groupId": -1,
+          "height": 630,
+          "highlighted": false,
+          "id": 62,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Microsoft Office Home",
+          "url": "https://www.office.com/?auth=2",
+          "width": 1468,
+          "windowId": 38
+        },
+        "66": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://outlook-1.cdn.office.net/owamail/20210517003.09/resources/images/favicons/mail-seen.ico",
+          "groupId": -1,
+          "height": 653,
+          "highlighted": false,
+          "id": 66,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Email - Christoffer Brobäck - Outlook",
+          "url": "https://outlook.office.com/mail/inbox/id/AAQkADJhMDVlYTEyLTcyOWQtNDkxYS1iZjU4LThlYjZmODA4ZGIzMgAQAEEZkMZBtUpHib7K%2BQW262I%3D",
+          "width": 1243,
+          "windowId": 38
+        },
+        "69": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://i0.wp.com/techyaz.com/wp-content/uploads/2017/11/cropped-Site-icon-150x150.png",
+          "groupId": -1,
+          "height": 653,
+          "highlighted": false,
+          "id": 69,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Fix SQL Server Error 53: Could not open a connection on SQL Server",
+          "url": "https://techyaz.com/sql-server/troubleshooting/fix-error-53-not-open-connection-sql-server/#:~:text=Wrong%20SQL%20Server%20Instance%20name,to%20firewall%20or%20any%20reason.&text=TCP%2FIP%20or%20Named%20Pipes,in%20SQL%20Server%20Configuration%20Manager.",
+          "width": 1243,
+          "windowId": 38
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "38": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 773,
+        "id": 38,
+        "incognito": false,
+        "left": 72,
+        "state": "minimized",
+        "top": 1,
+        "type": "normal",
+        "width": 1300
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Fix SQL Server Error 53: Could not open a connection on SQL Server",
+    "date": 1621966299122,
+    "lastEditedTime": 1621966299122,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1621948350545,
+    "id": "7738724d-22ec-46c2-bce7-01faa1c19d11"
+  }
+]

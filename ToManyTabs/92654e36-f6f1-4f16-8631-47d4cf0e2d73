@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "249": {
+        "246": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.stonkam.com/favicon.ico",
+          "height": 1163,
+          "highlighted": true,
+          "id": 246,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "STONKAM® 2.4GHz Digital Wireless Camera Systems | For safer driving – STONKAM CO., LTD",
+          "url": "https://www.stonkam.com/products/Regular-Wireless.html?gclid=Cj0KCQiAnb79BRDgARIsAOVbhRqQKYi_iKlcJg2adJTiDfL4EVqH01JH6LGZj4eOZdZsDzxaHZ_pkpgaAgaBEALw_wcB",
+          "width": 2146,
+          "windowId": 249
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "249": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 249,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 2146
+      }
+    },
+    "tabsNumber": 1,
+    "name": "STONKAM® 2.4GHz Digital Wireless Camera Systems | For safer driving – STONKAM CO., LTD",
+    "date": 1605392608988,
+    "lastEditedTime": 1605392606543,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1605255591345,
+    "id": "0b5e3263-359b-4f6e-9ee3-c037e87b8296"
+  }
+]

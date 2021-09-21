@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "810": {
+        "771": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://javascript.info/img/favicon/favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 771,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Patterns and flags",
+          "url": "https://javascript.info/regexp-introduction",
+          "width": 578,
+          "windowId": 810
+        },
+        "772": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://javascript.info/img/favicon/favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 772,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Patterns and flags",
+          "url": "https://javascript.info/regexp-introduction",
+          "width": 578,
+          "windowId": 810
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "810": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 810,
+        "incognito": false,
+        "left": 990,
+        "state": "normal",
+        "top": 268,
+        "type": "normal",
+        "width": 635
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Patterns and flags",
+    "date": 1600030906213,
+    "lastEditedTime": 1601295397592,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600030279299,
+    "id": "0e72aa9d-5518-4655-a85f-9cc897c23fa1"
+  }
+]

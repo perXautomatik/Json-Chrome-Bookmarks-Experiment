@@ -1,0 +1,142 @@
+[
+  {
+    "windows": {
+      "8208": {
+        "8211": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.brentozar.com/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 8211,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Adaptive Joins And Scalar Valued Functions - Brent Ozar Unlimited®",
+          "url": "https://www.brentozar.com/archive/2017/05/adaptive-joins-scalar-valued-functions/",
+          "width": 1383,
+          "windowId": 8208
+        },
+        "8213": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 8213,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Intelligent query processing - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/relational-databases/performance/intelligent-query-processing?view=sql-server-ver15",
+          "width": 1383,
+          "windowId": 8208
+        },
+        "8214": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 8214,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Scalar UDF Inlining in Microsoft SQL Server - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/scalar-udf-inlining?view=sql-server-ver15",
+          "width": 1383,
+          "windowId": 8208
+        },
+        "8220": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.w3schools.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 8220,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL Server STUFF() Function",
+          "url": "https://www.w3schools.com/sql/func_sqlserver_stuff.asp",
+          "width": 1383,
+          "windowId": 8208
+        },
+        "8223": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 8223,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "10 SQL tricks that you didn’t think were possible - JAXenter",
+          "url": "https://jaxenter.com/10-sql-tricks-that-you-didnt-think-were-possible-125934.html",
+          "width": 1383,
+          "windowId": 8208
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "8208": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 8208,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 5,
+    "name": "10 SQL tricks that you didn’t think were possible - JAXenter",
+    "date": 1601180734383,
+    "lastEditedTime": 1601180733999,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "84ab79f7-7fef-4d5b-9bd8-6ec216e44a37"
+  }
+]

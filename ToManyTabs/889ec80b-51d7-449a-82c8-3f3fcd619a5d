@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "244": {
+        "243": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.apexsql.com/images/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 243,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to monitor your SQL Server instances and databases",
+          "url": "https://solutioncenter.apexsql.com/how-to-monitor-your-sql-server-instances-and-databases/",
+          "width": 1324,
+          "windowId": 244
+        },
+        "252": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://blog.sqlauthority.com/wp-content/uploads/2016/04/pinalsmall.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 252,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 243,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How to Find Recent Executed Queries in SQL Server? - Interview Question of the Week #087 - SQL Authority with Pinal Dave",
+          "url": "https://blog.sqlauthority.com/2016/09/04/find-recent-executed-queries-sql-server-interview-question-week-086/",
+          "width": 1324,
+          "windowId": 244
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "244": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 244,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 2,
+    "name": "How to Find Recent Executed Queries in SQL Server? - Interview Question of the Week #087 - SQL Authority with Pinal Dave",
+    "date": 1602169142597,
+    "lastEditedTime": 1602168987397,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602153713225,
+    "id": "0c8f17e9-dc7f-4e21-ac77-50aee10ce284"
+  }
+]

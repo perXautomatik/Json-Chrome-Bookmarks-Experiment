@@ -1,0 +1,142 @@
+[
+  {
+    "windows": {
+      "1004": {
+        "1018": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.windowsreport.com/wp-content/themes/windowsreport/assets/images/cropped-favicon-windows-report-32x32.jpg",
+          "height": 699,
+          "highlighted": false,
+          "id": 1018,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Convert Ps1 files to .exe using these tools",
+          "url": "https://windowsreport.com/convert-ps1-exe-files/",
+          "width": 1276,
+          "windowId": 1004
+        },
+        "1019": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.f2ko.de/favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 1019,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Ps1 To Exe – F2KO Software",
+          "url": "https://www.f2ko.de/programme/ps1-to-exe/",
+          "width": 1801,
+          "windowId": 1004
+        },
+        "1020": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.thomasmaurer.ch/wp-content/uploads/2018/06/fav18.png",
+          "height": 699,
+          "highlighted": false,
+          "id": 1020,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Powershell: check variable for null - Thomas Maurer",
+          "url": "https://www.thomasmaurer.ch/2010/07/powershell-check-variable-for-null/",
+          "width": 1276,
+          "windowId": 1004
+        },
+        "1025": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 699,
+          "highlighted": false,
+          "id": 1025,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": ".net - How to deal with reference not found when trying to Add-Type in PowerShell, when the same dll loads fine in Visual Studio? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/39266736/how-to-deal-with-reference-not-found-when-trying-to-add-type-in-powershell-when",
+          "width": 1276,
+          "windowId": 1004
+        },
+        "1031": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1010,
+          "highlighted": false,
+          "id": 1031,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Download Ps1 To Exe - MajorGeeks",
+          "url": "https://www.majorgeeks.com/files/details/ps1_to_exe.html",
+          "width": 1801,
+          "windowId": 1004
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1004": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1096,
+        "id": 1004,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Download Ps1 To Exe - MajorGeeks",
+    "date": 1600777549890,
+    "lastEditedTime": 1601295399109,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1600354019297,
+    "id": "f1b06cd8-46fa-448c-a8f2-990af7c36cbe"
+  }
+]

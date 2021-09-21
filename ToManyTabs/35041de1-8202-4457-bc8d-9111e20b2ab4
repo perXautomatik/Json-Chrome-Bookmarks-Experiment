@@ -1,0 +1,141 @@
+[
+  {
+    "windows": {
+      "163": {
+        "208": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "height": 0,
+          "highlighted": false,
+          "id": 208,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Modules | VirtuaWin",
+          "url": "https://virtuawin.sourceforge.io/?page_id=50",
+          "width": 0,
+          "windowId": 163
+        },
+        "211": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "height": 660,
+          "highlighted": false,
+          "id": 211,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Force a higher resolution in VD :: Virtual Desktop General Discussions",
+          "url": "https://steamcommunity.com/app/382110/discussions/0/1620599015870128210/",
+          "width": 1247,
+          "windowId": 163
+        },
+        "217": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://a.fsdn.com/con/img/sandiego/svg/originals/sf-icon-orange-no_sf.svg",
+          "height": 0,
+          "highlighted": false,
+          "id": 217,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Download VirtuaWin - Multiple virtual desktops from SourceForge.net",
+          "url": "https://sourceforge.net/projects/virtuawin/files/VirtuaWin/4.4/VirtuaWin_portable_4.4.zip/download?use_mirror=netix",
+          "width": 0,
+          "windowId": 163
+        },
+        "220": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "height": 0,
+          "highlighted": false,
+          "id": 220,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Custom resolution?",
+          "url": "http://davr.org/artemis/forum/px2owffng8.tal.ki/20130416/custom-resolution-2558162/index.html",
+          "width": 0,
+          "windowId": 163
+        },
+        "229": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 229,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "virtualdesktop proram supporting custom resolution - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=virtualdesktop+proram+supporting+custom+resolution&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 0,
+          "windowId": 163
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "163": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 576,
+        "id": 163,
+        "incognito": false,
+        "left": 340,
+        "state": "minimized",
+        "top": 119,
+        "type": "normal",
+        "width": 966
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Force a higher resolution in VD :: Virtual Desktop General Discussions",
+    "date": 1605697234163,
+    "lastEditedTime": 1605693563950,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1605641685945,
+    "id": "4d06e86c-a3d2-4b18-b078-a267bf4e0f28"
+  }
+]

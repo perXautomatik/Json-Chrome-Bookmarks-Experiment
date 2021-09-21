@@ -1,0 +1,56 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3621": {
+        "width": 1095,
+        "type": "popup",
+        "top": 25,
+        "state": "normal",
+        "left": 25,
+        "incognito": false,
+        "height": 640,
+        "focused": false,
+        "alwaysOnTop": false,
+        "id": 3621
+      }
+    },
+    "windows": {
+      "3621": {
+        "3620": {
+          "title": "Calendar - Christoffer Brobäck - Outlook",
+          "windowId": 3621,
+          "width": 1095,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": true,
+          "height": 569,
+          "favIconUrl": "https://outlook.office365.com/mail/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://outlook.office365.com/calendar/deeplink/read/AAMkADJhMDVlYTEyLTcyOWQtNDkxYS1iZjU4LThlYjZmODA4ZGIzMgBGAAAAAADZ36r0iuxRTLL2QOt4gjIMBwBWMSxZ94CKRrO%2F4gr%2BhLPlAAAAAAENAAAGkeU5Arv1TYc0DBKPvC%2BZAACg207jAAA%3D?version=20200914002.07&popoutv2=1",
+          "id": 3620,
+          "index": 0
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Loppy",
+      "Home"
+    ],
+    "tabsNumber": 1,
+    "sessionStartTime": 1600633358975,
+    "name": "Calendar - Christoffer Brobäck - Outlook",
+    "lastEditedTime": 1601167837928,
+    "date": 1600953477272,
+    "id": "f81f5217-bff2-4eff-b29c-0171a245f233"
+  }
+]

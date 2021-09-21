@@ -1,0 +1,145 @@
+[
+  {
+    "windows": {
+      "669": {
+        "672": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.codeproject.com/favicon/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 672,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extract Text from PDF in C# (100% .NET) - CodeProject",
+          "url": "https://www.codeproject.com/Articles/14170/Extract-Text-from-PDF-in-C-100-NET",
+          "width": 1324,
+          "windowId": 669
+        },
+        "673": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.fsdn.com/con/img/sandiego/svg/originals/sf-icon-orange-no_sf.svg",
+          "height": 721,
+          "highlighted": false,
+          "id": 673,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 672,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "iText® 5 .NET, a .NET PDF library download | SourceForge.net",
+          "url": "https://sourceforge.net/projects/itextsharp/",
+          "width": 1324,
+          "windowId": 669
+        },
+        "674": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://i1.social.s-msft.com/Forums/GlobalResources/images/Technet/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 674,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 672,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Using Powershell to Parse a PDF file",
+          "url": "https://social.technet.microsoft.com/Forums/office/en-US/1268809d-5dc6-4cd2-a97f-a26bc3ae3a8b/using-powershell-to-parse-a-pdf-file?forum=ITCG",
+          "width": 1324,
+          "windowId": 669
+        },
+        "675": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 675,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 672,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "file:///C:/Users/crbk01/OneDrive%20-%20Region%20Gotland/Project%20Shelf/desktopAutomation/powershell/Splitt%20bookmarks%20of%20pdf%20on%20drop/PDFToText_src.zip",
+          "url": "file:///C:/Users/crbk01/OneDrive%20-%20Region%20Gotland/Project%20Shelf/desktopAutomation/powershell/Splitt%20bookmarks%20of%20pdf%20on%20drop/PDFToText_src.zip",
+          "width": 1324,
+          "windowId": 669
+        },
+        "682": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 721,
+          "highlighted": false,
+          "id": 682,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "work project - split pdf on drop by bookmark ( single file )",
+          "url": "https://gist.github.com/perXautomatik/6ec7af4dc7dfdc054b8eb8b93ca227fa",
+          "width": 1324,
+          "windowId": 669
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "669": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 669,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 5,
+    "name": "proj - splitPdfBybookmarkAuto",
+    "date": 1599818586963,
+    "lastEditedTime": 1601295398667,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599816003038,
+    "id": "b5fb8154-6304-4ced-a88b-6d580200b554"
+  }
+]

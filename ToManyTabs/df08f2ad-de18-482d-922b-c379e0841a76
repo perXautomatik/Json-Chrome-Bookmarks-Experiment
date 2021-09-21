@@ -1,0 +1,165 @@
+[
+  {
+    "windows": {
+      "2105": {
+        "2615": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 2615,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Clutter Free - Prevent duplicate tabs - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf?hl=en",
+          "width": 1383,
+          "windowId": 2105
+        },
+        "2621": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 2621,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Firebug Lite for Google Chrome - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/ehemiojjcpldeipjhjkepfdaohajpbdo/related?hl=en",
+          "width": 1383,
+          "windowId": 2105
+        },
+        "2639": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 2639,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download and use Chrome extensions in Opera - Install Chrome Extensions - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/install-chrome-extensions/",
+          "width": 1383,
+          "windowId": 2105
+        },
+        "2666": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.mrfdev.com/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 2666,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to use Enhancer for YouTube™",
+          "url": "https://www.mrfdev.com/how-to-use-enhancer-for-youtube",
+          "width": 1383,
+          "windowId": 2105
+        },
+        "2669": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 2669,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to view all JavaScript functions called in real time? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7049510/how-to-view-all-javascript-functions-called-in-real-time",
+          "width": 1383,
+          "windowId": 2105
+        },
+        "2681": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 2681,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Is 5 the maximum amount of Workspaces on Opera for Windows 7? Is there a way to increase this limit behind the scenes? : operabrowser",
+          "url": "https://www.reddit.com/r/operabrowser/comments/fq8mml/is_5_the_maximum_amount_of_workspaces_on_opera/",
+          "width": 1383,
+          "windowId": 2105
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2105": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 2105,
+        "incognito": false,
+        "left": 95,
+        "state": "normal",
+        "top": 178,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Clutter Free - Prevent duplicate tabs - Chrome Web Store",
+    "date": 1601171810724,
+    "lastEditedTime": 1601171807992,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "0c0cc6d4-64d5-4b7b-ab5f-884ccb2a5e78"
+  }
+]

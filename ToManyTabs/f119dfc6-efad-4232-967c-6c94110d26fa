@@ -1,0 +1,100 @@
+[
+  {
+    "windows": {
+      "345": {
+        "344": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://community.powerbi.com/html/@8CD084108A7D11AE597D419ADED393F1/assets/favicon.ico",
+          "height": 1309,
+          "highlighted": false,
+          "id": 344,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Solved: count number of occurrences of a field over all ro... - Microsoft Power BI Community",
+          "url": "https://community.powerbi.com/t5/Desktop/count-number-of-occurrences-of-a-field-over-all-rows-in-a-table/td-p/724864",
+          "width": 1149,
+          "windowId": 345
+        },
+        "354": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1309,
+          "highlighted": false,
+          "id": 354,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "excel - CountIfs() Equivalent in Power Query M, counts per row within self - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/53305097/countifs-equivalent-in-power-query-m-counts-per-row-within-self",
+          "width": 1052,
+          "windowId": 345
+        },
+        "357": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.microsoft.com/favicon.ico?v2",
+          "height": 1309,
+          "highlighted": false,
+          "id": 357,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 354,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Append queries (Power Query) - Excel",
+          "url": "https://support.microsoft.com/en-us/office/append-queries-power-query-e42ca582-4f62-4a43-b37f-99e2b2a4813a",
+          "width": 1052,
+          "windowId": 345
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "345": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1436,
+        "id": 345,
+        "incognito": false,
+        "left": 1526,
+        "state": "normal",
+        "top": -248,
+        "type": "normal",
+        "width": 1533
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Append queries (Power Query) - Excel",
+    "date": 1603989258432,
+    "lastEditedTime": 1603989208733,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1603971699335,
+    "id": "38fe87ba-3d50-43e5-b203-0fd4e3d0d034"
+  }
+]

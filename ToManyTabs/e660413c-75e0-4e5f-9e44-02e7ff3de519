@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "1476": {
+        "1479": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1479,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "write notes as urls - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=write+notes+as+urls&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 1476
+        },
+        "1481": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1481,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "embed message in url non hosted - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=embed+message+in+url+non+hosted&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 1476
+        },
+        "1482": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1482,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "google drive as online note taking - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=google+drive+as+online+note+taking&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 1476
+        },
+        "1486": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1486,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "WebSessionNotes - Google Drive",
+          "url": "https://drive.google.com/drive/u/0/folders/1iIlVMh56-7Ti9jWXAu2fU3O4ZTQXY1Qy",
+          "width": 1383,
+          "windowId": 1476
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1476": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 1476,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 4,
+    "name": "write notes as urls - Google Search",
+    "date": 1601170827511,
+    "lastEditedTime": 1601170826770,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "04206b9a-c3ec-42b1-95f6-4cba08f5dac4"
+  }
+]

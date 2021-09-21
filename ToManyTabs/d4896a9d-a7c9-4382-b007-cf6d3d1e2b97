@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "10": {
+        "11": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/2075ba2b/img/favicon_32.png",
+          "height": 1155,
+          "highlighted": true,
+          "id": 11,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "(183) i beat the world's hardest sawblade dodge challenge - YouTube",
+          "url": "https://www.youtube.com/watch?v=NCWS3WmzsZg&list=WL",
+          "width": 663,
+          "windowId": 10
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 10,
+        "incognito": false,
+        "left": 741,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 663
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(183) i beat the world's hardest sawblade dodge challenge - YouTube",
+    "date": 1605140554233,
+    "lastEditedTime": 1605140547013,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1605140538703,
+    "id": "216613c2-2837-4d18-b863-d7838ceb28a1"
+  }
+]

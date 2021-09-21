@@ -1,0 +1,517 @@
+[
+  {
+    "windows": {
+      "1319": {
+        "1237": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1237,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Firebug Lite for Google Chrome - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/ehemiojjcpldeipjhjkepfdaohajpbdo/related?hl=en",
+          "width": 1879,
+          "windowId": 1319
+        },
+        "1238": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 1238,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "GUI2 Output Examples - GUI2 Program for [ExifTool ver 8.79]",
+          "url": "https://web.archive.org/web/20120225101352/http://gui2-for-exiftool.weebly.com/gui2-output-examples.html",
+          "width": 911,
+          "windowId": 1319
+        },
+        "1239": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1239,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Graph generator and related apps",
+          "url": "https://www.softpedia.com/downloadTag/graph%20generator",
+          "width": 911,
+          "windowId": 1319
+        },
+        "1240": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/superuser/Img/favicon.ico?v=4852d6fb3f5d",
+          "height": 967,
+          "highlighted": false,
+          "id": 1240,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to customize columns in Windows Explorer as default settings? - Super User",
+          "url": "https://superuser.com/questions/861456/how-to-customize-columns-in-windows-explorer-as-default-settings",
+          "width": 911,
+          "windowId": 1319
+        },
+        "1241": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.mrfdev.com/favicon-32x32.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 1241,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to use Enhancer for YouTube™",
+          "url": "https://www.mrfdev.com/how-to-use-enhancer-for-youtube",
+          "width": 911,
+          "windowId": 1319
+        },
+        "1242": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 967,
+          "highlighted": false,
+          "id": 1242,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to view all JavaScript functions called in real time? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7049510/how-to-view-all-javascript-functions-called-in-real-time",
+          "width": 911,
+          "windowId": 1319
+        },
+        "1243": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.moonsoftware.com/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1243,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "IIS 10.0 Detailed Error - 404.0 - Not Found",
+          "url": "http://www.moonsoftware.com/files/Beta/ExifMixer_050.zip",
+          "width": 911,
+          "windowId": 1319
+        },
+        "1244": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.highmotionsoftware.com/sites/default/files/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1244,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "ImBatch – The Best in Batch Image Processing | High Motion Software",
+          "url": "https://www.highmotionsoftware.com/products/imbatch",
+          "width": 911,
+          "windowId": 1319
+        },
+        "1245": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1245,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Image Composite editor - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=Image+Composite+editor&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 911,
+          "windowId": 1319
+        },
+        "1246": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.image-info-toolkit.com/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1246,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Image Info Toolkit [what's new]",
+          "url": "http://www.image-info-toolkit.com/en/download/welcome.html",
+          "width": 911,
+          "windowId": 1319
+        },
+        "1247": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 1247,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Is 5 the maximum amount of Workspaces on Opera for Windows 7? Is there a way to increase this limit behind the scenes? : operabrowser",
+          "url": "https://www.reddit.com/r/operabrowser/comments/fq8mml/is_5_the_maximum_amount_of_workspaces_on_opera/",
+          "width": 911,
+          "windowId": 1319
+        },
+        "1248": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.steelbytes.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1248,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JPEG & PNG Stripper - www.SteelBytes.com",
+          "url": "http://www.steelbytes.com/?mid=30",
+          "width": 1879,
+          "windowId": 1319
+        },
+        "1249": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1249,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JabRef - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/JabRef",
+          "width": 911,
+          "windowId": 1319
+        },
+        "1250": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://digitalconfidence.com/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1250,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MetadataTouch - Powerful Multi-Format Metadata Editor",
+          "url": "http://digitalconfidence.com/MetadataTouch.html",
+          "width": 911,
+          "windowId": 1319
+        },
+        "1251": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://alternativeto.net/favicon.ico",
+          "height": 960,
+          "highlighted": false,
+          "id": 1251,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MetadataTouch Alternatives and Similar Software - AlternativeTo.net",
+          "url": "https://alternativeto.net/software/metadatatouch/",
+          "width": 1879,
+          "windowId": 1319
+        },
+        "1252": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.metalith.ru/files/metalith.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1252,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Metalith",
+          "url": "http://www.metalith.ru/en/download.html",
+          "width": 1879,
+          "windowId": 1319
+        },
+        "1253": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.nvidia.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1253,
+          "incognito": false,
+          "index": 16,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NVIDIA PhysX System Software 9.15.0428",
+          "url": "https://www.nvidia.com/en-us/drivers/physx/9_15_0428/physx-9-15-0428-driver/",
+          "width": 1879,
+          "windowId": 1319
+        },
+        "1254": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://downloadsafer.lavasoft.com/wp-content/uploads/2019/02/favicon6.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1254,
+          "incognito": false,
+          "index": 17,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NetGlance | DownloadSafer",
+          "url": "https://downloadsafer.lavasoft.com/software/netglance/",
+          "width": 1879,
+          "windowId": 1319
+        },
+        "1255": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.photome.de/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1255,
+          "incognito": false,
+          "index": 18,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PhotoME - Exif, IPTC & ICC Metadata Editor",
+          "url": "https://www.photome.de/download_en.html",
+          "width": 1879,
+          "windowId": 1319
+        },
+        "1256": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.quickimagecomment.de/templates/allrounder-3/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1256,
+          "incognito": false,
+          "index": 19,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "QuickImageComment",
+          "url": "https://www.quickimagecomment.de/index.php/en/download/file/248-version-4-36",
+          "width": 1879,
+          "windowId": 1319
+        },
+        "1257": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.savardsoftware.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1257,
+          "incognito": false,
+          "index": 20,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Savard Software - TurboTop",
+          "url": "https://www.savardsoftware.com/turbotop/",
+          "width": 1879,
+          "windowId": 1319
+        },
+        "1258": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1258,
+          "incognito": false,
+          "index": 21,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Science / CAD Downloads",
+          "url": "https://www.softpedia.com/get/Science-CAD/?utm_source=spd&utm_campaign=postdl_redir",
+          "width": 1879,
+          "windowId": 1319
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1319": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1056,
+        "id": 1319,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 22,
+    "name": "Science / CAD Downloads",
+    "date": 1600016163891,
+    "lastEditedTime": 1601295398543,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "a31383e1-1f92-4f5e-af7f-bb8b25ee812c"
+  }
+]

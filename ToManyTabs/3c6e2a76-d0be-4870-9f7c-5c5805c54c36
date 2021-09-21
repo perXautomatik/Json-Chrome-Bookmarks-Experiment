@@ -1,0 +1,187 @@
+[
+  {
+    "windows": {
+      "36": {
+        "39": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/b4335f76/img/favicon_32.png",
+          "height": 647,
+          "highlighted": false,
+          "id": 39,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AMD X5-133 Overclocked @180MHz / RECORD FPS in Quake/ PCI Clock Checker Tool - YouTube",
+          "url": "https://www.youtube.com/watch?v=qPRSHI4JoWI&lc=UgwRGWusI9wdXaR9rxl4AaABAg.9LTWDHOWfcF9LTYpHhbxV7",
+          "width": 1183,
+          "windowId": 36
+        },
+        "84": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 647,
+          "highlighted": false,
+          "id": 84,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "samsung mznln128hahq-000h1 - Google Search",
+          "url": "https://www.google.com/search?q=samsung+mznln128hahq-000h1&client=opera-gx&hs=mIZ&sxsrf=ALeKk00bRt6aEy9EvUE9WLSx4IuftXODLA:1617018392022&source=lnms&tbm=isch&sa=X&ved=2ahUKEwje0uf2ttXvAhXQpYsKHQJgAmYQ_AUoAXoECAEQAw&biw=1183&bih=647",
+          "width": 1183,
+          "windowId": 36
+        },
+        "87": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.howtogeek.com/public/images/32x32.png",
+          "height": 647,
+          "highlighted": false,
+          "id": 87,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to Find Your Windows PC’s Serial Number",
+          "url": "https://www.howtogeek.com/294712/how-to-find-your-windows-pcs-serial-number/#:~:text=Open%20a%20Command%20Prompt%20window,dialog%2C%20and%20then%20press%20Enter.&text=You%27ll%20see%20the%20computer%27s,beneath%20the%20text%20%E2%80%9CSerialNumber%E2%80%9D.",
+          "width": 1183,
+          "windowId": 36
+        },
+        "90": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 647,
+          "highlighted": false,
+          "id": 90,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "5CG84229D5 hp - Google Search",
+          "url": "https://www.google.com/search?q=5CG84229D5+hp&tbm=isch&ved=2ahUKEwjOjOv9t9XvAhWFwSoKHYBjCdIQ2-cCegQIABAA&oq=5CG84229D5+hp&gs_lcp=CgNpbWcQA1C4FVjFGWC8G2gAcAB4AIABOYgBkwGSAQEzmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=M79hYI6nC4WDqwGAx6WQDQ&bih=647&biw=1183&client=opera-gx&hs=F2t",
+          "width": 1183,
+          "windowId": 36
+        },
+        "93": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://smallbusiness.chron.com/favicon.ico",
+          "height": 647,
+          "highlighted": false,
+          "id": 93,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to Find the Model Number of My HP Laptop",
+          "url": "https://smallbusiness.chron.com/model-number-hp-laptop-56641.html",
+          "width": 1183,
+          "windowId": 36
+        },
+        "96": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 647,
+          "highlighted": false,
+          "id": 96,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "HP ProBook 640 G4 upgrade hard drive - Google Search",
+          "url": "https://www.google.com/search?q=HP+ProBook+640+G4+upgrade+hard+drive&client=opera-gx&hs=nOZ&sxsrf=ALeKk00JgKhlc0AjoIfbGUmPLaTY3o497A:1617018765346&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjy1OmouNXvAhUl_SoKHfDxDbAQ_AUoAnoECAEQBA&biw=1183&bih=647#imgrc=KMDtQpZ9UIACfM",
+          "width": 1183,
+          "windowId": 36
+        },
+        "99": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 647,
+          "highlighted": false,
+          "id": 99,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 96,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "HP ProBook 640 G4 Notebook PC_Product End-of-Life Disassembly instructions",
+          "url": "http://h22235.www2.hp.com/hpinfo/globalcitizenship/environment/productdata/Countries/_MultiCountry/disassembly_notebo_2018321223026512.pdf",
+          "width": 1183,
+          "windowId": 36
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "36": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 767,
+        "id": 36,
+        "incognito": false,
+        "left": 129,
+        "state": "minimized",
+        "top": 638,
+        "type": "normal",
+        "width": 1240
+      }
+    },
+    "tabsNumber": 7,
+    "name": "HP ProBook 640 G4 Notebook PC_Product End-of-Life Disassembly instructions",
+    "date": 1617087643602,
+    "lastEditedTime": 1617087643602,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1617017525518,
+    "id": "b743b31c-33da-4ae7-a51e-ba6d2fbb64e8"
+  }
+]

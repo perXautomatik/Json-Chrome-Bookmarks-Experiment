@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "12101": {
+        "12103": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/icon_min.svg",
+          "height": 1001,
+          "highlighted": true,
+          "id": 12103,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tab Session Manager",
+          "url": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/options/index.html#sessions",
+          "width": 936,
+          "windowId": 12101
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "12101": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 12101,
+        "incognito": false,
+        "left": 847,
+        "state": "normal",
+        "top": 242,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Tab Session Manager",
+    "date": 1602374097951,
+    "lastEditedTime": 1602332855061,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "d36f0767-cf38-4e21-b63a-2acb13202e1d"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "windows": {
+      "260": {
+        "289": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.ragic.com/favicon.ico",
+          "height": 979,
+          "highlighted": false,
+          "id": 289,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Web database builder, simple as Excel, powerful as a database. - Ragic",
+          "url": "https://www.ragic.com/intl/en/home?campaign=youtube_en&gclid=Cj0KCQjwwOz6BRCgARIsAKEG4FXLhEoG--BWWqgbyKiNafsoxLaNXUGp8G2t6X2lDWeCbHEENsnELAcaApYaEALw_wcB",
+          "width": 1801,
+          "windowId": 260
+        },
+        "290": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 1297,
+          "highlighted": false,
+          "id": 290,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Native%20Component%20Extension%20-%20AutoControl&pos=0&uri=https://www.autocontrol.app/native-component",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Native%20Component%20Extension%20-%20AutoControl&pos=0&uri=https://www.autocontrol.app/native-component",
+          "width": 753,
+          "windowId": 260
+        },
+        "293": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 1297,
+          "highlighted": false,
+          "id": 293,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tab-thumbnails-switcher/jpaiaplhepeiilhiegfnknedhjepknng/related?hl=en",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tab-thumbnails-switcher/jpaiaplhepeiilhiegfnknedhjepknng/related?hl=en",
+          "width": 753,
+          "windowId": 260
+        },
+        "296": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 1297,
+          "highlighted": false,
+          "id": 296,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tab-preview-board/ennkgpoidlcphlccokdocigfibidmccj/related?hl=en",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tab-preview-board/ennkgpoidlcphlccokdocigfibidmccj/related?hl=en",
+          "width": 753,
+          "windowId": 260
+        },
+        "299": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 979,
+          "highlighted": false,
+          "id": 299,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/overtab/leceanmnoanolhdkonbapdkplgikipon/related?hl=en",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/overtab/leceanmnoanolhdkonbapdkplgikipon/related?hl=en",
+          "width": 1801,
+          "windowId": 260
+        },
+        "302": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 979,
+          "highlighted": false,
+          "id": 302,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tabspane/fopflmabgkkmpcbdcgogaoohldoelhpd?hl=en",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tabspane/fopflmabgkkmpcbdcgogaoohldoelhpd?hl=en",
+          "width": 1801,
+          "windowId": 260
+        },
+        "305": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 979,
+          "highlighted": false,
+          "id": 305,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tab-thumbnails/aoeldolnbdgenobiigcnpajmcjdemkpf?hl=en",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tab-thumbnails/aoeldolnbdgenobiigcnpajmcjdemkpf?hl=en",
+          "width": 1801,
+          "windowId": 260
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "260": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1096,
+        "id": 260,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Web database builder, simple as Excel, powerful as a database. - Ragic",
+    "date": 1600336773441,
+    "lastEditedTime": 1601295397887,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600333983387,
+    "id": "450cf49d-770c-4d93-8be4-f9c9ee043d00"
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "windows": {
+      "3645": {
+        "3635": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.manageengine.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3635,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Securing zone levels in Internet Explorer - ManageEngine Blog",
+          "url": "https://blogs.manageengine.com/active-directory/2018/08/02/securing-zone-levels-internet-explorer.html",
+          "width": 459,
+          "windowId": 3645
+        },
+        "3636": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://sqlserverplanet.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3636,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Create Index on Temp Table",
+          "url": "https://sqlserverplanet.com/tsql/create-index-on-temp-table",
+          "width": 663,
+          "windowId": 3645
+        },
+        "3637": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 3637,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Detect Error Window - Ask for Help - AutoHotkey Community",
+          "url": "https://autohotkey.com/board/topic/58218-detect-error-window/",
+          "width": 663,
+          "windowId": 3645
+        },
+        "3638": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 3638,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "executable - How do I create a standalone exe with AutoHotkey? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/23208646/how-do-i-create-a-standalone-exe-with-autohotkey",
+          "width": 663,
+          "windowId": 3645
+        },
+        "3639": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 3639,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Relative paths in Autohotkey? - Ask for Help - AutoHotkey Community",
+          "url": "https://autohotkey.com/board/topic/66745-relative-paths-in-autohotkey/",
+          "width": 663,
+          "windowId": 3645
+        },
+        "3640": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.autohotkey.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3640,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "If (Expression) - Syntax & Usage | AutoHotkey",
+          "url": "https://www.autohotkey.com/docs/commands/IfExpression.htm",
+          "width": 663,
+          "windowId": 3645
+        },
+        "3641": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.autohotkey.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3641,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "WinExist() / IfWinExist - Syntax & Usage | AutoHotkey",
+          "url": "https://www.autohotkey.com/docs/commands/WinExist.htm",
+          "width": 663,
+          "windowId": 3645
+        },
+        "3642": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3642,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Enable Block at First Sight to detect malware in seconds - Windows security | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/configure-block-at-first-sight-microsoft-defender-antivirus",
+          "width": 663,
+          "windowId": 3645
+        },
+        "3643": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3643,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "windows set autostart on login - Google Search",
+          "url": "https://www.google.com/search?q=windows%20set%20autostart%20on%20login",
+          "width": 663,
+          "windowId": 3645
+        },
+        "3644": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://sqlserverplanet.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3644,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Create Index on Temp Table",
+          "url": "https://sqlserverplanet.com/tsql/create-index-on-temp-table",
+          "width": 459,
+          "windowId": 3645
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3645": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 3645,
+        "incognito": false,
+        "left": 642,
+        "state": "normal",
+        "top": 218,
+        "type": "normal",
+        "width": 516
+      }
+    },
+    "tabsNumber": 10,
+    "name": "Securing zone levels in Internet Explorer - ManageEngine Blog",
+    "date": 1600024113719,
+    "lastEditedTime": 1601295398973,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "e23ffa66-cc56-41b0-a9e0-4fd5b88b01ef"
+  }
+]

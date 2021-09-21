@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "18973": {
+        "18982": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.wrike.com/image/favicon.ico",
+          "height": 1163,
+          "highlighted": true,
+          "id": 18982,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Wrike - Leading work management solution",
+          "url": "https://try.wrike.com/all-in-one-collaboration-project-management-software/?dclid=&gclid=CjwKCAiAv4n9BRA9EiwA30WND582CPmUReAsOAEJVeri4GC8gAXFTXZwWQCJOKZ7DGRvHYZeakU1tRoCe2wQAvD_BwE",
+          "width": 2146,
+          "windowId": 18973
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "18973": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 18973,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 2146
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Wrike - Leading work management solution",
+    "date": 1604562084228,
+    "lastEditedTime": 1604561958474,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "bb569d3c-bf9f-4689-bbbd-1e3fa33a69bd"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "2395": {
+        "2392": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1155,
+          "highlighted": true,
+          "id": 2392,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "History",
+          "url": "chrome://history/",
+          "width": 1073,
+          "windowId": 2395
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2395": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 2395,
+        "incognito": false,
+        "left": -28,
+        "state": "normal",
+        "top": 121,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 1,
+    "name": "History",
+    "date": 1611537115217,
+    "lastEditedTime": 1611537076317,
+    "tag": [
+      "winClose",
+      "loppy"
+    ],
+    "sessionStartTime": 1611535482936,
+    "id": "354199ac-c2ee-4744-bd47-6813aab6852a"
+  }
+]

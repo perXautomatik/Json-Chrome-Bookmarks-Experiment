@@ -1,0 +1,441 @@
+[
+  {
+    "windows": {
+      "1625": {
+        "1628": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a3082388609_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1628,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Lovesick | Swollen Organs",
+          "url": "https://swollenorgans.bandcamp.com/album/lovesick",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1629": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1629,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "datagrip open consol in other program - Google Search",
+          "url": "https://www.google.com/search?q=datagrip%20open%20consol%20in%20other%20program",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1630": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 1630,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Manunkind | Manunkind",
+          "url": "https://manunkind.bandcamp.com/album/manunkind",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1631": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://drawio-app.com/wp-content/uploads/2017/07/keyvisual_drawio_16px.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 1631,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Use PlantUML in draw.io - draw.io",
+          "url": "https://drawio-app.com/use-plantuml-in-draw-io/",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1632": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1632,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "TypeScript - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/TypeScript",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1633": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1633,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "datagrip export diagram as - Google Search",
+          "url": "https://www.google.com/search?q=datagrip%20export%20diagram%20as",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1634": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.scootersoftware.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1634,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Beyond Compare",
+          "url": "https://www.scootersoftware.com/v4help/index.html?command_line_reference.html",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1635": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 1635,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Create/Edit/Copy Tool Dialog - Help | IntelliJ IDEA",
+          "url": "https://www.jetbrains.com/help/idea/settings-tools-create-edit-copy-tool-dialog.html",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1636": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 1636,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Changing the Default Database in ArcCatalog—ArcMap | Documentation",
+          "url": "https://desktop.arcgis.com/en/arcmap/latest/extensions/workflow-manager/changing-default-db-in-arccatalog.htm",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1637": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 1637,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Create diagrams - Help | IntelliJ IDEA",
+          "url": "https://www.jetbrains.com/help/idea/creating-diagrams.html",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1639": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://resources.jetbrains.com/storage/ui/favicons/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1639,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PlantUML integration - plugin for IntelliJ IDEs | JetBrains",
+          "url": "https://plugins.jetbrains.com/plugin/7017-plantuml-integration",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1640": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s.plantuml.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1640,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tools using the PlantUML language",
+          "url": "https://plantuml.com/running",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1641": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://plantuml-depend.sourceforge.net/images/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1641,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PlantUML Dependency",
+          "url": "http://plantuml-depend.sourceforge.net/",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1642": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 721,
+          "highlighted": false,
+          "id": 1642,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Standard UML file format - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7930199/standard-uml-file-format",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1643": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s.plantuml.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1643,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Support of XMI",
+          "url": "https://plantuml.com/xmi",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1644": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s.plantuml.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1644,
+          "incognito": false,
+          "index": 16,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tools using the PlantUML language",
+          "url": "https://plantuml.com/running",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1645": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1645,
+          "incognito": false,
+          "index": 17,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1628,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "yaml file standard - Google Search",
+          "url": "https://www.google.com/search?sxsrf=ALeKk02lFJbAkOBChydn8nVbChvE1_gbrQ:1585135317293&q=yaml+file+standard&spell=1&sa=X&ved=2ahUKEwiZ6oecwbXoAhUwmIsKHRnEDRMQBSgAegQICxAn&biw=959&bih=1302",
+          "width": 1324,
+          "windowId": 1625
+        },
+        "1646": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGZpbGw9ImhzbGEoMzQ2LjkwOTA5MDkwOTA5MDkzLCA5NS42NTIxNzM5MTMwNDM0OCUsIDU0LjkwMTk2MDc4NDMxMzcyJSwgMSkiIGQ9Ik0zLjYyIDMuMDg2YzMuNDIzLS4zNTQgMi41NC41MDEgMy40MjMuNTAxSDguODFjLjg4MyAwIC4xOTMtLjc4OCAzLjQxNC0uNTAxIDEuODg1LjUwMSAzLjA5NiA0LjU0OCAyLjU4MSA3LjQ5NUMxNC40NTggMTIuMTggMTQuMTA4IDEzIDEyLjM0MiAxM2MtMS43NjYgMC0yLjY1LS44NTYtMy41MzMtMi41NjctLjAyNS0uMDUtMS43MzYtLjA2LTEuNzY2IDBDNi4yMDYgMTIuMTQ0IDUuMjc3IDEzIDMuNTExIDEzcy0yLjEyLS44MDktMi40NzItMi40MTljLS41MDgtMi45MzQuNzA2LTYuOTk0IDIuNTgxLTcuNDk1em0tMS42MDQgNy4yODJDMi4zMzggMTEuODM5IDIuNDggMTIgMy41MTEgMTJjMS4yNDggMCAxLjg5NS0uNDk2IDIuNjM0LTIuMDA3LjM5My0uODAzIDMuMTUyLS43OTUgMy41NTMtLjAxOS44IDEuNTUyIDEuNDEyIDIuMDI2IDIuNjQ0IDIuMDI2IDEuMDI1IDAgMS4xNjctLjE2NCAxLjQ3Ny0xLjU5LjQ0OS0yLjU3MS0uNjI2LTUuOTE1LTEuNzg3LTYuMzM3LS43NDMtLjA2Mi0xLjI3My0uMDY0LTEuNjI3LS4wMi0uMjE4LjAyOC0uMzA4LjA1OS0uMzc0LjFhNy41ODYgNy41ODYgMCAwIDAtLjE1MS4xMDYgMS43NTYgMS43NTYgMCAwIDEtMS4wNy4zMjhINy4wNDJjLS40NzcgMC0uODE3LS4xNC0xLjEzLS40MTNhMi40MDUgMi40MDUgMCAwIDAtLjA5OS0uMDg3Yy0uMDIyLS4wMTctLjA3Mi0uMDM2LS4yNjYtLjA2LS4zNTctLjA0NS0uOTItLjAzNi0xLjczLjA0NC0xLjE1Ni40MTQtMi4yMzggMy43NzUtMS44MDIgNi4yOTd6Ii8+PHJlY3Qgd2lkdGg9IjIiIGhlaWdodD0iMiIgeD0iMTAuNSIgeT0iNy41IiBmaWxsPSJoc2xhKDM0Ni45MDkwOTA5MDkwOTA5MywgOTUuNjUyMTczOTEzMDQzNDglLCA1NC45MDE5NjA3ODQzMTM3MiUsIDEpIiByeD0iMSIvPjxyZWN0IHdpZHRoPSIyIiBoZWlnaHQ9IjIiIHg9IjMuNSIgeT0iNy41IiBmaWxsPSJoc2xhKDM0Ni45MDkwOTA5MDkwOTA5MywgOTUuNjUyMTczOTEzMDQzNDglLCA1NC45MDE5NjA3ODQzMTM3MiUsIDEpIiByeD0iMSIvPjwvZz48L3N2Zz4=",
+          "height": 0,
+          "highlighted": false,
+          "id": 1646,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "complete",
+          "title": "GX Corner",
+          "url": "https://gx-corner.opera.com/",
+          "width": 0,
+          "windowId": 1625
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1625": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 1625,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 18,
+    "name": "PlantUML integration - plugin for IntelliJ IDEs | JetBrains",
+    "date": 1599750882880,
+    "lastEditedTime": 1601295398109,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599749435362,
+    "id": "5db600b7-a727-4541-93fc-288dbc696e75"
+  }
+]

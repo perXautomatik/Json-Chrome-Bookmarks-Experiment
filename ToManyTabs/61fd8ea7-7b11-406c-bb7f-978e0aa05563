@@ -1,0 +1,771 @@
+[
+  {
+    "windows": {
+      "7117": {
+        "7120": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://devblogs.microsoft.com/powershell/wp-content/uploads/sites/30/2019/02/Powershell_2561-150x150.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 7120,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Depending on the right PowerShell NuGet package in your .NET project | PowerShell",
+          "url": "https://devblogs.microsoft.com/powershell/depending-on-the-right-powershell-nuget-package-in-your-net-project/",
+          "width": 1383,
+          "windowId": 7117
+        },
+        "7122": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7122,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "packing vb.net with nuget package - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=packing+vb.net+with+nuget+package&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 7117
+        },
+        "7126": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 7126,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Install a Nuget package in Visual Studio Code - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/40675162/install-a-nuget-package-in-visual-studio-code",
+          "width": 1383,
+          "windowId": 7117
+        },
+        "7129": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7129,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Install and use a NuGet package in Visual Studio | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio",
+          "width": 1383,
+          "windowId": 7117
+        },
+        "7132": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7132,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Application.UserAppDataPath Property (System.Windows.Forms) | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.application.userappdatapath?view=netcore-3.1",
+          "width": 1383,
+          "windowId": 7117
+        },
+        "7135": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.dotnetperls.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7135,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "VB.NET Console.WriteLine (Print) - Dot Net Perls",
+          "url": "https://www.dotnetperls.com/console-vbnet",
+          "width": 1383,
+          "windowId": 7117
+        }
+      },
+      "7140": {
+        "7143": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://devblogs.microsoft.com/scripting/wp-content/uploads/sites/29/2018/10/Microsoft-Favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 7143,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PowerTip: Use PowerShell to find all methods from .NET Framework class | Scripting Blog",
+          "url": "https://devblogs.microsoft.com/scripting/powertip-use-powershell-to-find-all-methods-from-net-framework-class/",
+          "width": 1383,
+          "windowId": 7140
+        },
+        "7145": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7145,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NuGet PowerShell Reference | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/nuget/reference/powershell-reference",
+          "width": 1383,
+          "windowId": 7140
+        },
+        "7149": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7149,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell using nuget - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=powershell+using+nuget&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 7140
+        },
+        "7152": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.myget.org/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7152,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Make Use Of NuGet Within Your Build Scripts",
+          "url": "https://docs.myget.org/docs/how-to/make-use-of-nuget-within-your-build-scripts",
+          "width": 1383,
+          "windowId": 7140
+        },
+        "7153": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7153,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": ".nuspec File Reference for NuGet | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/nuget/reference/nuspec",
+          "width": 1383,
+          "windowId": 7140
+        },
+        "7156": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://jameschambers.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7156,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PowerShell Script Examples for NuGet Packages | They Call Me Mister James",
+          "url": "http://jameschambers.com/2011/06/powershell-script-examples-for-nuget-packages/",
+          "width": 1383,
+          "windowId": 7140
+        }
+      },
+      "7163": {
+        "7166": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 7166,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Best way to check if an PowerShell Object exist? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/4430067/best-way-to-check-if-an-powershell-object-exist",
+          "width": 1383,
+          "windowId": 7163
+        },
+        "7168": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_180,h_180/https://www.computerperformance.co.uk/wp-content/uploads/2018/08/favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 7168,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PowerShell Basics: Do ... While, Do ... Until Loop | Code Examples",
+          "url": "https://www.computerperformance.co.uk/powershell/loops-do-while/",
+          "width": 1383,
+          "windowId": 7163
+        },
+        "7172": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7172,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell clear - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=powershell+clear&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 7163
+        },
+        "7175": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://4sysops.com/wp-content/uploads/2016/04/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 7175,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The PowerShell function – Parameters, data types, return values – 4sysops",
+          "url": "https://4sysops.com/archives/the-powershell-function-parameters-data-types-return-values/",
+          "width": 1383,
+          "windowId": 7163
+        },
+        "7178": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7178,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Get-Package (PackageManagement) - PowerShell | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powershell/module/packagemanagement/get-package?view=powershell-7",
+          "width": 1383,
+          "windowId": 7163
+        },
+        "7179": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7179,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NuGet Get-Package PowerShell Reference | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/nuget/reference/ps-reference/ps-ref-get-package",
+          "width": 1383,
+          "windowId": 7163
+        },
+        "7182": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 7182,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Strange exception with PdfSharp : PowerShell",
+          "url": "https://www.reddit.com/r/PowerShell/comments/3hjzzx/strange_exception_with_pdfsharp/",
+          "width": 1383,
+          "windowId": 7163
+        }
+      },
+      "7189": {
+        "7192": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7192,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "online vb.net compiler - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=online+vb.net+compiler&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 7189
+        },
+        "7194": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.tutorialspoint.com/codingground/images/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7194,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Online Vb.net Compiler - Online Vb.net Editor - Online Vb.net IDE - Vb.net Coding Online - Practice Vb.net Online - Execute Vb.net Online - Compile Vb.net Online - Run Vb.net Online",
+          "url": "https://www.tutorialspoint.com/compile_vb.net_online.php",
+          "width": 1383,
+          "windowId": 7189
+        },
+        "7195": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.tutorialspoint.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7195,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "VB.Net - Program Structure - Tutorialspoint",
+          "url": "https://www.tutorialspoint.com/vb.net/vb.net_program_structure.htm",
+          "width": 1383,
+          "windowId": 7189
+        },
+        "7199": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.nuget.org/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7199,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NuGet Gallery | PdfSharp 1.51.5185-beta",
+          "url": "https://www.nuget.org/packages/PdfSharp/1.51.5185-beta",
+          "width": 1383,
+          "windowId": 7189
+        },
+        "7204": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 7204,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "visual studio - How do I install a NuGet package .nupkg file locally? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/10240029/how-do-i-install-a-nuget-package-nupkg-file-locally",
+          "width": 1383,
+          "windowId": 7189
+        }
+      },
+      "7209": {
+        "7212": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7212,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "online vb.net compiler nuget - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&hs=mNa&sxsrf=ALeKk01pl8VYD3rskTX-Kl5THYh6Y37DbA%3A1600181266714&ei=EtRgX9yIK4-vrgTwnoD4BA&q=online+vb.net+compiler+nuget&oq=online+vb.net+compiler+nuget&gs_lcp=CgZwc3ktYWIQAzIFCCEQoAEyBQghEKABOhEIABCwAxCKAxC3AxDlAhCLAzoECCMQJzoFCAAQkQI6AggAOgQIABBDOgcIABAUEIcCOgQIABAKOgYIABAWEB46BwgjELACECc6BAgAEA06CAgAEA0QChAeOgYIABANEB46BAghEBU6CAghEBYQHRAeOgcIIRAKEKABUK7KAVi9oQJg9qICaAxwAHgAgAF5iAGMFZIBBDM2LjGYAQCgAQGqAQdnd3Mtd2l6yAEKuAECwAEB&sclient=psy-ab&ved=0ahUKEwjc2enfs-vrAhWPl4sKHXAPAE8Q4dUDCAw&uact=5",
+          "width": 1383,
+          "windowId": 7209
+        },
+        "7214": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://spin.atomicobject.com/wp-content/themes/spin/images/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7214,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Debugging a NuGet Package with a Locally-built DLL & PDB",
+          "url": "https://spin.atomicobject.com/2018/01/29/debugging-nuget-package/",
+          "width": 1383,
+          "windowId": 7209
+        },
+        "7215": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 7215,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "print output of a function in vb.net - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/10721928/print-output-of-a-function-in-vb-net",
+          "width": 1383,
+          "windowId": 7209
+        },
+        "7219": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7219,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Application.UserAppDataPath Property (System.Windows.Forms) | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.application.userappdatapath?view=netcore-3.1",
+          "width": 1383,
+          "windowId": 7209
+        },
+        "7224": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7224,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "vb.net Application.UserAppDataPath - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=vb.net+Application.UserAppDataPath&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 7209
+        },
+        "7227": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.vbforums.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7227,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "[RESOLVED] Application.UserAppDataPath-VBForums",
+          "url": "https://www.vbforums.com/showthread.php?382790-RESOLVED-Application-UserAppDataPath",
+          "width": 1383,
+          "windowId": 7209
+        },
+        "7230": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://forums-asp.azureedge.net/resources/v-2020-09-25-01/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7230,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Type LIST is not defined | The ASP.NET Forums",
+          "url": "https://forums.asp.net/t/1349001.aspx?Type+LIST+is+not+defined",
+          "width": 1383,
+          "windowId": 7209
+        }
+      }
+    },
+    "windowsNumber": 5,
+    "windowsInfo": {
+      "7117": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 7117,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      },
+      "7140": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 7140,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      },
+      "7163": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 7163,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      },
+      "7189": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 7189,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      },
+      "7209": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 7209,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 31,
+    "name": "online vb.net compiler nuget - Google Search",
+    "date": 1601177642475,
+    "lastEditedTime": 1601177793158,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "f8a44acc-6bfe-4d9a-9dff-9c08fcdc132c"
+  }
+]

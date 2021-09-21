@@ -1,0 +1,430 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "65": {
+        "width": 1440,
+        "type": "normal",
+        "top": 182,
+        "state": "normal",
+        "left": 203,
+        "incognito": false,
+        "height": 780,
+        "focused": false,
+        "alwaysOnTop": false,
+        "id": 65
+      }
+    },
+    "windows": {
+      "65": {
+        "87": {
+          "title": "Parsing Text with PowerShell (1/3) | PowerShell",
+          "windowId": 65,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://devblogs.microsoft.com/powershell/wp-content/uploads/sites/30/2019/02/Powershell_2561-150x150.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://devblogs.microsoft.com/powershell/parsing-text-with-powershell-1-3/",
+          "id": 87,
+          "index": 4
+        },
+        "90": {
+          "title": "Ternary operator in PowerShell - Stack Overflow",
+          "windowId": 65,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://stackoverflow.com/questions/31341998/ternary-operator-in-powershell",
+          "id": 90,
+          "index": 5
+        },
+        "96": {
+          "title": "Check if a file exists or not in Windows PowerShell? - Stack Overflow",
+          "windowId": 65,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://stackoverflow.com/questions/31879814/check-if-a-file-exists-or-not-in-windows-powershell",
+          "id": 96,
+          "index": 7
+        },
+        "99": {
+          "title": "scripting - How to get the Parent's parent directory in Powershell? - Stack Overflow",
+          "windowId": 65,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://stackoverflow.com/questions/9725521/how-to-get-the-parents-parent-directory-in-powershell",
+          "id": 99,
+          "index": 8
+        },
+        "102": {
+          "title": "Windows PowerShell Operators",
+          "windowId": 65,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1767,
+          "favIconUrl": "https://www.itprotoday.com/sites/all/themes/penton_subtheme_itprotoday/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.itprotoday.com/powershell/windows-powershell-operators",
+          "id": 102,
+          "index": 9
+        },
+        "105": {
+          "title": "command line - How to request Administrator access inside a batch file - Stack Overflow",
+          "windowId": 65,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://stackoverflow.com/questions/1894967/how-to-request-administrator-access-inside-a-batch-file",
+          "id": 105,
+          "index": 10
+        },
+        "108": {
+          "title": "Showing the UAC prompt in PowerShell if the action requires elevation - Stack Overflow",
+          "windowId": 65,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://stackoverflow.com/questions/1566969/showing-the-uac-prompt-in-powershell-if-the-action-requires-elevation",
+          "id": 108,
+          "index": 11
+        },
+        "111": {
+          "title": "find regestry conflicts - Google Search",
+          "windowId": 65,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?client=opera-gx&q=find+regestry+conflicts&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "id": 111,
+          "index": 12
+        },
+        "117": {
+          "title": "Show or Hide Folder Merge Conflicts in Windows 10 | Tutorials",
+          "windowId": 65,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://www.tenforums.com/fav.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.tenforums.com/tutorials/89182-show-hide-folder-merge-conflicts-windows-10-a.html",
+          "id": 117,
+          "index": 14
+        },
+        "121": {
+          "title": "Crash Bandicoot™ 4: It's About Time | Buy",
+          "windowId": 65,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://www.crashbandicoot.com/content/dam/atvi/Crash/favicon/favicon.ico",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.crashbandicoot.com/crash4/buy?cid=pyo_20cb4launch_bhvcrash_61779174_sv",
+          "id": 121,
+          "index": 1
+        },
+        "126": {
+          "title": "OnePlus 8T Launch Event | Ultra Stops at Nothing",
+          "windowId": 65,
+          "width": 1383,
+          "status": "loading",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://image01.oneplus.net/shop/202003/18/1-M00-12-07-rB8LB15yANmALbyuAAAQvlv7cV0309.ico?v=20200219",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://www.oneplus.com/uk/launch?utm_source=youtube&utm_medium=Social%20Post&utm_campaign=Kebab%20Pre-launch&gclid=CjwKCAjw5Kv7BRBSEiwAXGDElYD8VvR5JDG__hJ-qbTJKjSx2qAZY2ppOwOy8p6PVgmYA2VRkInqNRoC-g0QAvD_BwE",
+          "id": 126,
+          "index": 0
+        },
+        "132": {
+          "title": "string summary powershell - Google Search",
+          "windowId": 65,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?client=opera-gx&hs=xvS&sxsrf=ALeKk02gRYYvAdvuF0R7oHC5uz6PqN_o0A%3A1600947034266&ei=WoNsX8XPD56HwPAP7cGf6Ak&q=string+summary+powershell&oq=string+summary+powershell&gs_lcp=CgZwc3ktYWIQAzoRCAAQsAMQigMQtwMQ5QIQiwM6BggAEBYQHjoFCCEQoAE6BwghEAoQoAFQuQ5Y-SBg8yJoAXAAeACAAdgBiAHHCJIBBTkuMS4xmAEAoAEBqgEHZ3dzLXdpesgBCrgBAsABAQ&sclient=psy-ab&ved=0ahUKEwjF5J-62IHsAhWeAxAIHe3gB50Q4dUDCAw&uact=5",
+          "id": 132,
+          "index": 3
+        },
+        "135": {
+          "title": "How can I split a text file using PowerShell? - Stack Overflow",
+          "windowId": 65,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://stackoverflow.com/questions/1001776/how-can-i-split-a-text-file-using-powershell",
+          "id": 135,
+          "index": 2
+        },
+        "138": {
+          "title": ".net - powershell - extract file name and extension - Stack Overflow",
+          "windowId": 65,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://stackoverflow.com/questions/9788492/powershell-extract-file-name-and-extension",
+          "id": 138,
+          "index": 6
+        },
+        "141": {
+          "title": "powershell ask to add except ion windows security from block access - Google Search",
+          "windowId": 65,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?client=opera-gx&q=powershell+ask+to+add+except+ion+windows+security+from+block+access&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "id": 141,
+          "index": 16
+        },
+        "144": {
+          "title": "Customize controlled folder access - Windows security | Microsoft Docs",
+          "windowId": 65,
+          "width": 1383,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/customize-controlled-folders",
+          "id": 144,
+          "index": 17
+        },
+        "147": {
+          "title": "Resolve a setting conflict",
+          "windowId": 65,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://support.rm.com/favicon.ico",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://support.rm.com/_rmvirtual/webhelp/cc4/registry%20policies%20help/webhelp/resolving_conflicts.htm",
+          "id": 147,
+          "index": 13
+        },
+        "150": {
+          "title": "Registry Conflicts - Microsoft Community",
+          "windowId": 65,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://answers.microsoft.com/favicon.ico",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://answers.microsoft.com/en-us/windows/forum/all/registry-conflicts/87a9c509-1982-4c11-836f-4ae93a969edc",
+          "id": 150,
+          "index": 15
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Home",
+      "Loppy"
+    ],
+    "tabsNumber": 18,
+    "sessionStartTime": 1600891847366,
+    "name": "OnePlus 8T Launch Event | Ultra Stops at Nothing",
+    "lastEditedTime": 1601167837321,
+    "date": 1600958878936,
+    "id": "b27498a8-db92-4a7f-b9b4-b8dc9df4cbc4"
+  }
+]

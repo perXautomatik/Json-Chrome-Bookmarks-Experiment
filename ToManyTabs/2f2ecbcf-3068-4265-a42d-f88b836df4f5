@@ -1,0 +1,210 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "476": {
+        "width": 1216,
+        "type": "normal",
+        "top": -658,
+        "state": "maximized",
+        "left": 1912,
+        "incognito": false,
+        "height": 1896,
+        "focused": false,
+        "alwaysOnTop": false,
+        "id": 476
+      }
+    },
+    "windows": {
+      "476": {
+        "549": {
+          "title": "Deep Web Search - A How-To Site » Deep Web Search Engines",
+          "windowId": 476,
+          "width": 1159,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "http://deep-web.org/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "http://deep-web.org/how-to-research/deep-web-search-engines/",
+          "id": 549,
+          "index": 0
+        },
+        "552": {
+          "title": "5 Ways You Can Search the Web Using Tag Clouds | MakeUseOf",
+          "windowId": 476,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://www.makeuseof.com/public/build/images/favicon-32x32.03b1301a.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.makeuseof.com/tag/5-ways-search-web-tag-clouds/",
+          "id": 552,
+          "index": 1
+        },
+        "555": {
+          "title": "About SurfWax © 1998-2015 SurfWax, Inc.",
+          "windowId": 476,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "http://lookahead.surfwax.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "http://lookahead.surfwax.com/about.htm",
+          "id": 555,
+          "index": 2
+        },
+        "558": {
+          "title": "TouchGraph SEO",
+          "windowId": 476,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "http://www.touchgraph.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "http://www.touchgraph.com/seo/launch?q=solar%20power",
+          "id": 558,
+          "index": 3
+        },
+        "561": {
+          "title": "Yippy, powered by IBM Watson",
+          "windowId": 476,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://yippy.com/favicon-32x32.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://yippy.com/",
+          "id": 561,
+          "index": 4
+        },
+        "564": {
+          "title": "DeeperWeb Gets More Out Of Your Google Search | MakeUseOf",
+          "windowId": 476,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://www.makeuseof.com/public/build/images/favicon-32x32.03b1301a.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.makeuseof.com/tag/deeperweb-gets-more-out-of-your-google-search/",
+          "id": 564,
+          "index": 5
+        },
+        "567": {
+          "title": "tag insight in search ressults - Google Search",
+          "windowId": 476,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?ei=A4JoX46BN-ymrgTS-6PICA&q=tag+insight+in+search+ressults&oq=tag+insight+in+search+ressults&gs_lcp=CgZwc3ktYWIQAzIHCCEQChCgAToFCAAQkQI6CAguEMcBEKMCOgIIADoCCC46BQguEJECOgQIABBDOggILhDHARCvAToGCAAQFhAeOggIABAWEAoQHjoICCEQFhAdEB46BQghEKABUMhUWImPAWCEkQFoA3AAeAGAAbsBiAHbFJIBBDMyLjKYAQCgAQGqAQdnd3Mtd2l6sAEAwAEB&sclient=psy-ab&ved=0ahUKEwjOjoDPhvrrAhVsk4sKHdL9CIkQ4dUDCA0&uact=5",
+          "id": 567,
+          "index": 6
+        },
+        "573": {
+          "title": "Yippy Search Alternatives and Similar Websites and Apps - AlternativeTo.net",
+          "windowId": 476,
+          "width": 1159,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1810,
+          "favIconUrl": "https://alternativeto.net/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://alternativeto.net/software/zippy-com/",
+          "id": 573,
+          "index": 7
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Home",
+      "Loppy"
+    ],
+    "tabsNumber": 8,
+    "sessionStartTime": 1600621101255,
+    "name": "Deep Web Search - A How-To Site » Deep Web Search Engines",
+    "lastEditedTime": 1601167836758,
+    "date": 1600685330445,
+    "id": "558381c8-ed0c-4fa3-91d3-f3871b9e129b"
+  }
+]

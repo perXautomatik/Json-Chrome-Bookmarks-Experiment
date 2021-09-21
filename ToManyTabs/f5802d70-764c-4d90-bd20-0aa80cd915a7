@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "237": {
+        "243": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://answers.microsoft.com/favicon.ico",
+          "height": 1351,
+          "highlighted": false,
+          "id": 243,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Recent folders rather than frequent folders in windows 10 quick access - Microsoft Community",
+          "url": "https://answers.microsoft.com/en-us/windows/forum/windows_10-start-winpc/recent-folders-rather-than-frequent-folders-in/171b786e-0521-4aa4-9fcb-7508f0074fe6",
+          "width": 1665,
+          "windowId": 237
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "237": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1440,
+        "id": 237,
+        "incognito": false,
+        "left": 131,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1722
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Recent folders rather than frequent folders in windows 10 quick access - Microsoft Community",
+    "date": 1602060939945,
+    "lastEditedTime": 1602059649289,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602058062832,
+    "id": "f11f59f0-533b-457d-9d24-918ee4d2acf2"
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "windows": {
+      "3688": {
+        "3724": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3724,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "sql scalar join - Google Search",
+          "url": "https://www.google.com/search?q=sql%20scalar%20join",
+          "width": 1383,
+          "windowId": 3688
+        },
+        "3742": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3742,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql - Can I create a One-Time-Use Function in a Script or Stored Procedure? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/981451/can-i-create-a-one-time-use-function-in-a-script-or-stored-procedure",
+          "width": 1383,
+          "windowId": 3688
+        },
+        "3814": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3814,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "STRING_SPLIT (Transact-SQL) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/functions/string-split-transact-sql?view=sql-server-ver15",
+          "width": 1383,
+          "windowId": 3688
+        },
+        "3855": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www3.gotland.se/sr/Content/Images/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3855,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Inte tillgänglig",
+          "url": "http://www3.gotland.se/sr/Survey/1414/sv?uid=dW49a1h4TFpVaHcmcHc9QzYzSzhmcWg%3d",
+          "width": 1383,
+          "windowId": 3688
+        },
+        "3891": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3891,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "wellbee - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=se.frost.wellbee&hl=en",
+          "width": 1383,
+          "windowId": 3688
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3688": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 3688,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 5,
+    "name": "sql scalar join - Google Search",
+    "date": 1601172575791,
+    "lastEditedTime": 1601172568572,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "dfe1251c-976d-419b-a3e6-9a95ab1558d6"
+  }
+]

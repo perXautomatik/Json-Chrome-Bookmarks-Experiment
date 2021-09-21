@@ -1,0 +1,451 @@
+[
+  {
+    "windows": {
+      "777": {
+        "755": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.nvidia.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 755,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "NVIDIA PhysX System Software 9.15.0428",
+          "url": "https://www.nvidia.com/en-us/drivers/physx/9_15_0428/physx-9-15-0428-driver/",
+          "width": 1879,
+          "windowId": 777
+        },
+        "756": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 756,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NetGlance | DownloadSafer",
+          "url": "https://downloadsafer.lavasoft.com/software/netglance/",
+          "width": 1879,
+          "windowId": 777
+        },
+        "757": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 757,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PhotoME - Exif, IPTC & ICC Metadata Editor",
+          "url": "https://www.photome.de/download_en.html",
+          "width": 911,
+          "windowId": 777
+        },
+        "758": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 758,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "QuickImageComment",
+          "url": "https://www.quickimagecomment.de/index.php/en/download/file/248-version-4-36",
+          "width": 911,
+          "windowId": 777
+        },
+        "759": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 759,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Savard Software - TurboTop",
+          "url": "https://www.savardsoftware.com/turbotop/",
+          "width": 911,
+          "windowId": 777
+        },
+        "760": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 760,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Science / CAD Downloads",
+          "url": "https://www.softpedia.com/get/Science-CAD/?utm_source=spd&utm_campaign=postdl_redir",
+          "width": 911,
+          "windowId": 777
+        },
+        "763": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 763,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sidebar for YouTube™ extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/youtubetm-sidebar/",
+          "width": 911,
+          "windowId": 777
+        },
+        "764": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 764,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Signal (IPC) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Signal_(IPC)",
+          "width": 911,
+          "windowId": 777
+        },
+        "765": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 765,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SimpLite-MSN - SimpLite-MSN.exe - Program Information",
+          "url": "https://www.bleepingcomputer.com/startups/SimpLite_MSN-4938.html",
+          "width": 911,
+          "windowId": 777
+        },
+        "766": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 766,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Statistics and related apps",
+          "url": "https://www.softpedia.com/downloadTag/statistics",
+          "width": 911,
+          "windowId": 777
+        },
+        "767": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 767,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Text to Voice extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/text-to-voice/",
+          "width": 911,
+          "windowId": 777
+        },
+        "768": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 768,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tree Tabs extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/tree-tabs/",
+          "width": 911,
+          "windowId": 777
+        },
+        "769": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 769,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "UMPlayer - Download",
+          "url": "https://umplayer.en.softonic.com/",
+          "width": 911,
+          "windowId": 777
+        },
+        "770": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 770,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "V7 Extension Manager extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/v7-extension-manager/",
+          "width": 911,
+          "windowId": 777
+        },
+        "772": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 772,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "V7 Sessions extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/v7-sessions/",
+          "width": 911,
+          "windowId": 777
+        },
+        "773": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 773,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "V7 Stash extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/v7-stash/",
+          "width": 911,
+          "windowId": 777
+        },
+        "774": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 774,
+          "incognito": false,
+          "index": 16,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Variable and related apps",
+          "url": "https://www.softpedia.com/downloadTag/variable",
+          "width": 911,
+          "windowId": 777
+        },
+        "775": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 775,
+          "incognito": false,
+          "index": 17,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Variance analyzer and related apps",
+          "url": "https://www.softpedia.com/downloadTag/variance%20analyzer",
+          "width": 911,
+          "windowId": 777
+        },
+        "776": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 776,
+          "incognito": false,
+          "index": 18,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Variance and related apps",
+          "url": "https://www.softpedia.com/downloadTag/variance",
+          "width": 911,
+          "windowId": 777
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "777": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1056,
+        "id": 777,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 19,
+    "name": "NVIDIA PhysX System Software 9.15.0428",
+    "date": 1600015599730,
+    "lastEditedTime": 1601295398340,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "8dabf5f7-8265-4117-bad7-91312574ab06"
+  }
+]

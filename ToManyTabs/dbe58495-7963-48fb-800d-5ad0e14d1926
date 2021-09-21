@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "1297": {
+        "1232": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.autohotkey.com/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1232,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "If (Expression) - Syntax & Usage | AutoHotkey",
+          "url": "https://www.autohotkey.com/docs/commands/IfExpression.htm",
+          "width": 911,
+          "windowId": 1297
+        },
+        "1234": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.autohotkey.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1234,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "WinExist() / IfWinExist - Syntax & Usage | AutoHotkey",
+          "url": "https://www.autohotkey.com/docs/commands/WinExist.htm",
+          "width": 1383,
+          "windowId": 1297
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1297": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1297,
+        "incognito": false,
+        "left": 952,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 968
+      }
+    },
+    "tabsNumber": 2,
+    "name": "If (Expression) - Syntax & Usage | AutoHotkey",
+    "date": 1600036135072,
+    "lastEditedTime": 1601295398706,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600035071828,
+    "id": "be48a9a7-050e-4c5d-94a5-5702c9c3c939"
+  }
+]

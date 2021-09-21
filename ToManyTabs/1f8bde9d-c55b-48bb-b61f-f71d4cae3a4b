@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "167": {
+        "166": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.masterclass.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 166,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Songwriting 101: Learn Common Song Structures - 2020 - MasterClass",
+          "url": "https://www.masterclass.com/articles/songwriting-101-learn-common-song-structures#what-makes-a-song",
+          "width": 1383,
+          "windowId": 167
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "167": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 167,
+        "incognito": false,
+        "left": 267,
+        "state": "normal",
+        "top": 279,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Songwriting 101: Learn Common Song Structures - 2020 - MasterClass",
+    "date": 1599907790341,
+    "lastEditedTime": 1601295399057,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599905734360,
+    "id": "eb9f2fb7-6265-4acf-8bdf-39fc38286255"
+  }
+]

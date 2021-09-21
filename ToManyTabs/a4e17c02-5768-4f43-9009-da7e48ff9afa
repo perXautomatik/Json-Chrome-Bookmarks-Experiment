@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "165": {
+        "171": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAATlJREFUWAm9VsEJAjEQPPz5t4A8bMIiBLGClGApNiCkAduwCT/5+/cnOiMXCMuAd3i7A8OZsOxMzpskw+CDw9S2q6mFM+qOqN3PqF+0dIduTzAv2nVisy3qHuAbTGAoNlC7gxSvYCjWULuBFCcLGAZ+xFewifOZwTCcodSL83eKUj8J8Rolzqy/hIESYaBl3b76kP+/z7oykDzfQJ91JV49xW3WlYHiZUBlXRnIXgZU1pWB5GVA9aWYMmHnaN4FGV2tmB1zi/a4b3wXVH4Y4OHED9cNFZ3tituYxzIj64aEzk3MPnkh4WbliozuVphjXsW4TbujQMEa4MHEAyoEFSrWAI/mECSoWHG3rKsVZWPANevKQOkMuGddGaijAfesK/E0iodkXRnImAzLujJwwWRY1pWBg5r8d+4DPAafI44hXKIAAAAASUVORK5CYII=",
+          "height": 668,
+          "highlighted": false,
+          "id": 171,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Dubolt - Discover new music on Spotify",
+          "url": "https://dubolt.com/",
+          "width": 753,
+          "windowId": 165
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "165": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 788,
+        "id": 165,
+        "incognito": false,
+        "left": 479,
+        "state": "normal",
+        "top": 83,
+        "type": "normal",
+        "width": 810
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Dubolt - Discover new music on Spotify",
+    "date": 1620981815667,
+    "lastEditedTime": 1620981660741,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1620979644404,
+    "id": "259c0a4a-5f4d-4d83-9c8c-8c27895f37a4"
+  }
+]

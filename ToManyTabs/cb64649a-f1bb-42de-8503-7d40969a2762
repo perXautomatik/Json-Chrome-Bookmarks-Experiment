@@ -1,0 +1,232 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3793": {
+        "width": 936,
+        "type": "normal",
+        "top": 0,
+        "state": "normal",
+        "left": 0,
+        "incognito": false,
+        "height": 1080,
+        "focused": true,
+        "alwaysOnTop": false,
+        "id": 3793
+      }
+    },
+    "windows": {
+      "3793": {
+        "3871": {
+          "title": "chrome word occurrence statistics - Google Search",
+          "windowId": 3793,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?q=chrome+word+occurrence+statistics&rlz=1CAZBMY_enSE834&oq=chrome+word+occurrence+stati&aqs=chrome.1.69i57j33.7703j0j4&sourceid=chrome&ie=UTF-8",
+          "id": 3871,
+          "index": 0
+        },
+        "3880": {
+          "title": "GitHub - angus-c/wordy-extension: word frequency analysis in a chrome extension",
+          "windowId": 3793,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADl0lEQVRYR71XPVATURDefTmGw8YgjtCZ4UcCIyEddKS000476KCD0s6xk0466aC00w466LALwUku8uPRBUflbOQCd2+dd5l3vFze5RJgpGAIb9/bb7/d/XaD0MVP5slU1kAYJ8Q0Y2gSpyFxHRnWOCcXiZwUoFWtlqqdPotJhpl8Pm1c+HOcQZYRmkn24pwjuYyD5dUHtm17x213py2A0Wy+wNGf6dRx1FEAhGDvyDrYjQOhBZDJFMyee+fzkuJOom4bJcPa1d/+TR0bLQAymckh1peav2nUcUAEG/zC37Ttck21aQIgImd9v5bv2rl02AAxsKYyEQLQ0Y7EzzjDGgFmGMH9blLBEf4gkM0I0gT4WN4VHXNY3l8PP8s/RMEB8Lkmepj3+bBcLor/jU1O5n0yChIIAp2qtj6wIQbUywHrKXa1Je8FrcvwZTN4tntkFXeCFha/RKuxur8Ypd4AtmlZRVteFiwB/EhH8xie5/NpcNKuSrGoKcM0FlUAaioCACMTUy+QcDpKcRRANylQQRkuX47eJaT948rBpwDAcHb6taAvaoRKCm7iPGBXm4KGWJ1UDlYx1gCwzt3+90lKlgSs0Vm/l3RF7HH6iHH030X0EpwoYOLG85Y0MPiCY9mpBbVNpJHnPli9bfSqw9Fs7k1LioFOcWz86RIhG2yqUsD6ibX/Lonebs51gQpNQB0yTuCcVEtr3ThIso1jWgtAPHZkld4mPdrN+fBEbkVXiBh38D9qIJDrWGruQANCMYrRAiHnODKZe4YcZlpaBMA+tkqb3dAcZxsXJIk2jBMi8ZiHsG1XSnu3ARGnAcH7QogCpTLPV3RS3HBMO+1WqnbgdBNW2oupKZRWM4zYrsf9Wg9SQeqDaEuGaPl4aX2vVJrGcBRANpvPuD4fZAxmGUI6DqCg/7hc2grHsZxYcnUCeOT09P5ciIqUWFIOq18/6B4emci9QoLxTlLmmWzNLhadcCNS6QpA9KaCrYW5tKSmR+TN/nZg6ZzoZr8eTGQhCYeGIstyXosaMUxnVtggu3TkphMXpU5ZVdsog61LqVKQnuutx20/NwEgC0+7lIaiIdZys2chpJ2oCAiOPE/qiDgGGs6vNtqu5dcgCqauADuZEdqxS/zsqv5wo6MvJiq1uj5OGlKtAK4LTpe2jr6cpi75LHHMiweS9gSxXwYFi9zye1M7otXatWUiADUtkHbMpAfFih9dzdsB+AdFB/LogQELOgAAAABJRU5ErkJggg==",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://github.com/angus-c/wordy-extension",
+          "id": 3880,
+          "index": 1
+        },
+        "3883": {
+          "title": "wordy-extension/wordy-extension.crx at master · angus-c/wordy-extension · GitHub",
+          "windowId": 3793,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADl0lEQVRYR71XPVATURDefTmGw8YgjtCZ4UcCIyEddKS000476KCD0s6xk0466aC00w466LALwUku8uPRBUflbOQCd2+dd5l3vFze5RJgpGAIb9/bb7/d/XaD0MVP5slU1kAYJ8Q0Y2gSpyFxHRnWOCcXiZwUoFWtlqqdPotJhpl8Pm1c+HOcQZYRmkn24pwjuYyD5dUHtm17x213py2A0Wy+wNGf6dRx1FEAhGDvyDrYjQOhBZDJFMyee+fzkuJOom4bJcPa1d/+TR0bLQAymckh1peav2nUcUAEG/zC37Ttck21aQIgImd9v5bv2rl02AAxsKYyEQLQ0Y7EzzjDGgFmGMH9blLBEf4gkM0I0gT4WN4VHXNY3l8PP8s/RMEB8Lkmepj3+bBcLor/jU1O5n0yChIIAp2qtj6wIQbUywHrKXa1Je8FrcvwZTN4tntkFXeCFha/RKuxur8Ypd4AtmlZRVteFiwB/EhH8xie5/NpcNKuSrGoKcM0FlUAaioCACMTUy+QcDpKcRRANylQQRkuX47eJaT948rBpwDAcHb6taAvaoRKCm7iPGBXm4KGWJ1UDlYx1gCwzt3+90lKlgSs0Vm/l3RF7HH6iHH030X0EpwoYOLG85Y0MPiCY9mpBbVNpJHnPli9bfSqw9Fs7k1LioFOcWz86RIhG2yqUsD6ibX/Lonebs51gQpNQB0yTuCcVEtr3ThIso1jWgtAPHZkld4mPdrN+fBEbkVXiBh38D9qIJDrWGruQANCMYrRAiHnODKZe4YcZlpaBMA+tkqb3dAcZxsXJIk2jBMi8ZiHsG1XSnu3ARGnAcH7QogCpTLPV3RS3HBMO+1WqnbgdBNW2oupKZRWM4zYrsf9Wg9SQeqDaEuGaPl4aX2vVJrGcBRANpvPuD4fZAxmGUI6DqCg/7hc2grHsZxYcnUCeOT09P5ciIqUWFIOq18/6B4emci9QoLxTlLmmWzNLhadcCNS6QpA9KaCrYW5tKSmR+TN/nZg6ZzoZr8eTGQhCYeGIstyXosaMUxnVtggu3TkphMXpU5ZVdsog61LqVKQnuutx20/NwEgC0+7lIaiIdZys2chpJ2oCAiOPE/qiDgGGs6vNtqu5dcgCqauADuZEdqxS/zsqv5wo6MvJiq1uj5OGlKtAK4LTpe2jr6cpi75LHHMiweS9gSxXwYFi9zye1M7otXatWUiADUtkHbMpAfFih9dzdsB+AdFB/LogQELOgAAAABJRU5ErkJggg==",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://github.com/angus-c/wordy-extension/blob/master/wordy-extension.crx",
+          "id": 3883,
+          "index": 2
+        },
+        "3897": {
+          "title": "chrome crx is invalid - Google Search",
+          "windowId": 3793,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?q=chrome+crx+is+invalid&rlz=1CAZBMY_enSE834&oq=chrome+crx+is+invalid&aqs=chrome..69i57j0l2.7053j0j7&sourceid=chrome&ie=UTF-8",
+          "id": 3897,
+          "index": 4
+        },
+        "3904": {
+          "title": "Chrome 75.x: Package is invalid: 'CRX_REQUIRED_PROOF_MISSING' · Issue #109 · oncletom/crx · GitHub",
+          "windowId": 3793,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADl0lEQVRYR71XPVATURDefTmGw8YgjtCZ4UcCIyEddKS000476KCD0s6xk0466aC00w466LALwUku8uPRBUflbOQCd2+dd5l3vFze5RJgpGAIb9/bb7/d/XaD0MVP5slU1kAYJ8Q0Y2gSpyFxHRnWOCcXiZwUoFWtlqqdPotJhpl8Pm1c+HOcQZYRmkn24pwjuYyD5dUHtm17x213py2A0Wy+wNGf6dRx1FEAhGDvyDrYjQOhBZDJFMyee+fzkuJOom4bJcPa1d/+TR0bLQAymckh1peav2nUcUAEG/zC37Ttck21aQIgImd9v5bv2rl02AAxsKYyEQLQ0Y7EzzjDGgFmGMH9blLBEf4gkM0I0gT4WN4VHXNY3l8PP8s/RMEB8Lkmepj3+bBcLor/jU1O5n0yChIIAp2qtj6wIQbUywHrKXa1Je8FrcvwZTN4tntkFXeCFha/RKuxur8Ypd4AtmlZRVteFiwB/EhH8xie5/NpcNKuSrGoKcM0FlUAaioCACMTUy+QcDpKcRRANylQQRkuX47eJaT948rBpwDAcHb6taAvaoRKCm7iPGBXm4KGWJ1UDlYx1gCwzt3+90lKlgSs0Vm/l3RF7HH6iHH030X0EpwoYOLG85Y0MPiCY9mpBbVNpJHnPli9bfSqw9Fs7k1LioFOcWz86RIhG2yqUsD6ibX/Lonebs51gQpNQB0yTuCcVEtr3ThIso1jWgtAPHZkld4mPdrN+fBEbkVXiBh38D9qIJDrWGruQANCMYrRAiHnODKZe4YcZlpaBMA+tkqb3dAcZxsXJIk2jBMi8ZiHsG1XSnu3ARGnAcH7QogCpTLPV3RS3HBMO+1WqnbgdBNW2oupKZRWM4zYrsf9Wg9SQeqDaEuGaPl4aX2vVJrGcBRANpvPuD4fZAxmGUI6DqCg/7hc2grHsZxYcnUCeOT09P5ciIqUWFIOq18/6B4emci9QoLxTlLmmWzNLhadcCNS6QpA9KaCrYW5tKSmR+TN/nZg6ZzoZr8eTGQhCYeGIstyXosaMUxnVtggu3TkphMXpU5ZVdsog61LqVKQnuutx20/NwEgC0+7lIaiIdZys2chpJ2oCAiOPE/qiDgGGs6vNtqu5dcgCqauADuZEdqxS/zsqv5wo6MvJiq1uj5OGlKtAK4LTpe2jr6cpi75LHHMiweS9gSxXwYFi9zye1M7otXatWUiADUtkHbMpAfFih9dzdsB+AdFB/LogQELOgAAAABJRU5ErkJggg==",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://github.com/oncletom/crx/issues/109",
+          "id": 3904,
+          "index": 5
+        },
+        "3916": {
+          "title": "Get .CRX Chrome Extension file, it's source code and download .CRX to your computer.",
+          "windowId": 3793,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,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",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://crxextractor.com/",
+          "id": 3916,
+          "index": 6
+        },
+        "3919": {
+          "title": "Convert CRX to ZIP-file",
+          "windowId": 3793,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAD00lEQVRYR8VXTWhcVRQ+5943k9JiqyRY/Bd1I1hRLFZEN0qsqKuWuLFkJpnJZKZodyKFQkcQirgQTHFe5j9BNw5BEAVLQRRFLFRwUX+WbbWRhAy2EdNO5t1z5A69kzuvb2ZeZjNZZTg/33d+73kIQ/7DIePDtggk0unHWIn9HvFeBIgws9QBIKJigKYjcAUlnS+57oWwgYUicGR2dlx64oAB7OdcE1IOnftkfv5sX91eCqnUsfubqvmGYo72cxQkl4ibERn5NJ//6HI3+64ZmEqlDpDCg8zYoaOjQ+BlFHAFBdeJJBLwGCh4EoAjfiBEZiH5TCWfPxdEIpCABleeeNk2EAIaDHh249raL7VaTdmyeOrNfeR5h3plSTr0dRCJWwjotDdUI25HjhJ+37haX/IDG8B48ughItrXi4DOxIgcqfrLcQuBqUTmuF1zKeD7StH9xu88m82Ki3+tPI2A9zLQI0Qw0q9PdE9USrlTtl4HAd3toonPGgUd+ULB/SzAMU4mMpPA/GA/UL+cIvyjPR0dBGKJzAkzarrm/12rfxCU9ljqrYfZax7ZLrjZGQul3HvtIM0/esk0N+FwWyDwy4Vi7ucgkKmZ9EGl4JlBCGibSBSWzLJqZ2B65mjcU/SAYbmxvnaqW9PFEplXmXn/oAQcKS6VCx9XW1jGyWQi8w4w79C/BcKf1ZJb7gYQS2aeQoaHbDkj38UEd4QihXhjsZR7v4OAXX8p4adKwT0TytlNpelU6jnPEy+GsdHLzPTBVgam0yeNsRPhr8rz8+fDODM6yWRyrwdOighEkB0yrTKKO41ssey+21kCi0A3YETcBIQ6INcR6ddqPv+HrTuZzDwumV5SjLu2mll4pPgH6eAGKXqlKwG7BGEjF4i/3bbT+WJubq5hbLLZrHNxdXWMms3dEYo21tdX/67Vapv25ASXwGrCsAS0npT4baWQ+66fTTyRniaG+1p6QU1oj2E/Zx1yiTeuX137UEfZzW5iYkLu3D12vL3kpLhU9Y+hfxFth0RUeG6xWFzpNbZM/JqRBy4iLRykD1pOo1BcdN0rQQR09Lv2jL5tHiu7/h1ToH/Ek7PjRFuPUZDDm3fBv7ZM7pCfl0+fXg7Sj82kX2cFjxpZz8dIK/mfY79TlHBhoeAuhSnRVDL9giJ43uj2fY61YtBBYoOFIdBquttHD9uRhz5IWlkIOMnai6VHBlrAe8aeQOBx/4ES+iQzQN2PUlYIuCwEXlYM/0hJyISjTHAPA97tP90HOkoNiaGe5Xbdh/Zh4u/0oX2ahRm5QXVCfRsO6jyM3f/MWwE/vY6CGgAAAABJRU5ErkJggg==",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://johankj.github.io/convert-crx-to-zip/",
+          "id": 3919,
+          "index": 7
+        },
+        "3923": {
+          "title": "Extensions - wordy",
+          "windowId": 3793,
+          "width": 936,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": true,
+          "height": 1001,
+          "favIconUrl": "",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "chrome://extensions/?id=lddonoadgjadbcnoenegkcofjlknlboe",
+          "id": 3923,
+          "index": 3
+        },
+        "3929": {
+          "title": "Chrome says my extension's manifest file is missing or unreadable - Stack Overflow",
+          "windowId": 3793,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADU0lEQVRYR+2VXYhUZRjH///3HHd2PDOurEo7y2Y5OyurIBhIXkRh3aVBN2UIFQRGd+FdrNTsu65kd0HdBCJdVEJRBBJEX3eKHyCSkEh7ZhWRdpvcWd2ds83szHkfOWd2RAanMztODETP1fl6/8/v+TxEl41d9o//ATqaAU8/OgjE9hrIqaTO5Vspb8cA5KNMzJvHIQK9BlK4Jf7xLfp6KQqiYwCBo8XJkW3KyP7gWgDXybonyeCyuT0UgAhYPJzZmDzm/lV3sZgdflZZfCaEEJ5J6Kmf/zWAO9mRfbbCE1Dmeyebu7gSOT2dPkCqkeDeVPF1ctL9rRlE2xmQD9J9XpkHCSYCcUIuxwfWf8e3LlaCfigW5E1FboBBRSr+icT71/58EETbAIFYXm9PrEXlJVIeC6MF8lKyv1p37Orcgt66UYk5SIWYgLcXxDs+qP9YaoR4KIAw5VorD188R8pT4b1BWYhTSe1eKen0Vp/qwEpppp2s+3ljU64aoHhkdIdtUI7pq1MMm71mC/rxUUX7xWAMQ4c+zjnK/ankZ542NvbUnyWOuD/cn4VVAYSzfguHaKHXCOctyIV4Py7xbbcciN7RQ/024y8DMlCLmjcckW+KRj0vlklbVfnRmaw1a91WBbA4ltnENeYFWmpzXcD3sWwp86tf7jkf1F70HnuJN/cB2FkbRfGqVX4LZ7mwfuzGfEd6wDu8LYVY5UkId4Bi1UWD5WOLnI/pXG7pvcxO2LJXwCVHcILaXej4FIgeXFuCs8uH7CKRrDswInMG5oIvnF1Dlv7pv9ByCUrvpkeqPeg1xp5Jjv8+d383i4YqYni7kLstYOheeYz5Zd3E9OlmS6i2P1q0oh5+neSW8HODik/MWjCz8NWMWNUZB9fz1DDBH5Hs2W2AtCOxj6mvLHcIIPMqBEPBYnmgoNAHTN43nLHEzFat5VyfvlmIiq/lDKwsEy6OjfYzXh2gMSlQpWCYopJ4oyOrYk72Hp2eahvg08++HA8Ov/HaKxNRIoV30n123KQIe4Awg6B6xLm96RN+ePbvKJ2mGYg6GAVVfx+l0zKAN5EJM9KqOeNumLn/DkCrkTd+17EMdA2gXceN55pNU2QTdg2gU46jdFa1CaPE2nnfdYC72TuAMDgVU1UAAAAASUVORK5CYII=",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://stackoverflow.com/questions/12533661/chrome-says-my-extensions-manifest-file-is-missing-or-unreadable",
+          "id": 3929,
+          "index": 8
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Loppy",
+      "Home"
+    ],
+    "tabsNumber": 9,
+    "sessionStartTime": 1600633358975,
+    "name": "Extensions - wordy",
+    "lastEditedTime": 1601167836417,
+    "date": 1600954508114,
+    "id": "19b1fa2c-26d8-4d4f-a4b4-cb573a044bd5"
+  }
+]

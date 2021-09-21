@@ -1,0 +1,54 @@
+[
+  {
+    "windows": {
+      "15": {
+        "69": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 637,
+          "highlighted": false,
+          "id": 69,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Förbättringsförslag - samhällsbyggnadsförvaltningen - Region Gotland",
+          "url": "https://interntjanster.gotland.se/oversikt/submitted/5757",
+          "width": 1085,
+          "windowId": 15
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "15": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 764,
+        "id": 15,
+        "incognito": false,
+        "left": 184,
+        "state": "normal",
+        "top": 4,
+        "type": "normal",
+        "width": 1142
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Förbättringsförslag - samhällsbyggnadsförvaltningen - Region Gotland",
+    "date": 1606899740282,
+    "lastEditedTime": 1606899740282,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1606899104486,
+    "id": "d58b4048-ee75-49d8-9db2-18e67e594b95"
+  }
+]

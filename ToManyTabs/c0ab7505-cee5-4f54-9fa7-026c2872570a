@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "6014": {
+        "6018": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://i1.social.s-msft.com/Forums/GlobalResources/images/Technet/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 6018,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Using Powershell to Parse a PDF file",
+          "url": "https://social.technet.microsoft.com/Forums/office/en-US/1268809d-5dc6-4cd2-a97f-a26bc3ae3a8b/using-powershell-to-parse-a-pdf-file?forum=ITCG",
+          "width": 1383,
+          "windowId": 6014
+        },
+        "6026": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://i1.social.s-msft.com/Forums/GlobalResources/images/Technet/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 6026,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Using Powershell to Parse a PDF file",
+          "url": "https://social.technet.microsoft.com/Forums/office/en-US/1268809d-5dc6-4cd2-a97f-a26bc3ae3a8b/using-powershell-to-parse-a-pdf-file?forum=ITCG",
+          "width": 1383,
+          "windowId": 6014
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "6014": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 6014,
+        "incognito": false,
+        "left": 393,
+        "state": "normal",
+        "top": 156,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Using Powershell to Parse a PDF file",
+    "date": 1601175484983,
+    "lastEditedTime": 1601175441989,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "978f80c0-1c1b-41d9-88a3-023ff777a9aa"
+  }
+]

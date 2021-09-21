@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "19056": {
+        "19244": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1163,
+          "highlighted": false,
+          "id": 19244,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "det 2017 - Google Search",
+          "url": "https://www.google.com/search?rlz=1CAZBMY_enSE834&sxsrf=ALeKk03vOsfTg9YXJPCtxc94JaZlPsdhHA%3A1604801457660&ei=sVOnX-7pJ8KIrwS6xqWYCQ&q=det+2017&oq=det+2017&gs_lcp=CgZwc3ktYWIQAzIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeOgQIABBHOgQIABBDUI1GWLBNYPpYaABwAngAgAGIAYgBiASSAQMzLjKYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=psy-ab&ved=0ahUKEwiuhsam7_HsAhVCxIsKHTpjCZMQ4dUDCA0&uact=5",
+          "width": 2146,
+          "windowId": 19056
+        },
+        "19273": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.sfanytime.com/favicon.ico?v=3",
+          "height": 1155,
+          "highlighted": false,
+          "id": 19273,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Hyr eller köp film online - Streama direkt på SF Anytime",
+          "url": "https://www.sfanytime.com/sv?query=Bill%20Skarsg%C3%A5rd",
+          "width": 1073,
+          "windowId": 19056
+        },
+        "19284": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACHElEQVRYR+3Xy6tOURgG8N9xJ/cyQJJiwIAyIIncUsqtlJC/TSZKuZaBlEyQ60QGGCjlfhsIIdee09ra9ln7KJNj8K3a9bX2s973Wc9729+QMV5DY+zfgMB/q0CITSn58Rk/K7kSzGSGw/gFP0bBjEPsjMDUFJiLtVhcDD7GDbxpOZhVMEsQ408L5mULMx1rsBTj8aJgnrWJdgnMwL6W8wb7BCfxDtOwF8s6N46DYN4WZXZjRQeTS5wqZIZfdQmE8Y6e0ryIq1iFPZWzOXYZl7C8XCQ3766bON9sdgnswuoeAndxGtuxrgfzAMexEZt7MI9wDN9qCmzD+p6DDfMN2NKDuYOzJfZ9St7HiSYhuwok8faXOLd9JIMT34dYgANIvrTXV5zBPczDQczpYL7jHEK0mgMhlBBEwpkF8x5XcLtVRiuxqeXgI67hOuIkK3mwFamq2P2EWyVPhuWvhaDZz6HcNAefl8zu9oLZWFjKMOX3utIvUq7BTMCr8vzRC9ohyO84TQOKs8Zh9vOEdep9IuYXpm1S6Qfd1bbTXDhko9gIBWL4UOkB3Y4VAgnF0SJ7cqBWYj25+Xs7dlNJScQRBCbhMBb1WPmAI4VAiP4LgSiSCkiiDggMFBgoMFCg2gnzFZN2XOuEaZ/5msmQ2ln6e+1bcbRuGPyFMlWrw2hqGS41IzmciZae33yw/q311t5ntDcTc/DHZKDA2CvwC6sqkSHGl3CBAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": true,
+          "id": 19284,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Det (2017) - SFdb",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Det%20(2017)%20-%20SFdb&pos=0&uri=http://www.svenskfilmdatabas.se/sv/item/?type=film&itemid=91294",
+          "width": 0,
+          "windowId": 19056
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "19056": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 19056,
+        "incognito": false,
+        "left": 66,
+        "state": "normal",
+        "top": 337,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Det (2017) - SFdb",
+    "date": 1604812365248,
+    "lastEditedTime": 1604812357840,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "3063947c-c9c3-4daa-b97c-232174f163c2"
+  }
+]

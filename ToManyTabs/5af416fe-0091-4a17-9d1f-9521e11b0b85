@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "786": {
+        "783": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png",
+          "height": 647,
+          "highlighted": false,
+          "id": 783,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "extensions.html - Google Drive",
+          "url": "https://drive.google.com/file/d/1ENuZlEuplzch9kwhm-LzAcaTGsp_49wH/view",
+          "width": 1183,
+          "windowId": 786
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "786": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 767,
+        "id": 786,
+        "incognito": false,
+        "left": 72,
+        "state": "normal",
+        "top": 216,
+        "type": "normal",
+        "width": 1240
+      }
+    },
+    "tabsNumber": 1,
+    "name": "extensions.html - Google Drive",
+    "date": 1615382912944,
+    "lastEditedTime": 1615382890123,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1615187048136,
+    "id": "46c70fd5-b439-473d-a830-5fb5479ebb51"
+  }
+]

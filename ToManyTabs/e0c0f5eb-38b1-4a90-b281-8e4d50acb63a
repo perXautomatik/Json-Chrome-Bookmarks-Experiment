@@ -1,0 +1,362 @@
+[
+  {
+    "windows": {
+      "3359": {
+        "3341": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3341,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "datagrip open consol in other program - Google Search",
+          "url": "https://www.google.com/search?q=datagrip%20open%20consol%20in%20other%20program",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3342": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://drawio-app.com/wp-content/uploads/2017/07/keyvisual_drawio_16px.png",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3342,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Use PlantUML in draw.io - draw.io",
+          "url": "https://drawio-app.com/use-plantuml-in-draw-io/",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3343": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3343,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "TypeScript - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/TypeScript",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3344": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3344,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "datagrip export diagram as - Google Search",
+          "url": "https://www.google.com/search?q=datagrip%20export%20diagram%20as",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3345": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.scootersoftware.com/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3345,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Beyond Compare",
+          "url": "https://www.scootersoftware.com/v4help/index.html?command_line_reference.html",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3347": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://resources.jetbrains.com/storage/ui/favicons/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3347,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Create/Edit/Copy Tool Dialog - Help | IntelliJ IDEA",
+          "url": "https://www.jetbrains.com/help/idea/settings-tools-create-edit-copy-tool-dialog.html",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3349": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1135,
+          "highlighted": false,
+          "id": 3349,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Changing the Default Database in ArcCatalog—ArcMap | Documentation",
+          "url": "https://desktop.arcgis.com/en/arcmap/latest/extensions/workflow-manager/changing-default-db-in-arccatalog.htm",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3350": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://resources.jetbrains.com/storage/ui/favicons/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3350,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Create diagrams - Help | IntelliJ IDEA",
+          "url": "https://www.jetbrains.com/help/idea/creating-diagrams.html",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3352": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://resources.jetbrains.com/storage/ui/favicons/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3352,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PlantUML integration - plugin for IntelliJ IDEs | JetBrains",
+          "url": "https://plugins.jetbrains.com/plugin/7017-plantuml-integration",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3353": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s.plantuml.com/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3353,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tools using the PlantUML language",
+          "url": "https://plantuml.com/running",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3354": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://plantuml-depend.sourceforge.net/images/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3354,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PlantUML Dependency",
+          "url": "http://plantuml-depend.sourceforge.net/",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3355": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3355,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Standard UML file format - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7930199/standard-uml-file-format",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3356": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s.plantuml.com/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3356,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Support of XMI",
+          "url": "https://plantuml.com/xmi",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3357": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s.plantuml.com/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3357,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tools using the PlantUML language",
+          "url": "https://plantuml.com/running",
+          "width": 459,
+          "windowId": 3359
+        },
+        "3358": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3358,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "yaml file standard - Google Search",
+          "url": "https://www.google.com/search?sxsrf=ALeKk02lFJbAkOBChydn8nVbChvE1_gbrQ:1585135317293&q=yaml+file+standard&spell=1&sa=X&ved=2ahUKEwiZ6oecwbXoAhUwmIsKHRnEDRMQBSgAegQICxAn&biw=959&bih=1302",
+          "width": 459,
+          "windowId": 3359
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3359": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1224,
+        "id": 3359,
+        "incognito": false,
+        "left": 2611,
+        "state": "normal",
+        "top": -241,
+        "type": "normal",
+        "width": 516
+      }
+    },
+    "tabsNumber": 15,
+    "name": "PlantUML integration - plugin for IntelliJ IDEs | JetBrains",
+    "date": 1600023674740,
+    "lastEditedTime": 1601295397841,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "3ba5e270-d038-4bd4-948e-eda8eb32aa38"
+  }
+]

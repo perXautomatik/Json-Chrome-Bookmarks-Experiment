@@ -1,0 +1,143 @@
+[
+  {
+    "windows": {
+      "3712": {
+        "3732": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 3732,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "sql - How can I call Scalar user defined function from linked server? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/29752105/how-can-i-call-scalar-user-defined-function-from-linked-server",
+          "width": 1383,
+          "windowId": 3712
+        },
+        "3758": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3758,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=&url=&favIconUrl=undefined",
+          "url": "",
+          "width": 1383,
+          "windowId": 3712
+        },
+        "3836": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3836,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Storage Area Explorer - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/storage-area-explorer/ocfjjjjhkpapocigimmppepjgfdecjkb/related",
+          "width": 1383,
+          "windowId": 3712
+        },
+        "3876": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3876,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://stackoverflow.com/questions/10914576/t-sql-split-string",
+          "url": "https://stackoverflow.com/questions/10914576/t-sql-split-string",
+          "width": 1383,
+          "windowId": 3712
+        },
+        "3911": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3911,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=&url=&favIconUrl=undefined",
+          "url": "",
+          "width": 1383,
+          "windowId": 3712
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3712": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 3712,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 5,
+    "name": "sql - How can I call Scalar user defined function from linked server? - Stack Overflow",
+    "date": 1601172570100,
+    "lastEditedTime": 1601172568572,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "cf43f46a-6cf2-4db8-940f-67884fabc6fc"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "19318": {
+        "19364": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.lydia-voice.com/fileadmin/favicon_lydia.png",
+          "height": 1163,
+          "highlighted": true,
+          "id": 19364,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Lydia® Voice Picking System",
+          "url": "https://www.lydia-voice.com/gb/?gclid=Cj0KCQiAy579BRCPARIsAB6QoIYw5ehomFFhETiCuUb72S2oJ8n_G0Mm1BhT6D9enFPnfNKKVpZ0QIAaAo2AEALw_wcB",
+          "width": 2146,
+          "windowId": 19318
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "19318": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 19318,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 2146
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Lydia® Voice Picking System",
+    "date": 1604882798546,
+    "lastEditedTime": 1604882784414,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "71220f95-9049-4877-8c0a-90b1f5c0971d"
+  }
+]

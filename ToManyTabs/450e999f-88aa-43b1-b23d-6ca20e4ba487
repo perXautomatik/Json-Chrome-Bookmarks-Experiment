@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "18641": {
+        "18640": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.kde.org/favicon.ico",
+          "height": 1155,
+          "highlighted": true,
+          "id": 18640,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "digiKam Configuration",
+          "url": "https://docs.kde.org/trunk5/en/extragear-graphics/digikam/using-setup.html#:~:text=SQLite%20database%20files%20could%20be,present%20in%20~%2FPictures%20folder).",
+          "width": 1583,
+          "windowId": 18641
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "18641": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 18641,
+        "incognito": false,
+        "left": 322,
+        "state": "normal",
+        "top": 681,
+        "type": "normal",
+        "width": 1583
+      }
+    },
+    "tabsNumber": 1,
+    "name": "digiKam Configuration",
+    "date": 1604488273187,
+    "lastEditedTime": 1604488243859,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "bd1a7362-3a49-4baf-99e1-5990b33b15de"
+  }
+]

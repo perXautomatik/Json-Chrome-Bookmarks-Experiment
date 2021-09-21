@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "11513": {
+        "11514": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 969,
+          "highlighted": true,
+          "id": 11514,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "New Tab",
+          "url": "chrome://newtab/",
+          "width": 936,
+          "windowId": 11513
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "11513": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 11513,
+        "incognito": false,
+        "left": 468,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "New Tab",
+    "date": 1602139195140,
+    "lastEditedTime": 1602139185828,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "c4cb562f-fa19-4dd4-8b84-da8f5ce00da7"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "windows": {
+      "1162": {
+        "1171": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/4eb4dcc1/img/favicon_32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1171,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Lyckas med sådd i toalettpappersrullar - YouTube",
+          "url": "https://www.youtube.com/watch?v=a1KEdMFKyf8&list=WL&index=16",
+          "width": 1879,
+          "windowId": 1162
+        },
+        "1172": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.permaculturenews.org/wp-content/uploads/2019/03/cropped-permaculture-research-institute-icon-1-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1172,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Is Newspaper Safe for Your Garden? - The Permaculture Research Institute",
+          "url": "https://www.permaculturenews.org/2016/03/14/is-newspaper-safe-for-your-garden/",
+          "width": 1879,
+          "windowId": 1162
+        },
+        "1173": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1173,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "diy newspaper shredder - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=diy+newspaper+shredder&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1879,
+          "windowId": 1162
+        },
+        "1174": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/4eb4dcc1/img/favicon_32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1174,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Precious Plastic - Build a PRO plastic shredder (part 3.5) - YouTube",
+          "url": "https://www.youtube.com/watch?v=4GWYJhAd-R0&list=TLPQMTEwOTIwMjC7R-VUImyakg&index=2",
+          "width": 1879,
+          "windowId": 1162
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1162": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1162,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 4,
+    "name": "youtubes",
+    "date": 1600032598883,
+    "lastEditedTime": 1601295397920,
+    "tag": [
+      "winClose",
+      "ToContinue",
+      "Work"
+    ],
+    "sessionStartTime": 1600030279299,
+    "id": "46cd459b-f095-4a56-8103-9dccbf8b74d9"
+  }
+]

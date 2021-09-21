@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "1671": {
+        "1677": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://static-assets-prod.epicgames.com/epic-store/static/favicon.ico",
+          "height": 681,
+          "highlighted": false,
+          "id": 1677,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Where The Water Tastes Like Wine - About The Game",
+          "url": "https://www.epicgames.com/store/en-US/product/where-the-water-tastes-like-wine/home",
+          "width": 1410,
+          "windowId": 1671
+        },
+        "1698": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 681,
+          "highlighted": false,
+          "id": 1698,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Join-Path (Microsoft.PowerShell.Management) - PowerShell | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/join-path?view=powershell-7",
+          "width": 1410,
+          "windowId": 1671
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1671": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 801,
+        "id": 1671,
+        "incognito": false,
+        "left": 227,
+        "state": "normal",
+        "top": 100,
+        "type": "normal",
+        "width": 1467
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Join-Path (Microsoft.PowerShell.Management) - PowerShell | Microsoft Docs",
+    "date": 1600329683855,
+    "lastEditedTime": 1601295397870,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600156534702,
+    "id": "41f1b9c8-b2f5-498b-ae06-0a030ce668e7"
+  }
+]

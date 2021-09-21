@@ -1,0 +1,308 @@
+[
+  {
+    "windows": {
+      "244": {
+        "246": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://store.steampowered.com/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 246,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Endless Space® 2 - Digital Deluxe Edition on Steam",
+          "url": "https://store.steampowered.com/app/392110/Endless_Space_2__Digital_Deluxe_Edition/",
+          "width": 843,
+          "windowId": 244
+        },
+        "247": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a1986323960_3.jpg",
+          "height": 1321,
+          "highlighted": false,
+          "id": 247,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 246,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "crt_head",
+          "url": "https://crthead.bandcamp.com/",
+          "width": 843,
+          "windowId": 244
+        },
+        "248": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 248,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 246,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Most popular mods at Doom 3 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/doom3/mods/popularalltime/?nav=1&page_size=15",
+          "width": 843,
+          "windowId": 244
+        },
+        "249": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 249,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 246,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "enhanced textures part 1 at Doom 3 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/doom3/mods/5",
+          "width": 843,
+          "windowId": 244
+        },
+        "250": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 250,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 246,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "D3BFG bodies and shells at Doom 3 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/doom3/mods/4",
+          "width": 843,
+          "windowId": 244
+        },
+        "251": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://statics.gamebanana.com/static/img/favicon/32x32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 251,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 246,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "D3LE Full Shadows + Fix v1.4 - Doom 3 [Doom 3] [Mods]",
+          "url": "https://gamebanana.com/gamefiles/9769",
+          "width": 843,
+          "windowId": 244
+        },
+        "252": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 252,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 246,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "I'm looking for good Doom 3 mods : Doom",
+          "url": "https://www.reddit.com/r/Doom/comments/awjtt7/im_looking_for_good_doom_3_mods/",
+          "width": 843,
+          "windowId": 244
+        },
+        "253": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.moddb.com/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 253,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 246,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Top Rated Mods - Doom III - Mod DB",
+          "url": "https://www.moddb.com/games/doom-iii/mods?sort=rating-desc",
+          "width": 843,
+          "windowId": 244
+        },
+        "254": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.moddb.com/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 254,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 246,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Doom 3: Redux mod - Mod DB",
+          "url": "https://www.moddb.com/mods/doom-3-redux",
+          "width": 843,
+          "windowId": 244
+        },
+        "255": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 255,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 246,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "OneNote Web Clipper - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/onenote-web-clipper/gojbdfnpnhogfdgjbigejoaolejmgdhk?hl=en",
+          "width": 843,
+          "windowId": 244
+        },
+        "256": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1321,
+          "highlighted": false,
+          "id": 256,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 246,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "chrome://extensions/",
+          "width": 843,
+          "windowId": 244
+        },
+        "257": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://site-cdn.onenote.net/161331031557_Images/FavIcon_OneNote.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 257,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 246,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Try the OneNote Web Clipper!",
+          "url": "https://www.onenote.com/clipper/installed?clientType=ChromeExtension&clipperId=ON-b1321aea-79a3-435e-bb55-87b7409fbff2&clipperVersion=3.8.1&inlineInstall=false",
+          "width": 843,
+          "windowId": 244
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "244": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1410,
+        "id": 244,
+        "incognito": false,
+        "left": 2070,
+        "state": "normal",
+        "top": -415,
+        "type": "normal",
+        "width": 900
+      }
+    },
+    "tabsNumber": 12,
+    "name": "Endless Space® 2 - Digital Deluxe Edition on Steam",
+    "date": 1600012482979,
+    "lastEditedTime": 1601295398067,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600008450562,
+    "id": "5ac96eff-adb1-432a-adcb-ec698230d167"
+  }
+]

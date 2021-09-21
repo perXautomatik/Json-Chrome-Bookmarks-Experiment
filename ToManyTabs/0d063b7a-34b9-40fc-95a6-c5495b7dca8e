@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "371": {
+        "370": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 370,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "pia maria region gotland hr sbf - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&hs=15b&bih=778&biw=1364&hl=en&sxsrf=ALeKk03WumvyHSYurFQ7JkJIc67OGbBKOg%3A1600108413215&ei=fbdfX4PaDOKKwPAPuNKgCA&q=pia+maria+region+gotland+hr+sbf&oq=pia+maria+region+gotland+hr+sbf&gs_lcp=CgZwc3ktYWIQAzoHCCMQsAMQJzoFCCEQoAFQ9IQBWLjoAWCo6gFoAXAAeACAAVmIAckCkgEBNJgBAKABAaoBB2d3cy13aXrIAQHAAQE&sclient=psy-ab&ved=0ahUKEwjDjMmspOnrAhViBRAIHTgpCAEQ4dUDCAw&uact=5",
+          "width": 1364,
+          "windowId": 371
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "371": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 867,
+        "id": 371,
+        "incognito": false,
+        "left": 328,
+        "state": "normal",
+        "top": 232,
+        "type": "normal",
+        "width": 1421
+      }
+    },
+    "tabsNumber": 1,
+    "name": "pia maria region gotland hr sbf - Google Search",
+    "date": 1600108505797,
+    "lastEditedTime": 1601295397754,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600107909578,
+    "id": "2812a4d0-660a-4e42-9543-40462af24233"
+  }
+]

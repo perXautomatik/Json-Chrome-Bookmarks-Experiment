@@ -1,0 +1,209 @@
+[
+  {
+    "windows": {
+      "163": {
+        "240": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 665,
+          "highlighted": false,
+          "id": 240,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "loading",
+          "title": "Tablerone",
+          "url": "chrome-extension://andpjllgocabfacjlelkfpdemfklpfpo/tab/tab.html?forceOpen=true&defendFirstTabOnRemoved",
+          "width": 1675,
+          "windowId": 163
+        },
+        "241": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 665,
+          "highlighted": false,
+          "id": 241,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "loading",
+          "title": "Tablerone",
+          "url": "chrome-extension://andpjllgocabfacjlelkfpdemfklpfpo/tab/tab.html?forceOpen=true&defendFirstTabOnRemoved",
+          "width": 1675,
+          "windowId": 163
+        },
+        "242": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 665,
+          "highlighted": false,
+          "id": 242,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "loading",
+          "title": "Tablerone",
+          "url": "chrome-extension://andpjllgocabfacjlelkfpdemfklpfpo/tab/tab.html?forceOpen=true&defendFirstTabOnRemoved",
+          "width": 1675,
+          "windowId": 163
+        },
+        "243": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 665,
+          "highlighted": false,
+          "id": 243,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "loading",
+          "title": "Tablerone",
+          "url": "chrome-extension://andpjllgocabfacjlelkfpdemfklpfpo/tab/tab.html?forceOpen=true&defendFirstTabOnRemoved",
+          "width": 1675,
+          "windowId": 163
+        },
+        "244": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 665,
+          "highlighted": false,
+          "id": 244,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "loading",
+          "title": "Tablerone",
+          "url": "chrome-extension://andpjllgocabfacjlelkfpdemfklpfpo/tab/tab.html?forceOpen=true&defendFirstTabOnRemoved",
+          "width": 1675,
+          "windowId": 163
+        },
+        "245": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 627,
+          "highlighted": false,
+          "id": 245,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "loading",
+          "title": "Tablerone",
+          "url": "chrome-extension://andpjllgocabfacjlelkfpdemfklpfpo/tab/tab.html?forceOpen=true&defendFirstTabOnRemoved",
+          "width": 1675,
+          "windowId": 163
+        },
+        "260": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 665,
+          "highlighted": false,
+          "id": 260,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "loading",
+          "title": "Tablerone",
+          "url": "chrome-extension://andpjllgocabfacjlelkfpdemfklpfpo/tab/tab.html?forceOpen=true&defendFirstTabOnRemoved",
+          "width": 1675,
+          "windowId": 163
+        },
+        "261": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 627,
+          "highlighted": false,
+          "id": 261,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": true,
+          "status": "loading",
+          "title": "Tablerone",
+          "url": "chrome-extension://andpjllgocabfacjlelkfpdemfklpfpo/tab/tab.html?forceOpen=true&defendFirstTabOnRemoved",
+          "width": 1675,
+          "windowId": 163
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "163": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 785,
+        "id": 163,
+        "incognito": false,
+        "left": -153,
+        "state": "normal",
+        "top": 368,
+        "type": "normal",
+        "width": 1732
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Tablerone",
+    "date": 1618335181054,
+    "lastEditedTime": 1618335180393,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1618310059679,
+    "id": "1ae2b1c5-60f1-42e9-a878-76593ac7b6d2"
+  }
+]

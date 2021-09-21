@@ -1,0 +1,473 @@
+[
+  {
+    "windows": {
+      "3570": {
+        "3573": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.geckoandfly.com/wp-content/themes/billboard/images/favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3573,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "6 Free Tools To Change Photo's Exif Data, Remove Metadata And Hide Dates",
+          "url": "https://www.geckoandfly.com/7987/how-to-change-exif-data-date-and-camera-properties-with-free-editor/",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3575": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://carlcheo.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3575,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "10 Best Exif Viewers To Read Photo Details Effortlessly",
+          "url": "http://carlcheo.com/best-exif-viewers",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3576": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.highmotionsoftware.com/sites/default/files/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3576,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Create Contact Sheet | High Motion Software",
+          "url": "https://www.highmotionsoftware.com/help/imbatch/createcontactsheet_task",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3582": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.highmotionsoftware.com/sites/default/files/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3582,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "ImBatch – The Best in Batch Image Processing | High Motion Software",
+          "url": "https://www.highmotionsoftware.com/products/imbatch",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3585": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3585,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download EXIFutils",
+          "url": "http://www.hugsan.com/EXIFutils/html/downloads.html",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3588": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.relliksoftware.com/exifdatechanger/wp-content/uploads/exif_160.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3588,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "EXIF Date Changer",
+          "url": "https://www.relliksoftware.com/exifdatechanger/#pricing",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3591": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.relliksoftware.com/exifdatechanger/wp-content/uploads/exif_160.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3591,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "EXIF Date Changer",
+          "url": "https://www.relliksoftware.com/exifdatechanger/",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3594": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3594,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Exif Copier: copy, backup and restore exif",
+          "url": "https://web.archive.org/web/20121122084216/http://exifcopier.110mb.com/",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3597": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3597,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Exif Stats Software | The Art of Seeing",
+          "url": "https://web.archive.org/web/20111216212338/http://www.thezeal.com/blog/exif-stats/",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3600": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3600,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "GUI2 Output Examples - GUI2 Program for [ExifTool ver 8.79]",
+          "url": "https://web.archive.org/web/20120225101352/http://gui2-for-exiftool.weebly.com/gui2-output-examples.html",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3603": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3603,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "File:JabRef-3.6.png - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/File:JabRef-3.6.png",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3606": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3606,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JabRef - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/JabRef",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3609": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/superuser/Img/favicon.ico?v=4852d6fb3f5d",
+          "height": 691,
+          "highlighted": false,
+          "id": 3609,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to customize columns in Windows Explorer as default settings? - Super User",
+          "url": "https://superuser.com/questions/861456/how-to-customize-columns-in-windows-explorer-as-default-settings",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3612": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.moonsoftware.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3612,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "IIS 10.0 Detailed Error - 404.0 - Not Found",
+          "url": "http://www.moonsoftware.com/files/Beta/ExifMixer_050.zip",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3615": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3615,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Image Composite editor - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=Image+Composite+editor&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3618": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.image-info-toolkit.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3618,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Image Info Toolkit [what's new]",
+          "url": "http://www.image-info-toolkit.com/en/download/welcome.html",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3621": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.steelbytes.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3621,
+          "incognito": false,
+          "index": 16,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JPEG & PNG Stripper - www.SteelBytes.com",
+          "url": "http://www.steelbytes.com/?mid=30",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3624": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://digitalconfidence.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3624,
+          "incognito": false,
+          "index": 17,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MetadataTouch - Powerful Multi-Format Metadata Editor",
+          "url": "http://digitalconfidence.com/MetadataTouch.html",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3627": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://alternativeto.net/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3627,
+          "incognito": false,
+          "index": 18,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MetadataTouch Alternatives and Similar Software - AlternativeTo.net",
+          "url": "https://alternativeto.net/software/metadatatouch/",
+          "width": 1383,
+          "windowId": 3570
+        },
+        "3630": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.metalith.ru/files/metalith.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3630,
+          "incognito": false,
+          "index": 19,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Metalith",
+          "url": "http://www.metalith.ru/en/download.html",
+          "width": 1383,
+          "windowId": 3570
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3570": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 3570,
+        "incognito": false,
+        "left": 226,
+        "state": "normal",
+        "top": 674,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 20,
+    "name": "6 Free Tools To Change Photo's Exif Data, Remove Metadata And Hide Dates",
+    "date": 1601172310237,
+    "lastEditedTime": 1601172285080,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "44c9569d-7472-4e38-975f-8f5e784a1db4"
+  }
+]

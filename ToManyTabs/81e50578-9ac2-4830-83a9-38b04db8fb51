@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "1754": {
+        "1839": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 778,
+          "highlighted": false,
+          "id": 1839,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://pdfsam.org/downloads/",
+          "url": "https://pdfsam.org/downloads/",
+          "width": 935,
+          "windowId": 1754
+        },
+        "1840": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 1840,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "substitute - Google Search",
+          "url": "https://www.google.com/search?q=substitute",
+          "width": 935,
+          "windowId": 1754
+        },
+        "1841": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sqlservertutorial.net/wp-content/uploads/cropped-favicon-1-32x32.png",
+          "height": 778,
+          "highlighted": false,
+          "id": 1841,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL Server SELECT TOP By Practical Examples",
+          "url": "https://www.sqlservertutorial.net/sql-server-basics/sql-server-select-top/",
+          "width": 935,
+          "windowId": 1754
+        },
+        "1842": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pdfsam.org/icns/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 1842,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Customize file names - PDFsam",
+          "url": "https://pdfsam.org/customize-file-names/",
+          "width": 935,
+          "windowId": 1754
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1754": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 867,
+        "id": 1754,
+        "incognito": false,
+        "left": 30,
+        "state": "normal",
+        "top": 8,
+        "type": "normal",
+        "width": 992
+      }
+    },
+    "tabsNumber": 4,
+    "name": "substitute - Google Search",
+    "date": 1600041608730,
+    "lastEditedTime": 1601295398569,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "aa99d7e0-fd4b-49ed-8671-c896b1113da9"
+  }
+]

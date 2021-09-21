@@ -1,0 +1,370 @@
+[
+  {
+    "windows": {
+      "32": {
+        "45": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 667,
+          "highlighted": false,
+          "id": 45,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "My LastPass Vault",
+          "url": "chrome-extension://hnjalnkldgigidggphhmacmimbdlafdo/vault.html",
+          "width": 1247,
+          "windowId": 32
+        },
+        "73": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 73,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "💤 defunkt/gist: Potentially the best command line gister.",
+          "url": "https://github.com/defunkt/gist",
+          "width": 0,
+          "windowId": 32
+        },
+        "80": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 80,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "💤 Search · fetch gist",
+          "url": "https://github.com/search?q=fetch+gist",
+          "width": 0,
+          "windowId": 32
+        },
+        "137": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 137,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "💤 perXautomatik/gist-templates-plugin: An intellij plugin to fetch gists from one or several github gists account and use them as templates inside IntelliJ",
+          "url": "https://github.com/perXautomatik/gist-templates-plugin",
+          "width": 0,
+          "windowId": 32
+        },
+        "140": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 140,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "💤 campd/scratchpad-gist: Post and fetch scratchpads to/from gist.",
+          "url": "https://github.com/campd/scratchpad-gist",
+          "width": 0,
+          "windowId": 32
+        },
+        "143": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 653,
+          "highlighted": false,
+          "id": 143,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "WorldBrain's Memex - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/worldbrains-memex/abkfbakhjpmblaafnpgjppbmioombali/related?hl=en",
+          "width": 1079,
+          "windowId": 32
+        },
+        "146": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 667,
+          "highlighted": false,
+          "id": 146,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sign in - Google Accounts",
+          "url": "https://accounts.google.com/signin/oauth/consent?authuser=0&part=AJi8hAMOhDGeD5S6OdBJhNuASPcSrIaFHqQkdWTMcRTl5EhafFHtPVZx-uTvx9qrAgRYUACjw4fAp8OCxQbiwyfXjagWqr2wmT9urZLXskn8oVxTnEr5secJxWj1QRhWF19L3KgennlZHE9R5-2BMinmOCpoSw9PRI0q8h3DtleTSp0BvzTPWljbw_nkweXIcEZH9wn7AYmuk5w3vn6EFlP-9xv0TmvtgvRbkrm5WSq2cG7qsUEdtSQsY5216Z3n_WRK7Zp8tjRVNhjNkk5SYZU1jFU91RNUDnP43234c54UzXcEfAcPsf-l8ejgnUFgvTs6f9SBYG8uHZM9P9PHg59JNpTQmzCWTBmOXZI6bcJbS0mTbcPSgzh01y797ULUjq2BJW5JgavfjkO7430GPOTST7t8OlcQkf2CIrPel90ePUZdSBs7z9t3-_Vvg1COudBX8dJJ_B4l&as=S-737206756%3A1625830669116687&rapt=AEjHL4NOrwucKlnrrPueFLnK4NQiGVf-qDLE-5U1L2kHH0S8yB_VhFF4Y-NA-qLT7pFUrYuJ5ztMm1mwtg5HgELFfHZdNcb40A#",
+          "width": 1247,
+          "windowId": 32
+        },
+        "149": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 149,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "💤 Intresseanmälan: Konsult inom systemutveckling i Visby - Unicus Sverige",
+          "url": "https://gist.github.com/perXautomatik/1afdc672e41b4faacc793050d3dc307c",
+          "width": 0,
+          "windowId": 32
+        },
+        "152": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 152,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "💤 geowarin/gist-templates-plugin: An intellij plugin to fetch gists from one or several github gists account and use them as templates inside IntelliJ",
+          "url": "https://github.com/geowarin/gist-templates-plugin",
+          "width": 0,
+          "windowId": 32
+        },
+        "161": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.notion.so/images/favicon.ico",
+          "groupId": -1,
+          "height": 667,
+          "highlighted": false,
+          "id": 161,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 146,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+          "url": "https://www.notion.so/worldbrain/Pioneer-Plan-Details-b5c8e09730bf4ecab7651d22294c6700",
+          "width": 1247,
+          "windowId": 32
+        }
+      },
+      "84": {
+        "87": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 456,
+          "highlighted": false,
+          "id": 87,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "rickybassom/gtk-gist-manager: Create, view and edit code snippets fetched from Github Gists.",
+          "url": "https://github.com/rickybassom/gtk-gist-manager",
+          "width": 909,
+          "windowId": 84
+        },
+        "133": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 667,
+          "highlighted": false,
+          "id": 133,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 87,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Ninja, a small build system with a focus on speed",
+          "url": "https://ninja-build.org/",
+          "width": 1247,
+          "windowId": 84
+        },
+        "155": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://mesonbuild.com/assets/images/favicon.png",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 155,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "💤 The Meson Build system",
+          "url": "https://mesonbuild.com/",
+          "width": 0,
+          "windowId": 84
+        },
+        "158": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 158,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "💤 Vala (programming language) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vala_(programming_language)",
+          "width": 0,
+          "windowId": 84
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "32": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 773,
+        "id": 32,
+        "incognito": false,
+        "left": 82,
+        "state": "minimized",
+        "top": 141,
+        "type": "normal",
+        "width": 1136
+      },
+      "84": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 576,
+        "id": 84,
+        "incognito": false,
+        "left": 328,
+        "state": "normal",
+        "top": 344,
+        "type": "normal",
+        "width": 966
+      }
+    },
+    "tabsNumber": 14,
+    "name": "rickybassom/gtk-gist-manager: Create, view and edit code snippets fetched from Github Gists.",
+    "date": 1626018681681,
+    "lastEditedTime": 1626018681681,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1625741789656,
+    "id": "c2c01e07-71c2-4a14-b11f-80dc70d886f1"
+  }
+]

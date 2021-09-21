@@ -1,0 +1,100 @@
+[
+  {
+    "windows": {
+      "5689": {
+        "5691": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5691,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "slangvinda - Google Shopping",
+          "url": "https://www.google.com/search?q=slangvinda&sa=N&hl=en&biw=722&bih=1801&tbm=shop&sxsrf=ALeKk02SvSDbAV8VGwh_2rRR8qKvi-Zklg:1585922771227&tbs=vw:l,ss:44,p_ord:p&ei=00KHXpOkDa72qwGEuK1g&ved=0ahUKEwjT2a3btszoAhUu-yoKHQRcCww4FBC7DQjOAigC",
+          "width": 1383,
+          "windowId": 5689
+        },
+        "5692": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5692,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Brennenstuhl 1130710, Svart | Google Shopping",
+          "url": "https://www.google.com/shopping/product/16923366463010450069?q=slangvinda&hl=en&biw=722&bih=1801&sxsrf=ALeKk02SvSDbAV8VGwh_2rRR8qKvi-Zklg:1585922771227&prds=epd:2264514728984179185,paur:ClkAsKraXxzXiSijIsZmSouRVBh62fB9RCA0uHqPUXp5faHx-0aLt7Ui7XnzXG-zadldV_6OM7tdDAgWMiQ0Y9oKVL7ckkk1pp04OA_W4gZTjnU-8Lulce7cBxIZAFPVH717zLM7zycE6p5h_zRv6QqkAYSCuA,prmr:1&sa=X&ved=0ahUKEwijmOPhtszoAhVUi8MKHT9NCMYQ8wII2AI",
+          "width": 1383,
+          "windowId": 5689
+        },
+        "5693": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdon.se/static/shared-assets/favicon.ico?v=504ee304ae8720eaacf6e69e52610a272b344cad",
+          "height": 691,
+          "highlighted": false,
+          "id": 5693,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 5692,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Brennenstuhl 1130710 Svart Slangvinda tom - Hushållsapparater - CDON.COM",
+          "url": "https://cdon.se/hushallsapparater/brennenstuhl-1130710-svart-slangvinda-tom-p34727991?gclid=CjwKCAjwvZv0BRA8EiwAD9T2VcEEGJRhp59ETMm2VRBTpkY9XUKT6wMLsY-RegwTdL-UrN-XOskjJhoCehYQAvD_BwE&gclsrc=aw.ds#fo_c=1753&fo_k=25869afafb1a72781a78af67776803f2&fo_s=gplase",
+          "width": 1383,
+          "windowId": 5689
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5689": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 5689,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 3,
+    "name": "slangvinda - Google Shopping",
+    "date": 1601174761775,
+    "lastEditedTime": 1601174760564,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "5d63689c-8e36-4a19-b794-627331596691"
+  }
+]

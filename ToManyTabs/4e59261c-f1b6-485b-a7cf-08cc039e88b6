@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "15049": {
+        "15046": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1001,
+          "highlighted": true,
+          "id": 15046,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Extension Manager",
+          "url": "chrome-extension://gjldcdngmdknpinoemndlidpcabkggco/option.html#rule",
+          "width": 936,
+          "windowId": 15049
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "15049": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 15049,
+        "incognito": false,
+        "left": 809,
+        "state": "normal",
+        "top": 87,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Extension Manager",
+    "date": 1603114547366,
+    "lastEditedTime": 1603114532941,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "4d0d1f2a-a8e2-472b-8975-691c80d72614"
+  }
+]

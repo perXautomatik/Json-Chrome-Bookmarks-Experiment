@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "452": {
+        "397": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://medium.com/favicon.ico",
+          "height": 652,
+          "highlighted": false,
+          "id": 397,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Designs I like — Opera GX sidebar | by Krishna | Medium",
+          "url": "https://medium.com/@krishnakummar/designs-i-like-opera-gx-sidebar-32ed18a6f2ec",
+          "width": 1324,
+          "windowId": 452
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "452": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 452,
+        "incognito": false,
+        "left": -20,
+        "state": "normal",
+        "top": 240,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Designs I like — Opera GX sidebar | by Krishna | Medium",
+    "date": 1615288622178,
+    "lastEditedTime": 1615288621488,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1615187048136,
+    "id": "c14abdc5-9945-4939-9ae9-d3dbd47559f1"
+  }
+]

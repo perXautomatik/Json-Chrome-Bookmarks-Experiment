@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "93": {
+        "96": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://organizeyourmusic.playlistmachinery.com/images/favicon.png",
+          "height": 1010,
+          "highlighted": false,
+          "id": 96,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Organize Your Music",
+          "url": "http://organizeyourmusic.playlistmachinery.com/#",
+          "width": 1801,
+          "windowId": 93
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "93": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1096,
+        "id": 93,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Organize Your Music",
+    "date": 1602156080367,
+    "lastEditedTime": 1602156036469,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602153713225,
+    "id": "950e554a-d110-4d91-b3f6-a4c5e8f61f9b"
+  }
+]

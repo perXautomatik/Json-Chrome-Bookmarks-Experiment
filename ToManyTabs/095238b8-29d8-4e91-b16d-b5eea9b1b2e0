@@ -1,0 +1,275 @@
+[
+  {
+    "windows": {
+      "8597": {
+        "8606": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAhklEQVRYR2P8HKBUz0AGYPrHwMC96V4jSGvNXoZ6EJ8cwDjqgNEQGA2B0RAYDYHREBjwEPjuJ0d2bci+5RG4NqyipDYkpwqlph5GahpGjlmMDMs/kxUFDAwsDAyRnOAo+L+TgUwzGBgYGZa+J1MzCwNDNO+oA0ZDYDQERkNgNARGQ2DohwAAqlDCICneWlQAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 8606,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Attach a Database - SQL Server | Microsoft Docs",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Attach%20a%20Database%20-%20SQL%20Server%20%7C%20Microsoft%20Docs&pos=0&uri=https://docs.microsoft.com/en-us/sql/relational-databases/databases/attach-a-database?view=sql-server-ver15",
+          "width": 0,
+          "windowId": 8597
+        },
+        "8615": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAhklEQVRYR2P8HKBUz0AGYPrHwMC96V4jSGvNXoZ6EJ8cwDjqgNEQGA2B0RAYDYHREBjwEPjuJ0d2bci+5RG4NqyipDYkpwqlph5GahpGjlmMDMs/kxUFDAwsDAyRnOAo+L+TgUwzGBgYGZa+J1MzCwNDNO+oA0ZDYDQERkNgNARGQ2DohwAAqlDCICneWlQAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 8615,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Create Linked Servers - SQL Server | Microsoft Docs",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Create%20Linked%20Servers%20-%20SQL%20Server%20%7C%20Microsoft%20Docs&pos=0&uri=https://docs.microsoft.com/en-us/sql/relational-databases/linked-servers/create-linked-servers-sql-server-database-engine?view=sql-server-ver15#TsqlProcedure",
+          "width": 0,
+          "windowId": 8597
+        },
+        "8624": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 8624,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "tsql only in scope - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=tsql%20only%20in%20scope%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=tsql+only+in+scope&rlz=1CAZBMY_enSE834&oq=tsql+only+in+scope&aqs=chrome..69i57.12908j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 0,
+          "windowId": 8597
+        },
+        "8641": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 8641,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "SQLblog.com - The SQL Server blog spot on the web",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=SQLblog.com%20-%20The%20SQL%20Server%20blog%20spot%20on%20the%20web&pos=0&uri=http://sqlblog.com/login.aspx?ReturnUrl=%2fblogs%2flinchi_shea%2farchive%2f2009%2f07%2f21%2fperformance-impact-linked-server-security-configuration-and-how-it-can-hurt-you.aspx",
+          "width": 0,
+          "windowId": 8597
+        },
+        "8648": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADU0lEQVRYR+2VXYhUZRjH///3HHd2PDOurEo7y2Y5OyurIBhIXkRh3aVBN2UIFQRGd+FdrNTsu65kd0HdBCJdVEJRBBJEX3eKHyCSkEh7ZhWRdpvcWd2ds83szHkfOWd2RAanMztODETP1fl6/8/v+TxEl41d9o//ATqaAU8/OgjE9hrIqaTO5Vspb8cA5KNMzJvHIQK9BlK4Jf7xLfp6KQqiYwCBo8XJkW3KyP7gWgDXybonyeCyuT0UgAhYPJzZmDzm/lV3sZgdflZZfCaEEJ5J6Kmf/zWAO9mRfbbCE1Dmeyebu7gSOT2dPkCqkeDeVPF1ctL9rRlE2xmQD9J9XpkHCSYCcUIuxwfWf8e3LlaCfigW5E1FboBBRSr+icT71/58EETbAIFYXm9PrEXlJVIeC6MF8lKyv1p37Orcgt66UYk5SIWYgLcXxDs+qP9YaoR4KIAw5VorD188R8pT4b1BWYhTSe1eKen0Vp/qwEpppp2s+3ljU64aoHhkdIdtUI7pq1MMm71mC/rxUUX7xWAMQ4c+zjnK/ankZ542NvbUnyWOuD/cn4VVAYSzfguHaKHXCOctyIV4Py7xbbcciN7RQ/024y8DMlCLmjcckW+KRj0vlklbVfnRmaw1a91WBbA4ltnENeYFWmpzXcD3sWwp86tf7jkf1F70HnuJN/cB2FkbRfGqVX4LZ7mwfuzGfEd6wDu8LYVY5UkId4Bi1UWD5WOLnI/pXG7pvcxO2LJXwCVHcILaXej4FIgeXFuCs8uH7CKRrDswInMG5oIvnF1Dlv7pv9ByCUrvpkeqPeg1xp5Jjv8+d383i4YqYni7kLstYOheeYz5Zd3E9OlmS6i2P1q0oh5+neSW8HODik/MWjCz8NWMWNUZB9fz1DDBH5Hs2W2AtCOxj6mvLHcIIPMqBEPBYnmgoNAHTN43nLHEzFat5VyfvlmIiq/lDKwsEy6OjfYzXh2gMSlQpWCYopJ4oyOrYk72Hp2eahvg08++HA8Ov/HaKxNRIoV30n123KQIe4Awg6B6xLm96RN+ePbvKJ2mGYg6GAVVfx+l0zKAN5EJM9KqOeNumLn/DkCrkTd+17EMdA2gXceN55pNU2QTdg2gU46jdFa1CaPE2nnfdYC72TuAMDgVU1UAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 8648,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "tsql - How to optimize simple linked server select query? - Stack Overflow",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=tsql%20-%20How%20to%20optimize%20simple%20linked%20server%20select%20query%3F%20-%20Stack%20Overflow&pos=0&uri=https://stackoverflow.com/questions/2452953/how-to-optimize-simple-linked-server-select-query",
+          "width": 0,
+          "windowId": 8597
+        },
+        "8659": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 8659,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "store linked server locally - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=store%20linked%20server%20locally%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=store+linked+server+locally&rlz=1CAZBMY_enSE834&oq=store+linked+server+localy&aqs=chrome.1.69i57j33.8940j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 0,
+          "windowId": 8597
+        },
+        "8666": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACeElEQVRYR2NkIACm7r1bD1KSPf0EIaUo8mX+WmB+V6xhIz6NjIRMHTgHhC6pAzvuPyPYkRxCPGAuExMTmP735x+U/oOXz8D4/z9YweqYJmyexR0CA+aAkKXgOIf5mEtEAOLwfxAff3v3CUz/ePeFUOxhl18TjZImMENgwBwADXIuYX6wo/gUxSBxzsICpr88fwemPz14Baa/qlWTFQJcKUsXgDQyKlk/BNNwUwbKAejZTMJYBewmDhE+MP3n2w8w/eryIzD9XiwfxedcrvNbwT5xdIRkBxIB44A7QKNuPzjVP/kA8amQqhSYZuPjAtM/Pn2DhMD5e5AQkChE8SN32wO8JR2hAGEccAcwQLOdgAIk1fNIi4BpFi42MP3rCyRkPj2EpP4vzyC5gdxcgB4ijIPHAWKQVM/FA4l7JhZImf/nDyRxf/sECYkv0BLwH7RkJBTHhOQRITDQDiDkUkLyXDwcYCVCQpAQ5IHyWVghJemv35CQ/AANwVcvIHUKPAQIWUBInmwHfK1SAJcDlALJX7PBRqjxQ3KPhgokN3FxQPhfvv0C09duQnLThWvPICEw4A6g1OfoHrBngoSEm6UCmBaGpoWnbyDthz2nIXXKpTtvoGmAQhcMOge4skBCINBSDpIG2CC54PKjD2B6xtYbYHpqpgVtQoBiB5CbKGG5wE4U4mNzJUgu+PwDkv93XYSk+gsP36O0kjHahAPuAFjlRGraVJOC1CVashCaDVqXXHsIifsrTyAlHwOxreKBcwDMZvSOCdRHXByQOIb5EEbDxP9Ae0x3XkD7DVTrGdHdAdCQ4CvZDa4rYP0BYqMGls+znZUp6x3T2gEA6yOBaOC7u2YAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 8666,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Local Linked Server",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Local%20Linked%20Server&pos=0&uri=https://sqlserverplanet.com/dba/local-linked-server",
+          "width": 0,
+          "windowId": 8597
+        },
+        "8675": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAHxUlEQVRYR8VXXWwU1xk9e3U1mo5G05XlFhcbx1gqLVRKCaA+UFSIKvGABKg1jpOAC7aLCCCKLFFViFYjVPEQuci1XSIDEgQaRPsCDyUIURpHCiGijQo1GOzaOI4DjnE2zna7DNPh5rr6vjuzuzY26ltHsmdn5v6ce76/86WeTE35UZCDyk0AUQhLSphLx3d6FoVXmt7r5Bug409CCAgx7RPPEvEALWiOhqKbEJCWDdv1kPryy0f+lYsX0PveXyCiEFopHmgm0NZWcRczd9qlYkA8WmtIKzkAPZvB9D8BoLWAJgDSwqubtyI19eQz/8Rv2jA52AsRBNAQtD20UAQfjnSKZABQDDAmRIBPxCdlBsQ0hMkRDAgzjxmE5P8vv7IZqakv7vlvvtGB7L1+IAwhHY+BMwCCo2SBxuICJUaKKTEL00ZFipiAAgvGBFpFkPwe2FRfj9TU4wf+m52HMTbQC2m5eBgAkZCGB55Do4u00gZFM8TbxuaabpziE30mZokFSyvMSzvsc9saiYHHn/onOttxnwDYLj4JJAJtAAgpwTbTMx2zYIQSZ519e1rHHMIAsHWEyrQNlRtDc2MDAfjMP9F5GON3DYCPckAgLLI2DFcGxOzX9IiYbUwSL8ycVnBgADzJjqFlawmAib5eWLaLgSwQWRZ7lnFGdoi52J0edzNGFSwYh6PUCq6IUOlZ+E9uHC2GAfKBdoz33WEGBnMakXQoYg0DSRxrzV6uNfmG+f2sK/lekjFAAGxEWJB2oLNj+OnWRgLwiX+6swNjCYC8grI8DqcoigqbSin5me5hGMKyLAZCz3TnCJgB0DzHMIWOTRCiMu1A5DLYZhggAF0Y67vNDAzkImaA4psW9zyPYz+Xy/FKtm3zM4FwHIf/8vk8vysFQGNpfiGLzgBgBVm82vCjUgA3Ie007uU18pD45rcWY9euXUin03zC4eFhdHV1IZvN8sL19fVYu3YtM0HMXLlyBWfOnGGQTU1NqKqqgu/7sCzbUCA0m8DSARaUubDDHF6u24jU1KMH/ltvdOD+rZuwHA+DeY2ckmg73I6JiQy6ujoYxKFDh3Dt2jUcPXoUDQ0N2LBhA7q7u3Hjxg0sX74czc3NuHTpEs6ePYs9e/agtrYWe/fuhW07Sd6EBEVBiHmuBUeHeKlufRHA6D9ucnG4m42QjQQOt3fAcVxcvHgB169fZ5rp5HQ/cuQI7ty5w2ASBnbv3o0lS5aA7vRXU1MzKwBbh6j0bFg6PzcDAWw2wWuv7YLnuZBCYmR0hDcmXzh+/DjOnTuH8+fPF+y+fv16bPrxJjS1NGHHjh0MoLW1tWgCaGaAAFAUiCiLLQ11T5vgVibgKIiU5skvvPBdLF26FCtXrmQ/aGtrYwCXL1/GyZMn2SnJR+rq6rBu3To+fUtLyzMABHiu3IPOZbDlFQLw+IH/1u+MD0jbw2BOwSqrwJ69rbhw4SI++OB9tuH27duxbNky3oBAkNcfPHgQGzduZLOsWrWKx+3fvx87d+7EokWL2ARkRhVRYVNwLAGpAiws9xBlx/GTzXEiKgVgwtDF/gO/QlVVNd599x2mec2aNbh69SpOnTqFxYsXY9++fRgaGsLo6CifXCuN7mPd6OnpYScksL03b0NaFvvO7d5e9Pz5bU5EC7/uIcyMJXnggUlEVAssyoQKoXTguB5eXP1D1NRW82n7+/t58SQLzp8/H6tXr0Z5eTkmJyfZFCtWrODQq6ysRHV1NSchAclF7f7oMG7d+BukymNheRrh5Bi2JQxMA5BXyGubJ7GMUCYbmqRisl2SIZPkQ+/od0VFBTKZTMExab4p6TRTwxKUikM8V5aYgPXAp/7pznbDgO1wIqIogDAJROuiApot9z+rJpg0zFWNy7tEZGpBmcs+EDshASATkBPOBEAnMMporut/AWD0ShFAZZkL9f8GoHMTcS14lJjg76wHjQkco4Y5eEpPP52JROfMxY6ZGytjNkNkBEmZw3nAFKN/P/RP/7YN9wc+hO2kMZgXiIRLtYN1nCLr8RrGm1hiFQRoqR6ZXR+wwDXua2qBzmNBmQeVz6CZ9QAB6Hwd431/he24+CiQiIQNGR82YglNgirZuBRIqXs8DcAoItJVCVcRXKkwz7ERhXlsa2QAVA3bMEEAhISyy6AEhVy8YQnrs55xbv80UVTCIJlAhwGr6kABW7ZSY/Kvj/0/HGtH5taHsKAQChuKZHjcShX0ftKA0D0OK2P7uRHQFxVLN0EyjoqRJRAojRA2NjU2IfV53/v+sfbXoSdG8L3nn8fS77+IKO5jiL7hkUGkva/CtS1okmgqwvDdPowMDSHI55/yPylNovp8chJBFEFbpgsiAF/zXHiui0gLfKEdbN/dilTP77v8P53/IyptwLVtCNuFFjYE9XiUAW0B5yuW8eXH1DuGCLJZBLlJRGEQl9uicUx3JjHwz37SZFCWRKSYU3yjvBxlnscAHoYWfn7g10j9svklf2J8lJUKUcREUTOiTP9UaPe4BSDdp1kf0HuVZMlEOcfuyn2ipA5KQksBy3ZYQ0Irbn7J/t9Z8QP87BcHkPr4eo8f5ichEUBHAYSknoD6QeqOkn6bGlWzoNKRaTDj+lBQvQQi6RO14tphGlnBTESRgiQzqgiwHJTXfhtlFTX4L/5YVa2IlTyoAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 8675,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Querying temp tables across a linked server. | SQL Studies",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Querying%20temp%20tables%20across%20a%20linked%20server.%20%7C%20SQL%20Studies&pos=0&uri=https://sqlstudies.com/2019/03/14/querying-temp-tables-across-a-linked-server/",
+          "width": 0,
+          "windowId": 8597
+        },
+        "8684": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 8684,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "add server links without write privileges - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=add%20server%20links%20without%20write%20privileges%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=add+server+links+without+write+privileges&rlz=1CAZBMY_enSE834&oq=add+server+links+without+write+pri&aqs=chrome.1.69i57j33.14909j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 0,
+          "windowId": 8597
+        },
+        "8689": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.sisense.com/favicon.ico?v=3",
+          "height": 1001,
+          "highlighted": true,
+          "id": 8689,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "8 Ways to Fine-Tune Your SQL Queries (for Production Databases) | Sisense",
+          "url": "https://www.sisense.com/blog/8-ways-fine-tune-sql-queries-production-databases/",
+          "width": 936,
+          "windowId": 8597
+        },
+        "8693": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE4UlEQVRYR8VX329URRT+7mQcb6+3t7vbZanttoBB0mgQkYgvaJAQok9GSEj8H3zxLzD+Bb74P5iQFOOTxhAkkRd/IkEJqQZsXUpZttvl9nK5jpOz5szsLrtLW/bWGM9Te/fMmW/O+c43ZzyMal+3JdbX50HYB4EZtBEB3phb3n4IDzEItyFwC8XiDbzpmVFCe090OtdW8O6/Do9ehec9/UR/i6f9F9rie7QnvsFZT2+3ZnsAC+t70KYz8MR4N4g0GkHSRBKVQULaz9JkCJIW0rAEI9Wj/dq0AU8s4ExxaSsQWwP4vL4f5qn3AIj+xYXmCnwiEBGSqAQLKEutSxyESIPC8F4E+feneKfy+2YgNgdwrh5CyPc55SpLwOc00p220GoMIuqLyj5JEAFEEER2jVaBKwmZT3C2kgyD2BzA+bW30BavsXPYWkVoBvmUmQzUXAUJAQhpsyAKFSjerM9iKZEWptwXj77F6ckvRwXwAdoisvVNmijETUjlgwSQ1ZchNlqblpQmygjK0wABOmkhCSPo8lwXQIzTkx+PBmBh/cOuo4obiJKWBaDjBmhtZdtGELuqUExGo5EKibRSfUSjM8WPRgYgyKDUqEF2mM4L06Xr4O/bGUmFYHa+50Jk0ChXXcfkAQAyKCz+ABWVIDq1TW8vQujMBueAYiwAhAA9SHrASPkIZg5YHy4DpTFa80ctV/ID+PErG8jf95ILmMYwSRN+uQrRlxkLiAx0owYRlqC4E0DIbv1i17WOnMoPQBiN6MoFDKfUmAxS+ptWYfi3bsbiwydtnFwZkDpDePUixOQUVFRxaddprxxMMsF0Z4pZ9XN6pbMEyg/d33EdtLaK5NAJGOXnA6B0Bv/aJSsoj0xAFCtQBQeI08yK2C0Hb053bg5kh7mSHXwDOi8AZnuludo7hT3peMGe2S/P2ZY066sWoJzZD6kC6OYKiEn60AmemJyGisqol6Z21gWV+jIoS2Du1WxA3sjcXQY3IqtfvzH7GQxniLr+k1WIIES9MrcDEpJGeO0yVHEK5u4fDsDsAatyFpB2F1DPnokgfL5CpAVp/XfPQa/XkRw8BhI5Sah0iuDqJWCibNPIHBNCwRgD3axBPIihOCNc97VViIkSIH2rGwySQNCtOnC/gfTQcXcp5RGiHgArOgJy917HbiKkjWUHYM8LVoiypeuQ4wUIP4IMItsJnLUugXcEwN7zVy72Ws1xXkDuqoKMhgqjTvs5ETJJbMGYeyuPrUkPn3CDSp4MsBSXazd69Rws+Oj/MQ8a1fn8JGQApdoikMagjeboO/arxngJCCI0qwfyA+hKsZydB6VMNNeKo5rotKD58wZ2JsVGI7xywbXTs3shVAhjxac+UOMBLWCOFCuQPLDqBOaOa9/k8Mn8HGAljDq3oY2iAshd01bxHCFtrznjFu3cBUanloj9OhEfOZVTCc+v2ZGswDowLDi8+VgIGYSurhaNgUkTiI4ED5RJBWgdOs4zYY6R7LPm2yDvqEpjBL9eHrXsm/qlLx6D5vlAtL/Du6Uvhp2eOJYHrTrkbz9tWfet0LFmmOdfQco3Z+6xnKP2PUwky/LNn7echodB0HgB6XMvwzi+7OBh0o049DRTWQy/XgPixmP1Zl4gKiOrVKF9O9ED/+pp1gXxvz5O+3P7Hz3P/wFGtIk/D0tp1wAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 8693,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Permission to create linked server - Database Administrators Stack Exchange",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Permission%20to%20create%20linked%20server%20-%20Database%20Administrators%20Stack%20Exchange&pos=0&uri=https://dba.stackexchange.com/questions/180137/permission-to-create-linked-server",
+          "width": 0,
+          "windowId": 8597
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "8597": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 8597,
+        "incognito": false,
+        "left": 936,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 11,
+    "name": "8 Ways to Fine-Tune Your SQL Queries (for Production Databases) | Sisense",
+    "date": 1601472229563,
+    "lastEditedTime": 1601472121285,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1600633358975,
+    "id": "e8a153e6-8638-4daf-910f-6c82fa503910"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "windows": {
+      "11154": {
+        "11192": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/d5bd6dd9/img/favicon_32.png",
+          "height": 1009,
+          "highlighted": true,
+          "id": 11192,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "(96) Can you 3D print a Transformer? (Experiment) || How to make a mains Transformer! - YouTube",
+          "url": "https://www.youtube.com/watch?v=9BeTMMI8wRc&list=WL&index=12",
+          "width": 1872,
+          "windowId": 11154
+        },
+        "11207": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEHUlEQVRYR82XXWwUVRTHb3eHcVO3dQNrCnSlDSKgwWBUSGoarUljtCS+2IiJ2FqeNOGFB0k2aih+NCGNSgsPGFCbkNpsLLYCS21spH6kVVdoNxKoza4g/bBbsWzmYxm2w2LO/9whXaWijXGch/3lzuTO/M//nnvO3QKxwOtge3sZTf31woVFxHA4nFjIqwoWMonm/GcCek+cWEcfjMeGFeKOHduHiYcOte8k2raNGBoa6vcQOzo6iokjI0k4tGvXK1//VZA3dcA1Afv2HUQEZWWlzxONjIFACjzKd8TLGWMj0bKyuG+Yxlmi11OAeaZ5pZAY+3ZggHjkSNdnN3JiXgdcEzAxMXEHKS0tLR0jfnI0GuZILZWYzfKaZ22OPCsdsCxL3ufndpafvxx+qZkYj8f9xK6urovExsbGHBz9oy2uCUgkEsj25Lmxp4iqqlwhpjXtFoiEXiFOnz4D/vKbIx2bQwT8HHlJCTaB0DQNXOT14j0XZ9J4j6p6vyE2vbazN88B1wXs3b//QVK07u57NxF9Ph8i8Hg40ua9EbBw+RPgVBopIYqLmargHFiz5Dy4cgXPz0nnnHrRc/woKmZn5MP2PAdcF8BxCjE09AMcCAaDcOTTvn7cPzu9HOxPBsBggCNcsYwdGE9x1lvpSbCybBrc/OT94PDwUJr43LNPtzjfynPANQHRaBSVq6qqChVPUeSaqpzdL4bfB9c/UgMePpUBDZ2zftMDnPWDo1wpBU8XhWNoGeKjllrQtjkZLIvnt7W19cEB1wW0trbeSUrqG+q3IADpgEfh9N/e1A361j4ELgmixIuUxg6sX8ohxyd5F/jkrrnd4FzYVruaHZC7ISe3RfNb7wzCAdcFQB5fQfo51tNTTbxr9do1xM8HRvBwzH8fuGwlSrpQ/TJXOFXE1DQ7EDCYi+0Z8J4QWxKLxS4Tt9Zt+UB+D0kztxe4KyCRSKALTl/SnyGaRgaLLZdU/JRbzJGvWgVuXMqhj3LAwtJkHZjk3RDKsHNy6YVtZ6/S+Nrs1Y+JNTXVaCrXHXBdQCRy+GFSZOdyjyIi2ecVuRscJ5QQO+Avl5TPZ8bH2Ynz3C2d2m/LrFcVduz7k6emiC1v7343zwHXBfBKClFbuxntrrMzgtPs62/u3kY0TT4ROVcuNzt3KDxO2xRe3HfGTW+8+h6N6+q2Isd6e79IElOpJJrFn05Ergtwwtpz4EAJ1uyrwRfmrqmm6TqNA4HbiohOZdN1HfuhqKiInZIW6Eb6GA2j3d0n8yyTg3lPxa4LoMZIIjdsqEROXNJm0PYSP57BSab6scfxz8g5JX/Z39dK44qKihBRN61K4rnkKPa9aZqpf+TA/0HAjQRfvxcqL69Cbsxeu5U4NfEz+rsQAqfgv3vd9L/hfC/6twT8DhgP1b2yY84aAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 11207,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Work2",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Work2&pos=0&uri=https://www.dwservice.net/session.dw?parent=mng#s",
+          "width": 0,
+          "windowId": 11154
+        },
+        "11251": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 11251,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "ALit - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=ALit%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=ALit&rlz=1CAZBMY_enSE834&sxsrf=ALeKk00cpmtMFZPjufdVVnsWX3w0a1xFYg:1602051497887&source=lnms&tbm=isch&sa=X&ved=2ahUKEwidysXz6qHsAhXppIsKHb1KAFIQ_AUoAXoECBoQAw&biw=1117&bih=1001",
+          "width": 0,
+          "windowId": 11154
+        },
+        "11254": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 1009,
+          "highlighted": false,
+          "id": 11254,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "calculate heat from transfomer - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=calculate%20heat%20from%20transfomer%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=calculate+heat+from+transfomer&rlz=1CAZBMY_enSE834&oq=calculate+heat+from+transfomer&aqs=chrome..69i57j0l2.9405j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 1872,
+          "windowId": 11154
+        },
+        "11257": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1009,
+          "highlighted": false,
+          "id": 11257,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Heat Loss from Electrical Equipment",
+          "url": "https://www.engineeringtoolbox.com/heat-gain-equipment-d_1668.html",
+          "width": 1872,
+          "windowId": 11154
+        },
+        "11262": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADLUlEQVRYR9WXb0gTYRzHv/d0PZ1riKw5xlhgc8xRYGovgnqjgUEk/aEkeqegCBFULyJDyuxNL6sXvSgFhRCSJJb0JoSUqAj65xurN4kNGecc6xjzHNc6485Nd+1ud+pqdG92u3t4fp/n+/39fs9zDEp8MSWOD8sAW48PdDHMsrsYwMvLDP/zacd9ZS7LAPREf28xgmfnkEKdff8XALqnDRUI1rsMxQnWOXXfhWqY9SlQeoDzE4YK+Pe6wZbrr9RcgSvTXWCwsewW48DMK/iPtoB16E9hDlDAW0tZ/34Y/lNn/w5AY7VNZZj8JhqzFBugoozgdosbbQ0VmqBDHwVcesZDWJI1z8nLe5AbWgG7fiUYVcjXM5WZKvjDgk8XfKhzc2qQKT6l/ub+b3owq4EoKkDbvgoMnvaoQdtHIxj6IKj3ihUTHVXqvaLCndfxVRWKCjDRWYVGnw2hz0mcfBjWSD3Y6lFtmZwR0dQ/u2mA7zeuPl/6MvCWyW0wWflvvoihdzyqAehrduH6IadqS/3dmU0DhK/1AITw/xxATqchzYURHR4GPdAMDUDWAiXj2x9HrFkw1gPUtQI2/U4oO71raglRkGgY1OkCV+0D4agW4OJBh1qChZIwNzmVccQKgJgAy8+C5ThwNX6wdvsqlEYB5alZGeb6rwKEegClD+goQNISFMlZSQQXCIBW5quUB7DeRkRHL0MOHoHs8gGEXVmZnAZJCGBFAWxgN7hdKyWsd+UB5A6y0opdc08gES9EPgnZsdINSTwK6vGA7qkFoRmojQAYYue8cPFjKN/fAlmmiL+bgiSKoD4/yA4HCMsppVZwGgab2I5JKgan8EYFyG7HqUQCyQgP+ReAMjvA0gyIkQUmy3QcO2d8GGUpqHMn7PWH87bjZDQKcSEGbOEAzpYBoXnRTE/F3u4R09MwV12reyJSKiDJ8xB/CCDb7AC1gbAUYNfywhSg6tZ4QQBCbaDeQEEd06kUEpEIpMUUyPbyHFuI+XdBcGTBVAEryaqMkZJJJOYimvwwVaCYAFlQMRZDcj6q5oc5wKOFjR9aC0ij5MciP8+bAliVd6PjSg7wG53JYabCWbkUAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 11262,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Email - Christoffer Brobäck - Outlook",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Email%20-%20Christoffer%20Brob%C3%A4ck%20-%20Outlook&pos=0&uri=https://outlook.office365.com/mail/inbox/id/AAQkADJhMDVlYTEyLTcyOWQtNDkxYS1iZjU4LThlYjZmODA4ZGIzMgAQAC4sxJB%2Fo0kyqZnyfWTXgg0%3D",
+          "width": 0,
+          "windowId": 11154
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "11154": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 11154,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 1872
+      }
+    },
+    "tabsNumber": 6,
+    "name": "(96) Can you 3D print a Transformer? (Experiment) || How to make a mains Transformer! - YouTube",
+    "date": 1602055271488,
+    "lastEditedTime": 1602055265798,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "ce0cbaa9-ab52-4957-8343-26e5c1387732"
+  }
+]

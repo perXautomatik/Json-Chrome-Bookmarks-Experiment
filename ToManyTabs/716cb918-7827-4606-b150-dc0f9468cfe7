@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "111": {
+        "125": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 1351,
+          "highlighted": false,
+          "id": 125,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Fussy Pister · Minupren",
+          "url": "https://open.spotify.com/playlist/0y70pslBJ3zcqC9ZRmHd8a",
+          "width": 706,
+          "windowId": 111
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "111": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1440,
+        "id": 111,
+        "incognito": false,
+        "left": 2109,
+        "state": "minimized",
+        "top": -487,
+        "type": "normal",
+        "width": 763
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Fussy Pister · Minupren",
+    "date": 1601984280185,
+    "lastEditedTime": 1601983802544,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1601981517094,
+    "id": "2e220781-d259-4db6-a8b9-0c0b435e1185"
+  }
+]

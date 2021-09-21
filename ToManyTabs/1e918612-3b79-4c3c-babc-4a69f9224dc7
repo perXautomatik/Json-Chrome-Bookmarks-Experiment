@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "20080": {
+        "19587": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/e31c6cad/img/favicon_32.png",
+          "height": 1155,
+          "highlighted": true,
+          "id": 19587,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(183) Sony XEL-1 The first OLED TV - YouTube",
+          "url": "https://www.youtube.com/watch?v=j7GUSltewuA&list=TLPQMTExMTIwMjBUabeFWCX10A&index=10",
+          "width": 663,
+          "windowId": 20080
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "20080": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 20080,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 663
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Home2",
+    "date": 1605136694546,
+    "lastEditedTime": 1605136694546,
+    "tag": [
+      "regular",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "ba740e82-fd04-4868-afcd-59698d4c3b18"
+  }
+]

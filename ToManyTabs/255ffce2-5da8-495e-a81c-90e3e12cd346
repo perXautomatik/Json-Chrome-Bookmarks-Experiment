@@ -1,0 +1,295 @@
+[
+  {
+    "windows": {
+      "3767": {
+        "3755": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.skillwave.training/wp-content/uploads/2020/04/cropped-Skillwave-Icon-512x512-1-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3755,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Grouping or Summarizing Data – Skillwave Training",
+          "url": "https://www.skillwave.training/grouping-or-summarizing-data/",
+          "width": 459,
+          "windowId": 3767
+        },
+        "3756": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.microsoft.com/favicon.ico?v2",
+          "height": 691,
+          "highlighted": false,
+          "id": 3756,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Power Query Advanced Editor - Excel",
+          "url": "https://support.microsoft.com/en-us/office/power-query-advanced-editor-cbf29700-58bd-4e43-a6a3-a0330efffc8e?ocmsassetid=ha104003958&correlationid=12e8b528-b6cf-4e34-a08f-5e6fce4438a6&ui=en-us&rs=en-us&ad=us",
+          "width": 459,
+          "windowId": 3767
+        },
+        "3757": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3757,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "List.Sum - PowerQuery M | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powerquery-m/list-sum",
+          "width": 459,
+          "windowId": 3767
+        },
+        "3758": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3758,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Table.Column - PowerQuery M | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powerquery-m/table-column",
+          "width": 459,
+          "windowId": 3767
+        },
+        "3759": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.microsoft.com/favicon.ico?v2",
+          "height": 691,
+          "highlighted": false,
+          "id": 3759,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Microsoft Power Query for Excel Help - Excel",
+          "url": "https://support.microsoft.com/en-us/office/microsoft-power-query-for-excel-help-2b433a85-ddfb-420b-9cda-fe0e60b82a94?correlationid=5cc8d039-a622-404f-a9fe-1a04d52f249b&ui=en-us&rs=en-us&ad=us",
+          "width": 459,
+          "windowId": 3767
+        },
+        "3760": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.ablebits.com/favicon.ico.gz",
+          "height": 691,
+          "highlighted": false,
+          "id": 3760,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Excel reference to another sheet or workbook (external reference)",
+          "url": "https://www.ablebits.com/office-addins-blog/2015/12/08/excel-reference-another-sheet-workbook/",
+          "width": 459,
+          "windowId": 3767
+        },
+        "3761": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 3761,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Solved: Filter rows query with condition of more than 1 co... - Microsoft Power BI Community",
+          "url": "https://community.powerbi.com/t5/Desktop/Filter-rows-query-with-condition-of-more-than-1-column/td-p/176026",
+          "width": 459,
+          "windowId": 3767
+        },
+        "3762": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://community.powerbi.com/html/assets/favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3762,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "An Unexpected Error has occurred. - Microsoft Power BI Community",
+          "url": "https://community.powerbi.com/t5/valuesurveys/surveyspage/survey-event/VF13ZnASYZ3gcXB7l3I2HOF5nFYPHe5jk77VkEqDFyoMfxvD4pWyc2sgljmngqWOcXLWdu8DHKezmRWQSOQrCYnhtcdJo0CC5cdzkVSaZaI7erXyppLQfRgh7R_aoOdpjhXBMbfqOU2TaUSYOxcpZpk8wtMu77Bd_hZPJrbbmO1yWcG2i1eLHRDdqtzEkPUYwLomwYG3Yw9WcgZwok9MxogJmoq1MaMXQf-HNi3zOffRjf1sQYK45hmqiH1DDgv8",
+          "width": 459,
+          "windowId": 3767
+        },
+        "3763": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3763,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Table.SelectRows - PowerQuery M | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powerquery-m/table-selectrows",
+          "width": 459,
+          "windowId": 3767
+        },
+        "3764": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3764,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Power Query M function reference - PowerQuery M | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference",
+          "width": 459,
+          "windowId": 3767
+        },
+        "3765": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.microsoft.com/favicon.ico?v2",
+          "height": 691,
+          "highlighted": false,
+          "id": 3765,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Import Data from Database using Native Database Query (Power Query) - Excel",
+          "url": "https://support.microsoft.com/en-us/office/import-data-from-database-using-native-database-query-power-query-f4f448ac-70d5-445b-a6ba-302db47a1b00?ui=en-us&rs=en-us&ad=us",
+          "width": 459,
+          "windowId": 3767
+        },
+        "3766": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 3766,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Exporting Power BI Data to SQL Server",
+          "url": "https://www.biinsight.com/exporting-power-bi-data-to-sql-server/",
+          "width": 459,
+          "windowId": 3767
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3767": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 3767,
+        "incognito": false,
+        "left": 995,
+        "state": "normal",
+        "top": 218,
+        "type": "normal",
+        "width": 516
+      }
+    },
+    "tabsNumber": 12,
+    "name": "Grouping or Summarizing Data – Skillwave Training",
+    "date": 1600024369632,
+    "lastEditedTime": 1601295397716,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "22ecc62f-2470-459b-9c95-51d3a7926c6c"
+  }
+]

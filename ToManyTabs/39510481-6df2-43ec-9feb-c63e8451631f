@@ -1,0 +1,319 @@
+[
+  {
+    "windows": {
+      "2243": {
+        "2501": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ask.sage.co.uk/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2501,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "[14144] Error: 'Error 1327: Invalid Drive: [drive letter]' when installing",
+          "url": "https://ask.sage.co.uk/scripts/ask.cfg/php.exe/enduser/std_adp.php?p_faqid=14144",
+          "width": 1041,
+          "windowId": 2243
+        },
+        "2503": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://carlcheo.com/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2503,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "10 Best Exif Viewers To Read Photo Details Effortlessly",
+          "url": "http://carlcheo.com/best-exif-viewers",
+          "width": 1041,
+          "windowId": 2243
+        },
+        "2505": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.photome.de/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2505,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "lang_en.png (982×629)",
+          "url": "https://www.photome.de/images/screenshots/lang_en.png",
+          "width": 1041,
+          "windowId": 2243
+        },
+        "2506": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.photome.de/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2506,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PhotoME - Exif, IPTC & ICC Metadata Editor",
+          "url": "https://www.photome.de/download_en.html",
+          "width": 1041,
+          "windowId": 2243
+        },
+        "2507": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.photome.de/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2507,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "edit_en.png (982×629)",
+          "url": "https://www.photome.de/images/screenshots/edit_en.png",
+          "width": 1041,
+          "windowId": 2243
+        },
+        "2516": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon-32x32.png",
+          "height": 778,
+          "highlighted": false,
+          "id": 2516,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Miezan - TS2",
+          "url": "https://www.buymeacoffee.com/tabSorter2",
+          "width": 1041,
+          "windowId": 2243
+        },
+        "2517": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2517,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "cyotek slicr - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&hs=81d&sxsrf=ALeKk01j9vVDM0vJDqLKJ4MbSC9B6fDBxw%3A1599003700547&ei=NNxOX46AIe2GrwSJ0L7wAw&q=cyotek+slicr&oq=cyotek+slicr&gs_lcp=CgZwc3ktYWIQAzIICAAQFhAKEB46EQgAELADEIoDELcDEOUCEIsDOggIIRAWEB0QHjoECCMQJzoECAAQQzoCCAA6CAguEMcBEKMCOgsILhDHARCvARCTAjoCCC46BwguEEMQkwI6CgguEMcBEK8BEAo6BAgAEAo6BAguEAo6BwguEAoQkwI6BwgAEBQQhwI6BggAEBYQHjoFCCEQoAFQnO0BWOGFFmC0hxZoBHAAeACAAVWIAeYLkgECMjSYAQCgAQKgAQGqAQdnd3Mtd2l6uAECwAEB&sclient=psy-ab&ved=0ahUKEwiO6sL8kMnrAhVtw4sKHQmoDz4Q4dUDCAw&uact=5",
+          "width": 1041,
+          "windowId": 2243
+        },
+        "2518": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2518,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "belvedere 0.7.1 download - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&hs=saJ&sxsrf=ALeKk014WY5aslph6V2LxhJ0HwM5dSqseQ%3A1599004571475&ei=m99OX_TFHK_prgT99ZjYBg&q=belvedere+0.7.1+download&oq=belvedere+0.7&gs_lcp=CgZwc3ktYWIQAxgGMgkIABCwAxAHEB4yCwgAELADEAcQChAeMgUIABCwAzIHCAAQsAMQHjIHCAAQsAMQHjIHCAAQsAMQHjIHCAAQsAMQHjIHCAAQsAMQHjIHCAAQsAMQHjIHCAAQsAMQHlAAWABgh4sBaAFwAHgAgAEAiAEAkgEAmAEAqgEHZ3dzLXdpesABAQ&sclient=psy-ab",
+          "width": 1041,
+          "windowId": 2243
+        },
+        "2519": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/favicon/favicon.12c955371a4b.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2519,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Workspaces | Tidy your browser with Opera | Opera",
+          "url": "https://www.opera.com/features/workspaces",
+          "width": 1041,
+          "windowId": 2243
+        },
+        "2522": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://carlcheo.com/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2522,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "10 Best Exif Viewers To Read Photo Details Effortlessly",
+          "url": "http://carlcheo.com/best-exif-viewers",
+          "width": 1041,
+          "windowId": 2243
+        },
+        "2524": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2524,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Variance and related apps",
+          "url": "https://www.softpedia.com/downloadTag/variance",
+          "width": 1041,
+          "windowId": 2243
+        },
+        "2526": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://img.findmysoft.com/i/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2526,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "» Download free trial NetGlance",
+          "url": "http://netglance.findmysoft.com/download/",
+          "width": 1041,
+          "windowId": 2243
+        },
+        "2528": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.geckoandfly.com/wp-content/themes/billboard/images/favicon.png",
+          "height": 778,
+          "highlighted": false,
+          "id": 2528,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "6 Free Tools To Change Photo's Exif Data, Remove Metadata And Hide Dates",
+          "url": "https://www.geckoandfly.com/7987/how-to-change-exif-data-date-and-camera-properties-with-free-editor/",
+          "width": 1041,
+          "windowId": 2243
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2243": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 867,
+        "id": 2243,
+        "incognito": false,
+        "left": 7,
+        "state": "normal",
+        "top": 8,
+        "type": "normal",
+        "width": 1098
+      }
+    },
+    "tabsNumber": 13,
+    "name": "exif - 6 Free Tools To Change Photo's Exif Data, Remove Metadata And Hide Dates",
+    "date": 1600043540692,
+    "lastEditedTime": 1601295398257,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "7ebaa29f-848a-4f5d-aef1-8036f3b88da0"
+  }
+]

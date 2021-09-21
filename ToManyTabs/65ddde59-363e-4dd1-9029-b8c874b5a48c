@@ -1,0 +1,76 @@
+[
+  {
+    "windows": {
+      "172": {
+        "176": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 176,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "https://gis.gotland.se/map/?app=Miljö&lang=sv#map",
+          "url": "https://gis.gotland.se/map/?app=Milj%C3%B6&lang=sv#map",
+          "width": 1324,
+          "windowId": 172
+        },
+        "177": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.jetbrains.com/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 177,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Managing and filtering database objects, data sources groups, diagrams - Features | DataGrip",
+          "url": "https://www.jetbrains.com/datagrip/features/dbobjects.html",
+          "width": 1324,
+          "windowId": 172
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "172": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 172,
+        "incognito": false,
+        "left": 308,
+        "state": "minimized",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 2,
+    "name": "https://gis.gotland.se/map/?app=Miljö&lang=sv#map",
+    "date": 1601373352793,
+    "lastEditedTime": 1601373348589,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1601372850416,
+    "id": "3bc3bce7-3ba0-4e3a-8263-18c1c26b35e0"
+  }
+]

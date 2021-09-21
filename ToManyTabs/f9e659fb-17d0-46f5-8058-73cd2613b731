@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "5004": {
+        "5670": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5670,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Scraper - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/scraper/poegfpiagjgnenagjphgdklmgcpjaofi",
+          "width": 958,
+          "windowId": 5004
+        },
+        "5673": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5673,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Data Scraper - Easy Web Scraping - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden/related",
+          "width": 958,
+          "windowId": 5004
+        },
+        "5676": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ow2.res.office365.com/todo/282871_2.26.1/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5676,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Microsoft To Do",
+          "url": "https://to-do.live.com/tasks/auth/callback#",
+          "width": 958,
+          "windowId": 5004
+        },
+        "5679": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www3.gotland.se/sr/Content/Images/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 5679,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Inte tillgänglig",
+          "url": "http://www3.gotland.se/sr/Survey/1414/sv#stay",
+          "width": 958,
+          "windowId": 5004
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5004": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 5004,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 958
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Scraper - Chrome Web Store",
+    "date": 1599962531591,
+    "lastEditedTime": 1601295398553,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "a652f42f-6564-499b-9ef1-df84beef1b37"
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "windows": {
+      "483": {
+        "494": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 721,
+          "highlighted": false,
+          "id": 494,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Avhandlingsförslag - text as range clusters",
+          "url": "https://gist.github.com/perXautomatik/0fbf112979a209e094aba32c9a0f5ec7",
+          "width": 1410,
+          "windowId": 483
+        },
+        "497": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 497,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "typescript - VS Code extension Api to get the Range of the whole text of a document? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/45203543/vs-code-extension-api-to-get-the-range-of-the-whole-text-of-a-document",
+          "width": 0,
+          "windowId": 483
+        },
+        "498": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://vshaxe.github.io/vscode-extern/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 498,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "vscode.Range - Haxe externs for Visual Studio Code - API documentation",
+          "url": "https://vshaxe.github.io/vscode-extern/vscode/Range.html",
+          "width": 0,
+          "windowId": 483
+        },
+        "499": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 499,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "vscode mutable range - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=vscode+mutable+range&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 0,
+          "windowId": 483
+        },
+        "500": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 500,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "code anchor - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&hs=aAn&sxsrf=ALeKk03ZUOD6fP4pVbN5fIr360P1NhtkdA%3A1599833220973&ei=hIRbX9X-OserrgTNyY6oAg&q=code+anchor&oq=code+anchor&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoRCAAQsAMQigMQtwMQ5QIQiwM6BAgjECc6BQgAEJECOgQIABBDOgcIABAUEIcCOgQIABAKOgcIIxCxAhAnOggIABAWEAoQHlCd3AJY6OcCYJzpAmgBcAB4AIABSIgBugWSAQIxMZgBAKABAaoBB2d3cy13aXq4AQLAAQE&sclient=psy-ab&ved=0ahUKEwjV0NeWo-HrAhXHlYsKHc2kAyUQ4dUDCAw&uact=5",
+          "width": 0,
+          "windowId": 483
+        },
+        "501": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 501,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "typescript - VS Code extension Api to get the Range of the whole text of a document? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/45203543/vs-code-extension-api-to-get-the-range-of-the-whole-text-of-a-document",
+          "width": 0,
+          "windowId": 483
+        },
+        "502": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 502,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "treat text as a number of ranges - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=treat+text+as+a+number+of+ranges&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 0,
+          "windowId": 483
+        },
+        "503": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.lipsum.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 503,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Lorem Ipsum - All the facts - Lipsum generator",
+          "url": "https://www.lipsum.com/",
+          "width": 0,
+          "windowId": 483
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "483": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 483,
+        "incognito": false,
+        "left": 156,
+        "state": "normal",
+        "top": 176,
+        "type": "normal",
+        "width": 1467
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Avhandlingsförslag - text as range clusters",
+    "date": 1599836009801,
+    "lastEditedTime": 1601295399104,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599820276730,
+    "id": "f1635e35-472d-45e6-8d23-c40d1c00081c"
+  }
+]

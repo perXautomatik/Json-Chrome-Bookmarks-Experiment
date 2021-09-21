@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "17548": {
+        "17552": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/f2369b79/img/favicon_32.png",
+          "height": 1202,
+          "highlighted": true,
+          "id": 17552,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(168) Hollywood and the Media in for RUDE AWAKENING after 2020 Election?! - YouTube",
+          "url": "https://www.youtube.com/watch?v=Nk3uyjihPqE",
+          "width": 1047,
+          "windowId": 17548
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "17548": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 17548,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "popup",
+        "width": 1047
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(168) Hollywood and the Media in for RUDE AWAKENING after 2020 Election?! - YouTube",
+    "date": 1604561856074,
+    "lastEditedTime": 1604561041805,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "a2d30120-0c1e-4068-89c8-0d45eb17614e"
+  }
+]

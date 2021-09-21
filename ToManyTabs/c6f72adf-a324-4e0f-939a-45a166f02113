@@ -1,0 +1,100 @@
+[
+  {
+    "windows": {
+      "4167": {
+        "4170": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sqlservertutorial.net/wp-content/uploads/cropped-favicon-1-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 4170,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "SQL Server SELECT TOP By Practical Examples",
+          "url": "https://www.sqlservertutorial.net/sql-server-basics/sql-server-select-top/",
+          "width": 1383,
+          "windowId": 4167
+        },
+        "4172": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pdfsam.org/icns/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4172,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download PDF Split And Merge - PDFsam",
+          "url": "https://pdfsam.org/downloads/",
+          "width": 1383,
+          "windowId": 4167
+        },
+        "4173": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4173,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "substitute - Google Search",
+          "url": "https://www.google.com/search?q=substitute",
+          "width": 1383,
+          "windowId": 4167
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4167": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 4167,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 3,
+    "name": "SQL Server SELECT TOP By Practical Examples",
+    "date": 1600026037806,
+    "lastEditedTime": 1601295397630,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "158084f3-5e7a-4119-9c0b-ff9744d2f36f"
+  }
+]

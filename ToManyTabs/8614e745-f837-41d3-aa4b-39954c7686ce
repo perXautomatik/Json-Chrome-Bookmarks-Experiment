@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "3789": {
+        "3783": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3783,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "OUTPUT Clause (Transact-SQL) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/queries/output-clause-transact-sql?view=sql-server-ver15",
+          "width": 459,
+          "windowId": 3789
+        },
+        "3784": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://answers.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3784,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sharepoint - DavWWWRoot issue - Microsoft Community",
+          "url": "https://answers.microsoft.com/en-us/msoffice/forum/msoffice_sharepoint-mso_win10-mso_o365b/sharepoint-davwwwroot-issue/28dee354-546c-4d10-9e1d-f753ab4ec51e",
+          "width": 459,
+          "windowId": 3789
+        },
+        "3786": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.scdn.co/i/_global/favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3786,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Thanks for sharing - Spotify",
+          "url": "https://www.spotify.com/se/thanks-for-sharing/?success=1#_=_",
+          "width": 459,
+          "windowId": 3789
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3789": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 3789,
+        "incognito": false,
+        "left": 995,
+        "state": "normal",
+        "top": 218,
+        "type": "normal",
+        "width": 516
+      }
+    },
+    "tabsNumber": 3,
+    "name": "OneTab shared tabs",
+    "date": 1600024421083,
+    "lastEditedTime": 1601295398117,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "5e421cfb-cf8c-4edd-ac84-4108ac5bc51d"
+  }
+]

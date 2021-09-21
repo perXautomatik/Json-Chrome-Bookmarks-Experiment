@@ -1,0 +1,54 @@
+[
+  {
+    "windows": {
+      "620": {
+        "619": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 619,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "GNU Octave",
+          "url": "file:///E:/Downloads/octave-5.2.0_1-w64/README.html",
+          "width": 1383,
+          "windowId": 620
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "620": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 620,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 1,
+    "name": "GNU Octave",
+    "date": 1602257284264,
+    "lastEditedTime": 1602257275339,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602086503320,
+    "id": "e69ddeba-5cc6-4884-ace8-4f20316bcaca"
+  }
+]

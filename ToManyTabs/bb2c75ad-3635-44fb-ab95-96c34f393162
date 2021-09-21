@@ -1,0 +1,245 @@
+[
+  {
+    "windows": {
+      "596": {
+        "678": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADLUlEQVRYR7VXO2hUQRQ9Z61iZ2IRghYxEkttFcGgES0SK7HcqPjBzmgXFQujXcQuqGj2banlBtEiEC201U4CBiQBGwMpJGlMrpxlZpl9ztv3XlZvtbvzuWfOPfezRAkzsyMADgPYC6AHwH53fAXAJoCfAD6T/FL0WuZtNLM+AGMA5Hx33n63viEgAF6T1OdM6wjAzMYBnCzhOO1IzhdIzmchiAIwM730VkBxwYdnblOIHsfY+AuAmSmucl6U7qLgxIZACEzL2gC4lz/8D869Q4G4EzLRApBB+yoAIR4GIDGWsTUAS+6czntbITntv4QAJDipPbSE5Ef9YGbH3LoHostDU+iUmkrHV8E5Zc+N1N55kg391gTgUu1uhPoZki1HjqW+dBz95e6ezZBipyndHVorFB7ARQBHI/y2ASjDfwrUo8jZTyRrHsATR196XysEO3Hu2I2FQEsbJCfpyms6RtqgWE7lVbI8YC5sCkFMxLMCkEV/168PwiABT0TALgjAbZdm6fXJbl8fXmhmTyMAlgTgHoB9qUUp+WYevWXWMx66IgAxZGskp8o4yNubxXQWAJC8nndpbL1er58ws6pt2wjJAy4Tlvv7+38NHxr+Pjg4+CM8JwDK0ZhCS2ugntSfmdnVTsAHBga+jp4e/eD2rHUSYaksSOaStyDOFGGtd0/v6ti5sTfqFQJwAcCpqELJmSIXFnl5+h7HxP1OhUhn1FQWOoFoxnzbFosATe8ZOjh0RQA0eEgH6mQxa3QaqZIkeQHD5Z0AqOyq1GPNSPObZgC1Z18f1Ns1ZGribWvDtbnaN6/2siDMbDlsx75jNUcnAHKqKpkuUqskH3hnSS2xso7b0tB/cROwH0gEwk8tqpRheGZJio2m/TMArmCEZbnZr51GfJaoQjYnJG//JAQBC2lBTmdNPy0GuhAhiJdZY7li72nXi6WHpqUzops0ZIUjnf6YxAQY7RE7KUQkn1cnqteK/DVrm5SzmlSZUgzDu4lLE2ebjOalkJt0JUJNNWIgc04owoR/eSukeQBSAu0h2dJDtGw2GuPr6+vnt35vHQ/bMStcJFmvVqvvw3N/AHLUaiOu1L5UAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 678,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "GitHub - causefx/Organizr: HTPC/Homelab Services Organizer - Written in PHP",
+          "url": "https://github.com/causefx/Organizr",
+          "width": 0,
+          "windowId": 596
+        },
+        "681": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADLUlEQVRYR7VXO2hUQRQ9Z61iZ2IRghYxEkttFcGgES0SK7HcqPjBzmgXFQujXcQuqGj2banlBtEiEC201U4CBiQBGwMpJGlMrpxlZpl9ztv3XlZvtbvzuWfOPfezRAkzsyMADgPYC6AHwH53fAXAJoCfAD6T/FL0WuZtNLM+AGMA5Hx33n63viEgAF6T1OdM6wjAzMYBnCzhOO1IzhdIzmchiAIwM730VkBxwYdnblOIHsfY+AuAmSmucl6U7qLgxIZACEzL2gC4lz/8D869Q4G4EzLRApBB+yoAIR4GIDGWsTUAS+6czntbITntv4QAJDipPbSE5Ef9YGbH3LoHostDU+iUmkrHV8E5Zc+N1N55kg391gTgUu1uhPoZki1HjqW+dBz95e6ezZBipyndHVorFB7ARQBHI/y2ASjDfwrUo8jZTyRrHsATR196XysEO3Hu2I2FQEsbJCfpyms6RtqgWE7lVbI8YC5sCkFMxLMCkEV/168PwiABT0TALgjAbZdm6fXJbl8fXmhmTyMAlgTgHoB9qUUp+WYevWXWMx66IgAxZGskp8o4yNubxXQWAJC8nndpbL1er58ws6pt2wjJAy4Tlvv7+38NHxr+Pjg4+CM8JwDK0ZhCS2ugntSfmdnVTsAHBga+jp4e/eD2rHUSYaksSOaStyDOFGGtd0/v6ti5sTfqFQJwAcCpqELJmSIXFnl5+h7HxP1OhUhn1FQWOoFoxnzbFosATe8ZOjh0RQA0eEgH6mQxa3QaqZIkeQHD5Z0AqOyq1GPNSPObZgC1Z18f1Ns1ZGribWvDtbnaN6/2siDMbDlsx75jNUcnAHKqKpkuUqskH3hnSS2xso7b0tB/cROwH0gEwk8tqpRheGZJio2m/TMArmCEZbnZr51GfJaoQjYnJG//JAQBC2lBTmdNPy0GuhAhiJdZY7li72nXi6WHpqUzops0ZIUjnf6YxAQY7RE7KUQkn1cnqteK/DVrm5SzmlSZUgzDu4lLE2ebjOalkJt0JUJNNWIgc04owoR/eSukeQBSAu0h2dJDtGw2GuPr6+vnt35vHQ/bMStcJFmvVqvvw3N/AHLUaiOu1L5UAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 681,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "GitHub - sissbruecker/linkding: Self-hosted bookmark service",
+          "url": "https://github.com/sissbruecker/linkding",
+          "width": 0,
+          "windowId": 596
+        },
+        "684": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.nucleustechnologies.com/favicon.ico",
+          "height": 609,
+          "highlighted": false,
+          "id": 684,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How to Unlock Password-Protected Outlook PST Files?",
+          "url": "https://www.nucleustechnologies.com/blog/how-to-unlock-password-protected-outlook-pst-files/",
+          "width": 1183,
+          "windowId": 596
+        },
+        "687": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABuklEQVQ4T2NkoBAwUqifgTYGOO/REH7747PT7/9/FRkYWBhYWf7cF+Dg23/A8dYbdBdjuMByq4zuX0aeVHtJF3ZTIUuGfwz/GM6+O8lw9NWBn3//fZhz0vPJJWRDUAxw3iMt/Pk3d729pCu7FJcUAx8rPwMDw3+G97/eMzz99pTh+Jv9P7kZvzbudXn6FmYIigHmOxVDhLgkXDX4NRmE2YUZuFi5wOq+/P7C8O7nG4ZrH68xfP7+Zs9xt/ursRpgsUe1jJuTTVmIS5hBkI2fgY2FDazux59vDO9/fWT4+P0zw88fP+4edrrdhdUAu4Pq5fxcvErcnGwMnKysDKysrGB1cneNtERey2ty/uIRBgswMlxk+McwKz4xfhqKF2wPaUZICQg4cnNwMfBwsjGws7IySNzS1RK5p2aDNb38Z8hGMUBvp7iYmrhCnTi/ICs/FwcDFzs7g9Qux2Dmb5wQmzHj8CJGNJrtVzLRl1NMlBIQYOHn4mIQXumShi+1Yk2J6htFpAyUVV2EefkVzfdHNpBsALKGhQsXXmD4z6BPtBfQFS6cvzCLgZFhKlGBiMupYEOYGNLgLkGKRgC2PoLPqkTxoAAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 687,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Tower/Apps",
+          "url": "http://192.168.0.161/Apps",
+          "width": 0,
+          "windowId": 596
+        },
+        "727": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 727,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Choose the Folder Outlook Starts Up In",
+          "url": "https://www.slipstick.com/outlook/choose-outlook-startup-folder/",
+          "width": 0,
+          "windowId": 596
+        }
+      },
+      "764": {
+        "736": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://to-do-cdn.microsoft.com/static-assets/e803db318e415cb6de36a86389ec18a83bd6537fda2f90b84a27bbe1c118829c/icons/favicon.ico",
+          "height": 667,
+          "highlighted": false,
+          "id": 736,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Welcome to To Do",
+          "url": "https://to-do.microsoft.com/tasks/",
+          "width": 1247,
+          "windowId": 764
+        },
+        "808": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://192.168.0.161:8978/favicon.svg",
+          "height": 624,
+          "highlighted": false,
+          "id": 808,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "CloudBeaver",
+          "url": "http://192.168.0.161:8978/#/",
+          "width": 1247,
+          "windowId": 764
+        },
+        "814": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://trango.io/favicon.ico",
+          "height": 667,
+          "highlighted": false,
+          "id": 814,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Trango - Real Time Audio, Video Calling and File Sharing Solution for Mobile and Desktop",
+          "url": "https://trango.io/Download",
+          "width": 1247,
+          "windowId": 764
+        },
+        "819": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://java.com/favicon.ico",
+          "height": 667,
+          "highlighted": false,
+          "id": 819,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "64-bit Java for Windows",
+          "url": "https://java.com/en/download/",
+          "width": 1247,
+          "windowId": 764
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "596": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 767,
+        "id": 596,
+        "incognito": false,
+        "left": 141,
+        "state": "minimized",
+        "top": 5,
+        "type": "normal",
+        "width": 1240
+      },
+      "764": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 784,
+        "id": 764,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1304
+      }
+    },
+    "tabsNumber": 9,
+    "name": "64-bit Java for Windows",
+    "date": 1615400247098,
+    "lastEditedTime": 1615400247098,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1615187048136,
+    "id": "b6a34b8c-2108-4473-aed3-ace3ad24d203"
+  }
+]

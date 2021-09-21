@@ -1,0 +1,187 @@
+[
+  {
+    "windows": {
+      "3053": {
+        "3044": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://icdn2.digitaltrends.com/image/digitaltrends/dt-site-icon-144x144.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3044,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "YouTube Music is Replacing Google Play Music: Here's What We Know | Digital Trends",
+          "url": "https://www.digitaltrends.com/music/what-happens-to-google-play-music-youtube-music/",
+          "width": 459,
+          "windowId": 3053
+        },
+        "3045": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://support.google.com/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3045,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to use Google Play Music - Google Play Music Help",
+          "url": "https://support.google.com/googleplaymusic/answer/4515411?hl=en",
+          "width": 459,
+          "windowId": 3053
+        },
+        "3046": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395361/favicon-64x64.0.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3046,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "YouTube Music will eventually get Google Play Music’s best features, including user uploads - The Verge",
+          "url": "https://www.theverge.com/2018/5/23/17386752/youtube-music-uploads-feature-google-play-music",
+          "width": 459,
+          "windowId": 3053
+        },
+        "3047": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.soda.com/wp-content/uploads/2019/12/cropped-favicon-32x32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3047,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "YouTube Music is phasing out Google Play Music | soda",
+          "url": "https://www.soda.com/news/youtube-music-is-phasing-out-google-play-music/",
+          "width": 459,
+          "windowId": 3053
+        },
+        "3049": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://support.google.com/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3049,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Google play music libraries and playlists - YouTube Music Community",
+          "url": "https://support.google.com/youtubemusic/thread/11475976?hl=en",
+          "width": 459,
+          "windowId": 3053
+        },
+        "3050": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3050,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Access Google Play Music Library in Youtube Music? : googleplaymusic",
+          "url": "https://www.reddit.com/r/googleplaymusic/comments/ax1vun/access_google_play_music_library_in_youtube_music/",
+          "width": 459,
+          "windowId": 3053
+        },
+        "3052": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://support.google.com/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3052,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to add more favourites artists? - YouTube Music Community",
+          "url": "https://support.google.com/youtubemusic/thread/172927?hl=en",
+          "width": 459,
+          "windowId": 3053
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3053": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1410,
+        "id": 3053,
+        "incognito": false,
+        "left": 2556,
+        "state": "normal",
+        "top": -140,
+        "type": "normal",
+        "width": 516
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Google play music libraries and playlists - YouTube Music Community",
+    "date": 1600023177299,
+    "lastEditedTime": 1601295398046,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "5967fb38-523a-43bd-881c-aa415a3c6928"
+  }
+]

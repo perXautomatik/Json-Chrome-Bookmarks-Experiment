@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "4108": {
+        "4505": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEFUlEQVRYR+2WXWgcVRSAv17GYViWJUhMauMaoi9SRLSkGiKGWhSClGKp1YcSYrVF8qCiNkrxYSlFgg8ifehLUTH4IGjSdFOEoEiDKaFCkT6UEIqGNtukm5hNQlmGZbxe5M6d/ZnNznb9qUFwyDCb2Zs53/nOPWeyhU0+tmxyfP5bAJls9onpqaleVOBNVPlT0N391EQyufXHRs02bEAH57ffe6cvThMJAHQ93oUQTCSTyYYgGgfILKR0Vslk2/F62V2/nvHXtbcn664rPqNxgIWFlM78jgIs3Lzp06OKRS7bNvfLtTdLyutKVipuRTyFjvb2kp2QAR+gIviGEHccQGuuOEL5Vf4iipL+aQMNAkSpDZUpVKAwaHQJAoAaeYXKbb6vn314RYMAmSoDNTdW1R6Jasl6liIN1ASoSlT9awA1DMvpH2Dqe0R+FWGZOVycxtKTqEQzPPk0orunokDVGUBHR0QbZoJpV61VzVxBDn+KyK+AbSNsC2FZoCH085VEeRIK+uohm5qx+o7A9u0b94r6kwDe+FnUl8N+UCzLXDWAECZ9pX8UeMpASAOjT6uvH7FnbzifegBLS0uhOVA4fRo5NmqytUU5a0sYgOKhlJlfUqGkBA2igaRE7D+AdfhwyESyrfw+CU3C3NpaCWBlcgLnvROhwEa7LnwAUDTgl0GrUIEBHVxbkT6E8+EQYldPqXNbW++pPYqLAK7Mk/p2gMFjs8R89cI//az15yB7fSk1RQDgBw5O5flkEI/jnBtDxOO+s9sCnJkfYSz7Nc+m8/SezeJoCB1XG9ACtrXg7N+H3bkD4nlwL+Flv8Er3EAIZdaWzmCvOM8jHzaCowFypgSvXTpEQbg4rsXrx2ZpWQcnaDv7xRdYf3OQybkCK3lJzIbmuE3PA3HuXnwHtfK5CW4pbEfpfet/FiLBcssvvpHW1taIEuTWUjPrMwxdPY4wyfLIlOSlT+ZwhCC2exc/vTXEF5ddEo4gZhpC7zdcD17tTNCp+rEL4+UBUdEDq01pPLuLe6MBcqmRayOkl/XON3+pXEn/iXkeWpQkzp9nYNLo1cG1FS3G7DetXnBqj0XzYlvNCZ13jpJPDEYD/JrLpc5UAegntUy5DIwXmD2V5uTFAjFb4ATZB43gd15Bwvu7EzwjHkPI+Q39fyt2FPe2AHOBAbuizT3FwXQT1/Z9zPBlzw+uT9MQAv1+CLqOvh0x3rj/AFbhwl8DGPm5DFA5a7Zdcdj56Ek+uOAhhJ6EAUAwYvwRoOCj5+LstXciVNiA/l6XwG2qU4LlXO6V0atfJdPZUYSjJ184iVTTEAfPgassxF0WothvehKiiFmK716Ocd/qgxv2gJJwy3kXN/F2pq1t62fFBQ3/Vxz13v+79/8H2HQDfwDx3/UwEfJpvQAAAABJRU5ErkJggg==",
+          "height": 1001,
+          "highlighted": false,
+          "id": 4505,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Chrome Web Store - Extensions",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/rename-tab-title/kppndhfiaenbiioipolacicknfmdcdep",
+          "width": 936,
+          "windowId": 4108
+        },
+        "4798": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1001,
+          "highlighted": true,
+          "id": 4798,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 4505,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tab ReTitle - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tab-retitle/hilgambgdpjgljhjdaccadahckpdiapo/related?hl=en",
+          "width": 936,
+          "windowId": 4108
+        },
+        "4801": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 4801,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 4798,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome regex tab title - Google Search",
+          "url": "https://www.google.com/search?q=chrome+regex+tab+title&rlz=1CAZBMY_enSE834&oq=chrome+regex+tab+title&aqs=chrome..69i57.6348j0j4&sourceid=chrome&ie=UTF-8",
+          "width": 936,
+          "windowId": 4108
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4108": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 4108,
+        "incognito": false,
+        "left": 936,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Tab ReTitle - Chrome Web Store",
+    "date": 1599919739229,
+    "lastEditedTime": 1601295398617,
+    "tag": [
+      "winClose",
+      "loppy",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "af353299-ffe6-4a1d-bbf8-806e5eda0104"
+  }
+]

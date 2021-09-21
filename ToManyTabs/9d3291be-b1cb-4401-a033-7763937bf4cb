@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "1874": {
+        "1875": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 1001,
+          "highlighted": true,
+          "id": 1875,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "\"Always open these types of links in the associated app\" checkbox is not displayed - Google Chrome Community",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=%22Always%20open%20these%20types%20of%20links%20in%20the%20associated%20app%22%20checkbox%20is%20not%20displayed%20-%20Google%20Chrome%20Community&pos=790&uri=https://support.google.com/chrome/thread/14193532?hl=en",
+          "width": 936,
+          "windowId": 1874
+        },
+        "1876": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAD00lEQVRYR8VXTWhcVRQ+5943k9JiqyRY/Bd1I1hRLFZEN0qsqKuWuLFkJpnJZKZodyKFQkcQirgQTHFe5j9BNw5BEAVLQRRFLFRwUX+WbbWRhAy2EdNO5t1z5A69kzuvb2ZeZjNZZTg/33d+73kIQ/7DIePDtggk0unHWIn9HvFeBIgws9QBIKJigKYjcAUlnS+57oWwgYUicGR2dlx64oAB7OdcE1IOnftkfv5sX91eCqnUsfubqvmGYo72cxQkl4ibERn5NJ//6HI3+64ZmEqlDpDCg8zYoaOjQ+BlFHAFBdeJJBLwGCh4EoAjfiBEZiH5TCWfPxdEIpCABleeeNk2EAIaDHh249raL7VaTdmyeOrNfeR5h3plSTr0dRCJWwjotDdUI25HjhJ+37haX/IDG8B48ughItrXi4DOxIgcqfrLcQuBqUTmuF1zKeD7StH9xu88m82Ki3+tPI2A9zLQI0Qw0q9PdE9USrlTtl4HAd3toonPGgUd+ULB/SzAMU4mMpPA/GA/UL+cIvyjPR0dBGKJzAkzarrm/12rfxCU9ljqrYfZax7ZLrjZGQul3HvtIM0/esk0N+FwWyDwy4Vi7ucgkKmZ9EGl4JlBCGibSBSWzLJqZ2B65mjcU/SAYbmxvnaqW9PFEplXmXn/oAQcKS6VCx9XW1jGyWQi8w4w79C/BcKf1ZJb7gYQS2aeQoaHbDkj38UEd4QihXhjsZR7v4OAXX8p4adKwT0TytlNpelU6jnPEy+GsdHLzPTBVgam0yeNsRPhr8rz8+fDODM6yWRyrwdOighEkB0yrTKKO41ssey+21kCi0A3YETcBIQ6INcR6ddqPv+HrTuZzDwumV5SjLu2mll4pPgH6eAGKXqlKwG7BGEjF4i/3bbT+WJubq5hbLLZrHNxdXWMms3dEYo21tdX/67Vapv25ASXwGrCsAS0npT4baWQ+66fTTyRniaG+1p6QU1oj2E/Zx1yiTeuX137UEfZzW5iYkLu3D12vL3kpLhU9Y+hfxFth0RUeG6xWFzpNbZM/JqRBy4iLRykD1pOo1BcdN0rQQR09Lv2jL5tHiu7/h1ToH/Ek7PjRFuPUZDDm3fBv7ZM7pCfl0+fXg7Sj82kX2cFjxpZz8dIK/mfY79TlHBhoeAuhSnRVDL9giJ43uj2fY61YtBBYoOFIdBquttHD9uRhz5IWlkIOMnai6VHBlrAe8aeQOBx/4ES+iQzQN2PUlYIuCwEXlYM/0hJyISjTHAPA97tP90HOkoNiaGe5Xbdh/Zh4u/0oX2ahRm5QXVCfRsO6jyM3f/MWwE/vY6CGgAAAABJRU5ErkJggg==",
+          "height": 1001,
+          "highlighted": false,
+          "id": 1876,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Google tests new Chrome OS revert feature for rolling back to the previous version | VentureBeat",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Google%20tests%20new%20Chrome%20OS%20revert%20feature%20for%20rolling%20back%20to%20the%20previous%20version%20%7C%20VentureBeat&pos=0&uri=https://venturebeat.com/2014/11/05/google-tests-new-chrome-os-revert-feature-for-rolling-back-to-the-previous-version/#:~:text=To%20access%20the%20feature%2C%20open,%2B%20Shift%20%2B%20Alt%20%2B%20R.&text=After%20you%20click%20on%20%E2%80%9CPowerwash,installed%20version%20of%20Chrome%20OS.",
+          "width": 936,
+          "windowId": 1874
+        },
+        "1877": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1001,
+          "highlighted": false,
+          "id": 1877,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pendingUrl": "https://support.google.com/chromebook/thread/6436235?hl=en&msgid=26271797",
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "",
+          "url": "",
+          "width": 936,
+          "windowId": 1874
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1874": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 1874,
+        "incognito": false,
+        "left": 936,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 3,
+    "name": "\"Always open these types of links in the associated app\" checkbox is not displayed - Google Chrome Community",
+    "date": 1599768310903,
+    "lastEditedTime": 1601295398131,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599767327574,
+    "id": "61d90cf8-0510-452d-a8fa-1ee0e8eaf39c"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "11945": {
+        "11874": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/a4383047/img/favicon_32.png",
+          "height": 1001,
+          "highlighted": true,
+          "id": 11874,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(102) Checking out Crystal Caves HD! Apogee's 1991 DOS Classic Remade - YouTube",
+          "url": "https://www.youtube.com/watch?v=M5ugtogPaqY&list=WL&index=6",
+          "width": 960,
+          "windowId": 11945
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "11945": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 11945,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 960
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(102) Checking out Crystal Caves HD! Apogee's 1991 DOS Classic Remade - YouTube",
+    "date": 1602374103782,
+    "lastEditedTime": 1602332855061,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "cdf58298-45b0-48e5-98ca-6f0f21acbe1e"
+  }
+]

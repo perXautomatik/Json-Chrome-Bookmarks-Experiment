@@ -1,0 +1,298 @@
+[
+  {
+    "windows": {
+      "2205": {
+        "2070": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 778,
+          "highlighted": false,
+          "id": 2070,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Bookmarks: Bookmarks bar",
+          "url": "chrome://startpage/bookmarks",
+          "width": 471,
+          "windowId": 2205
+        },
+        "2071": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 778,
+          "highlighted": false,
+          "id": 2071,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Clutter Free - Prevent duplicate tabs - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf?hl=en",
+          "width": 471,
+          "windowId": 2205
+        },
+        "2072": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.highmotionsoftware.com/sites/default/files/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2072,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Create Contact Sheet | High Motion Software",
+          "url": "https://www.highmotionsoftware.com/help/imbatch/createcontactsheet_task",
+          "width": 935,
+          "windowId": 2205
+        },
+        "2074": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2074,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download Alternate DLL Analyzer 1.810",
+          "url": "https://www.softpedia.com/get/Programming/Other-Programming-Files/DLL-Analyzer.shtml",
+          "width": 935,
+          "windowId": 2205
+        },
+        "2082": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2082,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download PeStudio 9.06",
+          "url": "https://www.softpedia.com/get/Programming/Other-Programming-Files/PeStudio.shtml",
+          "width": 935,
+          "windowId": 2205
+        },
+        "2087": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2087,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download and use Chrome extensions in Opera - Install Chrome Extensions - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/install-chrome-extensions/",
+          "width": 935,
+          "windowId": 2205
+        },
+        "2095": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 778,
+          "highlighted": false,
+          "id": 2095,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Firebug Lite for Google Chrome - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/ehemiojjcpldeipjhjkepfdaohajpbdo/related?hl=en",
+          "width": 935,
+          "windowId": 2205
+        },
+        "2102": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.highmotionsoftware.com/sites/default/files/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2102,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "ImBatch – The Best in Batch Image Processing | High Motion Software",
+          "url": "https://www.highmotionsoftware.com/products/imbatch",
+          "width": 935,
+          "windowId": 2205
+        },
+        "2106": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.steelbytes.com/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2106,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JPEG & PNG Stripper - www.SteelBytes.com",
+          "url": "http://www.steelbytes.com/?mid=30",
+          "width": 935,
+          "windowId": 2205
+        },
+        "2110": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.metalith.ru/files/metalith.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2110,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Metalith",
+          "url": "http://www.metalith.ru/en/download.html",
+          "width": 935,
+          "windowId": 2205
+        },
+        "2115": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.savardsoftware.com/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2115,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Savard Software - TurboTop",
+          "url": "https://www.savardsoftware.com/turbotop/",
+          "width": 935,
+          "windowId": 2205
+        },
+        "2122": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2122,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Statistics and related apps",
+          "url": "https://www.softpedia.com/downloadTag/statistics",
+          "width": 999,
+          "windowId": 2205
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2205": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 867,
+        "id": 2205,
+        "incognito": false,
+        "left": 558,
+        "state": "normal",
+        "top": 8,
+        "type": "normal",
+        "width": 528
+      }
+    },
+    "tabsNumber": 12,
+    "name": "Bookmarks: Bookmarks bar",
+    "date": 1600042400184,
+    "lastEditedTime": 1601295397596,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "0e73699c-4d28-4ad6-aa8f-44ca09dc82ad"
+  }
+]

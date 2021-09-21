@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "164": {
+        "161": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 721,
+          "highlighted": false,
+          "id": 161,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql server - The metadata could not be determined because statement 'INSERT INTO #temp_display () values () uses temp table - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/45552985/the-metadata-could-not-be-determined-because-statement-insert-into-temp-displa",
+          "width": 1324,
+          "windowId": 164
+        },
+        "172": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 721,
+          "highlighted": false,
+          "id": 172,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 161,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "git cvs - Reverting part of a commit with git - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/4795600/reverting-part-of-a-commit-with-git",
+          "width": 1324,
+          "windowId": 164
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "164": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 164,
+        "incognito": false,
+        "left": 1984,
+        "state": "normal",
+        "top": -23,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 2,
+    "name": "git cvs - Reverting part of a commit with git - Stack Overflow",
+    "date": 1602598475556,
+    "lastEditedTime": 1602595460430,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602590858445,
+    "id": "26cec7de-3904-48dd-9c55-6e83e314ea8b"
+  }
+]

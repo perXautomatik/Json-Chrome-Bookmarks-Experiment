@@ -1,0 +1,377 @@
+[
+  {
+    "windows": {
+      "331": {
+        "340": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/8259e7c9/img/favicon_32.png",
+          "height": 681,
+          "highlighted": false,
+          "id": 340,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(41) USB Switch for Keyboard and Mouse - USB Peripheral Sharing Switch - YouTube",
+          "url": "https://www.youtube.com/watch?v=Sll3dYmzRqY&t=85s",
+          "width": 1410,
+          "windowId": 331
+        },
+        "352": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.pcbway.com/favicon.ico",
+          "height": 681,
+          "highlighted": false,
+          "id": 352,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Online Gerber Viewer - PCB Prototype the Easy Way - PCBWay",
+          "url": "https://www.pcbway.com/project/OnlineGerberViewer.html",
+          "width": 1410,
+          "windowId": 331
+        },
+        "353": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/8259e7c9/img/favicon_32.png",
+          "height": 681,
+          "highlighted": false,
+          "id": 353,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "DIY LiPo Charge/Protect/5V Boost Circuit - YouTube",
+          "url": "https://www.youtube.com/watch?v=Fj0XuYiE7HU",
+          "width": 1410,
+          "windowId": 331
+        },
+        "363": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.olimex.com/favicon.ico",
+          "height": 681,
+          "highlighted": false,
+          "id": 363,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Design Tools",
+          "url": "https://www.olimex.com/PCB/DesignTools/",
+          "width": 1410,
+          "windowId": 331
+        },
+        "366": {
+          "active": false,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/8259e7c9/img/favicon_32.png",
+          "height": 681,
+          "highlighted": false,
+          "id": 366,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(41) Does it suck? Chinese DIY Pure Sine Wave Inverter || Sinusoidal PWM (SPWM) Tutorial - YouTube",
+          "url": "https://www.youtube.com/watch?v=Dn2PFebi2ww",
+          "width": 1410,
+          "windowId": 331
+        },
+        "374": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://easyeda.com/favicon.ico",
+          "height": 681,
+          "highlighted": false,
+          "id": 374,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "EasyEDA - A Simple and Powerful Electronic Circuit Design Tool",
+          "url": "https://easyeda.com/editor",
+          "width": 1410,
+          "windowId": 331
+        },
+        "382": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://easyeda.com/favicon.ico",
+          "height": 681,
+          "highlighted": false,
+          "id": 382,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "EasyEDA - A Simple and Powerful Electronic Circuit Design Tool",
+          "url": "https://easyeda.com/editor?authenticate=force#",
+          "width": 1410,
+          "windowId": 331
+        }
+      },
+      "335": {
+        "341": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/8259e7c9/img/favicon_32.png",
+          "height": 681,
+          "highlighted": false,
+          "id": 341,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(41) YouTube",
+          "url": "https://www.youtube.com/feed/history?query=led",
+          "width": 1410,
+          "windowId": 335
+        },
+        "436": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/8259e7c9/img/favicon_32.png",
+          "height": 681,
+          "highlighted": false,
+          "id": 436,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(41) Peltier Soda Cooler Machine - DIY Drink Dispenser - YouTube",
+          "url": "https://www.youtube.com/watch?v=pvtm7dFGl_4",
+          "width": 1410,
+          "windowId": 335
+        },
+        "439": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/8259e7c9/img/favicon_32.png",
+          "height": 681,
+          "highlighted": false,
+          "id": 439,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(41) Battery Spot Welder (CD Welder) || DIY or Buy - YouTube",
+          "url": "https://www.youtube.com/watch?v=5TVNdMqVZpk",
+          "width": 1410,
+          "windowId": 335
+        },
+        "442": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/8259e7c9/img/favicon_32.png",
+          "height": 681,
+          "highlighted": false,
+          "id": 442,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(41) DIY Mini Lab Bench Power Supply (With Switchable DC and AC Input) - YouTube",
+          "url": "https://www.youtube.com/watch?v=PhLFmokgr9o",
+          "width": 1410,
+          "windowId": 335
+        },
+        "445": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/8259e7c9/img/favicon_32.png",
+          "height": 681,
+          "highlighted": false,
+          "id": 445,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AC Light Dimmer || DIY or Buy || Phase Angle Control Tutorial - YouTube",
+          "url": "https://www.youtube.com/watch?v=hGFRQcVmLNg&t=645s",
+          "width": 1410,
+          "windowId": 335
+        },
+        "448": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/8259e7c9/img/favicon_32.png",
+          "height": 681,
+          "highlighted": false,
+          "id": 448,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(41) DIY Buck/Boost Converter (Flyback) || How to step up/down DC voltage efficiently - YouTube",
+          "url": "https://www.youtube.com/watch?v=ZiD_X-uo_TQ",
+          "width": 1410,
+          "windowId": 335
+        },
+        "451": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/8259e7c9/img/favicon_32.png",
+          "height": 681,
+          "highlighted": false,
+          "id": 451,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(41) How to Make VU-meter, Easy & Simple/ Without IC: LED Meter for Audio Amplifier - YouTube",
+          "url": "https://www.youtube.com/watch?v=j5kUHxr1H58",
+          "width": 1410,
+          "windowId": 335
+        },
+        "454": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/docs/doclist/images/icon_14_image_favicon.ico",
+          "height": 681,
+          "highlighted": false,
+          "id": 454,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Wire diagram - Google Drive",
+          "url": "https://drive.google.com/file/d/1OkdE0L6MYWNaPRTewcXAjmdkZ6pX3s3R/view",
+          "width": 1410,
+          "windowId": 335
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "331": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 801,
+        "id": 331,
+        "incognito": false,
+        "left": -466,
+        "state": "normal",
+        "top": 327,
+        "type": "normal",
+        "width": 1467
+      },
+      "335": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 801,
+        "id": 335,
+        "incognito": false,
+        "left": 275,
+        "state": "normal",
+        "top": 103,
+        "type": "normal",
+        "width": 1467
+      }
+    },
+    "tabsNumber": 15,
+    "name": "DIY LiPo Charge/Protect/5V Boost Circuit - YouTube",
+    "date": 1600332459702,
+    "lastEditedTime": 1601295398135,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600332373848,
+    "id": "61eecd87-eaf9-4c92-97b2-87fcc3a73b9e"
+  }
+]

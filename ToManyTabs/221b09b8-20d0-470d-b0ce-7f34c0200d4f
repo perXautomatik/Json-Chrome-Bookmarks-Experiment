@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "13073": {
+        "13072": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://i1.social.s-msft.com/Forums/GlobalResources/images/Msdn/favicon.ico",
+          "height": 1001,
+          "highlighted": true,
+          "id": 13072,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "OpenQuery() to Linked Server hangs, leaving SPID with open tran, then templog.ldf grows without limit.",
+          "url": "https://social.msdn.microsoft.com/Forums/sqlserver/en-US/6bdbae14-716e-4684-bca1-b5458f4643fd/openquery-to-linked-server-hangs-leaving-spid-with-open-tran-then-templogldf-grows-without?forum=transactsql",
+          "width": 789,
+          "windowId": 13073
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "13073": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 13073,
+        "incognito": false,
+        "left": 704,
+        "state": "normal",
+        "top": 195,
+        "type": "normal",
+        "width": 789
+      }
+    },
+    "tabsNumber": 1,
+    "name": "OpenQuery() to Linked Server hangs, leaving SPID with open tran, then templog.ldf grows without limit.",
+    "date": 1602693095147,
+    "lastEditedTime": 1602693093762,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "4bc92b89-c4db-45c4-ac65-89130dc21fa3"
+  }
+]

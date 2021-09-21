@@ -1,0 +1,269 @@
+[
+  {
+    "windows": {
+      "645": {
+        "648": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.sqlshack.com/favicon.ico",
+          "height": 1328,
+          "highlighted": false,
+          "id": 648,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "When to Use Temporary Tables vs. Table Variables",
+          "url": "https://www.sqlshack.com/when-to-use-temporary-tables-vs-table-variables/",
+          "width": 753,
+          "windowId": 645
+        },
+        "650": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1328,
+          "highlighted": false,
+          "id": 650,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Spatial Indexing Overview | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/bb964712(v=sql.105)?redirectedfrom=MSDN",
+          "width": 753,
+          "windowId": 645
+        },
+        "651": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1328,
+          "highlighted": false,
+          "id": 651,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "CREATE SPATIAL INDEX (Transact-SQL) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/statements/create-spatial-index-transact-sql?view=sql-server-ver15",
+          "width": 753,
+          "windowId": 645
+        },
+        "652": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1328,
+          "highlighted": false,
+          "id": 652,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "azure sql database - SQL Spatial index and clustered index - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/13395651/sql-spatial-index-and-clustered-index",
+          "width": 753,
+          "windowId": 645
+        },
+        "653": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.midnightdba.com/favicon.ico",
+          "height": 1328,
+          "highlighted": false,
+          "id": 653,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Create a clustered index and a primary key on existing tables > The MidnightDBA Star-Times",
+          "url": "http://www.midnightdba.com/Jen/2014/12/create-a-clustered-index-and-a-primary-key-on-existing-tables/",
+          "width": 753,
+          "windowId": 645
+        },
+        "654": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1328,
+          "highlighted": false,
+          "id": 654,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "the create spatial index statement is missing the required parameter 'bounding box' - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=the+create+spatial+index+statement+is+missing+the+required+parameter+%27bounding+box%27&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 753,
+          "windowId": 645
+        },
+        "655": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1328,
+          "highlighted": false,
+          "id": 655,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql - Bounding Box - Point - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/13555694/bounding-box-point",
+          "width": 753,
+          "windowId": 645
+        },
+        "656": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://books.google.no/favicon.ico",
+          "height": 1328,
+          "highlighted": false,
+          "id": 656,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Beginning Spatial with SQL Server 2008 - Alastair Aitchison - Google Books",
+          "url": "https://books.google.no/books?id=bceM3BTzbzAC&lpg=PA305&ots=8cZa69YzA6&dq=sql+server+geometry+bounding+box&pg=PA394&hl=en#v=onepage&q&f=false",
+          "width": 753,
+          "windowId": 645
+        },
+        "657": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1328,
+          "highlighted": false,
+          "id": 657,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "add bounding box to tsql - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=add+bounding+box+to+tsql&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 753,
+          "windowId": 645
+        },
+        "658": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1328,
+          "highlighted": false,
+          "id": 658,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 657,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Optimizing SQL Server Spatial Queries with Bounding Box | About Sql Server",
+          "url": "https://aboutsqlserver.com/2013/09/03/optimizing-sql-server-spatial-queries-with-bounding-box/",
+          "width": 753,
+          "windowId": 645
+        },
+        "695": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "height": 0,
+          "highlighted": false,
+          "id": 695,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql - Optimizing Geometry.STIntersect Query - Geographic Information Systems Stack Exchange",
+          "url": "https://gis.stackexchange.com/questions/145019/optimizing-geometry-stintersect-query",
+          "width": 0,
+          "windowId": 645
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "645": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1417,
+        "id": 645,
+        "incognito": false,
+        "left": 2055,
+        "state": "normal",
+        "top": -491,
+        "type": "normal",
+        "width": 810
+      }
+    },
+    "tabsNumber": 11,
+    "name": "Spatial indexes, Bounderyboxes, When to Use Temporary Tables vs. Table Variables",
+    "date": 1601295468757,
+    "lastEditedTime": 1601295630403,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1601295271964,
+    "id": "07679149-5e3c-4e07-b940-1b7c24d41d45"
+  }
+]

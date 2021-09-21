@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "15437": {
+        "15438": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn1-images.nutaku.com/images/icons/favicon.ico",
+          "height": 1000,
+          "highlighted": true,
+          "id": 15438,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": true,
+            "reason": "user"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Booty Farm - Dating Sim | Nutaku",
+          "url": "https://beta.nutaku.net/games/booty-farm/play/",
+          "width": 1459,
+          "windowId": 15437
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "15437": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 15437,
+        "incognito": false,
+        "left": -19,
+        "state": "normal",
+        "top": 154,
+        "type": "popup",
+        "width": 1459
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Booty Farm - Dating Sim | Nutaku",
+    "date": 1603261367125,
+    "lastEditedTime": 1603261363533,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "13d07696-93a2-42d9-bfc6-d32b1f649469"
+  }
+]

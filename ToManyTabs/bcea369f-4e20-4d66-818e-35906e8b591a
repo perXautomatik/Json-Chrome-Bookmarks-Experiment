@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "13175": {
+        "13164": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "height": 1009,
+          "highlighted": true,
+          "id": 13164,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PowerShell/command-line-simple-example.md at master · PowerShell/PowerShell",
+          "url": "https://github.com/PowerShell/PowerShell/blob/master/docs/cmdlet-example/command-line-simple-example.md",
+          "width": 1872,
+          "windowId": 13175
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "13175": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 13175,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 1872
+      }
+    },
+    "tabsNumber": 1,
+    "name": "PowerShell/command-line-simple-example.md at master · PowerShell/PowerShell",
+    "date": 1602744152618,
+    "lastEditedTime": 1602744123926,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "1076428c-2722-4fe9-b000-7e266315eabc"
+  }
+]

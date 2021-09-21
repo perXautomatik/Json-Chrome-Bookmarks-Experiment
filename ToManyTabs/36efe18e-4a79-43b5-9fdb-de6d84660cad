@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "54": {
+        "89": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 466,
+          "highlighted": false,
+          "id": 89,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": true,
+          "status": "complete",
+          "title": "The Distress Subsided · Headless Horseman",
+          "url": "https://open.spotify.com/playlist/7ovTonGCFXDy01Hp83oznh",
+          "width": 1041,
+          "windowId": 54
+        },
+        "148": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sqlservertutorial.net/wp-content/uploads/cropped-favicon-1-32x32.png",
+          "height": 466,
+          "highlighted": false,
+          "id": 148,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL Server UPDATE JOIN Explained By Practical Examples",
+          "url": "https://www.sqlservertutorial.net/sql-server-basics/sql-server-update-join/",
+          "width": 1041,
+          "windowId": 54
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "54": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 586,
+        "id": 54,
+        "incognito": false,
+        "left": 703,
+        "state": "normal",
+        "top": 185,
+        "type": "normal",
+        "width": 1098
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Home2",
+    "date": 1611056188492,
+    "lastEditedTime": 1611056188492,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1610841606134,
+    "id": "35384429-5a3e-4082-8dbb-28ea979c45d1"
+  }
+]

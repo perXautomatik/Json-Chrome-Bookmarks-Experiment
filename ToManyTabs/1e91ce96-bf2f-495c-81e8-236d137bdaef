@@ -1,0 +1,276 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4197": {
+        "width": 1872,
+        "type": "normal",
+        "top": 0,
+        "state": "maximized",
+        "left": 0,
+        "incognito": false,
+        "height": 1080,
+        "focused": true,
+        "alwaysOnTop": false,
+        "id": 4197
+      }
+    },
+    "windows": {
+      "4197": {
+        "4225": {
+          "title": "nextcloud - Google Search",
+          "windowId": 4197,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?q=nextcloud&rlz=1CAZBMY_enSE834&oq=nextclo&aqs=chrome.2.69i57j0l7.9826j0j7&sourceid=chrome&ie=UTF-8",
+          "id": 4225,
+          "index": 0
+        },
+        "4245": {
+          "title": "photos for chromebook - Google Search",
+          "windowId": 4197,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?q=photos+for+chromebook&rlz=1CAZBMY_enSE834&oq=photos+for+chromebook&aqs=chrome..69i57j0l5.12740j0j9&sourceid=chrome&ie=UTF-8",
+          "id": 4245,
+          "index": 5
+        },
+        "4248": {
+          "title": "The best photo and video editors for Chromebooks you should download",
+          "windowId": 4197,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAD00lEQVRYR8VXTWhcVRQ+5943k9JiqyRY/Bd1I1hRLFZEN0qsqKuWuLFkJpnJZKZodyKFQkcQirgQTHFe5j9BNw5BEAVLQRRFLFRwUX+WbbWRhAy2EdNO5t1z5A69kzuvb2ZeZjNZZTg/33d+73kIQ/7DIePDtggk0unHWIn9HvFeBIgws9QBIKJigKYjcAUlnS+57oWwgYUicGR2dlx64oAB7OdcE1IOnftkfv5sX91eCqnUsfubqvmGYo72cxQkl4ibERn5NJ//6HI3+64ZmEqlDpDCg8zYoaOjQ+BlFHAFBdeJJBLwGCh4EoAjfiBEZiH5TCWfPxdEIpCABleeeNk2EAIaDHh249raL7VaTdmyeOrNfeR5h3plSTr0dRCJWwjotDdUI25HjhJ+37haX/IDG8B48ughItrXi4DOxIgcqfrLcQuBqUTmuF1zKeD7StH9xu88m82Ki3+tPI2A9zLQI0Qw0q9PdE9USrlTtl4HAd3toonPGgUd+ULB/SzAMU4mMpPA/GA/UL+cIvyjPR0dBGKJzAkzarrm/12rfxCU9ljqrYfZax7ZLrjZGQul3HvtIM0/esk0N+FwWyDwy4Vi7ucgkKmZ9EGl4JlBCGibSBSWzLJqZ2B65mjcU/SAYbmxvnaqW9PFEplXmXn/oAQcKS6VCx9XW1jGyWQi8w4w79C/BcKf1ZJb7gYQS2aeQoaHbDkj38UEd4QihXhjsZR7v4OAXX8p4adKwT0TytlNpelU6jnPEy+GsdHLzPTBVgam0yeNsRPhr8rz8+fDODM6yWRyrwdOighEkB0yrTKKO41ssey+21kCi0A3YETcBIQ6INcR6ddqPv+HrTuZzDwumV5SjLu2mll4pPgH6eAGKXqlKwG7BGEjF4i/3bbT+WJubq5hbLLZrHNxdXWMms3dEYo21tdX/67Vapv25ASXwGrCsAS0npT4baWQ+66fTTyRniaG+1p6QU1oj2E/Zx1yiTeuX137UEfZzW5iYkLu3D12vL3kpLhU9Y+hfxFth0RUeG6xWFzpNbZM/JqRBy4iLRykD1pOo1BcdN0rQQR09Lv2jL5tHiu7/h1ToH/Ek7PjRFuPUZDDm3fBv7ZM7pCfl0+fXg7Sj82kX2cFjxpZz8dIK/mfY79TlHBhoeAuhSnRVDL9giJ43uj2fY61YtBBYoOFIdBquttHD9uRhz5IWlkIOMnai6VHBlrAe8aeQOBx/4ES+iQzQN2PUlYIuCwEXlYM/0hJyISjTHAPA97tP90HOkoNiaGe5Xbdh/Zh4u/0oX2ahRm5QXVCfRsO6jyM3f/MWwE/vY6CGgAAAABJRU5ErkJggg==",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.androidauthority.com/edit-photos-video-chromebook-1110776/",
+          "id": 4248,
+          "index": 6
+        },
+        "4266": {
+          "title": "Google Photos - Chrome Web Store",
+          "windowId": 4197,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEFUlEQVRYR+2WXWgcVRSAv17GYViWJUhMauMaoi9SRLSkGiKGWhSClGKp1YcSYrVF8qCiNkrxYSlFgg8ifehLUTH4IGjSdFOEoEiDKaFCkT6UEIqGNtukm5hNQlmGZbxe5M6d/ZnNznb9qUFwyDCb2Zs53/nOPWeyhU0+tmxyfP5bAJls9onpqaleVOBNVPlT0N391EQyufXHRs02bEAH57ffe6cvThMJAHQ93oUQTCSTyYYgGgfILKR0Vslk2/F62V2/nvHXtbcn664rPqNxgIWFlM78jgIs3Lzp06OKRS7bNvfLtTdLyutKVipuRTyFjvb2kp2QAR+gIviGEHccQGuuOEL5Vf4iipL+aQMNAkSpDZUpVKAwaHQJAoAaeYXKbb6vn314RYMAmSoDNTdW1R6Jasl6liIN1ASoSlT9awA1DMvpH2Dqe0R+FWGZOVycxtKTqEQzPPk0orunokDVGUBHR0QbZoJpV61VzVxBDn+KyK+AbSNsC2FZoCH085VEeRIK+uohm5qx+o7A9u0b94r6kwDe+FnUl8N+UCzLXDWAECZ9pX8UeMpASAOjT6uvH7FnbzifegBLS0uhOVA4fRo5NmqytUU5a0sYgOKhlJlfUqGkBA2igaRE7D+AdfhwyESyrfw+CU3C3NpaCWBlcgLnvROhwEa7LnwAUDTgl0GrUIEBHVxbkT6E8+EQYldPqXNbW++pPYqLAK7Mk/p2gMFjs8R89cI//az15yB7fSk1RQDgBw5O5flkEI/jnBtDxOO+s9sCnJkfYSz7Nc+m8/SezeJoCB1XG9ACtrXg7N+H3bkD4nlwL+Flv8Er3EAIZdaWzmCvOM8jHzaCowFypgSvXTpEQbg4rsXrx2ZpWQcnaDv7xRdYf3OQybkCK3lJzIbmuE3PA3HuXnwHtfK5CW4pbEfpfet/FiLBcssvvpHW1taIEuTWUjPrMwxdPY4wyfLIlOSlT+ZwhCC2exc/vTXEF5ddEo4gZhpC7zdcD17tTNCp+rEL4+UBUdEDq01pPLuLe6MBcqmRayOkl/XON3+pXEn/iXkeWpQkzp9nYNLo1cG1FS3G7DetXnBqj0XzYlvNCZ13jpJPDEYD/JrLpc5UAegntUy5DIwXmD2V5uTFAjFb4ATZB43gd15Bwvu7EzwjHkPI+Q39fyt2FPe2AHOBAbuizT3FwXQT1/Z9zPBlzw+uT9MQAv1+CLqOvh0x3rj/AFbhwl8DGPm5DFA5a7Zdcdj56Ek+uOAhhJ6EAUAwYvwRoOCj5+LstXciVNiA/l6XwG2qU4LlXO6V0atfJdPZUYSjJ184iVTTEAfPgassxF0WothvehKiiFmK716Ocd/qgxv2gJJwy3kXN/F2pq1t62fFBQ3/Vxz13v+79/8H2HQDfwDx3/UwEfJpvQAAAABJRU5ErkJggg==",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://chrome.google.com/webstore/detail/google-photos/hcglmfcclpfgljeaiahehebeoaiicbko",
+          "id": 4266,
+          "index": 7
+        },
+        "4278": {
+          "title": "IMG_20200917_221548946.jpg (3120×4160)",
+          "windowId": 4197,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAD00lEQVRYR8VXTWhcVRQ+5943k9JiqyRY/Bd1I1hRLFZEN0qsqKuWuLFkJpnJZKZodyKFQkcQirgQTHFe5j9BNw5BEAVLQRRFLFRwUX+WbbWRhAy2EdNO5t1z5A69kzuvb2ZeZjNZZTg/33d+73kIQ/7DIePDtggk0unHWIn9HvFeBIgws9QBIKJigKYjcAUlnS+57oWwgYUicGR2dlx64oAB7OdcE1IOnftkfv5sX91eCqnUsfubqvmGYo72cxQkl4ibERn5NJ//6HI3+64ZmEqlDpDCg8zYoaOjQ+BlFHAFBdeJJBLwGCh4EoAjfiBEZiH5TCWfPxdEIpCABleeeNk2EAIaDHh249raL7VaTdmyeOrNfeR5h3plSTr0dRCJWwjotDdUI25HjhJ+37haX/IDG8B48ughItrXi4DOxIgcqfrLcQuBqUTmuF1zKeD7StH9xu88m82Ki3+tPI2A9zLQI0Qw0q9PdE9USrlTtl4HAd3toonPGgUd+ULB/SzAMU4mMpPA/GA/UL+cIvyjPR0dBGKJzAkzarrm/12rfxCU9ljqrYfZax7ZLrjZGQul3HvtIM0/esk0N+FwWyDwy4Vi7ucgkKmZ9EGl4JlBCGibSBSWzLJqZ2B65mjcU/SAYbmxvnaqW9PFEplXmXn/oAQcKS6VCx9XW1jGyWQi8w4w79C/BcKf1ZJb7gYQS2aeQoaHbDkj38UEd4QihXhjsZR7v4OAXX8p4adKwT0TytlNpelU6jnPEy+GsdHLzPTBVgam0yeNsRPhr8rz8+fDODM6yWRyrwdOighEkB0yrTKKO41ssey+21kCi0A3YETcBIQ6INcR6ddqPv+HrTuZzDwumV5SjLu2mll4pPgH6eAGKXqlKwG7BGEjF4i/3bbT+WJubq5hbLLZrHNxdXWMms3dEYo21tdX/67Vapv25ASXwGrCsAS0npT4baWQ+66fTTyRniaG+1p6QU1oj2E/Zx1yiTeuX137UEfZzW5iYkLu3D12vL3kpLhU9Y+hfxFth0RUeG6xWFzpNbZM/JqRBy4iLRykD1pOo1BcdN0rQQR09Lv2jL5tHiu7/h1ToH/Ek7PjRFuPUZDDm3fBv7ZM7pCfl0+fXg7Sj82kX2cFjxpZz8dIK/mfY79TlHBhoeAuhSnRVDL9giJ43uj2fY61YtBBYoOFIdBquttHD9uRhz5IWlkIOMnai6VHBlrAe8aeQOBx/4ES+iQzQN2PUlYIuCwEXlYM/0hJyISjTHAPA97tP90HOkoNiaGe5Xbdh/Zh4u/0oX2ahRm5QXVCfRsO6jyM3f/MWwE/vY6CGgAAAABJRU5ErkJggg==",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "file:///home/chronos/u-e0dd67f278de33832f0e3e6eff92ba59003783d2/MyFiles/Downloads/IMG_20200917_221548946.jpg",
+          "id": 4278,
+          "index": 4
+        },
+        "4295": {
+          "title": "online image compress \"blocking\" - Google Search",
+          "windowId": 4197,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?rlz=1CAZBMY_enSE834&sxsrf=ALeKk00FOrTeB-ei3sT1Ej57HDHe57S3YQ:1600981688431&q=online+image+compress+%22blocking%22&sa=X&ved=2ahUKEwjgr9LG2YLsAhVhwIsKHcbUAPYQ5t4CMAB6BAgCEAY&biw=1872&bih=1009",
+          "id": 4295,
+          "index": 1
+        },
+        "4301": {
+          "title": "Online Image Сompressor",
+          "windowId": 4197,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACQklEQVRYR2NkGGDAOMD2M4w6AB4CoQcP6oKi48WnTxYgmomRhRVb9Pz7/+c3SJyXje05iFbn5d0LovutrL6TE50D7wCYzx9/+hIE8kGmhgaKR6bfuAHmK/HxgOlYFRUwvfXJEzB99c2b2yB6v7f3MrJCYMAdYLt5cyrI5QEqalIgenVqMtgjteXlYHq7mBiYdmdgAtMzW5vB9Or168G047YdYNpSWLCLnLTAOOAOsN+yPQvkcl1RIVEQfWLpUrCPXBwdwfQjISEwrQ6N4M1r14JZubn5YBqWRoTYWM7iSwPcHBwPwSFnb38ZWR3jgDvAasMmcGT/YmTkANEsTJC4/vPvH5gmlo/L9wJsLGCpD7/+gGlOJgaUXMM44A4w2bi5Htmn+OKRFDmYTw0EBcHZ5ebnz84gGpYWvv74IQ/iMw64A2BR8I+ZGZwGCAFYnBJSB5NnY2b+jE8tPA0MmAMct26NArnw+z8GVXwuhfl8vp0dWFn9uXNgulRHD8K/AOH3mpmB6YlXrkHEjQzA9LRbd8B0lhqkLgnYvXs7OA0MuAPcd+wAO/nj77+e+EIAVi4YiUBKxnNv3oFpNQE+MH3v0xcwrSckgCLvIgWuYhj2PHsGpi0kIHXLjU+f5oNDYMAdUHjsGCfIJWfevo0B0b8ZmCBOxgFILSHR1cPqjG3u7lvAITDgDoB5FOaQQ48fu4NdxsGlD6JhdQG+UMEnx/T37w+QPC8H234QvdPD4xSyenibcMAdQK4PKdU32jEZDYEBDwEAWzxUOgOzQGIAAAAASUVORK5CYII=",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://imagecompressor.com/",
+          "id": 4301,
+          "index": 2
+        },
+        "4308": {
+          "title": "Photo Editor : Pixlr X - free image editing online",
+          "windowId": 4197,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE7klEQVRYR7VXf0hbVxg9CSGERwiPEB5ZCJKJFKeSiXXSDWut3bp1lWW6utI6B61r6Y/V0tnQOSdBrEixzm2p3bRIW+2mxbarw462a7vp6nDimBRbXCdOQpDwFkLIHuHxCI9xXzAm5tfL3L4/3733O+ee+53v3qdgyg85IDPM9fWg8vJSzvZyAuY9AZkZAUUmBNQMA0tjI6BSJQV46gmA5YT/hwDJSpduAVP1RlKAqUUvQqJs/MwUWEnL2Gygy8riUHhBxIzLJx8dGR4Bo6fx+ubnsaO0EFnZZhh0WgnMHxLhEYC7rICeJ154eHkSZOkpeQpYTAyaD9hQWVYEpTL1Bgn0DXcQTY/8WOBCCSerVUrkGLTQa9XpCVSWbYSz6V1QGnVG0hLsuikvbi4HI+sotRImHQVGp4lsJKULDtW8gtYj1RkBR08mapx+ymHQLYCm1NCo4+VLSuDNbS+g9+P9/xo8eqFjUcADf+LjSEjAZKDx02UHtJQmksfn58DxPJRQwmzUJyTm9vggQoRWo4GeDhcoiaAI1M7x8CbwZ0ICPc37sOvlkhiQ6blF2I53QRRFfNFSj+qK4pjxGw9mcLitH0qlEqOfNaKkIDtm/LYvhPal+AalKOz4RmrFwt8cBJaFQRQweeHDhNV+uu8mnEN3oNNSGL/YAqIUiWWvH1v2tSHABXG8dgc+ei++UZF6qJnjwQqxFlVsn/wr5i54y6TBQcuqfNHbCIVE7Dx2FrPzf6K8OB9XO9+Xhmvs5zAx8xiFuc/iVs9JqJJ49XO3gBE2thbiCHTk6VBEJ7fcgsuDbQc6wAsCuu11EoETnYPQqNW4f6EJOVnGpIU7FRBhX+BjxuMIXCzSw6RJ3W3OD99Da+916ShIEOnbjtbg4K6KlK5x8SJqn6QhMLrJgDT4EEWg6sQnmHr0hwRYWvQcrnc1pLUsccOrs6uNiSyIU0AOAS7IY2t9O1werwRKWjWRP9q2idjIIiDnCOyfDmNgdBwGWifheP0B7K/aio6Gt9d/BOmKcGxiFvWOXgBKXO08JgHutjsBiBhsP4rtLxWsrwhtRg2OZCe2IesLSH73BTjs3bkZ3Sf3hl1w9gq+vjUpdb/x/hYw+rAya6N54C6+Uxqgzc0l/KWIqwGjWoXLxeEGszZ228/hx5nH0pn/0N8cuSGDvCDVxNIyi4qSfAydCfeH6CAddOOeFiyzPqiNz0CbXwAqd0M8AWlHOVq8xqzeA+TbwNhD2Lu+Stpqo1t1V2Mt3qksjSFw6dsJnOoeiiMWpwCZYVAr0V+kj7EjqfyQKEoEdFGXVHTGQJCX7grSCaMdQda+WNcK1ueXRwAiYNWpcMZKrxxV0sJKN0BI7zl1XmrViSKiAOnzLj8H1h9EgA/fWh9YGXRtMqfDSDpOGpbjy2voG7mfdI5EwOXjsMD6QUisjepsGoPlFlCqNI/BNQtJYR5uv4TbD39LuQGFeeR3h9vHpZxk0KhgtzJosDLQpHmVCiERfdfuoWfoe8mu6UKB3l9l/5oZKRWqLTRsFhq5NAUTFf5D8goilvkQfvYJuDO7hGlnTzrcyHhGBNZmLTDrYYp6eknjoRBmW9sBMfEbcG2OdREg7/uyDea419O80wnew8pSYV0ECII1ywCjLvwuWInFwWEE5hPb7j9VgCQz6SkUmAwxed2jY/BO/yJLgX8AKK31uPka5H0AAAAASUVORK5CYII=",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://pixlr.com/x/",
+          "id": 4308,
+          "index": 3
+        },
+        "4317": {
+          "title": "Sharpen Image Online | Easily Sharp Photos Online in Seconds for Free with Raw.pics.io",
+          "windowId": 4197,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACnElEQVRYR+2XXUjTYRTGf44xhowxZMj6ZIiIhAyLCBGJKAVviuzKZTdZNyYVMupGRFaIjMoiGZIhYnRhEHkjRaVh1tUYErUkQiRFYkTYGmOMMUac3tl0n04wb3bu/vC+533Oc57zHP4lQC87GCVFAEUGigxshQGtFprr4ORR0GrSZ/jdBxh/BZFo/vnOOIbyQIa8xIHdZnCcg9Ym+LgA/lXQrB2Og8EAdTXwbBpcjyAQRCWLQygMMUmyLtIA7LfAratgMqpL60M+rRaVsG8Enk6lVymMnD4GfZ0KWDCkzgsbl10w9yUPALMJzjZDqV4l+Fdd4l44ApOz8HU5N73VVjh8IMmkVD7lgR+reQAYDeqiTguLK9kfKjOqczWVsMcMeh0Ew7D0XVUp7dmSBiTpi0EQJm6PwbX7GxELsDPHoasNbFWgL030eO1YDAIBeOMF1yh45nMzlaYBATA9BEYTDIyC414ygbTjSivc7FRii0bA6wPPZ/gVgn3l0HAQqqygEQa/wXknzM5lB1EQgHobTNyF8jJYDUDPEDx+nhBa4g0RcXc7XGwBjQ7ee6HFAT8DmUEUBMB9HS7Z1XTceAC9w5mTij6e9ENjPcSiYO9WE5MpNg1AxPnaDUdqwe+Hpg7wLWantv0UjPQAWhgY29jKnD6QTQNiQG8fQmUFzPngREfCZLJgaKhVYjYYYXwS2rrTbOXvzU0zsOMAUlsgDMz/zxYIXakidA5npnVbRCgApK8Td8C8NobuxBiGk0LYa4Ge7RrDVCOKhME7D55P8Hu9EVUkjeiCE2YKNaKXg1CWy4obocue24pnvNA/Bh5fgVZskn1uU8toYSW70GRXHKoGWyXsMoNOp/b9kl8tI98CyObMF8X/giIDRQZ2nIE/09AaEOPsNrYAAAAASUVORK5CYII=",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://raw.pics.io/sharp-image",
+          "id": 4317,
+          "index": 8
+        },
+        "4322": {
+          "title": "Let's Enhance",
+          "windowId": 4197,
+          "width": 1872,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": true,
+          "height": 1009,
+          "favIconUrl": "https://letsenhance.io/v2/public/icons/favicon-32x32.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://letsenhance.io/v2/pricing",
+          "id": 4322,
+          "index": 10
+        },
+        "4326": {
+          "title": "LunaPic | Free Online Photo Editor | Photo Restore",
+          "windowId": 4197,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,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",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www8.lunapic.com/editor/?action=restore",
+          "id": 4326,
+          "index": 9
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Loppy",
+      "Home"
+    ],
+    "tabsNumber": 11,
+    "sessionStartTime": 1600633358975,
+    "name": "Ai image online image Enhance",
+    "lastEditedTime": 1601167836979,
+    "date": 1600983542159,
+    "id": "79a66467-66cf-4525-891a-814d68a39360"
+  }
+]

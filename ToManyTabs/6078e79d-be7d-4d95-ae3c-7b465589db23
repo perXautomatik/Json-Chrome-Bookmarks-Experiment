@@ -1,0 +1,54 @@
+[
+  {
+    "windows": {
+      "530": {
+        "529": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 568,
+          "highlighted": false,
+          "id": 529,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Twitter / Authorize an application",
+          "url": "https://api.twitter.com/oauth/authorize",
+          "width": 668,
+          "windowId": 530
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "530": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 656,
+        "id": 530,
+        "incognito": false,
+        "left": 610,
+        "state": "normal",
+        "top": 220,
+        "type": "popup",
+        "width": 684
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Twitter / Authorize an application",
+    "date": 1599836474605,
+    "lastEditedTime": 1601295398164,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599820276730,
+    "id": "67e0f31b-65ba-4097-9f25-00652595de3b"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "windows": {
+      "485": {
+        "367": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s3.amazonaws.com/thinkific-import/116598/p3GcdMi4QG237ur6sexQ_pirple-logo-circle.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 367,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Pirple.com: What will you learn today?",
+          "url": "https://www.pirple.com/?campaignid=10950861063&adgroupid=111186735807&adid=459805154596&gclid=CjwKCAjwlID8BRAFEiwAnUoK1aqhql3mB9quwLA7_gPsThqUVpxoo22VEoM4PsyCz-GjCNPF8zcI_xoC9F0QAvD_BwE",
+          "width": 1383,
+          "windowId": 485
+        },
+        "488": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 488,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Arduino - Software",
+          "url": "https://www.arduino.cc/en/Main/Software",
+          "width": 1383,
+          "windowId": 485
+        },
+        "494": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 494,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 488,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Arduino - Create",
+          "url": "https://www.arduino.cc/en/Main/Create",
+          "width": 1383,
+          "windowId": 485
+        },
+        "497": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 497,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 488,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tutorials | Arduino",
+          "url": "https://www.arduino.cc/en/Tutorial/HomePage",
+          "width": 1383,
+          "windowId": 485
+        },
+        "500": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 500,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 488,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Arduino - FAQ",
+          "url": "https://www.arduino.cc/en/Main/FAQ",
+          "width": 1383,
+          "windowId": 485
+        },
+        "503": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 503,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 488,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Arduino Reference - Arduino Reference",
+          "url": "https://www.arduino.cc/reference/en/",
+          "width": 1383,
+          "windowId": 485
+        },
+        "504": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 504,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 488,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Arduino Playground - HomePage",
+          "url": "https://playground.arduino.cc/",
+          "width": 1383,
+          "windowId": 485
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "485": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 485,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Arduino Playground - HomePage",
+    "date": 1602253528307,
+    "lastEditedTime": 1602253524376,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602086503320,
+    "id": "5bfb04f0-6c52-46bc-aef0-5c13f838b507"
+  }
+]

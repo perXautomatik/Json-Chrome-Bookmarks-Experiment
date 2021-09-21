@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "13": {
+        "57": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 1782,
+          "highlighted": false,
+          "id": 57,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": true,
+          "status": "complete",
+          "title": "Spotify – Dubolt Mix: Yabibo Hazurfa / Moral Order / Headless Horseman / Shelley Parker",
+          "url": "https://open.spotify.com/playlist/7ovTonGCFXDy01Hp83oznh",
+          "width": 1039,
+          "windowId": 13
+        },
+        "62": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.sqlshack.com/favicon.ico",
+          "height": 1328,
+          "highlighted": false,
+          "id": 62,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The Table Variable in SQL Server",
+          "url": "https://www.sqlshack.com/the-table-variable-in-sql-server/",
+          "width": 753,
+          "windowId": 13
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "13": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1906,
+        "id": 13,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -735,
+        "type": "normal",
+        "width": 1096
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Spotify – Dubolt Mix: Yabibo Hazurfa / Moral Order / Headless Horseman / Shelley Parker",
+    "date": 1604320103923,
+    "lastEditedTime": 1604319930544,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1604319820746,
+    "id": "17ab80c6-635a-49e5-9201-34c6f3bb5feb"
+  }
+]

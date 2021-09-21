@@ -1,0 +1,172 @@
+[
+  {
+    "windows": {
+      "14": {
+        "29": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.multcloud.com/images/public/favicon.ico",
+          "height": 963,
+          "highlighted": false,
+          "id": 29,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MultCloud - Put multiple cloud drives into one.",
+          "url": "https://www.multcloud.com/index.jsp?rl=en-US&tmp=1614903987491#home",
+          "width": 481,
+          "windowId": 14
+        },
+        "42": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://evernote.com/favicon.ico",
+          "height": 451,
+          "highlighted": false,
+          "id": 42,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Compare plans and get started for free | Evernote",
+          "url": "https://evernote.com/compare-plans",
+          "width": 465,
+          "windowId": 14
+        },
+        "56": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.multcloud.com/images/front/comma/favicon.ico",
+          "height": 963,
+          "highlighted": false,
+          "id": 56,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 29,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "MultCloud Time-limited Offer",
+          "url": "https://www.multcloud.com/monthly-unlimited-web.html?id=51feffd66c5fdf3a016c625cdb4101ab&time=86281&lang=en-US&page=monthly1",
+          "width": 481,
+          "windowId": 14
+        }
+      },
+      "37": {
+        "36": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://outlook-1.cdn.office.net/owamail/20210222004.08/resources/images/favicons/mail-seen.ico",
+          "height": 512,
+          "highlighted": false,
+          "id": 36,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Email - Christoffer Brobäck - Outlook",
+          "url": "https://outlook.office.com/mail/deeplink?popoutv2=1&version=20210222004.08",
+          "width": 784,
+          "windowId": 37
+        }
+      },
+      "46": {
+        "33": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://outlook-1.cdn.office.net/owamail/20210222004.08/resources/images/favicons/mail-unseen.ico",
+          "height": 598,
+          "highlighted": false,
+          "id": 33,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Email - Christoffer Brobäck - Outlook",
+          "url": "https://outlook.office.com/mail/inbox/id/AAQkADJhMDVlYTEyLTcyOWQtNDkxYS1iZjU4LThlYjZmODA4ZGIzMgAQABRd4iKlME3Ll7zwBdCFn%2FA%3D",
+          "width": 465,
+          "windowId": 46
+        }
+      }
+    },
+    "windowsNumber": 3,
+    "windowsInfo": {
+      "14": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 14,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 538
+      },
+      "37": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 600,
+        "id": 37,
+        "incognito": false,
+        "left": 71,
+        "state": "minimized",
+        "top": 243,
+        "type": "popup",
+        "width": 536
+      },
+      "46": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 718,
+        "id": 46,
+        "incognito": false,
+        "left": 78,
+        "state": "normal",
+        "top": 205,
+        "type": "normal",
+        "width": 522
+      }
+    },
+    "tabsNumber": 5,
+    "name": "MultCloud Time-limited Offer",
+    "date": 1614904112594,
+    "lastEditedTime": 1614904112594,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1614844127454,
+    "id": "8e03d808-97c8-4fde-94d6-abc67f57865a"
+  }
+]

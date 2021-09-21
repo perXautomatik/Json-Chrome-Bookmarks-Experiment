@@ -1,0 +1,76 @@
+[
+  {
+    "windows": {
+      "147": {
+        "153": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1328,
+          "highlighted": false,
+          "id": 153,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "DJ Music Mixer - Download",
+          "url": "https://dj-music-mixer.en.softonic.com/",
+          "width": 753,
+          "windowId": 147
+        },
+        "158": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1328,
+          "highlighted": false,
+          "id": 158,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "dj tool that visualize real time wave change - Google Search",
+          "url": "https://www.google.com/search?q=dj+tool+that+visualize+real+time+wave+change&client=opera-gx&hs=ln0&sxsrf=ALeKk00SZrx5gk430NXNo12NX9YpHEeTmg:1601633300031&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi9kqL_1JXsAhVik4sKHbOvAiwQ_AUoAXoECAwQAw&cshid=1601633315666470&biw=1323&bih=720#imgrc=opcDB8hIQS4p9M",
+          "width": 753,
+          "windowId": 147
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "147": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1417,
+        "id": 147,
+        "incognito": false,
+        "left": 2055,
+        "state": "normal",
+        "top": -491,
+        "type": "normal",
+        "width": 810
+      }
+    },
+    "tabsNumber": 2,
+    "name": "DJ Music Mixer - Download",
+    "date": 1601635519008,
+    "lastEditedTime": 1601635517710,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1601635479176,
+    "id": "86cadc6d-3eb9-4cca-9922-4a10dd938f44"
+  }
+]

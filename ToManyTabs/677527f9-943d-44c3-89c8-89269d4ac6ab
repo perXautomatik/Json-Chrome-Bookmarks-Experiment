@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "5313": {
+        "5315": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://theme.zdassets.com/theme_assets/787891/094ea5643df65d56fe21ecbca0cc04270d5b0e2d.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5315,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Cross Database Join Query – IDEs Support (IntelliJ Platform) | JetBrains",
+          "url": "https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000422160-Cross-Database-Join-Query",
+          "width": 1383,
+          "windowId": 5313
+        },
+        "5316": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://intellij-support.jetbrains.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5316,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 5315,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "eFzX1jMC7RG_1piE4Y3ATQ.png (1173×551)",
+          "url": "https://intellij-support.jetbrains.com/hc/user_images/eFzX1jMC7RG_1piE4Y3ATQ.png",
+          "width": 1383,
+          "windowId": 5313
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5313": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 5313,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "eFzX1jMC7RG_1piE4Y3ATQ.png (1173×551)",
+    "date": 1601174033829,
+    "lastEditedTime": 1601174030825,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "7d3a6edb-5fb8-4a22-b0a2-be7e4a25668e"
+  }
+]

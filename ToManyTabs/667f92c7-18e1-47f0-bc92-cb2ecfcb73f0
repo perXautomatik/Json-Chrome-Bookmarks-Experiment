@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "840": {
+        "839": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "height": 1001,
+          "highlighted": true,
+          "id": 839,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Work2",
+          "url": "https://www.dwservice.net/session.dw?parent=mng#s",
+          "width": 1181,
+          "windowId": 840
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "840": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 840,
+        "incognito": false,
+        "left": 724,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1181
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Work2",
+    "date": 1600243096808,
+    "lastEditedTime": 1601295399151,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600157465223,
+    "id": "f44db18e-b8d9-4682-9812-83a2bac8286f"
+  }
+]
