@@ -4,6 +4,21 @@ if((get-alias | where {$_.ReferencedCommand -match "fx"}) -eq $null){
 Set-Alias fx "D:\PortableApps\6, Text,programming, x Editing\PortableApps\JsonParsingCmd\fx-win.exe" -option ReadOnly
 }
 
+# Usage
+#    $ fx [code ...]               
+#  Examples
+#    $ echo '{"key": "value"}' | fx 'x => x.key'
+#    value
+#    $ echo '{"key": "value"}' | fx .key
+#    value    
+#    $ echo '[1,2,3]' | fx 'this.map(x => x * 2)'
+#    [2, 4, 6]
+#    $ echo '{"items": ["one", "two"]}' | fx 'this.items' 'this[1]'
+#    two
+#    $ echo '{"count": 0}' | fx '{...this, count: 1}'
+#    {"count": 1}
+#    $ echo '{"foo": 1, "bar": 2}' | fx ?
+#    ["foo", "bar"]
 
 $healthyJson = cat .\008b183c-ba86-4bf9-9195-2f06784b5066 | fx 'this[0]'
 $ToNestedJson = $healthyJson | Tee-Object -Variable folder | fx 'this.name' | Tee-Object -Variable folderName | %{$folder} | fx 'this.windows'
@@ -13,7 +28,14 @@ $psObjectWithTypeHeader = ($ToNestedJson | ConvertFrom-Json ).psobject.propertie
 $flatListContentExposedStillToNested = $psObjectWithTypeHeader.PSObject.Properties | ForEach-Object { $_.Name; $_.Value }
 $nothing = $psObjectWithTypeHeader | Get-Member -MemberType Property | ForEach-Object {$_.Name} #suggestedAlternative
 
-$progress = $flatListContentExposedStillToNested | ConvertTo-Json | fx ?
+$progress = $flatListContentExposedStillToNested | ConvertTo-Json | fx ? # four numerations, i supose the json now looks like entry,{},entry,{} but can't enter this as i have no name of the variables, or can fx?
+
+#$error = $progress | fx 'this.map( x => x.)'
+$justPrints1 = $progress | fx 'this[1]'
+$goodReturns4 = $flatListContentExposedStillToNested | Measure-Object
+
+
+function 
 
 
 
