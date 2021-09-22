@@ -34,8 +34,9 @@ $progress = $flatListContentExposedStillToNested | ConvertTo-Json | fx ? # four 
 $justPrints1 = $progress | fx 'this[1]'
 $goodReturns4 = $flatListContentExposedStillToNested | Measure-Object
 
+$trueJsonChildNode = $flatListContentExposedStillToNested[1] | ConvertTo-Json | fx ?
 
-function 
+
 
 
 
