@@ -47,33 +47,17 @@
 
 
 $healthyJson = cat .\008b183c-ba86-4bf9-9195-2f06784b5066 | fx 'this[0]' 
-$ToNestedJson = $healthyJson | Tee-Object -Variable folder | fx 'this.name' | Tee-Object -Variable folderName | %{$folder} | fx 'this.windows'
-$psObjectWithTypeHeader = ($ToNestedJson | ConvertFrom-Json ).psobject.properties.value
 
-
-$flatListContentExposedStillToNested = $psObjectWithTypeHeader.PSObject.Properties | ForEach-Object { $_.Name; $_.Value }
-$flatListContentExposedStillToNested
-
-
-
-$trueJsonChildNode = $flatListContentExposedStillToNested[1] | ConvertTo-Json | fx 
-$trueJsonChildNode
-
-
-$psObjects = $healthyJson | ConvertFrom-Json 
-
-$psObjects |%{
+$healthyJson | ConvertFrom-Json  | %{
     $folderName = $_ | Select-Object name 
     $folderName
     
- $_ | convertTo-json | fx 'this.windows' |
- 
- unnest | fx | %{$_ | fx 'this' } 
- 
- #| ConvertFrom-Json
- 
- 
- #|  Select-Object title,url
+    $flatJson = (($healthyJson | Tee-Object -Variable folder | fx 'this.name' | Tee-Object -Variable folderName | %{$folder} | fx 'this.windows' | ConvertFrom-Json ).psobject.properties.value).PSObject.Properties | ForEach-Object { $_.Name; $_.Value } 
+
+    $flatJson  
+    $flatJson | %{$_ | ConvertTo-Json |  fx .[] }
+
+    #$flatJson | %{ select-Object title,url }
 }
 
 
