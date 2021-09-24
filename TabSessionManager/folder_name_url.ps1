@@ -41,11 +41,13 @@
 
 #$ fx --life
 
+. 'D:\Documents\WindowsPowerShell\Scripts\pipe-objects-into-arrays.ps1'
+
 . 'D:\Documents\WindowsPowerShell\Scripts\json\UnnestJson.ps1'
 
 
-$healthyJson = cat .\008b183c-ba86-4bf9-9195-2f06784b5066 | fx 'this[0]'
+$healthyJson = cat .D:\OneDrive\TabSessionManager - Backup\TabSessionManager\008b183c-ba86-4bf9-9195-2f06784b5066 | fx 'this[0]'
 $ToNestedJson = $healthyJson | Tee-Object -Variable folder | fx 'this.name' | Tee-Object -Variable folderName | %{$folder} | fx 'this.windows' 
 
-$ToNestedJson | unnest | Foreach-Object { $_ } | fx 
+$ToNestedJson | unnest | Chunk-Object | %{$_[0] | fx  } 
 
