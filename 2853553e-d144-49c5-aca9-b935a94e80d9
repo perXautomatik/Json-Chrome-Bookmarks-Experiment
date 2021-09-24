@@ -1,0 +1,142 @@
+[
+  {
+    "windows": {
+      "67": {
+        "74": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 998,
+          "highlighted": false,
+          "id": 74,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Page not found · GitHub · GitHub",
+          "url": "https://github.com/perXautomatik/mapinfo-Uts-kning-f-r-utskick/branches",
+          "width": 1801,
+          "windowId": 67
+        },
+        "75": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 721,
+          "highlighted": false,
+          "id": 75,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Your Repositories",
+          "url": "https://github.com/perXautomatik?tab=repositories",
+          "width": 1324,
+          "windowId": 67
+        },
+        "79": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gis.gotland.se/map/Content/images/favicon.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 79,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Miljö",
+          "url": "https://gis.gotland.se/map/?app=Milj%C3%B6&lang=sv#map",
+          "width": 1324,
+          "windowId": 67
+        },
+        "82": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 82,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Innehåll i kartan",
+          "url": "https://help.sgroup-solutions.se/19.3/sv/Webapplication/karta/map_content.htm",
+          "width": 1324,
+          "windowId": 67
+        },
+        "89": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.jetbrains.com/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 89,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Managing and filtering database objects, data sources groups, diagrams - Features | DataGrip",
+          "url": "https://www.jetbrains.com/datagrip/features/dbobjects.html",
+          "width": 1324,
+          "windowId": 67
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "67": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 67,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Your Repositories",
+    "date": 1600805557921,
+    "lastEditedTime": 1601295398376,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600802085758,
+    "id": "91847f77-aaa8-411b-b50d-ff225fb3e88c"
+  }
+]

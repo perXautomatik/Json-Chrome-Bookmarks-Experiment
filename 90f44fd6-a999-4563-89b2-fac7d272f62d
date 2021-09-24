@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "118": {
+        "142": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://img.wavescdn.com/1lib/images/favicons/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 142,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Kaleidoscopes - Phaser, Flanger, Chorus & Tremolo Plugin | Waves",
+          "url": "https://www.waves.com/plugins/kaleidoscopes?gclid=CjwKCAjwq_D7BRADEiwAVMDdHpHwL-iVh--Br10-RBBTUZGOKnhB7eKaSURtBhOnUaQdRYrCY9LjqBoCgYUQAvD_BwE#kaleidoscopes-analog-modulation-plugin-demo",
+          "width": 1383,
+          "windowId": 118
+        },
+        "145": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "height": 0,
+          "highlighted": false,
+          "id": 145,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "perXautomatik/sql-getIndexes",
+          "url": "https://github.com/perXautomatik/sql-getIndexes",
+          "width": 0,
+          "windowId": 118
+        },
+        "148": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://ssl.gstatic.com/ui/v1/icons/mail/images/2/unreadcountfavicon/60+.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 148,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "All Mail - christoffer.broback@gmail.com - Gmail",
+          "url": "https://mail.google.com/mail/u/0/#all",
+          "width": 0,
+          "windowId": 118
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "118": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 118,
+        "incognito": false,
+        "left": 306,
+        "state": "normal",
+        "top": 156,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Kaleidoscopes - Phaser, Flanger, Chorus & Tremolo Plugin | Waves",
+    "date": 1602171879702,
+    "lastEditedTime": 1602171876467,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602086503320,
+    "id": "07b29f2f-d106-4ec9-9a81-746f8fa9f1f0"
+  }
+]

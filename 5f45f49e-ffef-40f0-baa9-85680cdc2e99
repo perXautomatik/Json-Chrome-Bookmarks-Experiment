@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "3736": {
+        "3782": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a0423780588_3.jpg",
+          "height": 691,
+          "highlighted": false,
+          "id": 3782,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "OBJECT OF SUBVERSION [A+W XXII] | KONKURS | X-IMG",
+          "url": "https://x-img.bandcamp.com/album/object-of-subversion-a-w-xxii",
+          "width": 459,
+          "windowId": 3736
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3736": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 3736,
+        "incognito": false,
+        "left": 600,
+        "state": "normal",
+        "top": 413,
+        "type": "normal",
+        "width": 516
+      }
+    },
+    "tabsNumber": 1,
+    "name": "OBJECT OF SUBVERSION [A+W XXII] | KONKURS | X-IMG",
+    "date": 1600024426311,
+    "lastEditedTime": 1601295398014,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "55b46ecc-da56-4d54-95c5-629bd8a02fbd"
+  }
+]

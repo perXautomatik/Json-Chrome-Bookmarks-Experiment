@@ -1,0 +1,120 @@
+[
+  {
+    "windows": {
+      "1754": {
+        "1775": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 778,
+          "highlighted": false,
+          "id": 1775,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql - How can I call Scalar user defined function from linked server? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/29752105/how-can-i-call-scalar-user-defined-function-from-linked-server",
+          "width": 935,
+          "windowId": 1754
+        },
+        "1776": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 778,
+          "highlighted": false,
+          "id": 1776,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Storage Area Explorer - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/storage-area-explorer/ocfjjjjhkpapocigimmppepjgfdecjkb/related",
+          "width": 935,
+          "windowId": 1754
+        },
+        "1777": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 778,
+          "highlighted": false,
+          "id": 1777,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql server - T-SQL split string - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/10914576/t-sql-split-string",
+          "width": 935,
+          "windowId": 1754
+        },
+        "1782": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 778,
+          "highlighted": false,
+          "id": 1782,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/",
+          "url": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/",
+          "width": 935,
+          "windowId": 1754
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1754": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 867,
+        "id": 1754,
+        "incognito": false,
+        "left": 30,
+        "state": "normal",
+        "top": 8,
+        "type": "normal",
+        "width": 992
+      }
+    },
+    "tabsNumber": 4,
+    "name": "sql - How can I call Scalar user defined function from linked server? - Stack Overflow",
+    "date": 1600041180557,
+    "lastEditedTime": 1601295397789,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "2fc87138-589f-472d-b595-bc4e7cccd453"
+  }
+]

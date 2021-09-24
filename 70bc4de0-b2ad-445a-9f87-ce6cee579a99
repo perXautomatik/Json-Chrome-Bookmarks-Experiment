@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "8404": {
+        "8369": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/c46c1860/img/favicon_32.png",
+          "height": 1920,
+          "highlighted": false,
+          "id": 8369,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(69) How To Peel An Orange - YouTube",
+          "url": "https://www.youtube.com/watch?v=LgTRW4r6cJ0&list=TLPQMjcwOTIwMjBhTzFwhakV5w&index=29",
+          "width": 1200,
+          "windowId": 8404
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "8404": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1920,
+        "id": 8404,
+        "incognito": false,
+        "left": 1920,
+        "state": "fullscreen",
+        "top": -650,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(69) How To Peel An Orange - YouTube",
+    "date": 1601237121431,
+    "lastEditedTime": 1601237121431,
+    "tag": [
+      "regular",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "70302add-e670-4c8a-b944-429869c51da8"
+  }
+]

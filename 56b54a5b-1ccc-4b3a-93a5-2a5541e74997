@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "140": {
+        "139": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "height": 1155,
+          "highlighted": true,
+          "id": 139,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "powershellstuff/wordtotxt.ps1 at master · JoonasPit/powershellstuff · GitHub",
+          "url": "https://github.com/JoonasPit/powershellstuff/blob/master/wordtotxt.ps1",
+          "width": 1073,
+          "windowId": 140
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "140": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 140,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 1,
+    "name": "powershellstuff/wordtotxt.ps1 at master · JoonasPit/powershellstuff · GitHub",
+    "date": 1605176596558,
+    "lastEditedTime": 1605176593277,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1605140538703,
+    "id": "1ce605e0-cfbf-4fcf-af15-a34c8d25f10d"
+  }
+]

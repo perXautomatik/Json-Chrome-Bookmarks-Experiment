@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "335": {
+        "334": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 454,
+          "highlighted": false,
+          "id": 334,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "CREATE SYNONYM (Transact-SQL) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/statements/create-synonym-transact-sql?view=sql-server-ver15",
+          "width": 907,
+          "windowId": 335
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "335": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 574,
+        "id": 335,
+        "incognito": false,
+        "left": 190,
+        "state": "normal",
+        "top": 109,
+        "type": "normal",
+        "width": 964
+      }
+    },
+    "tabsNumber": 1,
+    "name": "CREATE SYNONYM (Transact-SQL) - SQL Server | Microsoft Docs",
+    "date": 1614337124848,
+    "lastEditedTime": 1614336692237,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1614064853380,
+    "id": "e5f573d3-23c5-4bd2-bb7c-7452016e880f"
+  }
+]

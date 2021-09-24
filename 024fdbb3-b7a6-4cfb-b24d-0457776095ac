@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "695": {
+        "718": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://filerun.com/favicon.ico?v=2015_06",
+          "height": 629,
+          "highlighted": false,
+          "id": 718,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FileRun - File Manager",
+          "url": "https://filerun.com/",
+          "width": 1247,
+          "windowId": 695
+        },
+        "721": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ipsassets.unraid.net/uploads/monthly_2018_09/favicon.ico.8ed25556cd37a2c082397863db15c0ba.ico",
+          "height": 629,
+          "highlighted": false,
+          "id": 721,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Chromebook SMB to unRAID - General Support - Unraid",
+          "url": "https://forums.unraid.net/topic/75950-chromebook-smb-to-unraid/",
+          "width": 1247,
+          "windowId": 695
+        },
+        "733": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.evernote.com/favicon.ico?v2",
+          "height": 629,
+          "highlighted": false,
+          "id": 733,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Evernote",
+          "url": "https://www.evernote.com/AppOAuth.action?state=authorized%26port%3D64758&code=4%2F0AY0e-g7-qPSrJEao5s269iOmK2HyldDccfax249trXDzZu61Ukk7_eF8WqZ8rqazeoziWA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&prompt=none#",
+          "width": 1247,
+          "windowId": 695
+        },
+        "739": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADLUlEQVRYR7VXO2hUQRQ9Z61iZ2IRghYxEkttFcGgES0SK7HcqPjBzmgXFQujXcQuqGj2banlBtEiEC201U4CBiQBGwMpJGlMrpxlZpl9ztv3XlZvtbvzuWfOPfezRAkzsyMADgPYC6AHwH53fAXAJoCfAD6T/FL0WuZtNLM+AGMA5Hx33n63viEgAF6T1OdM6wjAzMYBnCzhOO1IzhdIzmchiAIwM730VkBxwYdnblOIHsfY+AuAmSmucl6U7qLgxIZACEzL2gC4lz/8D869Q4G4EzLRApBB+yoAIR4GIDGWsTUAS+6czntbITntv4QAJDipPbSE5Ef9YGbH3LoHostDU+iUmkrHV8E5Zc+N1N55kg391gTgUu1uhPoZki1HjqW+dBz95e6ezZBipyndHVorFB7ARQBHI/y2ASjDfwrUo8jZTyRrHsATR196XysEO3Hu2I2FQEsbJCfpyms6RtqgWE7lVbI8YC5sCkFMxLMCkEV/168PwiABT0TALgjAbZdm6fXJbl8fXmhmTyMAlgTgHoB9qUUp+WYevWXWMx66IgAxZGskp8o4yNubxXQWAJC8nndpbL1er58ws6pt2wjJAy4Tlvv7+38NHxr+Pjg4+CM8JwDK0ZhCS2ugntSfmdnVTsAHBga+jp4e/eD2rHUSYaksSOaStyDOFGGtd0/v6ti5sTfqFQJwAcCpqELJmSIXFnl5+h7HxP1OhUhn1FQWOoFoxnzbFosATe8ZOjh0RQA0eEgH6mQxa3QaqZIkeQHD5Z0AqOyq1GPNSPObZgC1Z18f1Ns1ZGribWvDtbnaN6/2siDMbDlsx75jNUcnAHKqKpkuUqskH3hnSS2xso7b0tB/cROwH0gEwk8tqpRheGZJio2m/TMArmCEZbnZr51GfJaoQjYnJG//JAQBC2lBTmdNPy0GuhAhiJdZY7li72nXi6WHpqUzops0ZIUjnf6YxAQY7RE7KUQkn1cnqteK/DVrm5SzmlSZUgzDu4lLE2ebjOalkJt0JUJNNWIgc04owoR/eSukeQBSAu0h2dJDtGw2GuPr6+vnt35vHQ/bMStcJFmvVqvvw3N/AHLUaiOu1L5UAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 739,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "GitHub - sissbruecker/linkding: Self-hosted bookmark service",
+          "url": "https://github.com/sissbruecker/linkding",
+          "width": 0,
+          "windowId": 695
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "695": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 784,
+        "id": 695,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1304
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Evernote",
+    "date": 1615378681856,
+    "lastEditedTime": 1615378647063,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1615187048136,
+    "id": "4c1274da-0643-4d1e-b1a5-922e4ee549a0"
+  }
+]

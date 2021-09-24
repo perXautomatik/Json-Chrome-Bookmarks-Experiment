@@ -1,0 +1,230 @@
+[
+  {
+    "windows": {
+      "5484": {
+        "5486": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.sqlshack.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5486,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Execute a SQL Server procedure inside a function",
+          "url": "https://www.sqlshack.com/execute-a-sql-server-procedure-inside-the-function/",
+          "width": 1383,
+          "windowId": 5484
+        },
+        "5488": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 5488,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "file:///C:/Program%20Files/Microsoft%20SQL%20Server/100/Setup%20Bootstrap/Log/20200630_164304/SqlDiscoveryReport.htm",
+          "url": "file:///C:/Program%20Files/Microsoft%20SQL%20Server/100/Setup%20Bootstrap/Log/20200630_164304/SqlDiscoveryReport.htm",
+          "width": 1383,
+          "windowId": 5484
+        },
+        "5489": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gblobscdn.gitbook.com/spaces%2F-LVxEbs1kFIYtxUnpg-W%2Favatar.png?alt=media",
+          "height": 691,
+          "highlighted": false,
+          "id": 5489,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Configure SQL server to listen on a specific port - SPDocKit",
+          "url": "https://docs.syskit.com/spdockit/troubleshooting/sql-server-connection/configure-server-to-specific-port",
+          "width": 1383,
+          "windowId": 5484
+        },
+        "5490": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://techtalk.gfi.com/wp-content/themes/gfiblog/favicons/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5490,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to manage your servers remotely with PowerShell",
+          "url": "https://techtalk.gfi.com/how-to-manage-your-servers-remotely-with-powershell/",
+          "width": 1383,
+          "windowId": 5484
+        },
+        "5491": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5491,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Enter-PSSession (Microsoft.PowerShell.Core) - PowerShell | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/enter-pssession?view=powershell-7",
+          "width": 1383,
+          "windowId": 5484
+        },
+        "5492": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 5492,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "SQL Server Express : how to allow remote connections - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/23162708/sql-server-express-how-to-allow-remote-connections",
+          "width": 1383,
+          "windowId": 5484
+        },
+        "5493": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.hswstatic.com/en-us/hsw/img/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 5493,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How Domain Name Servers Work | HowStuffWorks",
+          "url": "https://computer.howstuffworks.com/dns.htm#pt1",
+          "width": 1383,
+          "windowId": 5484
+        },
+        "5494": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 5494,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql server - RETURN statements in scalar valued functions must include an argument - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/48993147/return-statements-in-scalar-valued-functions-must-include-an-argument",
+          "width": 1383,
+          "windowId": 5484
+        },
+        "5521": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 5521,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql server - Execute WITH statement inside a function - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/13166048/execute-with-statement-inside-a-function",
+          "width": 1383,
+          "windowId": 5484
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5484": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 5484,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 9,
+    "name": "SQL Server Express : how to allow remote connections - Stack Overflow",
+    "date": 1601174433330,
+    "lastEditedTime": 1601174431704,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "07d24df4-eccd-46b3-84e4-2917510f48bc"
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "windows": {
+      "902": {
+        "913": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/photo/Img/favicon.ico?v=20ef505cc470",
+          "height": 691,
+          "highlighted": false,
+          "id": 913,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "metadata - Is there a tool to compare image EXIF data across folders, so I can eliminate duplicates? - Photography Stack Exchange",
+          "url": "https://photo.stackexchange.com/questions/64931/is-there-a-tool-to-compare-image-exif-data-across-folders-so-i-can-eliminate-du",
+          "width": 1383,
+          "windowId": 902
+        },
+        "916": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 916,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "cygwin with powershell - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=cygwin+with+powershell&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 902
+        },
+        "925": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "http://geekswithblogs.cloudapp.net/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 925,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Using Cygwin with Powershell",
+          "url": "http://geekswithblogs.cloudapp.net/alexmoore/archive/2010/03/18/using-cygwin-with-powershell.aspx",
+          "width": 0,
+          "windowId": 902
+        },
+        "928": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://smallbusiness.chron.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 928,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "How to Run Cygwin Programs From Cmd.exe | Small Business - Chron.com",
+          "url": "https://smallbusiness.chron.com/run-cygwin-programs-cmdexe-50317.html",
+          "width": 0,
+          "windowId": 902
+        },
+        "934": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 934,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "windows - Get Color Palette of Image using PowerShell - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/46614133/get-color-palette-of-image-using-powershell",
+          "width": 0,
+          "windowId": 902
+        },
+        "940": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://exiftool.org/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 940,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "exiftool Application Documentation",
+          "url": "https://exiftool.org/exiftool_pod.html#READING-EXAMPLES",
+          "width": 0,
+          "windowId": 902
+        },
+        "944": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 0,
+          "highlighted": false,
+          "id": 944,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Update image alt tags using Sitecore PowerShell Extensions.",
+          "url": "https://gist.github.com/michaellwest/b71095cca46bd4b5aae4f1085dac0966",
+          "width": 0,
+          "windowId": 902
+        },
+        "949": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://community.spiceworks.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 949,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "[SOLVED] Compare Two Objects and Output the Difference - PowerShell - Spiceworks",
+          "url": "https://community.spiceworks.com/topic/1379707-compare-two-objects-and-output-the-difference",
+          "width": 1383,
+          "windowId": 902
+        },
+        "952": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://devblogs.microsoft.com/scripting/wp-content/uploads/sites/29/2018/10/Microsoft-Favicon.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 952,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Use PowerShell to Find Metadata from Photograph Files | Scripting Blog",
+          "url": "https://devblogs.microsoft.com/scripting/use-powershell-to-find-metadata-from-photograph-files/",
+          "width": 0,
+          "windowId": 902
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "902": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 902,
+        "incognito": false,
+        "left": 67,
+        "state": "normal",
+        "top": 300,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 9,
+    "name": "[SOLVED] Compare Two Objects and Output the Difference - PowerShell - Spiceworks",
+    "date": 1602353852652,
+    "lastEditedTime": 1602351798928,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602086503320,
+    "id": "7ec62205-dcf4-4faa-ab7b-73037c41d15b"
+  }
+]

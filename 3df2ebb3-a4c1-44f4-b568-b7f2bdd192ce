@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "19022": {
+        "19046": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB1klEQVRYR81Xy03DQBB9gxKfIBVABTQQJMQVuwAqoAIqoAQqoALufK4QiTRABXDmEDgliEHemV2cWS22AXnjy8rej9/83pul8h7HqB/C1I1tD2Phlhe4cktf5Z0nOHHvjN22I5rzlB/AA857IR7jsl5/M8VLPZYznP7Gcv9PKjcNABHunIWHmNdjNZeYeoura0x+irnfj5F4KOybSY4xa86pCyIP5AegMeYVDpqxDVm/VA+QZr0PJovHqMCTs3Sp8ySeoDEe3feV5kzSA9kBsNQ3Wwu9JZ9qiZkn3RcckphnYM+tUd6JcyA7gDdcOITbkv28JblAC2U+/z3lgXeJeWBGH2vdzzs4W2dCwwOUGwBMrC1LRrlhtUGrJNqnnrRaETNhdgB9hEHq22kDPjRnDNO1HddbC+yBwwMwMecl9pt13WZxZEBfNcRgADy3A89rfDAStUzG3DKmYb7uHsgFwOo5fF0rwwWGTGmFYUwU0jOGDsoSn82B/AC8HH/rueuALENaRkyqoU3azv3ApgHoqvdRP/BfHhgOgHbFvqu1VZC8Afn6b6sCcxNLdsXZAASmShBR57uf7rfMd3skTFrpPSGthtkB9JW1juvtxefP/UDH/4ZlFsAXqiqF0srhCA4AAAAASUVORK5CYII=",
+          "height": 1155,
+          "highlighted": true,
+          "id": 19046,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "China PCB Prototype & Fabrication Manufacturer - PCB Prototype the Easy Way",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=China%20PCB%20Prototype%20%26%20Fabrication%20Manufacturer%20-%20PCB%20Prototype%20the%20Easy%20Way&pos=0&uri=https://www.pcbway.com/",
+          "width": 1073,
+          "windowId": 19022
+        },
+        "19058": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFEklEQVRYR82X+7NWUxjHP/usdc4pSXJy6UYatyI0kRjTiERGBjO5X/KH0bgbMm7jmowUwwhpCmESQm65J5212ubzWvttq/f1W6Pnl3POfvZa+7l8v9/nORX/s1X/8/c5LAMYAI4DjgJ+AHa1qjQGmALUwNfAXy3fJGAE+An4vryje7CcicA3wO521XtV4DzgEuCI8vFngc+AccDVwKleHkL4MOf8HLAHOB24EpgA/A68DGzy4yGEy3PO5wIm9jnwNPBLE8SBAYwH7gDMprGPgEeBc4BroNu2fcAq4GPgVuDk1hmrc1/J/OZShca9GnijXwBHAytKJs07Zv8AcH7Jsl3Bp4AtwJ3A1JbD1q0EpgM3lOw77hjjupTSK/0CGAghLM052wYtAS8BbxdceJl91r4tlREjFwOLyofqGOMbKSXbYEWXl0A882up2pf9AvD5WGBOCGEk5+yLtsBAtCkxxtliIKW0uQTRAG12CGFqztnArIrY0EZijHOAoZTS1oKDbrEOSxqOjzHOq+t6Us75C2AjsLeEPDOEYDb7cs7vA/o16Tm3VYF3gT+aqoUQ5lqBnPMHBbTSuGMHViCGEJblnM8ufpEuYF4viL6x6INu+f6wnI8xXppSEged+0IIGwpFpeVNwPHlPjXgcWBbvwAmFhYoQo1tLyyYDyxpPfdXOW2/Zc7klu9H4B7gxAJCNaBjMcb1KaU1/QJQbG5vRWw2W3LO8t3SX9uiVAYeAz4pWSpQjQleqXsCcAsw3PK9ALzVLwCfnwVcChxZJPV5YId9DiEsyTl3WBBC2JRzNhPxMaNoxDGFaoqNiI8xxoUppXn+DnwKeJ9q2RMDDS7snQHY5wZM+tR1dUAQWeaGnvrkvOd+a0utkChnDECBagDdNwAdtkI98LL2wPGyBh/quSAtVssEg94NVXvgCEzPeFYhagfdcxyfBlxWMtoJvFgEZyjGuCilZItUu40ppdc6F46tp5K4gppJVPxMYDV7KiVc8F1YZFyGbc05q5B/9muBE9DB4sjtWAjh/Zzzk8CZwHUlE12j/0hxvY3AcirO6BajYjujPASV9PM+q6PZOifohn4BSMO7SvbNO47Q+4FeNHwG6s0MsoK6RcOKXYxyN1QnFRp29SbG+HqZEz0xIMjMclbz9Rjj2pTSq4XTDiPxodlPhWgnsb4CWNCtwAAb2atGVCYkDZsBJp4UIqnbF4QTQwgLcs4eUmqdhPbMLCyzKmkp39t/UT2OMcwnM42ab0m8CZUBajNCCPNyzkNFtBxiXfD+1zDS19Xsbnb75buHrx6AqsWMFir2Y6B11cGzQKeqdXqMcSSlpACp26qedmxZv/yIY7rZF+X4KTEyOSW+KwNHkJrDBAaZRc0gSSGq3AsPiqx5MBBjXJxSsp9WQNFQuZyItsTlohksXxUpVg8uABYXtTPYdcBaqMcxyPXUzCwNF5yr2kEc2AJXMtcrfzZmBR4E3JKW/qt+ID0dse6R01o+t+KVUE8n4gTtDiMia9lTCeqeIFSxvKxBrS+5dD7ivAeWtT4iBkS0mn8bIOUaU8DuZbieSu6MY1vU2BpStb5fAD6/CFhYsCCSXcsNQq13Gjbbr88cx8qu6uhaLkVljEPqHaiHGeIq9nX8A1TsYJQnoOr+r9GLBWq2G64cNhNB1SBerXfGC0Ip2mi+9zh6/YfGIeVaXthQj2GYE6kZYq9nuvTs2YIDWnzo/zwsl9JDn3brC38D2iGBMFq/zjwAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 19058,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Qamcom - Unity of Technology Experts",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Qamcom%20-%20Unity%20of%20Technology%20Experts&pos=0&uri=https://www.qamcom.com/?gclid=CjwKCAiA4o79BRBvEiwAjteoYDSODZzasBS4pZfl5w1G6p3COVIbK4-bpWy43QQmVy-NDD1Z_bI_1hoChfcQAvD_BwE",
+          "width": 0,
+          "windowId": 19022
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "19022": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 19022,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 2,
+    "name": "China PCB Prototype & Fabrication Manufacturer - PCB Prototype the Easy Way",
+    "date": 1604712754808,
+    "lastEditedTime": 1604712752521,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "d6f9efe7-4f09-4701-8272-22fd94ae7c78"
+  }
+]

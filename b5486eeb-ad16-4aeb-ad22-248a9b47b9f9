@@ -1,0 +1,363 @@
+[
+  {
+    "windows": {
+      "13371": {
+        "13379": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 13379,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "ai anti blur - Google Search",
+          "url": "https://www.google.com/search?q=ai+anti+blur&rlz=1CAZBMY_enSE834&oq=ai+anti+blur&aqs=chrome..69i57j0.4238j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 936,
+          "windowId": 13371
+        },
+        "13413": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 13413,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "online shake compensation - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=online%20shake%20compensation%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=online+shake+compensation&rlz=1CAZBMY_enSE834&oq=online+shake+compensat&aqs=chrome.1.69i57j33.12298j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 0,
+          "windowId": 13371
+        },
+        "13423": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADlUlEQVRYR82XT0gUURzHZ6fZadlcsXVTW9YwkTJrNXSxMCPJm0WHunSpU2Segii7dAsPXqK69MfDUhBesgghkIqiw5aZUiTrKrUZbDas27Q7jMPO7jYT7/d7T5o1WBFq2stn3swb+X6/8/u993RwJX6maTrJFFVVKwhzuZxOWFlZqZR6dzXPHaUm/XUBpmnyVASjSMaRyHgnoSR9dRF6PJ4MYT6fh+e6rnsIQ6HQe8La2tovpcwUPTfJ2GG7gEwmc4goeTwlhwg1KQpC/X4/sKlxGzCp5ICJlAZMK8jZ6bfAfa1NQJX3Fhk1YGwgli86d7g/QQK2C5Bl+TBRcmVkpg2cZbEULhxvBUYT6HQqjvycylocGgW05su+A0pCMz4XBADP0dKiEHi8uNizARP4bwRcHR6HBLq7oPi5lIbO0AfHRRfQOfuULAad3jDSEtxSc1grORFriKOOSRa/D891O60J2CZAkiSogXtjs5DA0Z4OUJpUC8CEjMwVWWdDOo1TaXdkVUzihxCwJMDTJNhi07eHwwRsF7C4uAgJPHgRgwQ6OzABUUSPaVr0zLGiqnBfcLvxuYaeBA2//UQsDnR664sSwCGrhZPNeUzAdgGsDYdGJyGBrs4u0FnmxfoXYOXnuEKBVrcqw1g2MAElVQ50qbiCRg10LrAXmW8eM/w2HwOeOlBl7QLbBdyZWIIEarJzoDDQeBBIF0bOjUY5GgQnJ3Fc58aL6Th+ey7QDkjEpoDf514D4+PPgSkF59+4fcuagG0CWBE+/WhAAnIygU6TmERDfQOwwleH97PYBfHoS+BQOAzs6+0Fsn6Pv5qE8ZKKBydFSQMlA9eJwcGb1i6wTQBbiK6HH0IC8dkP+K1SqFQ0sPq9FVgEmoa7or8GjohcIUtXCBEOTtz2nS3A+rotwNFHIzhPwSRcPHZX/8CAdSW0XcCZ/h5IgO13Ltr/5SL2uyCgU422gaJhLaTSmAhv4Iq4uwm7oC14DBgI4J4w9gRrZX7hDfDypfvWBGwXcPr8XkiA7VZs4y9zLd/BJOhQpN9SpjVCD0DL23/L1iMwv70dk6iqwrNiePgssPfENWsCtgnIZDLQ6LqubwZpK350T2BHoz9PWnG3UMBzxPTMzCZC70bfLsLqah/8M7Te6XxGSE7F9gpYpaE1TzNNExxHIpH9hB6Pp5EwGAzehQTW/JdX+aLtAop1mqa5Dpw7HD//SQKlBPwCVoaWG6gOChsAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 13423,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "SmartDeblur - Fix Blurry, Defocused or Shake Cam Photos",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=SmartDeblur%20-%20Fix%20Blurry%2C%20Defocused%20or%20Shake%20Cam%20Photos&pos=0&uri=http://smartdeblur.net/",
+          "width": 0,
+          "windowId": 13371
+        },
+        "13426": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADZ0lEQVRYR+2WvUtjQRTFT0SCUQkhfrsSJVhICGERkSAiVoqIChFsREwXK60CaUKKVCkkRQj4N4idoohoraIiohYiIvhRiIiIiIjIciZMyMe8eW+32SYDor65b+Z3zrtz79gAJPAfh60CUHHA5/MlqqqqTNPw8/MT/LEyGPf9/W0lFLZ0Op0IBoPaYAJeXV3h4uICdrsdPz8/hvF1dXW4u7vDzc0NzIQ9PT3BNjg4mEilUmhsbDRcmAudnZ3h4OAADQ0N2oW7u7txfn6O4+NjbdzX1xeOjo5gs9vtiXg8jpmZGVOA3d1dtLW1CRdUo76+HnRzc3PTFOD29laIEnUgEAggk8mgublZubB0YGtrCy6XC01NTco4n88HOrC2tqYFYI7s7+/j9fU1B8ANYrEY5ufnlS4UAlRXV6O19RccjmIXnE4XgsF+1NTUmAIwP6ieI18Je3p6kM1m0dHRUQYhAba3t8Wc0+lES0tL3gXO+/1+eL1eMa9z4OPjQ6h/e3srBuAii4uLiEQiZfaWAuRcaIXD4RCxbrcb/f059WYAPE2Xl5f5PYp6ARXQBalERpUC8Ll0gXOBwG90dXlEuA7g/f1dqOdvOcqa0cLCApaWlopcUAHwGV3o7OwU6uXJ0AFQOR0oHGUAzAG6wJyQBUcFIF0YGxuDx5NTr3OA35zqmQNaAE6Gw2FEo9F8ITECYOz4+LhIQAmrcoDPqP76+rosv5T3AdYDusD6wJeNAHiOmS+zs7MiAY0cYBzVq3qJ4YWElZEVkhmvAmApZTJxfnp6Gr29vQK21AH+zzPPyqcahgA8WqyOfX194j0uIusAF+Xm7Hj8my7Mzc2htra2DOD5+RmHh4cg8F8BMHhychLJZFLYWwhAKwuTiQ5NTU2JPkAoWYi4xsnJCe7v75Wb86H2Tsiznk6nMTQ0hNPTU+EAN5DqCzOfJ4EusCFJAKpnxzNSbwrAgJGREbBdM4MJQOWlR0mCTExMYGBgAKurq6J1E/rx8dFQvSUAftfl5WXRKdfX10UNV11I+Ky9vV24sLe3J2Jpv9nNyNK1fHh4WHTKnZ0dQ/VS5ujoKB4eHrCysgJ+ArNhCYAuhEIhsbnue9IFOvXy8oKNjQ3t1U2CWQJgMJNLdjudKp4IXZ6UvmsZwMzKf52vAFQc+ANxgjAzqBnLBAAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 13426,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Google AI experiments add details to low-res, blurred images | WIRED UK",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Google%20AI%20experiments%20add%20details%20to%20low-res%2C%20blurred%20images%20%7C%20WIRED%20UK&pos=0&uri=https://www.wired.co.uk/article/google-brain-ai-pictures-blur",
+          "width": 0,
+          "windowId": 13371
+        },
+        "13441": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACFklEQVRYR+1XP6ipYRj/kSzqDrq5BhydFCWSQVklg1AGOZL92hgQqTPIgMHiJJMRJ8mfDCeZsKCUwSQJg1sG3SJJ3N73dk9H557hLscdvmf6vud93u/5Pb/f0/N+LwvAA4CvAE74XOMA2LAA+AF8+dzcr9l+EgDfAXy7EYAfDACGAYYBhgGGgSsGdrsdncin0+9zicPhYDgcotls4vHxkfqJb7PZIJVKIZPJ0Difz0ff5/M55HI59RUKBZjNZtTrdbjdbggEArTbbdzf34PH4/2Z/Nej+HK5vDsS+v0+Go0GYrHYu7VkMolQKIRgMIhEIoH1eg2xWIzz+YxarQaLxYJqtQq73U4BDAYDSCQSsFikbmrXAAhirVZLqyXm9XoxHo9htVoRjUZp5R6Ph/ptNhuNcblcEAqFSKfTrwDYbDZNplar8fz8DKfTCYVCgV6vBz6f/zEA8kGTyUQrJqZUKjGdThGPxxGJRLBYLHB3d0fXlsslRCIRKpUKXl5ekMvlsN1u4XA4KCtGo5HGFYtF5PN5PD09QSaTYb/ffyzBvwAYjUbQaDRUY9IjBMBbI/2yWq0glUqv/EQOIstfJSBOg8GAUqlEddTr9ZjNZpT+cDhMn1UqFd3b6XSg0+lQLpfRarWQzWZxOBzA5XKpFIFAgO4nDXo8HjGZTOD3+9Htdt8CYv4HGAYYBhgGGAb+DwZufjm96fX8F5j6+xNw3xh5AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 13441,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "This AI turns your blurry photos into creepy HD faces",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=This%20AI%20turns%20your%20blurry%20photos%20into%20creepy%20HD%20faces&pos=0&uri=https://thenextweb.com/neural/2020/06/12/this-ai-turns-your-blurry-photos-into-creepy-hd-faces/",
+          "width": 0,
+          "windowId": 13371
+        },
+        "13456": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAC6UlEQVRYR72WV4sVQRCFvzUrRsw5Y0BBBAVRMGPC8KAP+gcVBEUUFBNiVhQjJlAxvZgFE2Y+qIZmnLt3Z/fOLVgWbvd0nao6dao6aI11AH+BfsAEoHf27EfgXSM3fthd6wOMAmYDLwLAV2AjMDl79DJwulUABDwUmA7MCUd/gH3AcuAJ4J1NQK9wehE40VMAA4FJ4XQaMCJzcB84B+wGTPdhYEeUQr/dBmCKx4TTGcBYoG8hEuuuQ2u/ATAbh4DBwPrIRmUARjsXmAdMBAZ1QhIj3gusCy549TFwHNgJjK6aAeuW0m3EAhgJDIkoi1huAteAPRnQX8DBcL4SuFSFA8OBpcB34FXU1LQOiwdtMcsiByyRjgS4toDsEXAG2AXIkS6TUAab+i0R8WfgTfy9BN4CPyJaQdl+K4BFwIAMhHf2AxJWO1mlCyzDkogqJ52Z+AJ8AF6H84eRCTMyBZgJjI8y3gbUADXhahUA3tXxmgCSq1r+jrVOjJf1kk/Fky+CsVwXImPvqwLwfn9gM7Aw2qnsjXvAA2BbtKDlehZgLNc34GdnUttMilU9RUXlKzOlVyKuio5Jd3RqmZ4DN4JDpQ80A+BH4wKEbVlmZ4HfwOoG56eA890pQf6NGdge7Vh8y0gVHs+tf9EqK2EZWDM1P9pTocrN6JXjWcCCugD4bqP29Ewi3o0sFOfFFeBYT0uQvlf9bE/VMm9P2X4AUHqdmrldB460CoDvNGpPiaaEK8s5uVsOQBC2p6RzTCdTA0y1v3uerBYAPl5sT6VaMk6N2VA7AB0U29MpeCuy4JKi1ZYBH0/tqWS7uMgByeiEdB7UDiBvT7vDqBUep6ZbkgBrzUBZezqujwJbARectgBI7ek6rhoKwHG8uJ0A8vZUnp2CTtI7rRaiRqKWfndqmgm5sAz4FIuLK/x/1pVx3Mxh2bm7oECcH/53c2orAANL+4NLrhtyWwEkjTADitXTWFraVoLckdrgilaagX9hHpshwhuPYgAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 13456,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Sharpen AI – Topaz Labs",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Sharpen%20AI%20%E2%80%93%20Topaz%20Labs&pos=256&uri=https://topazlabs.com/sharpen-ai/",
+          "width": 0,
+          "windowId": 13371
+        },
+        "13462": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 13462,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Removing blur from images – mc.ai",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Removing%20blur%20from%20images%20%E2%80%93%20mc.ai&pos=6335&uri=https://mc.ai/removing-blur-from-images/",
+          "width": 0,
+          "windowId": 13371
+        },
+        "13468": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABzklEQVRYR+2XrzdEURDHP5toNBqNRqMRNRqNqPEvaDR/Ak0URaJGE2mr0VZzvnvuOGP2vn0/zu57Ze85e877dWc+d75z58726Hj0OvbPDMAiMA8sN5BjAPQL5snmasbuO6DfcHiAE2CpJsQHcBPmyPEesJGefwICXXHf/QCXHkDXmngKLASD5mQR2Aa23PsIoChqIXPpmyfgMV3r3ZGzfxEBdL8J7BcA2GNvyANE59/AdSY65wkwCyDNjksALFq7SV+TQNHzEvrVe5MGOiKBPqoKYAYly1dB5G59soVFCULzBrEO1AUwu3H1ej4McdmYBICicBYc5fTPsjQFkP6W3evAYYW8mRjAAaBVW/IJZqctADlXgfHbb+oA0lOlUwlqRcoDqPD4Kqdg5CpkYwkE8AJIa9vnrQJ4Z51IEMPZaRKajpLjLd20vg1jMuUK0d9x20YllI9OS3HRMT7uMJJsOoz6TUtxLrIxCs/AQ+ZDO47vVF8iQC6hpKcaC7VV40bVhsS6rqt4HKslK+oLX9Nq6kJo3n2iFqC2sBWzfx3ROOe2ajWXOoDKIHJNqfRec+EbaUqrtuVqwcsAzE+uLbc2fqQtL9uuU3s/+2vWeQR+ARY8hCFNZYBBAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 13468,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "This AI Turns Unrecognizable Pixelated Photos Into Crystal-Clear Image",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=This%20AI%20Turns%20Unrecognizable%20Pixelated%20Photos%20Into%20Crystal-Clear%20Image&pos=5049&uri=https://www.fastcompany.com/90149773/this-ai-turns-unrecognizable-pixelated-photos-into-crystal-clear-images",
+          "width": 0,
+          "windowId": 13371
+        },
+        "13472": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAELElEQVRYR+2WbWhbVRjHfztcLuFyuZYaQh2lhDBGCaGUMkcdxS8DkYFlU6Sg6PSDiqhsQ1TGkFJLqQHFKdSCMJnMurXWQfXDXixDZB+GzFJG8SXUoqWULIYQQgiXy/UgJzdvXW56oyuI4oWE0pzznN/9P8//ec6uP76OjPIPPrv+B/hXKCBUjZS/vMeVIGVz4WjVNdUfRcOmFnUWWAMqRsGGpZTk5s+S3zIuuYIsQzQ+mhAcO6Kxv68HIiPg/I5MXwRKgFrsDxMIsLjsMrXgcP2WTa7gtvSLrglmR00OPzQI/bNQTCGXj4KbhVAM3DzIfNP+lgDqzeevu5yYKrKRcQKNqgA+HzUZLgOc9wCWngKzF9E7Dvkl5NokyMKWWL4ASqwfNiQj40VW1uzAw9WCrQqch8JPsDYNvW+AlYCNC8jUaJMK/gAC3p51OPnRVsmMkEYiptPTpWNodS6VYU2Dlx4R7BvYB/0zIG1wbTD3wMYccnUMnDSIho2AL4AqsKPJEheuFWunqEPHnjF5+H4Ny4BaxTfoI5AIawAxMAN62Psl8y1yNVk5XICbA1mP2wSg5C86cGSsxOJ39YXPD1tMHwshKtXv40LPm3cC2GlwVRwVWcJqEpm5WFPCH8CFx8dKXL5RBziQMHj/FYNEVKALaLK46g3qAD2K6DsDHX2eAnYGpLJixYapCWRmvjWA2qPe7rl3S5y9XAdQ/4/t1knENLo6NcKW4B5TELGg5z6NaAR2d0JIpdgagvgkmHshe6OSgk2P2slucULLIvz4isuLp/M4jq/YtcyrBmQaGl1hQTyq8diQzuEHBEb4wTrE5jwypYpQQbRRhEqsXAlOTJX49GqxrEi7j4J5+VGDUyM6ZmQIeifAisOGgngTZC64D6gVCmIzD9NfOcx9Y7OedrAD1KhGNkKC6eMWTx/UkOYBrxEVlpCrE+01omogBaGa71oaVn51Wb/tcjsH6ZwgW5Rk8y6bWUk65zSlanjI5NxJA0sDaezx7Kfyf0f1Bs6CshrVOVJxkuOC+tgOpPOC5V8c3psrspSqt+y9PSEuTVrEIsqd0sc23mu2BeCX/9psU38IOP2Fy6sf5r3DgK5OnUvJDvpj/qO7GnNbgOBpXikWAaOfOLx1tt66uyM6V5IdxHvuAqDkyLLUjU/tciJVCgTrWVj83mH6SzU164sH4yYL40a5T2znom3H8QcLDueu2vW+L9QM8HRRQUslVYCSTN6tSV+Fff0Ji8lnQ4Hu3RbgtTM273y2dX4HRgTi0RAzp0z6Y8L36tYYY8cBErEQyRcMDg1obTWwHQFQ9wQ1Jw4Najx5UKcvGvzmgS5Qmb624nLzR7d58lV2q0uI6nrd92rEo4LusHdP8Lsxt0rd9jYM8mHtGu5V5V+ZGYEKtFNsO7Hmb3fCnTj8rlrxfwbgT88n0NDz0A6lAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 13472,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Slightly Unnerving AI Produces Human Faces Out of Totally Pixelated Photos",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Slightly%20Unnerving%20AI%20Produces%20Human%20Faces%20Out%20of%20Totally%20Pixelated%20Photos&pos=2738&uri=https://www.sciencealert.com/ai-can-now-enhance-pixelated-photos-to-make-them-over-60-times-sharper",
+          "width": 0,
+          "windowId": 13371
+        },
+        "13475": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADl0lEQVRYR71XPVATURDefTmGw8YgjtCZ4UcCIyEddKS000476KCD0s6xk0466aC00w466LALwUku8uPRBUflbOQCd2+dd5l3vFze5RJgpGAIb9/bb7/d/XaD0MVP5slU1kAYJ8Q0Y2gSpyFxHRnWOCcXiZwUoFWtlqqdPotJhpl8Pm1c+HOcQZYRmkn24pwjuYyD5dUHtm17x213py2A0Wy+wNGf6dRx1FEAhGDvyDrYjQOhBZDJFMyee+fzkuJOom4bJcPa1d/+TR0bLQAymckh1peav2nUcUAEG/zC37Ttck21aQIgImd9v5bv2rl02AAxsKYyEQLQ0Y7EzzjDGgFmGMH9blLBEf4gkM0I0gT4WN4VHXNY3l8PP8s/RMEB8Lkmepj3+bBcLor/jU1O5n0yChIIAp2qtj6wIQbUywHrKXa1Je8FrcvwZTN4tntkFXeCFha/RKuxur8Ypd4AtmlZRVteFiwB/EhH8xie5/NpcNKuSrGoKcM0FlUAaioCACMTUy+QcDpKcRRANylQQRkuX47eJaT948rBpwDAcHb6taAvaoRKCm7iPGBXm4KGWJ1UDlYx1gCwzt3+90lKlgSs0Vm/l3RF7HH6iHH030X0EpwoYOLG85Y0MPiCY9mpBbVNpJHnPli9bfSqw9Fs7k1LioFOcWz86RIhG2yqUsD6ibX/Lonebs51gQpNQB0yTuCcVEtr3ThIso1jWgtAPHZkld4mPdrN+fBEbkVXiBh38D9qIJDrWGruQANCMYrRAiHnODKZe4YcZlpaBMA+tkqb3dAcZxsXJIk2jBMi8ZiHsG1XSnu3ARGnAcH7QogCpTLPV3RS3HBMO+1WqnbgdBNW2oupKZRWM4zYrsf9Wg9SQeqDaEuGaPl4aX2vVJrGcBRANpvPuD4fZAxmGUI6DqCg/7hc2grHsZxYcnUCeOT09P5ciIqUWFIOq18/6B4emci9QoLxTlLmmWzNLhadcCNS6QpA9KaCrYW5tKSmR+TN/nZg6ZzoZr8eTGQhCYeGIstyXosaMUxnVtggu3TkphMXpU5ZVdsog61LqVKQnuutx20/NwEgC0+7lIaiIdZys2chpJ2oCAiOPE/qiDgGGs6vNtqu5dcgCqauADuZEdqxS/zsqv5wo6MvJiq1uj5OGlKtAK4LTpe2jr6cpi75LHHMiweS9gSxXwYFi9zye1M7otXatWUiADUtkHbMpAfFih9dzdsB+AdFB/LogQELOgAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 13475,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "adamian98/pulse: PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=adamian98%2Fpulse%3A%20PULSE%3A%20Self-Supervised%20Photo%20Upsampling%20via%20Latent%20Space%20Exploration%20of%20Generative%20Models&pos=0&uri=https://github.com/adamian98/pulse",
+          "width": 0,
+          "windowId": 13371
+        },
+        "13478": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAELElEQVRYR+2WbWhbVRjHfztcLuFyuZYaQh2lhDBGCaGUMkcdxS8DkYFlU6Sg6PSDiqhsQ1TGkFJLqQHFKdSCMJnMurXWQfXDXixDZB+GzFJG8SXUoqWULIYQQgiXy/UgJzdvXW56oyuI4oWE0pzznN/9P8//ec6uP76OjPIPPrv+B/hXKCBUjZS/vMeVIGVz4WjVNdUfRcOmFnUWWAMqRsGGpZTk5s+S3zIuuYIsQzQ+mhAcO6Kxv68HIiPg/I5MXwRKgFrsDxMIsLjsMrXgcP2WTa7gtvSLrglmR00OPzQI/bNQTCGXj4KbhVAM3DzIfNP+lgDqzeevu5yYKrKRcQKNqgA+HzUZLgOc9wCWngKzF9E7Dvkl5NokyMKWWL4ASqwfNiQj40VW1uzAw9WCrQqch8JPsDYNvW+AlYCNC8jUaJMK/gAC3p51OPnRVsmMkEYiptPTpWNodS6VYU2Dlx4R7BvYB/0zIG1wbTD3wMYccnUMnDSIho2AL4AqsKPJEheuFWunqEPHnjF5+H4Ny4BaxTfoI5AIawAxMAN62Psl8y1yNVk5XICbA1mP2wSg5C86cGSsxOJ39YXPD1tMHwshKtXv40LPm3cC2GlwVRwVWcJqEpm5WFPCH8CFx8dKXL5RBziQMHj/FYNEVKALaLK46g3qAD2K6DsDHX2eAnYGpLJixYapCWRmvjWA2qPe7rl3S5y9XAdQ/4/t1knENLo6NcKW4B5TELGg5z6NaAR2d0JIpdgagvgkmHshe6OSgk2P2slucULLIvz4isuLp/M4jq/YtcyrBmQaGl1hQTyq8diQzuEHBEb4wTrE5jwypYpQQbRRhEqsXAlOTJX49GqxrEi7j4J5+VGDUyM6ZmQIeifAisOGgngTZC64D6gVCmIzD9NfOcx9Y7OedrAD1KhGNkKC6eMWTx/UkOYBrxEVlpCrE+01omogBaGa71oaVn51Wb/tcjsH6ZwgW5Rk8y6bWUk65zSlanjI5NxJA0sDaezx7Kfyf0f1Bs6CshrVOVJxkuOC+tgOpPOC5V8c3psrspSqt+y9PSEuTVrEIsqd0sc23mu2BeCX/9psU38IOP2Fy6sf5r3DgK5OnUvJDvpj/qO7GnNbgOBpXikWAaOfOLx1tt66uyM6V5IdxHvuAqDkyLLUjU/tciJVCgTrWVj83mH6SzU164sH4yYL40a5T2znom3H8QcLDueu2vW+L9QM8HRRQUslVYCSTN6tSV+Fff0Ji8lnQ4Hu3RbgtTM273y2dX4HRgTi0RAzp0z6Y8L36tYYY8cBErEQyRcMDg1obTWwHQFQ9wQ1Jw4Najx5UKcvGvzmgS5Qmb624nLzR7d58lV2q0uI6nrd92rEo4LusHdP8Lsxt0rd9jYM8mHtGu5V5V+ZGYEKtFNsO7Hmb3fCnTj8rlrxfwbgT88n0NDz0A6lAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 13478,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "New AI Generates Freakishly Realistic People Who Don't Actually Exist",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=New%20AI%20Generates%20Freakishly%20Realistic%20People%20Who%20Don't%20Actually%20Exist&pos=1168&uri=https://www.sciencealert.com/ai-is-getting-creepily-good-at-generating-faces-for-people-who-don-t-actually-exist",
+          "width": 0,
+          "windowId": 13371
+        },
+        "13483": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 13483,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "How to fix blurry pictures - Best image sharpening software",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=How%20to%20fix%20blurry%20pictures%20-%20Best%20image%20sharpening%20software&pos=4995&uri=https://capturetheatlas.com/how-to-fix-blurry-pictures/",
+          "width": 0,
+          "windowId": 13371
+        },
+        "13486": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://topazlabs.com/wp-content/uploads/2016/10/cropped-logo_512_blk_jewel-32x32.png",
+          "height": 1001,
+          "highlighted": true,
+          "id": 13486,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Let AI Sharpen Your Photos – Topaz Labs",
+          "url": "https://topazlabs.com/let-ai-sharpen-your-photos/",
+          "width": 936,
+          "windowId": 13371
+        },
+        "13492": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 13492,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Topaz Sharpen AI review • Full Tutorial + Sharpen AI Discount!",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Topaz%20Sharpen%20AI%20review%20%E2%80%A2%20Full%20Tutorial%20%2B%20Sharpen%20AI%20Discount!&pos=0&uri=https://capturetheatlas.com/topaz-sharpen-ai/",
+          "width": 0,
+          "windowId": 13371
+        },
+        "13495": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 13495,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "online ai sharpen demo - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=online%20ai%20sharpen%20demo%20-%20Google%20Search&pos=461&uri=https://www.google.com/search?q=online+ai+sharpen+demo&rlz=1CAZBMY_enSE834&oq=online+ai+sharpen+demo&aqs=chrome..69i57j33.33427j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 0,
+          "windowId": 13371
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "13371": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 13371,
+        "incognito": false,
+        "left": 875,
+        "state": "normal",
+        "top": 192,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 15,
+    "name": "Let AI Sharpen Your Photos – Topaz Labs",
+    "date": 1602791593686,
+    "lastEditedTime": 1602791590695,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "87820595-7ccf-4bec-a1c7-1206270a990e"
+  }
+]

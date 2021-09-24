@@ -1,0 +1,56 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4464": {
+        "width": 936,
+        "type": "normal",
+        "top": 0,
+        "state": "normal",
+        "left": 174,
+        "incognito": false,
+        "height": 1080,
+        "focused": true,
+        "alwaysOnTop": false,
+        "id": 4464
+      }
+    },
+    "windows": {
+      "4464": {
+        "4534": {
+          "title": "Bigjpg - AI Super-Resolution Image lossless enlarging / upscaling tool using Deep Convolutional Neural Networks",
+          "windowId": 4464,
+          "width": 936,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": true,
+          "height": 1001,
+          "favIconUrl": "https://bigjpg.com/htdocs/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://bigjpg.com/",
+          "id": 4534,
+          "index": 0
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Loppy",
+      "Home"
+    ],
+    "tabsNumber": 1,
+    "sessionStartTime": 1600633358975,
+    "name": "Bigjpg - AI Super-Resolution Image lossless enlarging / upscaling tool using Deep Convolutional Neural Networks",
+    "lastEditedTime": 1601167837659,
+    "date": 1600986264285,
+    "id": "d263aa8f-1bc3-471f-b3ab-cb5284f09194"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "windows": {
+      "14726": {
+        "14738": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1009,
+          "highlighted": true,
+          "id": 14738,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Regex Tutorial - Lookahead and Lookbehind Zero-Length Assertions",
+          "url": "https://www.regular-expressions.info/lookaround.html",
+          "width": 1872,
+          "windowId": 14726
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "14726": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 14726,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 1872
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Regex Tutorial - Lookahead and Lookbehind Zero-Length Assertions",
+    "date": 1603066829444,
+    "lastEditedTime": 1603037345763,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "c37d445f-8a2f-4757-9b6d-69cbdc5aae3c"
+  }
+]

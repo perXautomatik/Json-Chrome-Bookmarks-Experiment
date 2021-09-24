@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "428": {
+        "427": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 721,
+          "highlighted": false,
+          "id": 427,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Branches · Microwave89/regbackup64",
+          "url": "https://github.com/Microwave89/regbackup64/branches",
+          "width": 1324,
+          "windowId": 428
+        },
+        "442": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/serverfault/Img/favicon.ico?v=18e9cc4f2aea",
+          "height": 721,
+          "highlighted": false,
+          "id": 442,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Execute a Windows task triggered by registry changes - Server Fault",
+          "url": "https://serverfault.com/questions/935283/execute-a-windows-task-triggered-by-registry-changes",
+          "width": 1324,
+          "windowId": 428
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "428": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 428,
+        "incognito": false,
+        "left": 99,
+        "state": "normal",
+        "top": 240,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Execute a Windows task triggered by registry changes - Server Fault",
+    "date": 1602767555574,
+    "lastEditedTime": 1602767550551,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602758810371,
+    "id": "2251ff2f-13dd-44d7-8439-e8d55474690f"
+  }
+]

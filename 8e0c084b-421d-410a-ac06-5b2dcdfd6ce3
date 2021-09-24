@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "73": {
+        "72": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://portalen.gotland.se/favicon.ico",
+          "height": 474,
+          "highlighted": false,
+          "id": 72,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Portalen",
+          "url": "https://portalen.gotland.se/wa/auto/timeoutwarning",
+          "width": 784,
+          "windowId": 73
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "73": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 600,
+        "id": 73,
+        "incognito": false,
+        "left": 78,
+        "state": "normal",
+        "top": 0,
+        "type": "popup",
+        "width": 800
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Portalen",
+    "date": 1605866435219,
+    "lastEditedTime": 1605866408064,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1605859084789,
+    "id": "5d1a5adb-8213-46c2-a71c-0105132ca09a"
+  }
+]

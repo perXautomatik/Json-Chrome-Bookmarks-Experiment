@@ -1,0 +1,143 @@
+[
+  {
+    "windows": {
+      "3709": {
+        "3731": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3731,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "sql message - Google Search",
+          "url": "https://www.google.com/search?q=sql%20message",
+          "width": 1383,
+          "windowId": 3709
+        },
+        "3756": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3756,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=&url=&favIconUrl=undefined",
+          "url": "",
+          "width": 1383,
+          "windowId": 3709
+        },
+        "3835": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3835,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=&url=&favIconUrl=undefined",
+          "url": "",
+          "width": 1383,
+          "windowId": 3709
+        },
+        "3875": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3875,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=&url=&favIconUrl=undefined",
+          "url": "",
+          "width": 1383,
+          "windowId": 3709
+        },
+        "3910": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3910,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=&url=&favIconUrl=undefined",
+          "url": "",
+          "width": 1383,
+          "windowId": 3709
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3709": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 3709,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 5,
+    "name": "sql message - Google Search",
+    "date": 1601172570786,
+    "lastEditedTime": 1601172568572,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "4ca39415-1a23-4f68-aff8-d333c5512f05"
+  }
+]

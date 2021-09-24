@@ -1,0 +1,229 @@
+[
+  {
+    "windows": {
+      "107": {
+        "112": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACw0lEQVRYR+1XX0hTYRT/KUNkjGELjWSPeyj/bDYrnT3k2JNMixBx0FpDfBBEeqrNXmQMWY5yjSEtX2JYpkRE4JNtM3FbVkTKGK4FIeNS6LT2tIchEueGl213yowNX3ae7j33O+f7fb9zfufjVkhqxGM4QasoAygzUGYgHwPvfD4olRd54lxbW4NGffVI0TY1NWF5JchbE41GcUXVxvPnlaFIJML8/Cu0d3TwAq73aBEIBA4F8cjhgNE4kPV9Z2cHGrUaDBMvDACtqq6uxouX8+js7MwK8i4uor+/Ly8AoVCIjW/fQQfItB5tF0KhUN6YIwdRXV0dmzDXVKo2xKJRnt9gMMLhdPL8tadPYX9///gABAIBthK7vMDZ2ecYGR7m+ZeWVyCXy4sP4NPqKi63t3OJ0+k0FM2N2N7e5nwtLUp4ZmYglUqLD4BqTk2ZaY8nJ2G1WjiX0+UCwzAwm+8XHwDV0Le0nEVvMplEc+N5pFIpiMRihMMRVmbhyEZpAHR3X8Mzjycr+eioCdNuNwYGB6FWa3D71k0kdv+UBgB18cfPXyCTybgN4vE4Wi8o2MFjsYzB7/WWFoBer4fTNZV1wulpN4gdakqykjJAsvy6HkZ9fX0WCLv9ASZsNlRWVpYWAO06NDSEcdsEB4BKo1A04yfDFB9AVVUVfm0lcPZMLUj7ZDRu18MRSCQS9p3q3tfXyz4frM/twv+ehCbTKO6ZzXhot8NmG+fy3jWZOL1T5y8sLLDfdDodpp485amgt/cG3vv9hY9iqqXD4YTeYOCC5ubmcGdkGHt7exCLaxCORNgZQLOAfKQOmhW5FxElSCZ/Q6PWYHPzBw9E3svo9Zu3vFuQIldDIWi1XWwSi9XKbmy1/JuGweAHnGtoyHtKcsZiMajaLhUGgGpJzXVwgx12k2VmO4gh33Hiyv8FZQbKDJw4A38BhKxUELiRd0cAAAAASUVORK5CYII=",
+          "height": 721,
+          "highlighted": false,
+          "id": 112,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Create a Photo Organizer in 1 hour with Python | by Aaron Yu | Python In Plain English | Medium",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Create%20a%20Photo%20Organizer%20in%201%20hour%20with%20Python%20%7C%20by%20Aaron%20Yu%20%7C%20Python%20In%20Plain%20English%20%7C%20Medium&pos=0&uri=https://medium.com/python-in-plain-english/create-a-photo-organizer-in-1-hour-with-python-9d4b82552f21",
+          "width": 1324,
+          "windowId": 107
+        },
+        "113": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAj0lEQVRYR+1XQQ6AMAgb/9ufjH/igcYDHjDTbmYpku06Am2BJkghPyHXL1Jr3Z5AqOp+/r/FoUQsn8XHAeCRGWOvgI9Dmft8NwUWgN8q0LsdzS0YVSAMgNHtuHzgqwJ0AKgf5JsBlPlywrwKhDEidBinrSHdiOgA6C2gAUAL5/WBPAq0mOS/jNAezoqjX8cHRgmgMIX7sGQAAAAASUVORK5CYII=",
+          "height": 721,
+          "highlighted": false,
+          "id": 113,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "A Photo Album with Python and PIL",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=A%20Photo%20Album%20with%20Python%20and%20PIL&pos=0&uri=https://lethain.com/a-photo-album-with-python-and-pil/",
+          "width": 1324,
+          "windowId": 107
+        },
+        "121": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://miro.medium.com/fit/c/128/128/1*ChFMdf--f5jbm-AYv6VdYA@2x.png",
+          "height": 683,
+          "highlighted": false,
+          "id": 121,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Python Interactive Network Visualization Using NetworkX, Plotly, and Dash | by Jiahui Wang | Towards Data Science",
+          "url": "https://towardsdatascience.com/python-interactive-network-visualization-using-networkx-plotly-and-dash-e44749161ed7",
+          "width": 1324,
+          "windowId": 107
+        },
+        "131": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 645,
+          "highlighted": false,
+          "id": 131,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Export links of all extensions - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/export-links-of-all-exten/cmeckkgeamghjhkepejgjockldoblhcb/related?hl=en",
+          "width": 1324,
+          "windowId": 107
+        },
+        "134": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 645,
+          "highlighted": false,
+          "id": 134,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions - Export links of all extensions",
+          "url": "chrome://extensions/?id=cmeckkgeamghjhkepejgjockldoblhcb",
+          "width": 217,
+          "windowId": 107
+        },
+        "142": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 683,
+          "highlighted": false,
+          "id": 142,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "file:///C:/Users/crbk01/Desktop/Nytt%20textdokument.html",
+          "width": 1324,
+          "windowId": 107
+        },
+        "194": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 683,
+          "highlighted": false,
+          "id": 194,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://cmeckkgeamghjhkepejgjockldoblhcb/page.html",
+          "url": "chrome-extension://cmeckkgeamghjhkepejgjockldoblhcb/page.html",
+          "width": 1324,
+          "windowId": 107
+        },
+        "197": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 683,
+          "highlighted": false,
+          "id": 197,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "file:///C:/Users/crbk01/OneDrive%20-%20Region%20Gotland/Documents/Downloads/extensions.html",
+          "width": 1324,
+          "windowId": 107
+        },
+        "198": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 683,
+          "highlighted": false,
+          "id": 198,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 197,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "extensions.html",
+          "url": "view-source:file:///C:/Users/crbk01/OneDrive%20-%20Region%20Gotland/Documents/Downloads/extensions.html",
+          "width": 1324,
+          "windowId": 107
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "107": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 107,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 9,
+    "name": "extensions.html",
+    "date": 1604854830569,
+    "lastEditedTime": 1604655304799,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1604654639581,
+    "id": "7c3888fa-6566-4c4a-94e9-359602f8443b"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "117": {
+        "119": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 499,
+          "highlighted": false,
+          "id": 119,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pendingUrl": "https://gx-corner.opera.com/",
+          "pinned": true,
+          "selected": false,
+          "status": "loading",
+          "title": "",
+          "url": "",
+          "width": 945,
+          "windowId": 117
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "117": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 616,
+        "id": 117,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1002
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Tab Session Manager - Session list",
+    "date": 1615161120306,
+    "lastEditedTime": 1615161120306,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1615159431820,
+    "id": "ea86cddb-ee95-42a5-b1f5-7db6f0a7ee3e"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "windows": {
+      "6468": {
+        "6470": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6470,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL Server UPDATE JOIN Explained By Practical Examples",
+          "url": "https://www.sqlservertutorial.net/sql-server-basics/sql-server-update-join/",
+          "width": 936,
+          "windowId": 6468
+        },
+        "6475": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1001,
+          "highlighted": true,
+          "id": 6475,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Update multiple tables in SQL Server using INNER JOIN - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/15115759/update-multiple-tables-in-sql-server-using-inner-join",
+          "width": 936,
+          "windowId": 6468
+        },
+        "6478": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6478,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql server - Is there a difference between (local), '.' and localhost? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/155733/is-there-a-difference-between-local-and-localhost",
+          "width": 936,
+          "windowId": 6468
+        },
+        "6481": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6481,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "python - Send HTTP request to localhost - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/51037700/send-http-request-to-localhost/51534149",
+          "width": 936,
+          "windowId": 6468
+        },
+        "6484": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6484,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "terminology - What is the significance of database host name while configuring database? - Software Engineering Stack Exchange",
+          "url": "https://softwareengineering.stackexchange.com/questions/307077/what-is-the-significance-of-database-host-name-while-configuring-database",
+          "width": 936,
+          "windowId": 6468
+        },
+        "6487": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6487,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "localhost - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Localhost",
+          "width": 936,
+          "windowId": 6468
+        },
+        "6490": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6490,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "DFS Namespaces overview | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview",
+          "width": 936,
+          "windowId": 6468
+        },
+        "6493": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6493,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Quick Hits: List All Available WMI Namespaces Using PowerShell | Learn Powershell | Achieve More",
+          "url": "https://learn-powershell.net/2014/05/09/quick-hits-list-all-available-wmi-namespaces-using-powershell/",
+          "width": 936,
+          "windowId": 6468
+        },
+        "6496": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6496,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "View list of databases on SQL Server - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/relational-databases/databases/view-a-list-of-databases-on-an-instance-of-sql-server?view=sql-server-ver15",
+          "width": 936,
+          "windowId": 6468
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "6468": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 6468,
+        "incognito": false,
+        "left": 967,
+        "state": "normal",
+        "top": 413,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 9,
+    "name": "Update multiple tables in SQL Server using INNER JOIN - Stack Overflow",
+    "date": 1600111068950,
+    "lastEditedTime": 1601295398388,
+    "tag": [
+      "winClose",
+      "loppy",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "94726a8b-d634-47e5-bde3-b70df695e88d"
+  }
+]

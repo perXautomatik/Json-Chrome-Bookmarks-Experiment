@@ -1,0 +1,201 @@
+[
+  {
+    "windows": {
+      "18": {
+        "54": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 643,
+          "highlighted": false,
+          "id": 54,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "complete",
+          "title": "Dubolt Mix: Yabibo Hazurfa / Moral Order / Headless Horseman / Shelley Parker - playlist by Christoffer Brobäck | Spotify",
+          "url": "https://open.spotify.com/playlist/7ovTonGCFXDy01Hp83oznh",
+          "width": 1370,
+          "windowId": 18
+        },
+        "60": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.sqlshack.com/favicon.ico",
+          "height": 643,
+          "highlighted": false,
+          "id": 60,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The Table Variable in SQL Server",
+          "url": "https://www.sqlshack.com/the-table-variable-in-sql-server/",
+          "width": 1370,
+          "windowId": 18
+        },
+        "80": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gotland-se.zoom.us/zoom.ico",
+          "height": 624,
+          "highlighted": false,
+          "id": 80,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Launch Meeting - Zoom",
+          "url": "https://gotland-se.zoom.us/j/87804347966#success",
+          "width": 1351,
+          "windowId": 18
+        },
+        "160": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gotland-se.zoom.us/zoom.ico",
+          "height": 624,
+          "highlighted": false,
+          "id": 160,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Launch Meeting - Zoom",
+          "url": "https://gotland-se.zoom.us/j/87804347966#success",
+          "width": 1351,
+          "windowId": 18
+        }
+      },
+      "56": {
+        "61": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACw0lEQVRYR+1XX0hTYRT/KUNkjGELjWSPeyj/bDYrnT3k2JNMixBx0FpDfBBEeqrNXmQMWY5yjSEtX2JYpkRE4JNtM3FbVkTKGK4FIeNS6LT2tIchEueGl213yowNX3ae7j33O+f7fb9zfufjVkhqxGM4QasoAygzUGYgHwPvfD4olRd54lxbW4NGffVI0TY1NWF5JchbE41GcUXVxvPnlaFIJML8/Cu0d3TwAq73aBEIBA4F8cjhgNE4kPV9Z2cHGrUaDBMvDACtqq6uxouX8+js7MwK8i4uor+/Ly8AoVCIjW/fQQfItB5tF0KhUN6YIwdRXV0dmzDXVKo2xKJRnt9gMMLhdPL8tadPYX9///gABAIBthK7vMDZ2ecYGR7m+ZeWVyCXy4sP4NPqKi63t3OJ0+k0FM2N2N7e5nwtLUp4ZmYglUqLD4BqTk2ZaY8nJ2G1WjiX0+UCwzAwm+8XHwDV0Le0nEVvMplEc+N5pFIpiMRihMMRVmbhyEZpAHR3X8Mzjycr+eioCdNuNwYGB6FWa3D71k0kdv+UBgB18cfPXyCTybgN4vE4Wi8o2MFjsYzB7/WWFoBer4fTNZV1wulpN4gdakqykjJAsvy6HkZ9fX0WCLv9ASZsNlRWVpYWAO06NDSEcdsEB4BKo1A04yfDFB9AVVUVfm0lcPZMLUj7ZDRu18MRSCQS9p3q3tfXyz4frM/twv+ehCbTKO6ZzXhot8NmG+fy3jWZOL1T5y8sLLDfdDodpp485amgt/cG3vv9hY9iqqXD4YTeYOCC5ubmcGdkGHt7exCLaxCORNgZQLOAfKQOmhW5FxElSCZ/Q6PWYHPzBw9E3svo9Zu3vFuQIldDIWi1XWwSi9XKbmy1/JuGweAHnGtoyHtKcsZiMajaLhUGgGpJzXVwgx12k2VmO4gh33Hiyv8FZQbKDJw4A38BhKxUELiRd0cAAAAASUVORK5CYII=",
+          "height": 690,
+          "highlighted": false,
+          "id": 61,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Create a Photo Organizer in 1 hour with Python | by Aaron Yu | Python In Plain English | Medium",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Create%20a%20Photo%20Organizer%20in%201%20hour%20with%20Python%20%7C%20by%20Aaron%20Yu%20%7C%20Python%20In%20Plain%20English%20%7C%20Medium&pos=0&uri=https://medium.com/python-in-plain-english/create-a-photo-organizer-in-1-hour-with-python-9d4b82552f21",
+          "width": 1324,
+          "windowId": 56
+        },
+        "62": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAj0lEQVRYR+1XQQ6AMAgb/9ufjH/igcYDHjDTbmYpku06Am2BJkghPyHXL1Jr3Z5AqOp+/r/FoUQsn8XHAeCRGWOvgI9Dmft8NwUWgN8q0LsdzS0YVSAMgNHtuHzgqwJ0AKgf5JsBlPlywrwKhDEidBinrSHdiOgA6C2gAUAL5/WBPAq0mOS/jNAezoqjX8cHRgmgMIX7sGQAAAAASUVORK5CYII=",
+          "height": 690,
+          "highlighted": false,
+          "id": 62,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "A Photo Album with Python and PIL",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=A%20Photo%20Album%20with%20Python%20and%20PIL&pos=0&uri=https://lethain.com/a-photo-album-with-python-and-pil/",
+          "width": 1324,
+          "windowId": 56
+        },
+        "73": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://miro.medium.com/fit/c/128/128/1*ChFMdf--f5jbm-AYv6VdYA@2x.png",
+          "height": 671,
+          "highlighted": false,
+          "id": 73,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Python Interactive Network Visualization Using NetworkX, Plotly, and Dash | by Jiahui Wang | Towards Data Science",
+          "url": "https://towardsdatascience.com/python-interactive-network-visualization-using-networkx-plotly-and-dash-e44749161ed7",
+          "width": 1305,
+          "windowId": 56
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "18": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 744,
+        "id": 18,
+        "incognito": false,
+        "left": 327,
+        "state": "normal",
+        "top": 184,
+        "type": "normal",
+        "width": 1408
+      },
+      "56": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 791,
+        "id": 56,
+        "incognito": false,
+        "left": 315,
+        "state": "normal",
+        "top": 142,
+        "type": "normal",
+        "width": 1362
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Launch Meeting - Zoom",
+    "date": 1609144402011,
+    "lastEditedTime": 1609144402011,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1608625861619,
+    "id": "a20c734b-4a27-423a-b309-26019b2ef1c4"
+  }
+]

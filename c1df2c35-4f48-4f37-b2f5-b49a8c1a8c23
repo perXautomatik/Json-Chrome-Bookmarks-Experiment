@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "5141": {
+        "5143": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 5143,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Drag and drop from outlook : PowerShell",
+          "url": "https://www.reddit.com/r/PowerShell/comments/81dmj4/drag_and_drop_from_outlook/",
+          "width": 1383,
+          "windowId": 5141
+        },
+        "5144": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.howtogeek.com/public/images/x32x32.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.ladCzNKJij.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 5144,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 5143,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How Do You Emulate Drag and Drop Without Holding the Mouse Button Down?",
+          "url": "https://www.howtogeek.com/269070/how-do-you-emulate-drag-and-drop-without-holding-the-mouse-button-down/",
+          "width": 1383,
+          "windowId": 5141
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5141": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 5141,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "How Do You Emulate Drag and Drop Without Holding the Mouse Button Down?",
+    "date": 1601173831134,
+    "lastEditedTime": 1601173828785,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "4e7ed9b9-5568-4d65-9e29-f9e488677a7b"
+  }
+]

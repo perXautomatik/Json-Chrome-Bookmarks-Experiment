@@ -1,0 +1,193 @@
+[
+  {
+    "windows": {
+      "327": {
+        "329": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 329,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Comparison of Linux distributions - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Comparison_of_Linux_distributions",
+          "width": 843,
+          "windowId": 327
+        },
+        "330": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 330,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 329,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Rocks Cluster Distribution - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rocks_Cluster_Distribution",
+          "width": 843,
+          "windowId": 327
+        },
+        "331": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 331,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 329,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Grml - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Grml",
+          "width": 843,
+          "windowId": 327
+        },
+        "332": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 332,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 329,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Knoppix - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Knoppix",
+          "width": 843,
+          "windowId": 327
+        },
+        "333": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://unetbootin.github.io/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 333,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 329,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "UNetbootin - Homepage and Downloads",
+          "url": "https://unetbootin.github.io/",
+          "width": 843,
+          "windowId": 327
+        },
+        "334": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1321,
+          "highlighted": false,
+          "id": 334,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 329,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Speed Dial",
+          "url": "chrome://startpageshared/",
+          "width": 843,
+          "windowId": 327
+        },
+        "335": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/u0939doeuioaqhspkjyc.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 335,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 329,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "The Complete Guide to Saving Your Windows System with a Thumb Drive",
+          "url": "https://lifehacker.com/the-complete-guide-to-saving-your-windows-system-with-a-5504531",
+          "width": 843,
+          "windowId": 327
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "327": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1410,
+        "id": 327,
+        "incognito": false,
+        "left": 2070,
+        "state": "normal",
+        "top": -415,
+        "type": "normal",
+        "width": 900
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Comparison of Linux distributions - Wikipedia",
+    "date": 1600012582888,
+    "lastEditedTime": 1601295398809,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600008450562,
+    "id": "cab745a6-564e-4e45-96a8-25a712e1af2a"
+  }
+]

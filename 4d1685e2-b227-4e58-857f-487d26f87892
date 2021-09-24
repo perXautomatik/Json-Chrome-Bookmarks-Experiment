@@ -1,0 +1,202 @@
+[
+  {
+    "windows": {
+      "249": {
+        "246": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 720,
+          "highlighted": false,
+          "id": 246,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Help detecting IndexDB errors automatically · Issue #600 · sienori/Tab-Session-Manager",
+          "url": "https://github.com/sienori/Tab-Session-Manager/issues/600",
+          "width": 1323,
+          "windowId": 249
+        }
+      },
+      "267": {
+        "275": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cpfs-cdn.atlassian.com/assets/shared/id-summit/id-summit-aa-favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 275,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Log in to continue - Log in with Atlassian account",
+          "url": "https://id.atlassian.com/login?continue=https%3A%2F%2Fauth.atlassian.com%2Fauthorize%3Fclient_id%3DmQz6pdKujUewiC7UYHDic39K2ruzZ400%26scope%3Dopenid%2520email%2520profile%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Ftrello.com%252Fauth%252Fcallback%26state%3DreturnUrl%253D%25252F%2526provider%253Datlassian%2526subProvider%253Dmicrosoft%2526locale%253Den-US%2526tosAccepted%253D%2526timeStateCreated%253D1600782694723%2526id%253D5f6a01666b7e0b5b17c2c224%2526csrf%253DM7L164IdwRYwAP%25252B4Ff1hJc9MjdxEpmJ40m%25252Bdt2t8%25252BqY%25253D&display=eyJwcm9kdWN0SGludCI6InRyZWxsbyJ9&email=crbk01.region.gotland%40gmail.com&errorCode",
+          "width": 1801,
+          "windowId": 267
+        },
+        "279": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1010,
+          "highlighted": false,
+          "id": 279,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "chrome://extensions/",
+          "width": 1801,
+          "windowId": 267
+        },
+        "284": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 284,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Cool Waterfall HD wallpaper - Opera add-ons",
+          "url": "https://addons.opera.com/en/wallpapers/details/cool-waterfall-hd/",
+          "width": 1801,
+          "windowId": 267
+        },
+        "300": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://forums.opera.com/assets/uploads/system/favicon.ico?v=rnj5bhgqg58",
+          "height": 1010,
+          "highlighted": false,
+          "id": 300,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "[Solved]Restoring Extension Button to Toolbar | Opera forums",
+          "url": "https://forums.opera.com/topic/31336/solved-restoring-extension-button-to-toolbar",
+          "width": 1801,
+          "windowId": 267
+        },
+        "310": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://trello.com/favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 310,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Reset Your Trello Password",
+          "url": "https://trello.com/forgot?email=crbk01.region.gotland%40gmail.com",
+          "width": 1801,
+          "windowId": 267
+        },
+        "314": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/ui/v1/icons/mail/images/2/unreadcountfavicon/60+.png",
+          "height": 1010,
+          "highlighted": false,
+          "id": 314,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 310,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Inbox (64) - christoffer.broback@gmail.com - Gmail",
+          "url": "https://mail.google.com/mail/u/0/#inbox",
+          "width": 1801,
+          "windowId": 267
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "249": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 809,
+        "id": 249,
+        "incognito": false,
+        "left": 331,
+        "state": "normal",
+        "top": 158,
+        "type": "normal",
+        "width": 1380
+      },
+      "267": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1096,
+        "id": 267,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Inbox (64) - christoffer.broback@gmail.com - Gmail",
+    "date": 1600783629684,
+    "lastEditedTime": 1601295397934,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1600777599764,
+    "id": "4866a7ae-761f-4c40-bf4e-1922e9d4e627"
+  }
+]

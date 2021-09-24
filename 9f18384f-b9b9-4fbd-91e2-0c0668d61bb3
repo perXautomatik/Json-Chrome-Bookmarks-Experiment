@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "4165": {
+        "4208": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www3.gotland.se/sr/Content/Images/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4208,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Inte tillgänglig",
+          "url": "http://www3.gotland.se/sr/Survey/1414/sv#stay",
+          "width": 1383,
+          "windowId": 4165
+        },
+        "4235": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 4235,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Scraper - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/scraper/poegfpiagjgnenagjphgdklmgcpjaofi",
+          "width": 1383,
+          "windowId": 4165
+        },
+        "4333": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 4333,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Data Scraper - Easy Web Scraping - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden/related",
+          "width": 1383,
+          "windowId": 4165
+        },
+        "4379": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://logincdn.msauth.net/16.000.28741.15/images/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4379,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sign in to your Microsoft account",
+          "url": "https://login.live.com/oauth20_authorize.srf?response_type=token&client_id=000000004C18365E&redirect_uri=https%3A%2F%2Fto-do.live.com%2Ftasks%2Fauth%2Fcallback&scope=https://graph.microsoft.com/User.Read&state=eyJ0b2tlblR5cGUiOiJncmFwaFRva2VuIiwiZmxvd1R5cGUiOiJtc2EifQ==&aadredir=1",
+          "width": 1383,
+          "windowId": 4165
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4165": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 4165,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Inte tillgänglig",
+    "date": 1601172858036,
+    "lastEditedTime": 1601172856984,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "55d12da5-2a06-458f-b2dd-78ad9df76441"
+  }
+]

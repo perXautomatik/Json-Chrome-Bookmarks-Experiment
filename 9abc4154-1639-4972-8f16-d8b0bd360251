@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "12754": {
+        "12804": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.safespring.com/img/favicons/favicon.ico",
+          "height": 1001,
+          "highlighted": true,
+          "id": 12804,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Safespring | EU-domstolens ogiltigförklarande av Privacy Shield",
+          "url": "https://www.safespring.com/whitepaper/schrems-ii/?gclid=Cj0KCQjwoJX8BRCZARIsAEWBFMJb4CgSciurAlpfoq61odZwg3Ti7em8oVu3bmxC7Nx6Fo1UV6TGU-4aAramEALw_wcB",
+          "width": 936,
+          "windowId": 12754
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "12754": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 12754,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Safespring | EU-domstolens ogiltigförklarande av Privacy Shield",
+    "date": 1602629867274,
+    "lastEditedTime": 1602629669413,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "c6c90149-967f-4625-8232-ae850d03bab6"
+  }
+]

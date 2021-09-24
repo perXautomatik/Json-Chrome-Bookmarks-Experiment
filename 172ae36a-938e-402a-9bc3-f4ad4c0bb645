@@ -1,0 +1,100 @@
+[
+  {
+    "windows": {
+      "1884": {
+        "1652": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1652,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "File:JabRef-3.6.png - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/File:JabRef-3.6.png",
+          "width": 1879,
+          "windowId": 1884
+        },
+        "1665": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1665,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JabRef - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/JabRef",
+          "width": 1879,
+          "windowId": 1884
+        },
+        "1678": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1678,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Signal (IPC) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Signal_(IPC)",
+          "width": 1879,
+          "windowId": 1884
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1884": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1884,
+        "incognito": false,
+        "left": 952,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 968
+      }
+    },
+    "tabsNumber": 3,
+    "name": "NVIDIA PhysX System Software 9.15.0428",
+    "date": 1600034754030,
+    "lastEditedTime": 1601295398241,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600030279299,
+    "id": "7b1ca7a6-f2d2-4999-8963-d3c3cb04be64"
+  }
+]

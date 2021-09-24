@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "1419": {
+        "1480": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1480,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://stackoverflow.com/questions/29752105/how-can-i-call-scalar-user-defined-function-from-linked-server",
+          "url": "https://stackoverflow.com/questions/29752105/how-can-i-call-scalar-user-defined-function-from-linked-server",
+          "width": 1383,
+          "windowId": 1419
+        },
+        "1500": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1500,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Storage Area Explorer - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/storage-area-explorer/ocfjjjjhkpapocigimmppepjgfdecjkb/related",
+          "width": 1383,
+          "windowId": 1419
+        },
+        "1513": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1513,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://stackoverflow.com/questions/10914576/t-sql-split-string",
+          "url": "https://stackoverflow.com/questions/10914576/t-sql-split-string",
+          "width": 1383,
+          "windowId": 1419
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1419": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 1419,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Storage Area Explorer - Chrome Web Store",
+    "date": 1600017168359,
+    "lastEditedTime": 1601295397553,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "08e050b4-c63e-4b14-a36d-378577b741db"
+  }
+]

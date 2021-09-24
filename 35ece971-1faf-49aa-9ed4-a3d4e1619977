@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "376": {
+        "379": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a0849290049_3.jpg",
+          "height": 691,
+          "highlighted": false,
+          "id": 379,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "The Means To An End | Control",
+          "url": "https://control-exsanguinate.bandcamp.com/album/the-means-to-an-end",
+          "width": 1383,
+          "windowId": 376
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "376": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 376,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 1,
+    "name": "The Means To An End | Control",
+    "date": 1600113091784,
+    "lastEditedTime": 1601295397483,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600112532784,
+    "id": "011f1ff5-80cb-40c1-a33f-f68c39847a26"
+  }
+]

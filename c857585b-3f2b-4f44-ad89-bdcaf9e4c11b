@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "7023": {
+        "7024": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/bing_p_rr_teal_min.ico",
+          "height": 1001,
+          "highlighted": true,
+          "id": 7024,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "( amiga | commodore ) ( porn | sex | smut | nude | adult ) -youtube - Bing video",
+          "url": "https://www.bing.com/videos/search?q=(%20amiga%20%7C%20commodore%20)%20(%20porn%20%7C%20sex%20%7C%20smut%20%7C%20nude%20%7C%20adult%20)%20-youtube%20&qs=n&form=QBVR&sp=-1&pq=(%20amiga%20%7C%20commodore%20)%20(%20porn%20%7C%20sex%20%7C%20smut%20%7C%20nude%20%7C%20adult%20)%20-youtube%20&sc=0-68&sk=&cvid=6F3A16B46BD74540AB3DE2A8FC55DC04",
+          "width": 936,
+          "windowId": 7023
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7023": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 7023,
+        "incognito": false,
+        "left": 936,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "( amiga | commodore ) ( porn | sex | smut | nude | adult ) -youtube - Bing video",
+    "date": 1601450432465,
+    "lastEditedTime": 1601450420519,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1600633358975,
+    "id": "396d6b38-1966-49a2-bd19-4f711de95f9f"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "9": {
+        "12": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 979,
+          "highlighted": false,
+          "id": 12,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Release Rubberduck v2.5.1.5557 · rubberduck-vba/Rubberduck · GitHub",
+          "url": "https://github.com/rubberduck-vba/Rubberduck/releases/tag/v2.5.1",
+          "width": 1801,
+          "windowId": 9
+        },
+        "21": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/dba/Img/favicon.ico?v=fccaf00a9c8c",
+          "height": 979,
+          "highlighted": false,
+          "id": 21,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 12,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How to create a synonym for a column in SQL Server? - Database Administrators Stack Exchange",
+          "url": "https://dba.stackexchange.com/questions/227130/how-to-create-a-synonym-for-a-column-in-sql-server",
+          "width": 1801,
+          "windowId": 9
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "9": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1096,
+        "id": 9,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 2,
+    "name": "How to create a synonym for a column in SQL Server? - Database Administrators Stack Exchange",
+    "date": 1618219285634,
+    "lastEditedTime": 1618219285634,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1618217634665,
+    "id": "44be850d-73b1-474c-8c29-7124c582d006"
+  }
+]

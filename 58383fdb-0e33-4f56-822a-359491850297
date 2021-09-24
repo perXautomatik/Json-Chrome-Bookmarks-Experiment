@@ -1,0 +1,169 @@
+[
+  {
+    "windows": {
+      "1844": {
+        "1847": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.autohotkey.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1847,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Get the URL of the current (active) browser tab - AutoHotkey Community",
+          "url": "https://www.autohotkey.com/boards/viewtopic.php?f=6&t=3702",
+          "width": 1324,
+          "windowId": 1844
+        },
+        "1848": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1848,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1847,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "does windows Apps support argument flags - Google Search",
+          "url": "https://www.google.com/search?sxsrf=ALeKk00ZDkhDH-5VL8siV4DSfL1Ht96ovg:1584978680898&q=does+windows+Apps+support+argument+flags&spell=1&sa=X&ved=2ahUKEwjMhIHa-bDoAhXGxIsKHe_uCY0QBSgAegQIDBAn&biw=751&bih=1801",
+          "width": 1324,
+          "windowId": 1844
+        },
+        "1849": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 721,
+          "highlighted": false,
+          "id": 1849,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1847,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "executable - Start an external application from a Google Chrome Extension? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/2652094/start-an-external-application-from-a-google-chrome-extension",
+          "width": 1324,
+          "windowId": 1844
+        },
+        "1850": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 721,
+          "highlighted": false,
+          "id": 1850,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1847,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "c - NPAPI functions Called by Javascript - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/15815165/npapi-functions-called-by-javascript",
+          "width": 1324,
+          "windowId": 1844
+        },
+        "1851": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 1851,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1847,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "www.firebreath.org",
+          "url": "https://www.firebreath.org/",
+          "width": 1324,
+          "windowId": 1844
+        },
+        "1852": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 721,
+          "highlighted": false,
+          "id": 1852,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1847,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Javascript, how to read local file? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/6506518/javascript-how-to-read-local-file",
+          "width": 1324,
+          "windowId": 1844
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1844": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 1844,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Get the URL of the current (active) browser tab - AutoHotkey Community",
+    "date": 1599751149277,
+    "lastEditedTime": 1601295398757,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599749435362,
+    "id": "c31e966d-4291-4782-8ebc-70316246caf7"
+  }
+]

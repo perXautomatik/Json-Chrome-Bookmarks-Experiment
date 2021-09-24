@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "142": {
+        "129": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.myanimelist.net/images/favicon.ico",
+          "height": 1163,
+          "highlighted": true,
+          "id": 129,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "MyAnimeList.net - Panel",
+          "url": "https://myanimelist.net/",
+          "width": 2146,
+          "windowId": 142
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "142": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 142,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 2146
+      }
+    },
+    "tabsNumber": 1,
+    "name": "MyAnimeList.net - Panel",
+    "date": 1605256468074,
+    "lastEditedTime": 1605256464241,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1605255591345,
+    "id": "aa8d6d3f-55d9-4cb3-b0f2-ecb91ec0b103"
+  }
+]

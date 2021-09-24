@@ -1,0 +1,182 @@
+[
+  {
+    "windows": {
+      "3107": {
+        "141": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/b70e86a1/img/favicon_32.png",
+          "height": 1154,
+          "highlighted": false,
+          "id": 141,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(7) Elon Musk DESTROYS Pronoun Police & Twitter FAILS To Cancel Him & Space X Again - YouTube",
+          "url": "https://www.youtube.com/watch?v=iWDAAjff3Os&list=PLKz9dRhwlGu1JRo_rw28VBeXR5SBg0nTy&index=7",
+          "width": 706,
+          "windowId": 3107
+        },
+        "2529": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2529,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "BOLTR: Modutrol Motor | Industrial Oddware - YouTube",
+          "url": "https://www.youtube.com/watch?v=4EWT4JKsZKM&list=PLKz9dRhwlGu1JRo_rw28VBeXR5SBg0nTy&index=2426&pbjreload=101",
+          "width": 1073,
+          "windowId": 3107
+        },
+        "2655": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2655,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://www.youtube.com/watch?v=oInD8Vl4ZDA",
+          "url": "https://www.youtube.com/watch?v=oInD8Vl4ZDA",
+          "width": 1073,
+          "windowId": 3107
+        },
+        "2681": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2681,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Every Villager in Eastshade Is Just the Worst - Eastshade gameplay - Let's Game It Out - YouTube",
+          "url": "https://www.youtube.com/watch?v=n1KQulaKNNU",
+          "width": 1073,
+          "windowId": 3107
+        },
+        "2770": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2770,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "I Produced so Much Nuclear Waste the World Is Ruined Forever - Satisfactory - YouTube",
+          "url": "https://www.youtube.com/watch?reload=9&v=Oh2oF-eZTD8",
+          "width": 1073,
+          "windowId": 3107
+        },
+        "3012": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": true,
+          "id": 3012,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Iconoclasts - PART 10 - The Revolution is HOT - Let's Game It Out - YouTube",
+          "url": "https://www.youtube.com/watch?v=po6ynDcFtlY",
+          "width": 1073,
+          "windowId": 3107
+        },
+        "3028": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/b70e86a1/img/favicon_32.png",
+          "height": 1155,
+          "highlighted": false,
+          "id": 3028,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://www.youtube.com",
+          "url": "https://www.youtube.com/",
+          "width": 1073,
+          "windowId": 3107
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3107": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 3107,
+        "incognito": false,
+        "left": 596,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Iconoclasts - PART 10 - The Revolution is HOT - Let's Game It Out - YouTube",
+    "date": 1611537254909,
+    "lastEditedTime": 1611537242629,
+    "tag": [
+      "winClose",
+      "loppy"
+    ],
+    "sessionStartTime": 1611535482936,
+    "id": "dd3246bf-dbd8-4e64-b944-69841f9779c8"
+  }
+]

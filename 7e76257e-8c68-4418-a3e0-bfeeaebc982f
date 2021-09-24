@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "62": {
+        "65": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1820,
+          "highlighted": false,
+          "id": 65,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql list db on server - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=sql+list+db+on+server&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1039,
+          "windowId": 62
+        },
+        "79": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1820,
+          "highlighted": false,
+          "id": 79,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 65,
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "How to find all the dependencies of a table in sql server - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/22005698/how-to-find-all-the-dependencies-of-a-table-in-sql-server",
+          "width": 1039,
+          "windowId": 62
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "62": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1906,
+        "id": 62,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -735,
+        "type": "normal",
+        "width": 1096
+      }
+    },
+    "tabsNumber": 2,
+    "name": "How to find all the dependencies of a table in sql server - Stack Overflow",
+    "date": 1601283565974,
+    "lastEditedTime": 1601295397642,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1601279222044,
+    "id": "195292ca-7ea8-43cb-9fa1-66f2eb6c38f0"
+  }
+]

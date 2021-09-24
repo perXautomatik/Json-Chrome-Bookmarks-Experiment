@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "395": {
+        "397": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.diskpart.com/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 397,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Uninstall Completed - We are Sorry to See You Leave",
+          "url": "https://www.diskpart.com/pa-standard-uninstall-completed.html",
+          "width": 843,
+          "windowId": 395
+        },
+        "398": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.photome.de/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 398,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 397,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PhotoME - Exif, IPTC & ICC Metadata Editor",
+          "url": "https://www.photome.de/uninstall.html",
+          "width": 843,
+          "windowId": 395
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "395": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1410,
+        "id": 395,
+        "incognito": false,
+        "left": 2070,
+        "state": "normal",
+        "top": -415,
+        "type": "normal",
+        "width": 900
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Uninstall Completed - We are Sorry to See You Leave",
+    "date": 1600012662804,
+    "lastEditedTime": 1601295398245,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600008450562,
+    "id": "7b25f29f-b0f1-4ece-a6a4-2906c0f3e09e"
+  }
+]

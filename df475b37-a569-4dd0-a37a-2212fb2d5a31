@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "4422": {
+        "4430": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 970,
+          "highlighted": false,
+          "id": 4430,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Assigning @@rowcount to variable in SQL Server stored procedure - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/50357516/assigning-rowcount-to-variable-in-sql-server-stored-procedure",
+          "width": 1879,
+          "windowId": 4422
+        },
+        "4431": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.wolframalpha.com/_next/static/images/favicon_fzx75d1e.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 4431,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "between 10000 and 31999 or BETWEEN 33000 and 47999 or BETWEEN 50000 and 98999 - Wolfram|Alpha",
+          "url": "https://www.wolframalpha.com/input/?i=between+10000+and+31999+or+BETWEEN+33000+and+47999+or++BETWEEN+50000+and+98999&wal=header",
+          "width": 1879,
+          "windowId": 4422
+        },
+        "4432": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://use-the-index-luke.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 4432,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Indexing SQL range conditions less than, greater than and between",
+          "url": "https://use-the-index-luke.com/sql/where-clause/searching-for-ranges/greater-less-between-tuning-sql-access-filter-predicates",
+          "width": 1879,
+          "windowId": 4422
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4422": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 4422,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Assigning @@rowcount to variable in SQL Server stored procedure - Stack Overflow",
+    "date": 1600027258671,
+    "lastEditedTime": 1601295398687,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "baa6a6df-553e-4668-8286-351ee78ba223"
+  }
+]

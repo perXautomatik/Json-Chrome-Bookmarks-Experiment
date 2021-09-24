@@ -1,0 +1,142 @@
+[
+  {
+    "windows": {
+      "3102": {
+        "3097": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a3544703468_3.jpg",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3097,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "painful bliss: final twist | niku daruma",
+          "url": "https://nikudaruma.bandcamp.com/album/painful-bliss-final-twist",
+          "width": 459,
+          "windowId": 3102
+        },
+        "3098": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a2430907363_3.jpg",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3098,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Smile | Shame | Anti-Everything",
+          "url": "https://anti-everything.bandcamp.com/album/smile",
+          "width": 459,
+          "windowId": 3102
+        },
+        "3099": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1321,
+          "highlighted": false,
+          "id": 3099,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Never Really Knew Me | Death Kneel & Theodore Cale Schafer | Summer Isle",
+          "url": "https://summerisle.bandcamp.com/album/never-really-knew-me",
+          "width": 459,
+          "windowId": 3102
+        },
+        "3100": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a2926028217_3.jpg",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3100,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "We Are Connected | Visitation | Modern Decadence",
+          "url": "https://moderndecadence.bandcamp.com/album/we-are-connected",
+          "width": 459,
+          "windowId": 3102
+        },
+        "3101": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a4152970861_3.jpg",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3101,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "TEARING UP YOUR PLANS | Slogun COS",
+          "url": "https://sloguncos.bandcamp.com/album/tearing-up-your-plans",
+          "width": 459,
+          "windowId": 3102
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3102": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1410,
+        "id": 3102,
+        "incognito": false,
+        "left": 2314,
+        "state": "normal",
+        "top": -140,
+        "type": "normal",
+        "width": 516
+      }
+    },
+    "tabsNumber": 5,
+    "name": "painful bliss: final twist | niku daruma",
+    "date": 1600023223936,
+    "lastEditedTime": 1601295399079,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "ee20ea43-0e22-4e49-8f6e-d19a516b1c8e"
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "windows": {
+      "9929": {
+        "10319": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 10319,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "CYBERPUNK - Club - MyAnimeList.net",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=CYBERPUNK%20-%20Club%20-%20MyAnimeList.net&pos=2096&uri=https://myanimelist.net/clubs.php?cid=1705",
+          "width": 0,
+          "windowId": 9929
+        },
+        "10353": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 10353,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Per_automatik's Profile - MyAnimeList.net",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Per_automatik's%20Profile%20-%20MyAnimeList.net&pos=89.14286041259766&uri=https://myanimelist.net/profile/Per_automatik",
+          "width": 0,
+          "windowId": 9929
+        },
+        "10454": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 10454,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "prime video pris - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=prime%20video%20pris%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=prime+video+pris&rlz=1CAZBMY_enSE834&oq=prime+video+pris&aqs=chrome.0.0l8.2686j0j7&sourceid=chrome&ie=UTF-8",
+          "width": 0,
+          "windowId": 9929
+        },
+        "10457": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 10457,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Crunchyroll",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Crunchyroll&pos=0&uri=https://www.crunchyroll.com/en-gb/welcome?from=topbar&return_url=https%3A//www.crunchyroll.com/videos/anime#plans",
+          "width": 0,
+          "windowId": 9929
+        },
+        "10469": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEBklEQVRYR7WXX0hbVxzHP3erPhQRcUNE6ipFrKshneJ060MXBtOHDdHJKBv0wbERWufKwsCH4coQRn3Q4dz6sAeJRQYiqVkYTChmyTqGtkNGF4oNg24KaZCgGYSNTbeMX/Qk997E3NuaHdBwzz2/3/f7+3+uxv5Kp9PlQAfwDPCE2i/x7ybwE3Bb07Rd0a3Jv3Q6LYBvANUlBjxInRD5UtO037V9y90PA55KpYhGowbldXV11NbWPgx/IfGFEHgBcNmR9AcCfD41RSgUyh7/F3hs/8nlcjE4NERvT48ddXJmUQgMWVkvFvf19REMhbJgxRA8Hg9jY2N2SDwQApetTr527hz+69cNVsuDsryQ/LzPZ8cTu5YEAoEA/f39eRgOp5PGxkaSW1uGkKiDZ10ulm7csLINSwJvu914p6cNiswuHh4eZmJiIg9sZ2fn8ATcbjfTJgLb29tUVFRklUtFPN3Skn1WoSkJAdFqLru2trY8y8rKygx7Uh3/lMIDhXwYj8eJxWL8sLyceR0OhzNJqi/JkhMQ0Gmvl/n5eSJ37uRZa66IkhKQBjQ0OIiQMC+91eZ3JcmB1dVVOjs7s+7VA0o11B8/zqnmZrq7u/+fHGhtbSUSiRiUS8udmZlB+r9a5iSU/UN7QMqrRVdeCmxlZQV9JUho6uvrM6+Vh0qSA6oLWmV3MBjMC4GQ2djYsJyQRTvhZ1ev8t6lS3mJZ25EhZqVCPl8PnosJmNRAsoyc6brW/Hs7CwDAwN5PUDKUubFzXDY0DXN1hQloI+tXlAIOR0OEokEsXi84FRUpD+ZnOSdixcPnAmWw8g8ig/SJNaaG5TckJaWlmhqanp0Auoyor8FmbP9fY+HkZERRkdHM1NReWhubq4ouOix9IAaRt5r1/hqYSEz+zMATicd7e1IAupL8uMrV/jt/n3Gx8dzsf8jBvIngtXNcCQ3SY0E7n4KR49Bw6uWc9zWAQG9NQib/j1wWc5JOPVuVtxIIBmF4PNQfRYcH8CT7bZwDjy0m4LkGhytg/JKWHwWTlwoQkA0iVDwZdj6Dmp7oeE8HOsyuM02q1gQolN7Hui6B4sn4cXbUJMzTDzwofpAySoWEquX4deJnOueehOqTkPNGagyxjEjp6xNRmDzJsT98PfW3s31uQU4UgmRj6ArrOf/lxC4ANQUtCrxIyyfh9Ra7gqsYqkEBEDtmS8FNb3QNgaVTSC6hESVoSTXhcAZ4KWibl33w9o4JL83ThsFqCcleyc80PC6nRz6Wgg8DrwFWH9XSVYnbkFqHTa/zXEur94LT5UDajrs5ss64FUfp1KYrwAnbSfY4Q7+DHyjadqfGQJqpdPp5n0SctMonBePDiz3uQfAXU3TflFq/gPt89jwQ3cf0QAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 10469,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Watch Elfen Lied - Season 01 | Prime Video",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Watch%20Elfen%20Lied%20-%20Season%2001%20%7C%20Prime%20Video&pos=0&uri=https://www.amazon.com/Elfen-Lied-Season-01/dp/B003B21SP0",
+          "width": 0,
+          "windowId": 9929
+        },
+        "10476": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFeUlEQVRYR51XbWhTVxh+P85NYu3HwFX3o4yCMgfTH4L+kIFa3I9OxzZ0qeCcypgynHO//KFukAlDpI6xDt1GpzimAzMQGQhljKll0DGLlOnqLFIKq7I21TZJ6Zo0vXeccz9yP85tZIHShNyc85znfd73eQ7Ck76yWV46sqSVWKwEhGYibrAENAARIHLRJC4KsnJopO79XXd3BDo65p9kaaz1UHPmWr1llDYi4mpESgIBgBAgNyYi9d/9U58FAQGWLMbbTXXGjcGOVdML7REPIJvlp+8kNyDyeossA8jeVAIgB4BaWAg9EMmMoDkQ3PfAeKEXOlDLiBZAcyZbPz/DO0BAi31SAcDgAJBA5FuhThvLhMOGfJiYRhtTeEnHRgTA0g++X1YRuBNYNCq6HYqrIGwAHjAJQn50WfGe95VHKJ0UKpC6OLZ7xbi/JAEA6uSTc/tMhEZ1OoleLewDwj4GnJIoTYRASD2Ykj1nHSVWxkJTirr9TFQBpLPc1Dyz1yJsiYjLoTpYDgdI4OROaWLE6ZZjNLXqvKsJD8BT+8+2mQQbtDV1T+EH4jARKJHTIdru8GkCE9z74M1V1yRrCkDzgdP15XLikEVgBFrK32KBUjin90AIm2r3+RqakN3RtIi7ZCkUgMY9Z7aaiGvV6QN0B/vc+16KQva71x0+YXoliSmHwyYmoP/BW2uuIqSz3JAaO2zJIeMJLzRc3JMJAdvWPAu/Dk/AxL+Vajf4mFioRf2lIYGl0cX3O7FpR9fyObZ2eV9qQPh1MfnZTijMVqDzl0H4pm8YympHAIqAkCzZQ8p050aoRdlIXMC6jk+3ANE6b5Maw2Xy811eGw9PTMNHPX9Az71xey6wGpP2e7eUmmnptqhIwE1MbT+1hxhbdeoPa0J+zn+xOzLar98fh2M9d2AoN+ObmO6UrE5M/x4SBBKP4KLtJw8i0hKdqehA5U/v1XqLaQKc6x+Gk9eHYGpW6iNkWBpmiegRpl4/cQSIErG969BpqqlIkP/y7QUNdGq2DO9fGYCeIbssNov2pLRdtNodFmMZU69+ogDYYzdkr/4B5AL4+p3aAC4P2LpQmlBDIeKiEhRKAMlXjh9E4CV2X0f7PizOYvf+mBKYcO63YTjx8yBMlWQJnPUUCGdm+L2DCATyI0y1f7wHBLU63AQVHA4dgqB49t2oCIf+gSNXbsFfY4XQ752soKw8micIaQTr2jNbKoDrPNfSi8WrZ/HbA9U2HC/Akcu/w09/Pgwko2hL6/MECXETky9/uNyah11AMvTYFqwrh1ue4ncHoTBbhpM/3oKvrg1CRflwNJhEbFw3tllcQEinOZF//jCAlQyD0AnzjRefg967D2FiphwbxRSgGnkCWZRyK/KdyoySLx3dagGttRUbZCI8CxbKCvFO6vcWpxzC6J841n7VtuNNmfo8lw4BogqfRGzTGuMLAVf0ej3GwPypyNEXI88BN3TlMm22HctXavPRNtOyA4mOCV2L+g1soUHmDSM3SwrRO3H8tWogUQjSWTZy/XuRhErCLojwacN5QeW+QHCJZ0KtZYjRx2vmz7sXl2Ao3ZSpL1iz+yymxqo3cHWDOKfUTExtZxiiwIuxO5fp8C4rkVi+ePPRZZWKuXOeoVElHvcyQka11zVTs1aeECwKZWPRxelT2+JjuasHKcopKO1AwhZ3lithhsJp3NUs3DlIPJpYWnfJf3J3r/irWTrLqccDG0yw1gOyE1aj5Qh7vN/WmWgOheibmmzohR/0l9Xal9NNmfrHWN7IBq8GwCQJNdi9a5kuMzBTCRN8O5m0buTOvPc/L6dhy0mnOTm9shUssRIZmy3EBiS2r+dMRQIuWow5A417efOZkbgTh5f9D12YWszW1HAlAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 10476,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Prime Video: Tv-serier",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Prime%20Video%3A%20Tv-serier&pos=0&uri=https://www.primevideo.com/storefront/tv/ref=atv_nb_sf_tv",
+          "width": 0,
+          "windowId": 9929
+        },
+        "10479": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://s1.nordcdn.com/nordvpn/media/1.584.0/images/nordsec/favicon/favicon.png",
+          "height": 1009,
+          "highlighted": false,
+          "id": 10479,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Get Nord security | Nord Checkout",
+          "url": "https://nordcheckout.com/payment/?product_group=nordvpn&_ga=2.58286060.731480911.1601672702-1330393100.1601672702&cart_id=a5e5dbb7-7175-4fcc-b94b-fa3487a937e4",
+          "width": 1872,
+          "windowId": 9929
+        },
+        "10483": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s1.nordcdn.com/nordvpn/media/1.562.0/images/global/favicon/favicon-32x32.png",
+          "height": 1009,
+          "highlighted": true,
+          "id": 10483,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Best VPN service. Online security starts with a click. | NordVPN",
+          "url": "https://nordvpn.com/?utm_medium=affiliate&utm_term&utm_content&utm_campaign=off15&utm_source=aff18219&url=%7Burl%7D&utm_expid=.c9U1PQ2QS7mE0y9I14L7rg.0&utm_referrer=",
+          "width": 1872,
+          "windowId": 9929
+        },
+        "10498": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADD0lEQVRYR+1XT0gUYRT/vdl1NI0sKSjrYnTKIFuKCoqE0ujgKYWg6FAUESQRYZlBe1FLIsIgoigiCgLrJBRogVFQEW0dqlPkIXODwlLy37gzL96ns0yzf2ZmXfDSnBa+7733e7/3e+99S5jjj+Y4PnwDaGjg0I8IKgqAlWxhKQhlBOiSAAMGGEOk4fsU8GVJDP1dXWT6Sc4TwK5OXpAYxSYwqogwz49TZoyD8D5cglePG2kkm01GAJLx7w3YQha2ghHyEzjlDsFkDc8XvsGLTIykBSBZm6PYA2BZToFTjeKhEtxPx0YKgOqLvDhsYJ9GKM1TcOXGYgwndNztO0k/nX7/ASCZT/3BgXwHtwMKiIL5uOVkIglAaj4cwcE80p6JwHhpDDdtTSQB1HTwNjJRnU/aM/niEPp6m+iZnCsASnRjaAysdsJ0rwftEoIZKkanlEIBqD3PdWBEgmbPwMuZLDYHtQUh1nOauml1lPUVRWgKmoUIatDAVQlcruNoYOESzIEJdFBtK6+Bht2BM7DwsKeFPigGZ+GDcqHfstD/pIXuOEHXtvPhwB1EiJFfQ1EuEthIGnQjjGvugVJzgcvJwiG1B8J47bOj4lTTxk0+lozq3ZEqrGUN63ua6Xq6kik2AZS+xSM/M0XASgnOegmQNdzoPUWD9rAamMTtT1Ey3CDqolw8XoB6KY/NSFZtEUwpwTmPS6pd7DviWH4LoHR2O1s58nUKHwSgH31lLYFQ9M3AZXe2Mrgy7XlhaaIShd1RGpMWX67jeKYST5cgm3odrRa4TWcMPFo0TtvbuD5EqHQHSNdquYLY0cr7NQ0VbnuT8ZGkZqxBqTf5Ecx0rZYrAHlj6AkccYudLHSTKHeyCCech85tlWtQt13KtiWYhRO4pJaRswwy4xe9wxW/r1q/AEWcv9bhmL0zhP6nZ+iBAuDsWQO419dMn/06DnKvup1X6cBesbFnS/JBIj1rWigUVEGcBr2r2NYwac+WJADRQqIMYa93fNCA7vsyQ8JDSMickDPPPyazDehl/x/AnDPwF4UmVFZeXK6MAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 10498,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Chrome setup with NordVPN | NordVPN Customer Support",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20setup%20with%20NordVPN%20%7C%20NordVPN%20Customer%20Support&pos=0&uri=https://support.nordvpn.com/General-info/1089077802/Chrome-setup-with-NordVPN.htm",
+          "width": 0,
+          "windowId": 9929
+        },
+        "10505": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEFUlEQVRYR+2WXWgcVRSAv17GYViWJUhMauMaoi9SRLSkGiKGWhSClGKp1YcSYrVF8qCiNkrxYSlFgg8ifehLUTH4IGjSdFOEoEiDKaFCkT6UEIqGNtukm5hNQlmGZbxe5M6d/ZnNznb9qUFwyDCb2Zs53/nOPWeyhU0+tmxyfP5bAJls9onpqaleVOBNVPlT0N391EQyufXHRs02bEAH57ffe6cvThMJAHQ93oUQTCSTyYYgGgfILKR0Vslk2/F62V2/nvHXtbcn664rPqNxgIWFlM78jgIs3Lzp06OKRS7bNvfLtTdLyutKVipuRTyFjvb2kp2QAR+gIviGEHccQGuuOEL5Vf4iipL+aQMNAkSpDZUpVKAwaHQJAoAaeYXKbb6vn314RYMAmSoDNTdW1R6Jasl6liIN1ASoSlT9awA1DMvpH2Dqe0R+FWGZOVycxtKTqEQzPPk0orunokDVGUBHR0QbZoJpV61VzVxBDn+KyK+AbSNsC2FZoCH085VEeRIK+uohm5qx+o7A9u0b94r6kwDe+FnUl8N+UCzLXDWAECZ9pX8UeMpASAOjT6uvH7FnbzifegBLS0uhOVA4fRo5NmqytUU5a0sYgOKhlJlfUqGkBA2igaRE7D+AdfhwyESyrfw+CU3C3NpaCWBlcgLnvROhwEa7LnwAUDTgl0GrUIEBHVxbkT6E8+EQYldPqXNbW++pPYqLAK7Mk/p2gMFjs8R89cI//az15yB7fSk1RQDgBw5O5flkEI/jnBtDxOO+s9sCnJkfYSz7Nc+m8/SezeJoCB1XG9ACtrXg7N+H3bkD4nlwL+Flv8Er3EAIZdaWzmCvOM8jHzaCowFypgSvXTpEQbg4rsXrx2ZpWQcnaDv7xRdYf3OQybkCK3lJzIbmuE3PA3HuXnwHtfK5CW4pbEfpfet/FiLBcssvvpHW1taIEuTWUjPrMwxdPY4wyfLIlOSlT+ZwhCC2exc/vTXEF5ddEo4gZhpC7zdcD17tTNCp+rEL4+UBUdEDq01pPLuLe6MBcqmRayOkl/XON3+pXEn/iXkeWpQkzp9nYNLo1cG1FS3G7DetXnBqj0XzYlvNCZ13jpJPDEYD/JrLpc5UAegntUy5DIwXmD2V5uTFAjFb4ATZB43gd15Bwvu7EzwjHkPI+Q39fyt2FPe2AHOBAbuizT3FwXQT1/Z9zPBlzw+uT9MQAv1+CLqOvh0x3rj/AFbhwl8DGPm5DFA5a7Zdcdj56Ek+uOAhhJ6EAUAwYvwRoOCj5+LstXciVNiA/l6XwG2qU4LlXO6V0atfJdPZUYSjJ184iVTTEAfPgassxF0WothvehKiiFmK716Ocd/qgxv2gJJwy3kXN/F2pq1t62fFBQ3/Vxz13v+79/8H2HQDfwDx3/UwEfJpvQAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 10505,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "NordVPN - #1 VPN Proxy Extension for Chrome - Chrome Web Store",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=NordVPN%20-%20%231%20VPN%20Proxy%20Extension%20for%20Chrome%20-%20Chrome%20Web%20Store&pos=0&uri=https://chrome.google.com/webstore/detail/nordvpn-1-vpn-proxy-exten/fjoaledfpmneenckfbpdfhkmimnjocfa/related",
+          "width": 0,
+          "windowId": 9929
+        },
+        "10514": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABzUlEQVRYR2P8//9/PQMZ4N8/qCYmCA2lSDaJccg6gGSv4tBAdggMmAM+/YJYferFHzC98hZEIFGLDUxbSbGAabQkgtO9JIfAgDngG8TDDO7rPoHpC68gAl+gIbI1gAfM91KChATVQ2DAHbDvEcTHybu+gOk/UC/+gtKlJhwoIaAhBCkZCJUPRKeBAXMAzKfmyyBx/+ATJCS4WFD99u4HJCjUhCC54GwUHyQECAQBwRAYcAfAUrPjKkgIXHmDGgIweZhDYXG/PwwaAjhLAIgEwRAYcAfAPHDtHcQpgZsgIQErkH5Avd7vACkHAlQg5QAfhKJeLhhwB3yAlnjWKz6AffbuG8SH36AhsNIHEuceCjSqCwbcAe9+QHxsuwp7CCz1gqQBH1rVBQPuAFhlZL0CkguefYHkClguoHkaGHAHwMoDW2iJeAtaLsCKegc5SOo3FoPQeUaQ2pGN0roAZvGAOQC9ZZO+B1IAzLoAyRYiPBAvvoGmCSUBCP9migCYhoQHbkB0XQALSbo7AN3tL75BwqT9FCQE7n2A8GHNA0toq7gM2kIiEACEa8NB5wBCPiJVnmAaINVAUtWT7QBY7xjW5oPlFpgDCLWGYeoG3AEABZ5rsCuflcYAAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 10514,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "The best VPN service in 2020 | Tom's Guide",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=The%20best%20VPN%20service%20in%202020%20%7C%20Tom's%20Guide&pos=0&uri=https://www.tomsguide.com/best-picks/best-vpn",
+          "width": 0,
+          "windowId": 9929
+        },
+        "10522": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADzElEQVRYR+2W3W8UZRTGf+ed7fYjpXxoQRQL3e5SiygmxHiDxorGG71Amu1UUxISEsVE40e8MPEvMF4YNV54oxFNd1ergli4ECjRXkiqDYSk2N2dIoEoBSUB2izdnXnNSHazOzvdHRuS3jCXZ8553uc855z3vMISf7LE53ObQGAFRqI0XlXcJwWiWlirNK2OYKCZRfhHaaxQmMnnzvD3/ylrXQLHHif013m24fCIgqa64IrJFsXRZ6e4XNcXavdAKko7Dn0aVpfADC46MGEoZgybvA1tDsREeBAb5fqJUHCEQ2aG3+qRWFAB93At7MamuQiiQ5zon+KwgPYCD69n7bzBrnKVBI7ELX6uRcKXQGodzTSxVzssKx0O50yLT2uBpbrp1nnMch8tDJtZTi8U50sgEeEZga3lQYbBvr40Vj1JEzFeFJu7in5iMNee58Pes+T8YqsIHOxg5WyIV8udHciZFu/6Se8FTcZ4DJvecrvdwE/P/87RQASGNvKoKvCER8ZpM8vn9bJ3/6e6iGrNCxUJGFwZSPNBIAKJCLsFOioIwK+mxcFABNaxSod5xevbEOYjvzuiqgSJCK8JLPcAjPVb/BiEwPd30zLXxFteX634wsyQ9dqrCCRjvIONUSGh4vhAhtEgBFKbCOscb1cR0HxnTnOyPoEu3kTTWuFoMNafDqbA/m6W5fK8sWgFElH2iMM95QAC43GLH4Io8E0Xq/OavYvugaEI2xVsqyCgsOIZ9rm2r3uIFfI8hLAKh7AIV0Qz2X4vJ3tHKaS66dR5dnlKeNXM8L7fGFf1wP7NrMnN8VLFFBjM9ad570A3rTfyvK59dojATEMbQ/PXuB/Nk54ERuMZjgcaQ9cpGSWOQ095QEjz2c5p/kh1sdXWrDCEHq25w5PpZdFcE01n0e7ehMub+fjpU8wGJjASpe26w8saGktAZWVwbe6avnieHeKwqVZviPBlPEtmIZ+Ft2GEDoRBrQmVgg3G4mmOFGvpkpg5xx5gjc94aQUjfRbjNQnW+jncyfq8wU4p34qKC0ozYcNMI9woaDZq2O7FMRySfWc5U7S7fROoCb1A7s0228JT5Q+OIOPoKCYGMhz4b3JiRGybQS1U7ZS6T7LiYd9uYEU+xBa4+SYs3ZbCdQ2XRNHhvUEF0igu2MIWZbNShF/iWQ577pgg+VT7HNtw831Y3PN+a9gbNd/IJ4OT/HlLCHjB3RonY+wQmwf8UtLCCTPLIZ9mXZwCvoeAfBVhs4aHMbhT3Eeq4pKjGDenqheRixG4B24dzUqk2wSWXIF/AbObQjD6SMg0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 10522,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "(6) Answer Later",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(6)%20Answer%20Later&pos=0&uri=https://www.quora.com/answer/answer_later",
+          "width": 0,
+          "windowId": 9929
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "9929": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 9929,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 1872
+      }
+    },
+    "tabsNumber": 12,
+    "name": "Best VPN service. Online security starts with a click. | NordVPN",
+    "date": 1601673950941,
+    "lastEditedTime": 1601673921175,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "fb0f3b4a-87d5-42ea-9f5e-e47b9f57cb40"
+  }
+]

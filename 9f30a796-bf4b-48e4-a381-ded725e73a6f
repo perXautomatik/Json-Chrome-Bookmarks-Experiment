@@ -1,0 +1,186 @@
+[
+  {
+    "windows": {
+      "192": {
+        "200": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.windowsreport.com/wp-content/themes/windowsreport/assets/images/cropped-favicon-windows-report-32x32.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 200,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Convert Ps1 files to .exe using these tools",
+          "url": "https://windowsreport.com/convert-ps1-exe-files/",
+          "width": 1324,
+          "windowId": 192
+        },
+        "225": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1010,
+          "highlighted": false,
+          "id": 225,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Wayback Machine",
+          "url": "https://web.archive.org/web/20190308040336/http://www.f2ko.de/downloads/Ps1_To_Exe.zip",
+          "width": 1801,
+          "windowId": 192
+        },
+        "228": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 228,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PureBasic - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/PureBasic",
+          "width": 1801,
+          "windowId": 192
+        },
+        "231": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 231,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": ".net - How to deal with reference not found when trying to Add-Type in PowerShell, when the same dll loads fine in Visual Studio? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/39266736/how-to-deal-with-reference-not-found-when-trying-to-add-type-in-powershell-when",
+          "width": 0,
+          "windowId": 192
+        },
+        "234": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.f2ko.de/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 234,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Ps1 To Exe – F2KO Software",
+          "url": "https://www.f2ko.de/programme/ps1-to-exe/",
+          "width": 0,
+          "windowId": 192
+        },
+        "237": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.thomasmaurer.ch/wp-content/uploads/2018/06/fav18.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 237,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Powershell: check variable for null - Thomas Maurer",
+          "url": "https://www.thomasmaurer.ch/2010/07/powershell-check-variable-for-null/",
+          "width": 0,
+          "windowId": 192
+        },
+        "243": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.majorgeeks.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 243,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download Ps1 To Exe - MajorGeeks",
+          "url": "https://www.majorgeeks.com/files/details/ps1_to_exe.html",
+          "width": 0,
+          "windowId": 192
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "192": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 192,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Convert Ps1 files to .exe using these tools",
+    "date": 1600778467678,
+    "lastEditedTime": 1601295398678,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600777599764,
+    "id": "b73034ce-7d1e-46f8-a433-346bd5f2d456"
+  }
+]

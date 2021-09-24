@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "207": {
+        "198": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://hacksterio.s3.amazonaws.com/uploads/favicon/file/103324/FaviconB.ico",
+          "height": 1351,
+          "highlighted": false,
+          "id": 198,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "E-Paper Picture Frame - Arduino Project Hub",
+          "url": "https://create.arduino.cc/projecthub/Gyro1/e-paper-picture-frame-10ca38?f=1",
+          "width": 706,
+          "windowId": 207
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "207": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1440,
+        "id": 207,
+        "incognito": false,
+        "left": 864,
+        "state": "normal",
+        "top": 89,
+        "type": "normal",
+        "width": 763
+      }
+    },
+    "tabsNumber": 1,
+    "name": "E-Paper Picture Frame - Arduino Project Hub",
+    "date": 1602058892969,
+    "lastEditedTime": 1602058735081,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602058062832,
+    "id": "b2f5ecc9-20e9-44a1-9ac2-5b93c941b896"
+  }
+]

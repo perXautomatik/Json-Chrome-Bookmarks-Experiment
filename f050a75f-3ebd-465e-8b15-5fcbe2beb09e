@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "278": {
+        "287": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://dbis-uibk.github.io/relax/assets/favicon/favicon-32x32.png",
+          "height": 987,
+          "highlighted": false,
+          "id": 287,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "RelaX - relational algebra calculator",
+          "url": "https://dbis-uibk.github.io/relax/calc/local/uibk/local/0",
+          "width": 1324,
+          "windowId": 278
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "278": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1076,
+        "id": 278,
+        "incognito": false,
+        "left": 397,
+        "state": "normal",
+        "top": 185,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 1,
+    "name": "RelaX - relational algebra calculator",
+    "date": 1602075627955,
+    "lastEditedTime": 1602075588429,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602068426777,
+    "id": "42bf6209-5ad5-4046-a7a4-a31cade4b06b"
+  }
+]

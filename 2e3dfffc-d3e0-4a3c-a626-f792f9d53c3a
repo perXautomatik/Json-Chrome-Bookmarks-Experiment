@@ -1,0 +1,188 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "403": {
+        "width": 1440,
+        "type": "normal",
+        "top": 251,
+        "state": "minimized",
+        "left": 365,
+        "incognito": false,
+        "height": 780,
+        "focused": false,
+        "alwaysOnTop": false,
+        "id": 403
+      }
+    },
+    "windows": {
+      "403": {
+        "424": {
+          "title": "List Files in Folders and Subfolders with PowerShell | Scripting Blog",
+          "windowId": 403,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://devblogs.microsoft.com/scripting/wp-content/uploads/sites/29/2018/10/Microsoft-Favicon.png",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://devblogs.microsoft.com/scripting/list-files-in-folders-and-subfolders-with-powershell/",
+          "id": 424,
+          "index": 0
+        },
+        "430": {
+          "title": "Using Powershell, how can i count the occurrence of each element in an array? - Stack Overflow",
+          "windowId": 403,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://stackoverflow.com/questions/12640962/using-powershell-how-can-i-count-the-occurrence-of-each-element-in-an-array",
+          "id": 430,
+          "index": 1
+        },
+        "433": {
+          "title": "count files by extension using powershell",
+          "windowId": 403,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://techibee.com/wp-content/uploads/2014/03/cropped-349-32x32.gif",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://techibee.com/powershell/count-files-by-extension-using-powershell/514",
+          "id": 433,
+          "index": 2
+        },
+        "436": {
+          "title": "about_Functions - PowerShell | Microsoft Docs",
+          "windowId": 403,
+          "width": 1383,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions?view=powershell-7",
+          "id": 436,
+          "index": 6
+        },
+        "442": {
+          "title": "Select-Object (Microsoft.PowerShell.Utility) - PowerShell | Microsoft Docs",
+          "windowId": 403,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/select-object?view=powershell-7",
+          "id": 442,
+          "index": 4
+        },
+        "448": {
+          "title": "Rename-Item (Microsoft.PowerShell.Management) - PowerShell | Microsoft Docs",
+          "windowId": 403,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/rename-item?view=powershell-7",
+          "id": 448,
+          "index": 3
+        },
+        "451": {
+          "title": "powershell get done before progress - Google Search",
+          "windowId": 403,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?client=opera-gx&q=powershell+get+done+before+progress&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "id": 451,
+          "index": 5
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Home",
+      "Loppy"
+    ],
+    "tabsNumber": 7,
+    "sessionStartTime": 1600621101255,
+    "name": "about_Functions - PowerShell | Microsoft Docs",
+    "lastEditedTime": 1601167836772,
+    "date": 1600681429440,
+    "id": "56a46139-1a3d-4d1a-a52e-350b0a6d8a48"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "629": {
+        "174": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://outlook-1.cdn.office.net/owamail/20210301002.04/resources/images/favicons/mail-seen.ico",
+          "height": 609,
+          "highlighted": false,
+          "id": 174,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Email - Christoffer Brobäck - Outlook",
+          "url": "https://outlook.office.com/mail/inbox",
+          "width": 1183,
+          "windowId": 629
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "629": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 767,
+        "id": 629,
+        "incognito": false,
+        "left": 127,
+        "state": "normal",
+        "top": 214,
+        "type": "normal",
+        "width": 1240
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Email - Christoffer Brobäck - Outlook",
+    "date": 1615377995253,
+    "lastEditedTime": 1615377969779,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1615187048136,
+    "id": "f9a41c97-74b5-4f84-bf3f-f3c4a3d6ce87"
+  }
+]

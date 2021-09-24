@@ -1,0 +1,165 @@
+[
+  {
+    "windows": {
+      "3116": {
+        "3110": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://theme.zdassets.com/theme_assets/787891/094ea5643df65d56fe21ecbca0cc04270d5b0e2d.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3110,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Cross Database Join Query – IDEs Support (IntelliJ Platform) | JetBrains",
+          "url": "https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000422160-Cross-Database-Join-Query",
+          "width": 459,
+          "windowId": 3116
+        },
+        "3111": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://intellij-support.jetbrains.com/favicon.ico",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3111,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "eFzX1jMC7RG_1piE4Y3ATQ.png (1173×551)",
+          "url": "https://intellij-support.jetbrains.com/hc/user_images/eFzX1jMC7RG_1piE4Y3ATQ.png",
+          "width": 459,
+          "windowId": 3116
+        },
+        "3112": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3112,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Block Unreachable Scripts - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/block-unreachable-scripts/bjpekooigmapidmaojdogelhmakafmfi/related",
+          "width": 459,
+          "windowId": 3116
+        },
+        "3113": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3113,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Content Server Browser Web Extension - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/content-server-browser-we/hlphpjodcfdblfmbbdjodbfmlonmidfh",
+          "width": 459,
+          "windowId": 3116
+        },
+        "3114": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3114,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Prelude - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/prelude/ecpkhgpdldjkdldonapgfbkihclemenm",
+          "width": 459,
+          "windowId": 3116
+        },
+        "3115": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 3115,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "jQuery-cache - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/jquery-cache/kalnennlfaffhbdbnoakkiiciifmmohk",
+          "width": 459,
+          "windowId": 3116
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3116": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1410,
+        "id": 3116,
+        "incognito": false,
+        "left": 2314,
+        "state": "normal",
+        "top": -140,
+        "type": "normal",
+        "width": 516
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Cross Database Join Query – IDEs Support (IntelliJ Platform) | JetBrains",
+    "date": 1600023242188,
+    "lastEditedTime": 1601295398462,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "9ad673ff-a539-42cf-823d-69dd1c21dd45"
+  }
+]

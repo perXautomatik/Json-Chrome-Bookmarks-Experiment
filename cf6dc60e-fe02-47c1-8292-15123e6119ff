@@ -1,0 +1,259 @@
+[
+  {
+    "windows": {
+      "1722": {
+        "1725": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a1938718214_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1725,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "h u m a n n a t u r e | Viator | Black Ring Rituals Records",
+          "url": "https://blackringrituals.com/album/h-u-m-a-n-n-a-t-u-r-e",
+          "width": 1324,
+          "windowId": 1722
+        },
+        "1726": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 1726,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1725,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Bandcamp",
+          "url": "https://cursedearthcassettes.bandcamp.com/album/euthanasie-volontaire-the-final-exit",
+          "width": 1324,
+          "windowId": 1722
+        },
+        "1727": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a1257025789_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1727,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1725,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(`/83|2 \\\\|/0|21|) |)0|\\\\/|!|\\\\|4+!0|\\\\| | The Wired",
+          "url": "https://thewired.bandcamp.com/album/83-2-0-21-0-4-0",
+          "width": 1324,
+          "windowId": 1722
+        },
+        "1728": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 1728,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1725,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Bandcamp",
+          "url": "https://whiteautopsyorchestra.bandcamp.com/album/death-industrial-cunt-ripper",
+          "width": 1324,
+          "windowId": 1722
+        },
+        "1729": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a3973771316_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1729,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1725,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Reactive Attachment Shared Delusion | Ragk | Black Ring Rituals Records",
+          "url": "https://blackringrituals.com/album/reactive-attachment-shared-delusion",
+          "width": 1324,
+          "windowId": 1722
+        },
+        "1730": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 1730,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1725,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Bandcamp",
+          "url": "https://fistfucknoise.bandcamp.com/album/reverend-jim-jones-presents-revolutionary-suicide",
+          "width": 1324,
+          "windowId": 1722
+        },
+        "1731": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a3615236059_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1731,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1725,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Opechatano | Tchernoblyad | YAOP",
+          "url": "https://yaop.bandcamp.com/album/opechatano",
+          "width": 1324,
+          "windowId": 1722
+        },
+        "1732": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://img.rl.se/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1732,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1725,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "RT90, WGS84 och SWEREF 99: Omvandla koordinater",
+          "url": "https://rl.se/rt90",
+          "width": 1324,
+          "windowId": 1722
+        },
+        "1733": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 1733,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1725,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "opera://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "url": "chrome://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "width": 1324,
+          "windowId": 1722
+        },
+        "1734": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "height": 0,
+          "highlighted": false,
+          "id": 1734,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": false,
+          "status": "complete",
+          "title": "GX Corner",
+          "url": "https://gx-corner.opera.com/",
+          "width": 0,
+          "windowId": 1722
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1722": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 1722,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 10,
+    "name": "h u m a n n a t u r e | Viator | Black Ring Rituals Records",
+    "date": 1599750982267,
+    "lastEditedTime": 1601295397898,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599749435362,
+    "id": "459c159e-a46b-4200-8b0f-46a765b75476"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "1066": {
+        "1063": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "height": 1009,
+          "highlighted": true,
+          "id": 1063,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "DWService",
+          "url": "https://www.dwservice.net/session.dw?initses=true",
+          "width": 1872,
+          "windowId": 1066
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1066": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 1066,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 1872
+      }
+    },
+    "tabsNumber": 1,
+    "name": "DWService",
+    "date": 1600270928923,
+    "lastEditedTime": 1601295398947,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600157465223,
+    "id": "de3c443a-4113-43af-9a94-49bef6e7e4bd"
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "316": {
+        "width": 1216,
+        "type": "normal",
+        "top": 198,
+        "state": "minimized",
+        "left": 193,
+        "incognito": false,
+        "height": 1896,
+        "focused": false,
+        "alwaysOnTop": false,
+        "id": 316
+      }
+    },
+    "windows": {
+      "316": {
+        "359": {
+          "title": "Dowload and donate - CGSecurity",
+          "windowId": 316,
+          "width": 1879,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 970,
+          "favIconUrl": "https://www.cgsecurity.org/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://www.cgsecurity.org/Download_and_donate.php/testdisk-7.2-WIP.win64.zip",
+          "id": 359,
+          "index": 3
+        },
+        "362": {
+          "title": "7 Ways to Determine the File System Type in Linux (Ext2, Ext3 or Ext4)",
+          "windowId": 316,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://www.tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.tecmint.com/find-linux-filesystem-type/",
+          "id": 362,
+          "index": 0
+        },
+        "365": {
+          "title": "System - Backup and Recovery Downloads",
+          "windowId": 316,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.softpedia.com/get/System/Back-Up-and-Recovery/?utm_source=spd&utm_campaign=postdl_redir",
+          "id": 365,
+          "index": 4
+        },
+        "368": {
+          "title": "Top 5 Open Source Data Recovery Software",
+          "windowId": 316,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://www.hitechnectar.com/wp-content/uploads/2018/04/favicon-32x32-1-1.png",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.hitechnectar.com/blogs/open-source-data-recovery-software/",
+          "id": 368,
+          "index": 1
+        },
+        "371": {
+          "title": "TestDisk Download - CGSecurity",
+          "windowId": 316,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "https://www.cgsecurity.org/favicon.ico",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.cgsecurity.org/wiki/TestDisk_Download",
+          "id": 371,
+          "index": 2
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Home",
+      "Loppy"
+    ],
+    "tabsNumber": 5,
+    "sessionStartTime": 1600621101255,
+    "name": "Dowload and donate - CGSecurity",
+    "lastEditedTime": 1601167837415,
+    "date": 1600681412307,
+    "id": "c048bd6f-f6b3-4faf-a7a3-3d037d9e0822"
+  }
+]

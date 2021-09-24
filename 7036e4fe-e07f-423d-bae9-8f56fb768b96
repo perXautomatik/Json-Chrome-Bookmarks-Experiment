@@ -1,0 +1,211 @@
+[
+  {
+    "windows": {
+      "6564": {
+        "6566": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gamekit.com/gamekit-favicon.ico",
+          "height": 1001,
+          "highlighted": true,
+          "id": 6566,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Shooting Girl - Gamekit - MMO games, premium currency and games for free",
+          "url": "https://gamekit.com/shooting-girl/",
+          "width": 936,
+          "windowId": 6564
+        },
+        "6571": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.alexa.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6571,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Alexa Internet - Browser Extension Installation Successful",
+          "url": "https://www.alexa.com/toolbar/final?session=DEFAULT_ALX_ID&plugin=4.0.5",
+          "width": 936,
+          "windowId": 6564
+        },
+        "6592": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://cdn1-images.nutaku.com/images/icons/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6592,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": true,
+            "reason": "user"
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "https://www.nutaku.net/games/girls-garrison/play/",
+          "url": "https://www.nutaku.net/games/girls-garrison/play/",
+          "width": 936,
+          "windowId": 6564
+        },
+        "6596": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://hentaiplaytime.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6596,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "https://hentaiplaytime.com",
+          "url": "https://hentaiplaytime.com/",
+          "width": 936,
+          "windowId": 6564
+        },
+        "6602": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://playsexgames.xxx/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6602,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "https://playsexgames.xxx",
+          "url": "https://playsexgames.xxx/",
+          "width": 936,
+          "windowId": 6564
+        },
+        "6605": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://gamcore.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6605,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "https://gamcore.com",
+          "url": "https://gamcore.com/",
+          "width": 936,
+          "windowId": 6564
+        },
+        "6608": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://harem-battle.club/favicon.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6608,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "https://harem-battle.club/wiki/",
+          "url": "https://harem-battle.club/wiki/",
+          "width": 936,
+          "windowId": 6564
+        },
+        "6611": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://harem-battle.club/favicon.png",
+          "height": 1001,
+          "highlighted": false,
+          "id": 6611,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "https://harem-battle.club/wiki/Shooting-Girl",
+          "url": "https://harem-battle.club/wiki/Shooting-Girl",
+          "width": 936,
+          "windowId": 6564
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "6564": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 6564,
+        "incognito": false,
+        "left": 861,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Shooting Girl - Gamekit - MMO games, premium currency and games for free",
+    "date": 1600111340736,
+    "lastEditedTime": 1601295397828,
+    "tag": [
+      "winClose",
+      "loppy",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "38f644ec-6a8f-4777-b86c-77d238a36a79"
+  }
+]

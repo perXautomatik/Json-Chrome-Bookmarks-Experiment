@@ -1,0 +1,232 @@
+[
+  {
+    "windows": {
+      "2149": {
+        "2119": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2119,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sidebar for YouTube™ extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/youtubetm-sidebar/",
+          "width": 510,
+          "windowId": 2149
+        },
+        "2123": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2123,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Text to Voice extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/text-to-voice/",
+          "width": 510,
+          "windowId": 2149
+        },
+        "2124": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2124,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tree Tabs extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/tree-tabs/",
+          "width": 935,
+          "windowId": 2149
+        },
+        "2126": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2126,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "V7 Extension Manager extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/v7-extension-manager/",
+          "width": 935,
+          "windowId": 2149
+        },
+        "2128": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2128,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "V7 Sessions extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/v7-sessions/",
+          "width": 935,
+          "windowId": 2149
+        },
+        "2129": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2129,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "V7 Stash extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/v7-stash/",
+          "width": 935,
+          "windowId": 2149
+        },
+        "2133": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/favicon/favicon.12c955371a4b.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2133,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Workspaces | Tidy your browser with Opera | Opera",
+          "url": "https://www.opera.com/features/workspaces",
+          "width": 1076,
+          "windowId": 2149
+        },
+        "2139": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2139,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "quickiePages extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/quickiepages/",
+          "width": 935,
+          "windowId": 2149
+        },
+        "2141": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 2141,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "uMatrix extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/umatrix/",
+          "width": 935,
+          "windowId": 2149
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2149": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 867,
+        "id": 2149,
+        "incognito": false,
+        "left": 597,
+        "state": "normal",
+        "top": 8,
+        "type": "normal",
+        "width": 567
+      }
+    },
+    "tabsNumber": 9,
+    "name": "™ extension - Opera add-ons",
+    "date": 1600042283108,
+    "lastEditedTime": 1601295397764,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "28c561c1-d6a5-42f7-96b0-5d7f782d4ac1"
+  }
+]

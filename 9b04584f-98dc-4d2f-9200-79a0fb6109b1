@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "15164": {
+        "15150": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.lendo.se/favicon-32x32.png?v=62154446e5161e9f43c2b81fe2c470f8",
+          "height": 1001,
+          "highlighted": true,
+          "id": 15150,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Företagslån - Jämför & ansök om lån upp till 2 miljoner | Lendo",
+          "url": "https://www.lendo.se/foretagslan",
+          "width": 936,
+          "windowId": 15164
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "15164": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 15164,
+        "incognito": false,
+        "left": 108,
+        "state": "normal",
+        "top": 452,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Företagslån - Jämför & ansök om lån upp till 2 miljoner | Lendo",
+    "date": 1603174652514,
+    "lastEditedTime": 1603174650768,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "7d2ab714-6caa-4099-bf6d-b2ff484f60c0"
+  }
+]

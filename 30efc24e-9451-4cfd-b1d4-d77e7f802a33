@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "20080": {
+        "19587": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/e31c6cad/img/favicon_32.png",
+          "height": 1155,
+          "highlighted": true,
+          "id": 19587,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(181) *REAL* WOMEN DON'T SHAVE! - YouTube",
+          "url": "https://www.youtube.com/watch?v=naqIMtzxqxQ&list=TLPQMTExMTIwMjBUabeFWCX10A&index=4",
+          "width": 663,
+          "windowId": 20080
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "20080": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 20080,
+        "incognito": false,
+        "left": 364,
+        "state": "minimized",
+        "top": 0,
+        "type": "normal",
+        "width": 1141
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Work2",
+    "date": 1605117729967,
+    "lastEditedTime": 1605117729967,
+    "tag": [
+      "regular",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "ad3d70da-af1f-4953-9f5d-1da8019c86e0"
+  }
+]

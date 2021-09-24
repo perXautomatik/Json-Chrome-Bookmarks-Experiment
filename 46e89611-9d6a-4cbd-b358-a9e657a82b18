@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "2409": {
+        "2408": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico",
+          "height": 1820,
+          "highlighted": false,
+          "id": 2408,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Docker as an Integrated Development Environment | by Ashley Broadley | Medium",
+          "url": "https://medium.com/@ls12styler/docker-as-an-integrated-development-environment-95bc9b01d2c1",
+          "width": 1039,
+          "windowId": 2409
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2409": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1906,
+        "id": 2409,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -735,
+        "type": "normal",
+        "width": 1096
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Docker as an Integrated Development Environment | by Ashley Broadley | Medium",
+    "date": 1599754587938,
+    "lastEditedTime": 1601295397616,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599749435362,
+    "id": "13516eac-412b-4439-a807-aa46b53dae67"
+  }
+]

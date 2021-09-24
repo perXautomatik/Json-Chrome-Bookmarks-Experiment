@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "237": {
+        "236": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 1155,
+          "highlighted": true,
+          "id": 236,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Spotify – November 2020",
+          "url": "https://open.spotify.com/playlist/7l3ppXwn6NiEdCXPhO9E3j",
+          "width": 1073,
+          "windowId": 237
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "237": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 237,
+        "incognito": false,
+        "left": 1073,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Spotify – November 2020",
+    "date": 1605388794950,
+    "lastEditedTime": 1605377231592,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1605255591345,
+    "id": "399fe97f-b441-4281-9789-4b16e7da3555"
+  }
+]

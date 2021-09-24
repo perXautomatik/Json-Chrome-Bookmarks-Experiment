@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "5216": {
+        "5218": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/serverfault/Img/favicon.ico?v=18e9cc4f2aea",
+          "height": 691,
+          "highlighted": false,
+          "id": 5218,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "windows - Migrate to new server 2008 file server but keep old server name (under domain AD) - Server Fault",
+          "url": "https://serverfault.com/questions/20167/migrate-to-new-server-2008-file-server-but-keep-old-server-name-under-domain-ad",
+          "width": 1383,
+          "windowId": 5216
+        },
+        "5227": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5227,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 5218,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "BULK INSERT (Transact-SQL) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/statements/bulk-insert-transact-sql?view=sql-server-ver15",
+          "width": 1383,
+          "windowId": 5216
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5216": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 5216,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "windows - Migrate to new server 2008 file server but keep old server name (under domain AD) - Server Fault",
+    "date": 1601173907490,
+    "lastEditedTime": 1601173905961,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "e5278c23-9e3b-4f07-bbd8-0558c7b3128f"
+  }
+]

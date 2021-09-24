@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "245": {
+        "124": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/d5bd6dd9/img/favicon_32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 124,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(96) SCARA Robot | How To Build Your Own Arduino Based Robot - YouTube",
+          "url": "https://www.youtube.com/watch?v=1QHJksTrk8s&list=WL&index=20",
+          "width": 1383,
+          "windowId": 245
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "245": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 245,
+        "incognito": false,
+        "left": 452,
+        "state": "normal",
+        "top": 52,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(96) SCARA Robot | How To Build Your Own Arduino Based Robot - YouTube",
+    "date": 1602172865854,
+    "lastEditedTime": 1602172321888,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602086503320,
+    "id": "b02bd9c9-0f14-43be-9444-2b0de4e94573"
+  }
+]

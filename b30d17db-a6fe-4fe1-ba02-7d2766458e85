@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "1867": {
+        "1629": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1629,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Clutter Free - Prevent duplicate tabs - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/clutter-free-prevent-dupl/iipjdmnoigaobkamfhnojmglcdbnfaaf?hl=en",
+          "width": 1879,
+          "windowId": 1867
+        },
+        "1653": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1653,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Firebug Lite for Google Chrome - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/ehemiojjcpldeipjhjkepfdaohajpbdo/related?hl=en",
+          "width": 1879,
+          "windowId": 1867
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1867": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1867,
+        "incognito": false,
+        "left": 952,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 968
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Firebug Lite for Google Chrome - Chrome Web Store",
+    "date": 1600034732312,
+    "lastEditedTime": 1601295397540,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600030279299,
+    "id": "056a1242-25dc-410d-8fc7-f9afcb61bd7e"
+  }
+]

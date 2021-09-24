@@ -1,0 +1,100 @@
+[
+  {
+    "windows": {
+      "855": {
+        "725": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a3394366359_3.jpg",
+          "height": 691,
+          "highlighted": false,
+          "id": 725,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "ᛉᛦ - Algir; eller Algir i Merkstave (CSR275CD/LP) | Trepaneringsritualen | Cold Spring",
+          "url": "https://coldspring.bandcamp.com/album/algir-eller-algir-i-merkstave-csr275cd-lp",
+          "width": 674,
+          "windowId": 855
+        },
+        "726": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a2006603490_3.jpg",
+          "height": 691,
+          "highlighted": false,
+          "id": 726,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visions Of Darkness (CSR242CD) | Various Artists | Cold Spring",
+          "url": "https://coldspring.bandcamp.com/album/visions-of-darkness-csr242cd",
+          "width": 674,
+          "windowId": 855
+        },
+        "727": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 727,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Music | Cold Spring",
+          "url": "https://coldspring.bandcamp.com/",
+          "width": 1405,
+          "windowId": 855
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "855": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 855,
+        "incognito": false,
+        "left": 1086,
+        "state": "normal",
+        "top": 268,
+        "type": "normal",
+        "width": 731
+      }
+    },
+    "tabsNumber": 3,
+    "name": "ᛉᛦ - Algir; eller Algir i Merkstave (CSR275CD/LP) | Trepaneringsritualen | Cold Spring",
+    "date": 1600031042297,
+    "lastEditedTime": 1601295398468,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600030279299,
+    "id": "9b2bb418-93fe-488a-9b62-3d566e96a991"
+  }
+]

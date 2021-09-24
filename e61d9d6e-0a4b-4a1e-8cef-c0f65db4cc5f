@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "521": {
+        "520": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "height": 552,
+          "highlighted": false,
+          "id": 520,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Steam Community",
+          "url": "https://steamcommunity.com/openid/login?openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.mode=checkid_setup&openid.return_to=https%3A%2F%2Fdiscord.com%2Fapi%2Fconnections%2Fsteam%2Fcallback%3Fstate%3D9a04b72ff36570164e9cc6f9607cc93c&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select",
+          "width": 684,
+          "windowId": 521
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "521": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 640,
+        "id": 521,
+        "incognito": false,
+        "left": 610,
+        "state": "normal",
+        "top": 220,
+        "type": "popup",
+        "width": 700
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Steam Community",
+    "date": 1599836447601,
+    "lastEditedTime": 1601295398090,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599820276730,
+    "id": "5c946270-9935-4179-b99c-f11bcf66e027"
+  }
+]

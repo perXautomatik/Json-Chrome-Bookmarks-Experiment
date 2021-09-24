@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "18646": {
+        "18645": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://sqlite.org/favicon.ico",
+          "height": 1155,
+          "highlighted": true,
+          "id": 18645,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "VACUUM",
+          "url": "https://sqlite.org/lang_vacuum.html",
+          "width": 1583,
+          "windowId": 18646
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "18646": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 18646,
+        "incognito": false,
+        "left": 213,
+        "state": "normal",
+        "top": 521,
+        "type": "normal",
+        "width": 1583
+      }
+    },
+    "tabsNumber": 1,
+    "name": "VACUUM",
+    "date": 1604488268298,
+    "lastEditedTime": 1604488243859,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "9fee8f8d-74b8-4ebd-afe7-8477ed3dace6"
+  }
+]

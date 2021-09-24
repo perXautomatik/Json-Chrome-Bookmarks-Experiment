@@ -1,0 +1,274 @@
+[
+  {
+    "windows": {
+      "301": {
+        "532": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 532,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "open source image organizer - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=open+source+image+organizer&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 0,
+          "windowId": 301
+        },
+        "536": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "http://piwigo.org/themes/default/icon/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 536,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Piwigo - Manage your photo collection",
+          "url": "http://piwigo.org/",
+          "width": 0,
+          "windowId": 301
+        },
+        "539": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://imageglass.org/img/iglogo.svg",
+          "height": 0,
+          "highlighted": false,
+          "id": 539,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "ImageGlass - A lightweight, versatile image viewer",
+          "url": "https://imageglass.org/",
+          "width": 0,
+          "windowId": 301
+        },
+        "542": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 542,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PhotoQt Image Viewer - Features",
+          "url": "https://photoqt.org/feat",
+          "width": 1383,
+          "windowId": 301
+        },
+        "545": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://wiki.gnome.org/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 545,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Apps/EyeOfGnome - GNOME Wiki!",
+          "url": "https://wiki.gnome.org/Apps/EyeOfGnome",
+          "width": 0,
+          "windowId": 301
+        },
+        "744": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://opensource.com/sites/all/themes/opensource/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 744,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to get started with digiKam for photo management | Opensource.com",
+          "url": "https://opensource.com/life/16/5/how-use-digikam-photo-management",
+          "width": 1879,
+          "windowId": 301
+        },
+        "750": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "height": 0,
+          "highlighted": false,
+          "id": 750,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "f-spot.org",
+          "url": "http://f-spot.org/",
+          "width": 0,
+          "windowId": 301
+        },
+        "753": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://opensource.com/sites/all/themes/opensource/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 753,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Top open source photo organizers | Opensource.com",
+          "url": "https://opensource.com/alternatives/google-photos",
+          "width": 0,
+          "windowId": 301
+        },
+        "756": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://wiki.gnome.org/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 756,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Apps/Shotwell - GNOME Wiki!",
+          "url": "https://wiki.gnome.org/Apps/Shotwell",
+          "width": 0,
+          "windowId": 301
+        },
+        "759": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.kde.org/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 759,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The digiKam Handbook",
+          "url": "https://docs.kde.org/trunk5/en/extragear-graphics/digikam/index.html",
+          "width": 1879,
+          "windowId": 301
+        },
+        "762": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.kde.org/img/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 762,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 744,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "KDE - Experience Freedom!",
+          "url": "https://download.kde.org/stable/digikam/7.1.0/digiKam-7.1.0-Win64.exe.mirrorlist",
+          "width": 1879,
+          "windowId": 301
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "301": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 301,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 11,
+    "name": "KDE - Experience Freedom!",
+    "date": 1602260237239,
+    "lastEditedTime": 1602259965740,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602086503320,
+    "id": "c400cbca-87f9-4433-8158-818dadee476f"
+  }
+]

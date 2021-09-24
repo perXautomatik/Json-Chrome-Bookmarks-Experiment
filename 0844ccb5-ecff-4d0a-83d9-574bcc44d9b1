@@ -1,0 +1,54 @@
+[
+  {
+    "windows": {
+      "1120": {
+        "1119": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1001,
+          "highlighted": true,
+          "id": 1119,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Pre-Order Riders Republic on PC, PS4, Xbox One & More | Ubisoft (GB)",
+          "url": "https://www.ubisoft.com/en-gb/game/riders-republic/buy?ncid=2342-5764---1-pdvidch-13-19-RevealUbiFwd2--1-1-8-0920-8----ID_93406-----&maltcode=brands_vidvie_pdvidch_paid_youtube___MAD____&addinfo",
+          "width": 1287,
+          "windowId": 1120
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1120": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 1120,
+        "incognito": false,
+        "left": 292,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1287
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Pre-Order Riders Republic on PC, PS4, Xbox One & More | Ubisoft (GB)",
+    "date": 1600272335418,
+    "lastEditedTime": 1601295399062,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600157465223,
+    "id": "ecdd3101-24a4-4a24-b40e-4f3a4fc5ad29"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "windows": {
+      "34": {
+        "1": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/pages/client/welcomeGx/favicon/favicon.6e8da31be579.ico",
+          "groupId": -1,
+          "height": 979,
+          "highlighted": false,
+          "id": 1,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Opera GX - Update complete!",
+          "url": "https://www.opera.com/client/upgraded-gx",
+          "width": 1801,
+          "windowId": 34
+        },
+        "62": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://officehome.cdn.office.net/images/content/images/favicon-8f211ea639.ico",
+          "groupId": -1,
+          "height": 979,
+          "highlighted": false,
+          "id": 62,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Microsoft Office Home",
+          "url": "https://www.office.com/?auth=2",
+          "width": 1801,
+          "windowId": 34
+        },
+        "67": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://outlook-1.cdn.office.net/owamail/20210517003.09/resources/images/favicons/mail-seen.ico",
+          "groupId": -1,
+          "height": 979,
+          "highlighted": false,
+          "id": 67,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Email - Christoffer Brobäck - Outlook",
+          "url": "https://outlook.office.com/mail/inbox/id/AAQkADJhMDVlYTEyLTcyOWQtNDkxYS1iZjU4LThlYjZmODA4ZGIzMgAQAFTkKN%2B%2FK0D3q9NMLK5mffQ%3D",
+          "width": 1801,
+          "windowId": 34
+        },
+        "70": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 979,
+          "highlighted": false,
+          "id": 70,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Redirection",
+          "url": "https://exchange.gotland.se/owa/auth/errorFE.aspx?redirectType=Manual&extDomain=gotlandskommun.mail.onmicrosoft.com&extDirOrgId=&extEmail=christoffer.broback%40gotlandskommun.mail.onmicrosoft.com",
+          "width": 1801,
+          "windowId": 34
+        },
+        "91": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://sync.appfluence.com/office365/app/favicon.ico",
+          "groupId": -1,
+          "height": 979,
+          "highlighted": false,
+          "id": 91,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 67,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Göra ett utdrag på alla... - My Project - Matrix - Priority Matrix",
+          "url": "https://sync.appfluence.com/office365/app/index/app/matrix/7468608/2035047340/",
+          "width": 1801,
+          "windowId": 34
+        },
+        "100": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gotland-se.zoom.us/zoom.ico",
+          "groupId": -1,
+          "height": 979,
+          "highlighted": false,
+          "id": 100,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Launch Meeting - Zoom",
+          "url": "https://gotland-se.zoom.us/j/81251372929",
+          "width": 1801,
+          "windowId": 34
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "34": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1096,
+        "id": 34,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Launch Meeting - Zoom",
+    "date": 1621948218970,
+    "lastEditedTime": 1621947642697,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1621945110214,
+    "id": "637d8515-0528-40d3-a5ac-461d022ff247"
+  }
+]

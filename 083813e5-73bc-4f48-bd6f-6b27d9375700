@@ -1,0 +1,57 @@
+[
+  {
+    "windows": {
+      "6023": {
+        "6024": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn1-images.nutaku.com/images/icons/favicon.ico",
+          "height": 1000,
+          "highlighted": true,
+          "id": 6024,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": true,
+            "reason": "user"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sacred Sword Princesses - Action Adventure Sex Game | Nutaku",
+          "url": "https://www.nutaku.net/games/sacred-sword-princesses/play/",
+          "width": 1168,
+          "windowId": 6023
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "6023": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 6023,
+        "incognito": false,
+        "left": 704,
+        "state": "normal",
+        "top": 0,
+        "type": "popup",
+        "width": 1168
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Sacred Sword Princesses - Action Adventure Sex Game | Nutaku",
+    "date": 1600109599792,
+    "lastEditedTime": 1601295398167,
+    "tag": [
+      "winClose",
+      "loppy",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "69b69878-e0ee-45c6-9785-134e2e4296be"
+  }
+]

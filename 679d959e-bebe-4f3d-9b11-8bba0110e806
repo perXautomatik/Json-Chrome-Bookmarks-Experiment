@@ -1,0 +1,144 @@
+[
+  {
+    "windows": {
+      "1425": {
+        "1428": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://aadcdn.msauth.net/ests/2.1/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1428,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sign in to Outlook",
+          "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=15b0d501-54d3-4209-a789-6f3949489447&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=637353478475631932.b176d059-ba81-4b3d-b9a2-34b89989f655&state=fY7LToNAAEVBv6XssMyDxyyIGToNQUFspRrYDWXKOzWUAvU__R9HP8CbnLs6N7mqoij3kjuJashSbAvZyETYdrBtWggQBB9yYFuFYRI95w7QcY4KPScc6gjnDiEOOVmmqcrtt7o-z3z9GIyiD5hLadRS9lRF7L1Lk-0tTI63-GM3vrB2Sd9AnTUHHCZVlzZZHzOKMz_4ikrPp39hGbIGo74u-yQM4S4ecdkEkTdTvxUHkw4TSNKjwbzn12mzgnlG6aaExraR0_8MDE_SWKFCm2ox9-dCdO5e8CISlwsvxe91TSzT5Tp0LtA--Vi5Pw",
+          "width": 1383,
+          "windowId": 1425
+        },
+        "1430": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.howtogeek.com/public/images/x32x32.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.ladCzNKJij.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1430,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How to Run Windows Software on a Chromebook",
+          "url": "https://www.howtogeek.com/173353/how-to-run-windows-software-on-a-chromebook/",
+          "width": 1383,
+          "windowId": 1425
+        },
+        "1431": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1431,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Android Apps on Intel Chromebooks : chromeos",
+          "url": "https://www.reddit.com/r/chromeos/comments/75s8wv/android_apps_on_intel_chromebooks/",
+          "width": 1383,
+          "windowId": 1425
+        },
+        "1432": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.starryhope.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1432,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Chromebook Comparison and 2020 Buyer's Guide",
+          "url": "https://www.starryhope.com/chromebooks/chromebook-comparison-chart/",
+          "width": 1383,
+          "windowId": 1425
+        },
+        "1433": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1433,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Agenty - Advanced Web Scraper - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/agenty-advanced-web-scrap/gpolcofcjjiooogejfbaamdgmgfehgff?hl=en&utm_source=chrome-ntp-launcher",
+          "width": 1383,
+          "windowId": 1425
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1425": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 1425,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 5,
+    "name": "How to Run Windows Software on a Chromebook",
+    "date": 1600040324376,
+    "lastEditedTime": 1601295399128,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "f3114ef2-4d83-4a16-983b-0d6a0b1fa860"
+  }
+]

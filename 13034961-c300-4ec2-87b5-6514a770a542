@@ -1,0 +1,164 @@
+[
+  {
+    "windows": {
+      "11": {
+        "36": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 665,
+          "highlighted": false,
+          "id": 36,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "My LastPass Vault",
+          "url": "chrome-extension://hnjalnkldgigidggphhmacmimbdlafdo/vault.html",
+          "width": 1180,
+          "windowId": 11
+        },
+        "42": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ipsassets.unraid.net/uploads/monthly_2018_09/favicon.ico.8ed25556cd37a2c082397863db15c0ba.ico",
+          "height": 665,
+          "highlighted": false,
+          "id": 42,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windows issues with unRAID - General Support - Unraid",
+          "url": "https://forums.unraid.net/topic/89452-windows-issues-with-unraid/",
+          "width": 1180,
+          "windowId": 11
+        },
+        "46": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 665,
+          "highlighted": false,
+          "id": 46,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How Computer Browser Service Works: Browser Service | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc737661(v=ws.10)",
+          "width": 1160,
+          "windowId": 11
+        },
+        "49": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 665,
+          "highlighted": false,
+          "id": 49,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "unBALANCE - Unraid app",
+          "url": "https://tower.local:6238/",
+          "width": 1160,
+          "windowId": 11
+        },
+        "72": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACo0lEQVRYR+2Xz2sTQRTHv2+StBqFJB4qxSRq9WBSRQ/iTa14UAQRzQ8QZKtC1Yve/A+K6MmTlFq02ZxKTfUmFpFWjx5K0aQNhRbsllSKJKRqFJrkyQa7DWm6WZpNg+DeZmfmzWe+7817M4SKz+Vy9AEQlf/L25lM9rba9seUfu0/8zciMVOw8kTykjsOItazsdpHVQDWjG5goSpA2VhmVmxCRD4F3Au1IMwDoCKDhWaPiPIoYCARdk/qQdQEyGSydwDUlLNjeNbRamkJEuPEmrxcsJB4oKeEEYCSv41+/phyDcBJDYIxlwh5Hm0033SAg6+51fZLeUhM9tVFxYrojV/do1SDMB1AXaQz9qWHIY5rKhANJQLusS0D8McWwgCf1RRgjMZDnpdNAwDo3VTQPfwfwHQFnE7nUaB4EQABIme32/tSqVSuMgYa5gKHwxEWAlqwEVl60+m00nQA34hymRjnyzJiMhH0PjbdBS6Xy8tc6AJYMIuf2Wz2FYC8b2j+MFnpbvmCTIX+6cC+iUqIhiQiMJNvZP4eQfi1BanIDBoTBXqbCHvShsvxauk1Wgui0ehpZpaYcYaA/eq8HLUsL4kdi3Fb+0zC1pZios/TV7xP1D5TFYjK0afM3KMHO2fdlXyx7diHqaCnVORMA5AH5TcgnDOi1JLYOX9fCuw1DcDIztcFH9GA1C3dqluBks+LPG5k5+sgBHXVDSDL8jMwbm4GAITndQNEBiOzRNSxGQBmnqsbQI7INe+LenD/PkDzXdDsINyKY1jzYdLQRFQtgqu9Da/nPl7YXfzhNnQcGaPdN7pL94Wap8AogDou9HvyVEc+fUj32P1NwXrlWC2TVj0jeq/jzvzX9iMriwfait/bt3PepdopJRxB40QUlSTpfbntP9iLm7QmrXApAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 72,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "How do I change the User Profile location in Windows 10? - Super User",
+          "url": "https://superuser.com/questions/964363/how-do-i-change-the-user-profile-location-in-windows-10",
+          "width": 0,
+          "windowId": 11
+        },
+        "75": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 75,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Cannot find unRAID server from Windows 10 - General Support - Unraid",
+          "url": "https://forums.unraid.net/topic/60650-cannot-find-unraid-server-from-windows-10/",
+          "width": 0,
+          "windowId": 11
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "11": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 785,
+        "id": 11,
+        "incognito": false,
+        "left": 593,
+        "state": "normal",
+        "top": 221,
+        "type": "normal",
+        "width": 1217
+      }
+    },
+    "tabsNumber": 6,
+    "name": "How Computer Browser Service Works: Browser Service | Microsoft Docs",
+    "date": 1618228254194,
+    "lastEditedTime": 1618228156785,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1618224077342,
+    "id": "c85fe976-c8c0-4a3a-b980-907ad76dbb27"
+  }
+]

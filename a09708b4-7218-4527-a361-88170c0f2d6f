@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "113": {
+        "92": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1351,
+          "highlighted": false,
+          "id": 92,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pendingUrl": "https://open.spotify.com/",
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Two Crescent Moons Embrace The Sun · Trepaneringsritualen",
+          "url": "https://open.spotify.com/",
+          "width": 706,
+          "windowId": 113
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "113": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1440,
+        "id": 113,
+        "incognito": false,
+        "left": 2109,
+        "state": "normal",
+        "top": -487,
+        "type": "normal",
+        "width": 763
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Two Crescent Moons Embrace The Sun · Trepaneringsritualen",
+    "date": 1602069004544,
+    "lastEditedTime": 1602068952569,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602068426777,
+    "id": "eb75b044-509a-4554-9e1a-142a2dcc87ce"
+  }
+]

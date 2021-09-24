@@ -1,0 +1,97 @@
+[
+  {
+    "windows": {
+      "575": {
+        "942": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 970,
+          "highlighted": false,
+          "id": 942,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=TwilioQuest%20-%20Discover%20your%20power%20to%20change%20the%20world%20with%20code.&pos=0&uri=https://www.twilio.com/quest?campaign=G_D_YT_TwilioQuest&utm_source=youtube&utm_medium=cpc&gclid=CjwKCAjw19z6BRAYEiwAmo64LZpdC_SGuL-LRH9fO2Rad76NGBWUPB_iKcXyWLj7xbQFg0v8p_n6EBoC4UYQAvD_BwE",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=TwilioQuest%20-%20Discover%20your%20power%20to%20change%20the%20world%20with%20code.&pos=0&uri=https://www.twilio.com/quest?campaign=G_D_YT_TwilioQuest&utm_source=youtube&utm_medium=cpc&gclid=CjwKCAjw19z6BRAYEiwAmo64LZpdC_SGuL-LRH9fO2Rad76NGBWUPB_iKcXyWLj7xbQFg0v8p_n6EBoC4UYQAvD_BwE",
+          "width": 1879,
+          "windowId": 575
+        },
+        "943": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 970,
+          "highlighted": false,
+          "id": 943,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Back%20to%20School&pos=0&uri=https://se.msi.com/Promotion/NEU-2020-BTS/nb?gclid=CjwKCAjw19z6BRAYEiwAmo64LavSNti0aQMp92gpqjJ7hkz0ZkK3aoV8GyGVDXeFKXPX8yHE18L8NRoCKsgQAvD_BwE",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Back%20to%20School&pos=0&uri=https://se.msi.com/Promotion/NEU-2020-BTS/nb?gclid=CjwKCAjw19z6BRAYEiwAmo64LavSNti0aQMp92gpqjJ7hkz0ZkK3aoV8GyGVDXeFKXPX8yHE18L8NRoCKsgQAvD_BwE",
+          "width": 1879,
+          "windowId": 575
+        },
+        "944": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 944,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "translate - Google Search",
+          "url": "https://www.google.com/search?q=translate&rlz=1CAZBMY_enSE834&oq=translate&aqs=chrome..69i57j0l4j69i65l3.3831j0j4&sourceid=chrome&ie=UTF-8",
+          "width": 1879,
+          "windowId": 575
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "575": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 575,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 3,
+    "name": "TwilioQuest - Discover your power to change the world with code.",
+    "date": 1600031602341,
+    "lastEditedTime": 1601295399140,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600030279299,
+    "id": "f3c42158-725e-4c17-8b9c-2bb1e43d68ba"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "268": {
+        "274": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.skatteverket.se/images/18.76a43be412206334b89800039457/faviconSKV.ico",
+          "height": 1351,
+          "highlighted": false,
+          "id": 274,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Startsida | Skatteverket",
+          "url": "https://www.skatteverket.se/",
+          "width": 1665,
+          "windowId": 268
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "268": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1440,
+        "id": 268,
+        "incognito": false,
+        "left": 1617,
+        "state": "normal",
+        "top": 2,
+        "type": "normal",
+        "width": 1722
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Startsida | Skatteverket",
+    "date": 1602060935659,
+    "lastEditedTime": 1602059649289,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602058062832,
+    "id": "07f85db1-809a-485b-bc0c-cc70f85c13bf"
+  }
+]

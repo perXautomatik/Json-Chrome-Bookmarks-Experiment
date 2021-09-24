@@ -1,0 +1,186 @@
+[
+  {
+    "windows": {
+      "7405": {
+        "7407": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7407,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "windows set autostart on login - Google Search",
+          "url": "https://www.google.com/search?q=windows%20set%20autostart%20on%20login",
+          "width": 1383,
+          "windowId": 7405
+        },
+        "7408": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.manageengine.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7408,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Securing zone levels in Internet Explorer - ManageEngine Blog",
+          "url": "https://blogs.manageengine.com/active-directory/2018/08/02/securing-zone-levels-internet-explorer.html",
+          "width": 1383,
+          "windowId": 7405
+        },
+        "7409": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 7409,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Detect Error Window - Ask for Help - AutoHotkey Community",
+          "url": "https://autohotkey.com/board/topic/58218-detect-error-window/",
+          "width": 1383,
+          "windowId": 7405
+        },
+        "7410": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 7410,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Relative paths in Autohotkey? - Ask for Help - AutoHotkey Community",
+          "url": "https://autohotkey.com/board/topic/66745-relative-paths-in-autohotkey/",
+          "width": 1383,
+          "windowId": 7405
+        },
+        "7411": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 7411,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "executable - How do I create a standalone exe with AutoHotkey? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/23208646/how-do-i-create-a-standalone-exe-with-autohotkey",
+          "width": 1383,
+          "windowId": 7405
+        },
+        "7412": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.autohotkey.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7412,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "If (Expression) - Syntax & Usage | AutoHotkey",
+          "url": "https://www.autohotkey.com/docs/commands/IfExpression.htm",
+          "width": 1383,
+          "windowId": 7405
+        },
+        "7413": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.autohotkey.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 7413,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7412,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "WinExist() / IfWinExist - Syntax & Usage | AutoHotkey",
+          "url": "https://www.autohotkey.com/docs/commands/WinExist.htm",
+          "width": 1383,
+          "windowId": 7405
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7405": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 7405,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 7,
+    "name": "windows set autostart on login - Google Search",
+    "date": 1601178022839,
+    "lastEditedTime": 1601178013683,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "9e6dea6a-28e9-4dba-bf53-a2fef52c833f"
+  }
+]

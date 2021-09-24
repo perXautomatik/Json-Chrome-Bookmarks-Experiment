@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "440": {
+        "442": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1321,
+          "highlighted": false,
+          "id": 442,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "List of Chromium Command Line Switches « Peter Beverloo",
+          "url": "https://peter.sh/experiments/chromium-command-line-switches/",
+          "width": 843,
+          "windowId": 440
+        },
+        "443": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pureinfotech.com/favicon-32x32.png",
+          "height": 1321,
+          "highlighted": false,
+          "id": 443,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 442,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to enable tab previews with images in Google Chrome • Pureinfotech",
+          "url": "https://pureinfotech.com/enable-tab-previews-chrome/",
+          "width": 843,
+          "windowId": 440
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "440": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1410,
+        "id": 440,
+        "incognito": false,
+        "left": 2070,
+        "state": "normal",
+        "top": -415,
+        "type": "normal",
+        "width": 900
+      }
+    },
+    "tabsNumber": 2,
+    "name": "List of Chromium Command Line Switches « Peter Beverloo",
+    "date": 1602253270950,
+    "lastEditedTime": 1602253268837,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602086503320,
+    "id": "c6167f19-e414-4714-9b42-319b4a00721c"
+  }
+]

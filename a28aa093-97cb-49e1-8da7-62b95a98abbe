@@ -1,0 +1,246 @@
+[
+  {
+    "windows": {
+      "20": {
+        "24": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.multcloud.com/images/front/comma/favicon.ico",
+          "height": 961,
+          "highlighted": false,
+          "id": 24,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MultCloud Time-limited Offer",
+          "url": "https://www.multcloud.com/monthly-unlimited-web.html?id=51feffd66c5fdf3a016c625cdb4101ab&time=86281&lang=en-US&page=monthly1",
+          "width": 481,
+          "windowId": 20
+        },
+        "25": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://evernote.com/favicon.ico",
+          "height": 963,
+          "highlighted": false,
+          "id": 25,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Best Note Taking App - Organize Your Notes with Evernote",
+          "url": "https://evernote.com/",
+          "width": 481,
+          "windowId": 20
+        },
+        "51": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.multcloud.com/favicon.ico",
+          "height": 963,
+          "highlighted": false,
+          "id": 51,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MultCloud | Best Free Multiple Cloud Storage Manager",
+          "url": "https://www.multcloud.com/",
+          "width": 481,
+          "windowId": 20
+        },
+        "54": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.multcloud.com/favicon.ico",
+          "height": 963,
+          "highlighted": false,
+          "id": 54,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MultCloud | Best Free Multiple Cloud Storage Manager",
+          "url": "https://www.multcloud.com/",
+          "width": 481,
+          "windowId": 20
+        },
+        "57": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.multcloud.com/images/public/favicon.ico",
+          "height": 963,
+          "highlighted": false,
+          "id": 57,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MultCloud - Put multiple cloud drives into one.",
+          "url": "https://www.multcloud.com/index.jsp?rl=en-US&tmp=1614904332157#cloudType=oneDrive4Business&tokenId=agTBvXUuBxtyi38yGwTT002buM50tebUtiO91eXfaSb34eibCMnLBXYB002fOOKwu8tAKJ&fileId=/",
+          "width": 481,
+          "windowId": 20
+        },
+        "61": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.evernote.com/favicon.ico?v2",
+          "height": 963,
+          "highlighted": false,
+          "id": 61,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 25,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "First Notebook - Evernote",
+          "url": "https://www.evernote.com/client/web#?b=5e8645e5-a2a5-4310-ac25-b2565d7d2477&n=b2898a7b-bb63-4e99-9ce5-9c866e5150f4&",
+          "width": 481,
+          "windowId": 20
+        },
+        "65": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.evernote.com/favicon.ico?v2",
+          "height": 963,
+          "highlighted": false,
+          "id": 65,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Evernote",
+          "url": "https://www.evernote.com/AppOAuth.action?state=authorized%26port%3D59414&code=4%2F0AY0e-g7jnpc5WTl8CMAnw8yvDcAs9fXQ8mc9XSpL5l3V-aGRt-yN40pkXKPqrZ3jRcNmSw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=none#",
+          "width": 481,
+          "windowId": 20
+        },
+        "68": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB60lEQVQ4T62T0UuTURjGn+d8X+acTDNZhEkxRVAKCSIMJJwbURfRXdjViEAi+wMKdiFeRfcVBCLfnxB04fKiNSGisjVGRZPFlg1rsot0MsnvO298HzjKZLuwc3c4z/m97/Oc9xD7XNznffxfwLmXK77A1qEBmP5y4jxXx9LSaW7UIgR9ynayifH2zO6O6x1Ekhth0pxwBSRKDnVaQXVT6xZR6hg0gpoy+7PNl146w+0dkAe4kPju162B+wBNQr/TyjAcxVQpX3S00l2EkQ319pzUlAmIOghgxdat95Jh2h4g+mLzNKBuUsn8tm0vtgDdha/fxoUyvFNJHM6d6Dt+REAfhWFXWzUq84wsbl2k1pdBvVz4UlwgcJuCH2Lg6F9+BevBvuCMT/tjEJ7yrCrJMZqqPQLxulyuLNSq69dA6d8dVFRKQ4NSGezAr8Pu2abRtlZs7/281DX8kZFU9W6hkJ8lDtwhxE8gB2FIKKZnT0pDI7I6ute8LHf0P+WlVxLI5z6NCuSKJ9LyrKew9iQ5HbbdrWVZ7yGoZ/EnSMCsF+KA9eGsEDf+rcJyXL+JN5pWDzA2/dwshYJXIRgB4T5TfcX128mmgEaCRhZAZJr+BWvOugXiwZ5FBFNNAV6QLkRhsh4mkYHG49j12MPfql2/GW7M2a8AAAAASUVORK5CYII=",
+          "height": 0,
+          "highlighted": false,
+          "id": 68,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "MultCloud - Put multiple cloud drives into one.",
+          "url": "https://www.multcloud.com/index.jsp?rl=en-US&tmp=1614903987491#home",
+          "width": 0,
+          "windowId": 20
+        }
+      },
+      "26": {
+        "71": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://outlook-1.cdn.office.net/owamail/20210222004.10/resources/images/favicons/mail-seen.ico",
+          "height": 979,
+          "highlighted": false,
+          "id": 71,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Email - Christoffer Brobäck - Outlook",
+          "url": "https://outlook.office.com/mail/inbox/id/AAQkADJhMDVlYTEyLTcyOWQtNDkxYS1iZjU4LThlYjZmODA4ZGIzMgAQABRd4iKlME3Ll7zwBdCFn%2FA%3D",
+          "width": 1801,
+          "windowId": 26
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "20": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 496,
+        "id": 20,
+        "incognito": false,
+        "left": 378,
+        "state": "minimized",
+        "top": -8,
+        "type": "normal",
+        "width": 522
+      },
+      "26": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1096,
+        "id": 26,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 9,
+    "name": "Email - Christoffer Brobäck - Outlook",
+    "date": 1614953492288,
+    "lastEditedTime": 1614953492288,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1614904217023,
+    "id": "73c98de3-0283-4c01-8f3f-a9c94a4f9e18"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "161": {
+        "167": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gis.gotland.se/map/Content/images/favicon.png",
+          "height": 1010,
+          "highlighted": false,
+          "id": 167,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Miljö",
+          "url": "https://gis.gotland.se/map/?app=Milj%C3%B6&lang=sv#map",
+          "width": 1801,
+          "windowId": 161
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "161": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1096,
+        "id": 161,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Naevus · Ybrid, Myù-k",
+    "date": 1600874008860,
+    "lastEditedTime": 1601295398316,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1600861359022,
+    "id": "892f53e6-966a-43c8-96da-c7cc721e98f0"
+  }
+]

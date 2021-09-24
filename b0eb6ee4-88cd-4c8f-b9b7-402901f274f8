@@ -1,0 +1,420 @@
+[
+  {
+    "windows": {
+      "1746": {
+        "1749": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a2388876784_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1749,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Ausbrecher | Internecine | Anti-Everything",
+          "url": "https://anti-everything.bandcamp.com/album/ausbrecher",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1750": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 1750,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Music | Cold Spring",
+          "url": "https://coldspring.bandcamp.com/",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1751": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a3777435851_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1751,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Hollow | Swollen Organs",
+          "url": "https://swollenorgans.bandcamp.com/album/hollow",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1752": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a2850021811_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1752,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Men Who Solicit Sex | Bagman | Murderabilia Records",
+          "url": "https://murderabiliarecords.bandcamp.com/album/men-who-solicit-sex",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1753": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://modern-sql.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1753,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL WITH: Organize Complex Queries",
+          "url": "https://modern-sql.com/feature/with",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1754": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 1754,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "oracle - Difference between inline view and WITH clause? - Database Administrators Stack Exchange",
+          "url": "https://dba.stackexchange.com/questions/172521/difference-between-inline-view-and-with-clause",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1755": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.mssqltips.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1755,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Limitations When Working with SQL Server Views",
+          "url": "https://www.mssqltips.com/sqlservertip/5147/limitations-when-working-with-sql-server-views/",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1756": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1756,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "subquery insead of view declartion - Google Search",
+          "url": "https://www.google.com/search?q=subquery%20insead%20of%20view%20declartion",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1757": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://javascript.info/img/favicon/favicon.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 1757,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Patterns and flags",
+          "url": "https://javascript.info/regexp-introduction",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1758": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1758,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "vscode cursor at highlight - Google Search",
+          "url": "https://www.google.com/search?q=vscode%20cursor%20at%20highlight",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1759": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 1759,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Butoh Sonics",
+          "url": "https://butohsonics.bandcamp.com/album/2-5-18",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1760": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 1760,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "KYMAH RUNAR Chaos Ehwe | SoundScape713",
+          "url": "https://soundscape713.bandcamp.com/album/kymah-runar-chaos-ehwe",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1761": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 1761,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Bandcamp",
+          "url": "https://nycterent.bandcamp.com/album/nycterent-scrotal-tear-split",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1762": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a0675504121_3.jpg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1762,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "BY BLOOD : IN BLOOD | SLOGUN / WERTHAM COLLABORATION | Slogun COS",
+          "url": "https://sloguncos.bandcamp.com/album/by-blood-in-blood",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1763": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 721,
+          "highlighted": false,
+          "id": 1763,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Macro Scripts · Issue #13 · dakaraphi/vscode-extension-transformer",
+          "url": "https://github.com/dakaraphi/vscode-extension-transformer/issues/13",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1764": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 1764,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "vscode multiple cursors - Google Search",
+          "url": "https://www.google.com/search?sxsrf=ALeKk03wMNmHkvwaC6HE773Ve11_TEdNVA:1585069791252&q=vscode+multiple+cursors&sa=X&ved=2ahUKEwjN4eeOzbPoAhUnpIsKHcUhAAwQ1QIoBHoECAsQBQ&biw=758&bih=1801",
+          "width": 1324,
+          "windowId": 1746
+        },
+        "1765": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 721,
+          "highlighted": false,
+          "id": 1765,
+          "incognito": false,
+          "index": 16,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1749,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "opera://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "url": "chrome://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "width": 1324,
+          "windowId": 1746
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1746": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 1746,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 17,
+    "name": "Ausbrecher | Internecine | Anti-Everything",
+    "date": 1599751005983,
+    "lastEditedTime": 1601295397930,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599749435362,
+    "id": "48588795-eaac-470e-8d4e-bb5685011240"
+  }
+]

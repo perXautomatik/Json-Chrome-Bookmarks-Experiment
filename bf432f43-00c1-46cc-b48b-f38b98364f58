@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "195": {
+        "194": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 744,
+          "highlighted": false,
+          "id": 194,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sign in - Google Accounts",
+          "url": "https://accounts.google.com/signin/oauth/consent?authuser=0&part=AJi8hAMceF7EiKw8CI0cvojjaBfwNuu6LcLTr8J6fGDTsUdvVco3BrvFhqqRhvD52tVcJ3shVu-7VoTyz0rn1BYoGR_rxZy3FitWrcB8HbXG1oaLxcBkIy3EeNx5mBCB18rmtWIaFe8nbzaCJ0MgmyxpZj_4bnl2xxO-Na7qmT4aGhJ9szPdfGOLfXgE7WgW1H_1ThsE7UA5Iq25Yf9PKi_crgr12aHGYpeu4pHDeiivUe7XcFPX-J6PAMYxV6gd9NVNVYeESxwt2hG-hHNwhwKrqPpR7vceDwygt_-KuyzBby71zmUkJxmxAhftnsEvonYqPwVK77dN7xxs3meddvq_cjvf0JZM15gTYHUbMvPNjm6WPwd-CK0p6OnRmCnNBzpRHK61ZP_EGhWz5NfwGsSYNVXIcHsdTFAoKdlquTf3BSEtf_4q7YFLq5awsZzWesxtYq1wCyyj&hl=en&as=S-150215982%3A1602524010448931&rapt=AEjHL4PkGaSdgd9ku-NmNpbuKjiiKBOy02Uo0yLVIn1S2Qan939Knpk5aHBFB3pSKR2qhLDX0eFwrCIh8FapTuZYqkiD4gJVAA&pageId=none#",
+          "width": 539,
+          "windowId": 195
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "195": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 832,
+        "id": 195,
+        "incognito": false,
+        "left": 940,
+        "state": "normal",
+        "top": 208,
+        "type": "popup",
+        "width": 555
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Sign in - Google Accounts",
+    "date": 1602524019232,
+    "lastEditedTime": 1602524016320,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602522034805,
+    "id": "120658dd-a7de-45a8-b5ff-46db27e501c8"
+  }
+]

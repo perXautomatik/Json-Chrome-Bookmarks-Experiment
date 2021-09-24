@@ -1,0 +1,143 @@
+[
+  {
+    "windows": {
+      "172": {
+        "183": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.freshports.org/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 183,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FreshPorts -- Search",
+          "url": "https://www.freshports.org/search.php?query=digikam&search=go&num=10&stype=name&method=match&deleted=excludedeleted&start=1&casesensitivity=caseinsensitive",
+          "width": 1383,
+          "windowId": 172
+        },
+        "206": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://devblogs.microsoft.com/scripting/wp-content/uploads/sites/29/2018/10/Microsoft-Favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 206,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PowerTip: Use PowerShell to Round Numbers | Scripting Blog",
+          "url": "https://devblogs.microsoft.com/scripting/powertip-use-powershell-to-round-numbers/",
+          "width": 1383,
+          "windowId": 172
+        },
+        "213": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 213,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How to convert string to integer in PowerShell - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/33707193/how-to-convert-string-to-integer-in-powershell",
+          "width": 1383,
+          "windowId": 172
+        },
+        "219": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.digikam.org/favicon-32x32.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 219,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "digiKam - Contribute",
+          "url": "https://www.digikam.org/contribute/",
+          "width": 0,
+          "windowId": 172
+        },
+        "222": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 222,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Index of /stable/digikam/7.1.0",
+          "url": "https://download.kde.org/stable/digikam/7.1.0/",
+          "width": 0,
+          "windowId": 172
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "172": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 172,
+        "incognito": false,
+        "left": -62,
+        "state": "normal",
+        "top": 119,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 5,
+    "name": "How to convert string to integer in PowerShell - Stack Overflow",
+    "date": 1602489006234,
+    "lastEditedTime": 1602488998338,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602486715090,
+    "id": "bc94295f-e5bf-4240-93ae-9846d945aa4a"
+  }
+]

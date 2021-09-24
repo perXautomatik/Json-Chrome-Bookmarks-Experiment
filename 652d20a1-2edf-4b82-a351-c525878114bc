@@ -1,0 +1,187 @@
+[
+  {
+    "windows": {
+      "926": {
+        "848": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 967,
+          "highlighted": false,
+          "id": 848,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "GUI2 Output Examples - GUI2 Program for [ExifTool ver 8.79]",
+          "url": "https://web.archive.org/web/20120225101352/http://gui2-for-exiftool.weebly.com/gui2-output-examples.html",
+          "width": 911,
+          "windowId": 926
+        },
+        "849": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 849,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Graph generator and related apps",
+          "url": "https://www.softpedia.com/downloadTag/graph%20generator",
+          "width": 1879,
+          "windowId": 926
+        },
+        "868": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 868,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Science / CAD Downloads",
+          "url": "https://www.softpedia.com/get/Science-CAD/?utm_source=spd&utm_campaign=postdl_redir",
+          "width": 1879,
+          "windowId": 926
+        },
+        "872": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 872,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Statistics and related apps",
+          "url": "https://www.softpedia.com/downloadTag/statistics",
+          "width": 1879,
+          "windowId": 926
+        },
+        "879": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 879,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Variable and related apps",
+          "url": "https://www.softpedia.com/downloadTag/variable",
+          "width": 1879,
+          "windowId": 926
+        },
+        "880": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 880,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Variance analyzer and related apps",
+          "url": "https://www.softpedia.com/downloadTag/variance%20analyzer",
+          "width": 1879,
+          "windowId": 926
+        },
+        "881": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdnssl.softpedia.com/_img/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 881,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Variance and related apps",
+          "url": "https://www.softpedia.com/downloadTag/variance",
+          "width": 1879,
+          "windowId": 926
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "926": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 926,
+        "incognito": false,
+        "left": 952,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 968
+      }
+    },
+    "tabsNumber": 7,
+    "name": "GUI2 Output Examples - GUI2 Program for [ExifTool ver 8.79]",
+    "date": 1600038495693,
+    "lastEditedTime": 1601295398447,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "98f3af4c-80ca-423d-89f4-984d64085333"
+  }
+]

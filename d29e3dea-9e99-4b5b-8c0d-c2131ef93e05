@@ -1,0 +1,247 @@
+[
+  {
+    "windows": {
+      "1249": {
+        "1683": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://blog.sixeyed.com/assets/images/favicon.ico?v=889927a8a2",
+          "height": 998,
+          "highlighted": false,
+          "id": 1683,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How to Dockerize Windows Applications: The 5 Steps",
+          "url": "https://blog.sixeyed.com/how-to-dockerize-windows-applications/",
+          "width": 878,
+          "windowId": 1249
+        },
+        "1854": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 998,
+          "highlighted": false,
+          "id": 1854,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Optimize Windows Dockerfiles | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-docker/optimize-windows-dockerfile",
+          "width": 878,
+          "windowId": 1249
+        },
+        "1907": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://hub.docker.com/favicon.ico",
+          "height": 998,
+          "highlighted": false,
+          "id": 1907,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windows base OS images - Docker Hub",
+          "url": "https://hub.docker.com/_/microsoft-windows-base-os-images",
+          "width": 878,
+          "windowId": 1249
+        },
+        "1991": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.docker.com/favicons/docs@2x.ico",
+          "height": 998,
+          "highlighted": false,
+          "id": 1991,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Store configuration data using Docker Configs | Docker Documentation",
+          "url": "https://docs.docker.com/engine/swarm/configs/",
+          "width": 878,
+          "windowId": 1249
+        },
+        "2010": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://docs.docker.com/favicons/docs@2x.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 2010,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Docker Desktop for Windows user manual | Docker Documentation",
+          "url": "https://docs.docker.com/docker-for-windows/",
+          "width": 0,
+          "windowId": 1249
+        },
+        "2080": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://docs.docker.com/favicons/docs@2x.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 2080,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "docker image build | Docker Documentation",
+          "url": "https://docs.docker.com/engine/reference/commandline/image_build/",
+          "width": 0,
+          "windowId": 1249
+        },
+        "2118": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://blog.sixeyed.com/assets/images/favicon.ico?v=889927a8a2",
+          "height": 998,
+          "highlighted": false,
+          "id": 2118,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1683,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Dockerizing .NET Apps with Microsoft's Build Images on Docker Hub",
+          "url": "https://blog.sixeyed.com/dockerizing-net-apps-with-microsofts-build-images-on-docker-hub/",
+          "width": 878,
+          "windowId": 1249
+        },
+        "2177": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.docker.com/favicons/docs@2x.ico",
+          "height": 998,
+          "highlighted": false,
+          "id": 2177,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1683,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Dockerfile reference | Docker Documentation",
+          "url": "https://docs.docker.com/engine/reference/builder/#understand-how-cmd-and-entrypoint-interact",
+          "width": 878,
+          "windowId": 1249
+        }
+      },
+      "2409": {
+        "2408": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico",
+          "height": 1820,
+          "highlighted": false,
+          "id": 2408,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Docker as an Integrated Development Environment | by Ashley Broadley | Medium",
+          "url": "https://medium.com/@ls12styler/docker-as-an-integrated-development-environment-95bc9b01d2c1",
+          "width": 1039,
+          "windowId": 2409
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "1249": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1087,
+        "id": 1249,
+        "incognito": false,
+        "left": 992,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 935
+      },
+      "2409": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1906,
+        "id": 2409,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -735,
+        "type": "normal",
+        "width": 1096
+      }
+    },
+    "tabsNumber": 9,
+    "name": "How to Dockerize Windows Applications: The 5 Steps",
+    "date": 1599751672564,
+    "lastEditedTime": 1601295397811,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599749435362,
+    "id": "3598fb8f-46b4-4b4a-9602-ad14f7edafdb"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "windows": {
+      "167": {
+        "170": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.kjell.com/favicons/favicon.ico",
+          "height": 487,
+          "highlighted": false,
+          "id": 170,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pendingUrl": "https://www.kjell.com/se/sok?q=skruvst%C3%A4d",
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "skruvstäd | Kjell.com",
+          "url": "https://www.kjell.com/se/sok?q=skruvst%C3%A4d",
+          "width": 909,
+          "windowId": 167
+        },
+        "171": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.kjell.com/favicons/favicon.ico",
+          "height": 487,
+          "highlighted": false,
+          "id": 171,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Weller LF25 Flussmedel - Flussmedel | Kjell.com",
+          "url": "https://www.kjell.com/se/produkter/el-verktyg/verktyg/lodning/flussmedel/weller-lf25-flussmedel-p40375",
+          "width": 909,
+          "windowId": 167
+        },
+        "172": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.kjell.com/favicons/favicon.ico",
+          "height": 487,
+          "highlighted": false,
+          "id": 172,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Luxorparts Extra avlödningspistol till avlödningsstation - Övriga tillbehör | Kjell.com",
+          "url": "https://www.kjell.com/se/produkter/el-verktyg/verktyg/lodning/ovriga-tillbehor/luxorparts-extra-avlodningspistol-till-avlodningsstation-p40713",
+          "width": 909,
+          "windowId": 167
+        },
+        "173": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.kjell.com/favicons/favicon.ico",
+          "height": 487,
+          "highlighted": false,
+          "id": 173,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tennsug i metall - Avlödning | Kjell.com",
+          "url": "https://www.kjell.com/se/produkter/el-verktyg/verktyg/lodning/avlodning/tennsug-i-metall-p40024",
+          "width": 909,
+          "windowId": 167
+        },
+        "174": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.kjell.com/favicons/favicon.ico",
+          "height": 487,
+          "highlighted": false,
+          "id": 174,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Weller LW25 Flussmedel i vätskeform - Flussmedel | Kjell.com",
+          "url": "https://www.kjell.com/se/produkter/el-verktyg/verktyg/lodning/flussmedel/weller-lw25-flussmedel-i-vatskeform-p40376",
+          "width": 909,
+          "windowId": 167
+        },
+        "175": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.kjell.com/favicons/favicon.ico",
+          "height": 487,
+          "highlighted": false,
+          "id": 175,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Kabelskor och pressverktyg - Kabelskor | Kjell.com",
+          "url": "https://www.kjell.com/se/produkter/el-verktyg/biltillbehor/kabelskor/kabelskor-och-pressverktyg-p40241",
+          "width": 909,
+          "windowId": 167
+        },
+        "176": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.kjell.com/favicons/favicon.ico",
+          "height": 487,
+          "highlighted": false,
+          "id": 176,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Dibotech Lödspets till 40570 - Utbytes lödspetsar | Kjell.com",
+          "url": "https://www.kjell.com/se/produkter/el-verktyg/verktyg/lodning/utbytes-lodspetsar/dibotech-lodspets-till-40570-05-mm-p40572",
+          "width": 909,
+          "windowId": 167
+        },
+        "177": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.kjell.com/favicons/favicon.ico",
+          "height": 487,
+          "highlighted": false,
+          "id": 177,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Weller Mejsel-lödspets till Weller WEP 70 - Utbytes lödspetsar | Kjell.com",
+          "url": "https://www.kjell.com/se/produkter/el-verktyg/verktyg/lodning/utbytes-lodspetsar/weller-mejsel-lodspets-till-weller-wep-70-16-mm-p40619",
+          "width": 909,
+          "windowId": 167
+        },
+        "178": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 487,
+          "highlighted": false,
+          "id": 178,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Skruvstycken - Google Shopping",
+          "url": "https://www.google.com/search?client=opera-gx&hs=Bb9&tbm=shop&sxsrf=ALeKk00VfK2yHAG1m0VTDfsYwJndoS1WOA:1601984876180&q=Skruvstycken&tbs=vw:l,mr:1,p_ord:p,price:1,ppr_max:400,merchagg:m126455309%7Cm125904113%7Cm228726493%7Cm9029312%7Cm10147510%7Cm124296524%7Cm118196796%7Cm125904230&sa=X&ved=0ahUKEwi1n-vb8p_sAhVkkIsKHXUXAGEQsysIuQIoBA&biw=1247&bih=698",
+          "width": 909,
+          "windowId": 167
+        },
+        "179": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 487,
+          "highlighted": false,
+          "id": 179,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "ProBuilder Mini Skruvstäd | Google Shopping",
+          "url": "https://www.google.com/shopping/product/17267731110786684072?client=opera-gx&hs=Bb9&sxsrf=ALeKk00VfK2yHAG1m0VTDfsYwJndoS1WOA:1601984876180&q=Skruvstycken&biw=1247&bih=698&prds=epd:2080830879610015339,paur:ClkAsKraX4kix5sWLRfH8ZOY--0WlzBVShpigG_f4cfJl-H0KxlG2iQKTwpr170NXXwm9ZBpvciLeYCN3S6V4FBI8qsnyNrhC7GhzDhXX1B-uiDl1IBcNGWAFxIZAFPVH73AhKzgi1mnM43lbaAIon30F5sHgQ,prmr:1&sa=X&ved=0ahUKEwjr09Pe8p_sAhXsAxAIHeHbC_EQ8gII3QI",
+          "width": 909,
+          "windowId": 167
+        },
+        "180": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 487,
+          "highlighted": false,
+          "id": 180,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 179,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "ProBuilder Mini Skruvstäd - Hushållsapparater - CDON.COM",
+          "url": "https://cdon.se/hushallsapparater/probuilder-mini-skruvstad-p51766915?gclid=CjwKCAjwq_D7BRADEiwAVMDdHppSYXatcr0cfc2K-wuyQOSGw0l7U8bOuHBDF3q42xCvtKK4gqB6yBoCYqwQAvD_BwE&gclsrc=aw.ds#fo_c=1753&fo_k=31ec3f6299095d91f28b52445f07156c&fo_s=gplase",
+          "width": 909,
+          "windowId": 167
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "167": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 576,
+        "id": 167,
+        "incognito": false,
+        "left": 239,
+        "state": "normal",
+        "top": 96,
+        "type": "normal",
+        "width": 966
+      }
+    },
+    "tabsNumber": 11,
+    "name": "skruvstäd | Kjell.com",
+    "date": 1601985068416,
+    "lastEditedTime": 1601985066668,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1601985000371,
+    "id": "e13f74d7-5fae-424d-ab1d-489638977184"
+  }
+]

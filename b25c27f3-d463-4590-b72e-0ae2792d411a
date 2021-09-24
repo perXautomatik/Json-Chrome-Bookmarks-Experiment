@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "176": {
+        "175": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://i1.social.s-msft.com/Forums/GlobalResources/images/Msdn/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 175,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "T-SQL Empty String without a String Literal",
+          "url": "https://social.msdn.microsoft.com/Forums/sqlserver/en-US/5186d018-9a5c-4224-87b2-50f61550364c/tsql-empty-string-without-a-string-literal?forum=transactsql",
+          "width": 1324,
+          "windowId": 176
+        },
+        "188": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sqlservertutorial.net/wp-content/uploads/cropped-favicon-1-32x32.png",
+          "height": 721,
+          "highlighted": false,
+          "id": 188,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "SQL Server NVARCHAR Data Type Overview",
+          "url": "https://www.sqlservertutorial.net/sql-server-basics/sql-server-nvarchar/#:~:text=Overview%20of%20SQL%20Server%20NVARCHAR%20data%20type&text=If%20you%20don%27t%20specify,its%20default%20value%20is%201.&text=In%20this%20syntax%2C%20max%20is,characters%20entered%20plus%202%20bytes.",
+          "width": 1324,
+          "windowId": 176
+        },
+        "197": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 721,
+          "highlighted": false,
+          "id": 197,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql server - Escape single quote in openquery using dynamic query - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/30129864/escape-single-quote-in-openquery-using-dynamic-query",
+          "width": 1324,
+          "windowId": 176
+        },
+        "200": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 721,
+          "highlighted": false,
+          "id": 200,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "sql server - SQL OpenQuery incorrect syntax near string - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/32524965/sql-openquery-incorrect-syntax-near-string",
+          "width": 1324,
+          "windowId": 176
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "176": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 176,
+        "incognito": false,
+        "left": 252,
+        "state": "normal",
+        "top": 78,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 4,
+    "name": "sql server - SQL OpenQuery incorrect syntax near string - Stack Overflow",
+    "date": 1602601099294,
+    "lastEditedTime": 1602600921391,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602590858445,
+    "id": "6af4e28e-4b71-4abd-a27d-a273542db9fa"
+  }
+]

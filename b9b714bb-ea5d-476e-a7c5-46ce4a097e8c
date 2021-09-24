@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "4159": {
+        "4206": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://flow.microsoft.com/images/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4206,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Digitally transform your enterprise with Microsoft Power Automate | Power Automate Blog",
+          "url": "https://flow.microsoft.com/en-us/blog/digitally-transform-your-enterprise-with-microsoft-power-automate/",
+          "width": 1383,
+          "windowId": 4159
+        },
+        "4231": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://flow.microsoft.com/images/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4231,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Digitally transform your enterprise with Microsoft Power Automate | Power Automate Blog",
+          "url": "https://flow.microsoft.com/en-us/blog/digitally-transform-your-enterprise-with-microsoft-power-automate/",
+          "width": 1383,
+          "windowId": 4159
+        },
+        "4327": {
+          "active": false,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/c46c1860/img/favicon_32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 4327,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Inside the Microsoft Power Platform | Power Apps, Power Automate, Power BI and more - YouTube",
+          "url": "https://www.youtube.com/watch?v=o8s1_qlzzd4&list=PLXtHYVsvn_b9MQ5eu2zb9ZYNLnDWsYAeL",
+          "width": 1383,
+          "windowId": 4159
+        },
+        "4373": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.cdc.gov/TemplatePackage/4.0/assets/imgs/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4373,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "High SARS-CoV-2 Attack Rate Following Exposure at a Choir Practice — Skagit County, Washington, March 2020 | MMWR",
+          "url": "https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm",
+          "width": 1383,
+          "windowId": 4159
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4159": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 4159,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 4,
+    "name": "High SARS-CoV-2 Attack Rate Following Exposure at a Choir Practice — Skagit County, Washington, March 2020 | MMWR",
+    "date": 1601172865840,
+    "lastEditedTime": 1601172863966,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "530612ca-bb48-4abb-a0de-eed2ee4b807b"
+  }
+]

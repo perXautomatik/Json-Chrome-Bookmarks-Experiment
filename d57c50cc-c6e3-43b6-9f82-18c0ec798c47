@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "673": {
+        "674": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "height": 1048,
+          "highlighted": true,
+          "id": 674,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "DWService - christoffer.broback@gmail.com",
+          "url": "https://www.dwservice.net/session.dw#s",
+          "width": 936,
+          "windowId": 673
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "673": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1080,
+        "id": 673,
+        "incognito": false,
+        "left": 936,
+        "state": "normal",
+        "top": 0,
+        "type": "popup",
+        "width": 936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "DWService - christoffer.broback@gmail.com",
+    "date": 1600194769891,
+    "lastEditedTime": 1601295398858,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600157465223,
+    "id": "d17acb15-f0a4-423e-a545-09eadfe99c54"
+  }
+]

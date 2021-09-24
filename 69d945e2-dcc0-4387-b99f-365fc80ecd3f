@@ -1,0 +1,99 @@
+[
+  {
+    "windows": {
+      "185": {
+        "311": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "height": 667,
+          "highlighted": false,
+          "id": 311,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Shoutbox for Veckodag | Last.fm",
+          "url": "https://www.last.fm/user/Veckodag/shoutbox/30893773:shoutbox:2fdea84e-42ce-44a2-8e9c-6efeb729f9e5",
+          "width": 1247,
+          "windowId": 185
+        },
+        "314": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "height": 667,
+          "highlighted": false,
+          "id": 314,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Killing Joke music, videos, stats, and photos | Last.fm",
+          "url": "https://www.last.fm/music/Killing+Joke",
+          "width": 1247,
+          "windowId": 185
+        },
+        "317": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "height": 667,
+          "highlighted": false,
+          "id": 317,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "konstruktor_k’s Music Profile | Last.fm",
+          "url": "https://www.last.fm/user/konstruktor_k",
+          "width": 1247,
+          "windowId": 185
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "185": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 784,
+        "id": 185,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1304
+      }
+    },
+    "tabsNumber": 3,
+    "name": "konstruktor_k’s Music Profile | Last.fm",
+    "date": 1614065782789,
+    "lastEditedTime": 1614065781378,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1614064853380,
+    "id": "c38d521f-2aa7-4390-b45a-3e443ab72700"
+  }
+]

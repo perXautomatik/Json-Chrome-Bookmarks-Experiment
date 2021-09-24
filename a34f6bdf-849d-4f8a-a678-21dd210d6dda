@@ -1,0 +1,163 @@
+[
+  {
+    "windows": {
+      "3270": {
+        "3263": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://assets.readthedocs.org/static/images/favicon.f231b6609d0b.png",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3263,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Maze Found | Read the Docs",
+          "url": "https://vscode-anywhere.readthedocs.io/en/v2/modules/perl.html",
+          "width": 459,
+          "windowId": 3270
+        },
+        "3265": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://marketplace.visualstudio.com/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3265,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Perl - Visual Studio Marketplace",
+          "url": "https://marketplace.visualstudio.com/items?itemName=henriiik.vscode-perl",
+          "width": 459,
+          "windowId": 3270
+        },
+        "3266": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1135,
+          "highlighted": false,
+          "id": 3266,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "What is Ctags?",
+          "url": "http://ctags.sourceforge.net/whatis.html",
+          "width": 459,
+          "windowId": 3270
+        },
+        "3267": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://learnperl.scratchcomputing.com/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3267,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Learn Perl - How to Use Perl Modules",
+          "url": "http://learnperl.scratchcomputing.com/tutorials/modules/",
+          "width": 459,
+          "windowId": 3270
+        },
+        "3268": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1135,
+          "highlighted": false,
+          "id": 3268,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The Comprehensive Perl Archive Network - www.cpan.org",
+          "url": "https://www.cpan.org/",
+          "width": 459,
+          "windowId": 3270
+        },
+        "3269": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://metacpan.org/static/icons/favicon.ico",
+          "height": 1135,
+          "highlighted": false,
+          "id": 3269,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Command::Runner - run external commands and Perl code refs - metacpan.org",
+          "url": "https://metacpan.org/pod/Command::Runner",
+          "width": 459,
+          "windowId": 3270
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3270": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1224,
+        "id": 3270,
+        "incognito": false,
+        "left": 2675,
+        "state": "normal",
+        "top": -68,
+        "type": "normal",
+        "width": 516
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Maze Found | Read the Docs",
+    "date": 1600023506073,
+    "lastEditedTime": 1601295397923,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "471499b4-1632-44cf-9e37-9529d36e880b"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "404": {
+        "407": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 407,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "covenant live - Google Search",
+          "url": "https://www.google.com/search?q=covenant+live&client=opera-gx&hs=kvk&sxsrf=ALeKk01oFZ5ST2MKeZOCAIZyjRhpH-E4wA:1599824612677&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjf7vaNg-HrAhUtiYsKHVNuDCYQ_AUoAXoECBwQAw&biw=1801&bih=1010#imgrc=2JUAMiv9rbJf6M",
+          "width": 1801,
+          "windowId": 404
+        },
+        "410": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1010,
+          "highlighted": false,
+          "id": 410,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 407,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "vnv nation live - Google Search",
+          "url": "https://www.google.com/search?q=vnv+nation+live&client=opera-gx&hs=Fwk&sxsrf=ALeKk00uOPgWdDDKjdBFzlDrbV2Fc8EOOA:1599824643200&source=lnms&tbm=isch&sa=X&ved=2ahUKEwix7L2cg-HrAhWItYsKHaEsD7AQ_AUoAXoECB0QAw&biw=1801&bih=1010#imgrc=P0tPu61VGcvFbM",
+          "width": 1801,
+          "windowId": 404
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "404": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1096,
+        "id": 404,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 2,
+    "name": "vnv nation live - Google Search",
+    "date": 1599824683085,
+    "lastEditedTime": 1601295398071,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599820276730,
+    "id": "5b462acd-7a08-4b4e-939b-15a56d628aa4"
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "windows": {
+      "107": {
+        "114": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/02e79665/img/favicon_32.png",
+          "height": 653,
+          "highlighted": false,
+          "id": 114,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "I Built My Dog A Selfie Booth so She Can Take Photos of Herself. - YouTube",
+          "url": "https://www.youtube.com/watch?v=rvG6V_BXsTE&list=WL&index=23",
+          "width": 1383,
+          "windowId": 107
+        },
+        "135": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "http://reports.essity.com/2020-21/essentials-initiative-survey/layout/files/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 135,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Essentials Initiative Survey 2020-2021 - Home",
+          "url": "http://reports.essity.com/2020-21/essentials-initiative-survey/?utm_source=Youtube&utm_medium=cpc&utm_campaign=RA_YT_2020_1202_Survey-Launch_2020_Video-Views_SE_Investors_Handwashing-Video_Video",
+          "width": 0,
+          "windowId": 107
+        },
+        "138": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://deepai.org/static/images/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 138,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Image Colorization API | DeepAI",
+          "url": "https://deepai.org/machine-learning-model/colorizer",
+          "width": 0,
+          "windowId": 107
+        },
+        "148": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.youtube.com/s/desktop/02e79665/img/favicon_32.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 148,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Skyrim, but 10 Cheese Wheels Spawn Every Second. - YouTube",
+          "url": "https://www.youtube.com/watch?v=x_-mGs7SDc0&list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d&index=2",
+          "width": 0,
+          "windowId": 107
+        },
+        "151": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.youtube.com/s/desktop/02e79665/img/favicon_32.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 151,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "DougDoug Dessert - YouTube",
+          "url": "https://www.youtube.com/channel/UC5sc1ysFs7RfjjEFMuQ3ZQw",
+          "width": 0,
+          "windowId": 107
+        },
+        "154": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.shopify.com/s/files/1/2278/4199/files/Botanium_icon_f8da390d-e5a8-4a30-a6c1-b2e72734b3f5_32x32.png?v=1518788373",
+          "height": 0,
+          "highlighted": false,
+          "id": 154,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Botanium - Plant, forget, harvest.",
+          "url": "https://botanium.se/?utm_source=YouTube&utm_medium=Ad&utm_campaign=YouTube&gclid=CjwKCAjwiaX8BRBZEiwAQQxGx8HPWkNGL9PcgOtt05VLvZuFblJ9RTAPUfVwylG8rk0eSTrGmESZuhoCuzsQAvD_BwE",
+          "width": 0,
+          "windowId": 107
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "107": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 107,
+        "incognito": false,
+        "left": 302,
+        "state": "normal",
+        "top": 539,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 6,
+    "name": "I Built My Dog A Selfie Booth so She Can Take Photos of Herself. - YouTube",
+    "date": 1602933015416,
+    "lastEditedTime": 1602933013860,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602898991664,
+    "id": "d1424b53-1b49-4ea3-abc9-b8d2a235fb8b"
+  }
+]

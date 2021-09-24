@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "5233": {
+        "5235": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/c46c1860/img/favicon_32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 5235,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(69) YouTube Premium - YouTube",
+          "url": "https://www.youtube.com/premium",
+          "width": 1383,
+          "windowId": 5233
+        },
+        "5236": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5236,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 5235,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "YouTube Music - Google Search",
+          "url": "https://www.google.com/search?q=YouTube%20Music",
+          "width": 1383,
+          "windowId": 5233
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5233": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 5233,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "YouTube Music - Google Search",
+    "date": 1601173928515,
+    "lastEditedTime": 1601173927743,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "58ea3738-20e8-40a0-aecd-e5341e27b945"
+  }
+]

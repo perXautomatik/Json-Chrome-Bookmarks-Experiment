@@ -1,0 +1,98 @@
+[
+  {
+    "windows": {
+      "321": {
+        "305": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 667,
+          "highlighted": false,
+          "id": 305,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Black Cathedral · This Cold Night",
+          "url": "https://open.spotify.com/playlist/0JlB7CPT08VyIULfcjBtn5",
+          "width": 1247,
+          "windowId": 321
+        },
+        "357": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "height": 667,
+          "highlighted": false,
+          "id": 357,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "konstruktor_k’s Music Profile | Last.fm",
+          "url": "https://www.last.fm/user/konstruktor_k",
+          "width": 1247,
+          "windowId": 321
+        },
+        "366": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 667,
+          "highlighted": false,
+          "id": 366,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Organize Your Music",
+          "url": "http://organizeyourmusic.playlistmachinery.com/",
+          "width": 1247,
+          "windowId": 321
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "321": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 784,
+        "id": 321,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1304
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Black Cathedral · This Cold Night",
+    "date": 1614337134901,
+    "lastEditedTime": 1614337134901,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1614064853380,
+    "id": "e952db03-d33d-477a-b0f4-10e6e0304710"
+  }
+]

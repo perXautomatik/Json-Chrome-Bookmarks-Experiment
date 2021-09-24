@@ -1,0 +1,122 @@
+[
+  {
+    "windows": {
+      "150": {
+        "152": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 152,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "globally installed packages - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=globally+installed+packages&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 150
+        },
+        "154": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 154,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to Check Your Globally Installed npm Packages | by Matthew Williams | Better Programming | Medium",
+          "url": "https://medium.com/better-programming/how-to-check-your-globally-installed-npm-packages-32a14469b95a",
+          "width": 1383,
+          "windowId": 150
+        },
+        "155": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.npmjs.com/assets/images/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 155,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 154,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Downloading and installing packages globally | npm Documentation",
+          "url": "https://docs.npmjs.com/downloading-and-installing-packages-globally",
+          "width": 1383,
+          "windowId": 150
+        },
+        "169": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 169,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "npm tricks part 1: Get list of globally installed packages | by Alberto Schiabel | Medium",
+          "url": "https://medium.com/@alberto.schiabel/npm-tricks-part-1-get-list-of-globally-installed-packages-39a240347ef0",
+          "width": 0,
+          "windowId": 150
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "150": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 150,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 4,
+    "name": "globally installed packages - Google Search",
+    "date": 1601826575245,
+    "lastEditedTime": 1601826563866,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601744038342,
+    "id": "d7d6f207-9f53-42e1-b00c-55c8a194420f"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "windows": {
+      "4198": {
+        "4219": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pdfsam.org/icns/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4219,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download PDF Split And Merge - PDFsam",
+          "url": "https://pdfsam.org/downloads/",
+          "width": 1383,
+          "windowId": 4198
+        },
+        "4256": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4256,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "substitute - Google Search",
+          "url": "https://www.google.com/search?q=substitute",
+          "width": 1383,
+          "windowId": 4198
+        },
+        "4361": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sqlservertutorial.net/wp-content/uploads/cropped-favicon-1-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 4361,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "SQL Server SELECT TOP By Practical Examples",
+          "url": "https://www.sqlservertutorial.net/sql-server-basics/sql-server-select-top/",
+          "width": 1383,
+          "windowId": 4198
+        },
+        "4407": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pdfsam.org/icns/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4407,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Customize file names - PDFsam",
+          "url": "https://pdfsam.org/customize-file-names/",
+          "width": 1383,
+          "windowId": 4198
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4198": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 4198,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 4,
+    "name": "SQL Server SELECT TOP By Practical Examples",
+    "date": 1601172771768,
+    "lastEditedTime": 1601172769332,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "a9b7332c-b142-48b2-8ec1-26bf1c22f986"
+  }
+]

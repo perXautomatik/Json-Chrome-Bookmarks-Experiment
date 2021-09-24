@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "125": {
+        "70": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/b6bbc6a6/img/favicon_32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 70,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Atx Pc - Don' T Throw that Away! Here Is A Big Idea - YouTube",
+          "url": "https://www.youtube.com/watch?v=k1StXKWTnvo&list=WL&index=11",
+          "width": 1383,
+          "windowId": 125
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "125": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 125,
+        "incognito": false,
+        "left": 45,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Atx Pc - Don' T Throw that Away! Here Is A Big Idea - YouTube",
+    "date": 1602722784544,
+    "lastEditedTime": 1602722779723,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602695123270,
+    "id": "78356b87-6b95-4ab3-b29a-14323a8f1827"
+  }
+]

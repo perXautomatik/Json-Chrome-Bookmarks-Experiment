@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "490": {
+        "473": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.one-tab.com/web/images/favicon/favicon-32x32.png",
+          "height": 998,
+          "highlighted": false,
+          "id": 473,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "OneTab shared tabs",
+          "url": "https://www.one-tab.com/page/JoXWVBYuSOSz2KGGFKRFMw",
+          "width": 878,
+          "windowId": 490
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "490": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1087,
+        "id": 490,
+        "incognito": false,
+        "left": 1964,
+        "state": "normal",
+        "top": -98,
+        "type": "normal",
+        "width": 935
+      }
+    },
+    "tabsNumber": 1,
+    "name": "OneTab shared tabs",
+    "date": 1599816521761,
+    "lastEditedTime": 1601295398439,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599816003038,
+    "id": "98880ade-61c2-444e-85e3-6884df209496"
+  }
+]

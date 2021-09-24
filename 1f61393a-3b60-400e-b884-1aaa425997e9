@@ -1,0 +1,165 @@
+[
+  {
+    "windows": {
+      "580": {
+        "583": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "height": 456,
+          "highlighted": false,
+          "id": 583,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "jusio/storage-area-explorer: Extension for Chrome with allows to inspect storage area of Chrome Packages Apps",
+          "url": "https://github.com/jusio/storage-area-explorer",
+          "width": 909,
+          "windowId": 580
+        },
+        "584": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://developer.mozilla.org/favicon.ico",
+          "height": 456,
+          "highlighted": false,
+          "id": 584,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Storage Inspector - Firefox Developer Tools | MDN",
+          "url": "https://developer.mozilla.org/en-US/docs/Tools/Storage_Inspector",
+          "width": 909,
+          "windowId": 580
+        },
+        "585": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://developer.mozilla.org/favicon.ico",
+          "height": 456,
+          "highlighted": false,
+          "id": 585,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "IndexedDB API - Web APIs | MDN",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API",
+          "width": 909,
+          "windowId": 580
+        },
+        "586": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://developer.mozilla.org/favicon.ico",
+          "height": 456,
+          "highlighted": false,
+          "id": 586,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Window.localStorage - Web APIs | MDN",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage",
+          "width": 909,
+          "windowId": 580
+        },
+        "587": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://developer.mozilla.org/favicon.ico",
+          "height": 456,
+          "highlighted": false,
+          "id": 587,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Window.sessionStorage - Web APIs | MDN",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage",
+          "width": 909,
+          "windowId": 580
+        },
+        "588": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 456,
+          "highlighted": false,
+          "id": 588,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How do I view and edit local storage used by WebExtensions based Firefox addon? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/47008071/how-do-i-view-and-edit-local-storage-used-by-webextensions-based-firefox-addon",
+          "width": 909,
+          "windowId": 580
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "580": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 576,
+        "id": 580,
+        "incognito": false,
+        "left": 239,
+        "state": "normal",
+        "top": 96,
+        "type": "normal",
+        "width": 966
+      }
+    },
+    "tabsNumber": 6,
+    "name": "How do I view and edit local storage used by WebExtensions based Firefox addon? - Stack Overflow",
+    "date": 1613988159548,
+    "lastEditedTime": 1613988157982,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1613975517048,
+    "id": "422b7cf0-aed8-4f79-a8b5-d9fc174262fa"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "606": {
+        "603": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEp0lEQVRYR+1WbUxbVRh+bktLC5Ty1ZWPwYAOVyDiIosa5whuBJcFozObGXGwbEymzEQzICyb8GNjTgIskkk2JmgG++Fn5gfGbMIiJkadim4LUJSOgpQJVBCKFPp1zbnaS29721uU7JfnT5vzfjzPfd73vOdQ+GftfpcWJ43qjoPGiwCiXPur/DsNCk2jSdpT7z1NOUhuygVQ3qB7GTR9cpUB+dNRVHVjhbaWS6B+wAQg+q4QAH5vrEyP8SRA3yVwBqaxMp1Rf7kE9QP/E/CpQLwqGNmZSkQoJDBOLuKGbg5ymRjBUhEj56LVCavNiS33RyJeJcPIHQt+6JvF+NSSz6oGVAJFSBB25qmhjpbiN5OVAVwXJ2PA+Zb5TzuGjRbIgkVIWCPD0OgCPuyegHnB7uUeEIG9BfG4N03BBIvFbLsE1Ks2mxMSiQg/6eZwqXN85QSUiiAcL10P0cpwvYCcNHDqwhBmzVwVBBXY/ogKeQ+tzlj4/GsTrnxFxszyEiRw7FkNopSSgOQWcpqeteGVN/SBEyBdf2RfilfeJasTYxOLWKuWsSfA5TS/4MDk9BISIwB61ADaYoEoPByStDTG5czFYc6p8KvAluwoPPHoGg4By6IDZ9oNmJmzITJcgiPFyexpmJqx4upzp5F8/WPEGXo5cZRUCnl+PnSbnkRn6GbW5pcA6f6N2nBOohuDZnR8YmT3ih5PwH0bFFjs6YGhpAxSfb9QJTCqzUHPzhqYoxL8j2IiPymD+yJf2fDWMBxOGmIRhYr9KZBfvYzJPXtYN1VrKxQlJVzlurtxJy+P3VtQxODTA+dxtGmX77vg5AtpvMNmZNyCfv08MjRhUP9yHeO5uWziuK4uyLdt41XB2t+PscxMDolQsyk2FZjgvYzqK7TsLUXms8XiQIicO/3GsrJgvXWLSRpWVISY5maIFArYjUZMFRfDcu0aXKRoqxV/1NVhpqbGneDbGqCQl0Dl/hSoo5dLQGb6wO15rIuTIzUxBPPnz8FUVsYrvbmtDVMHDzK2yBMnEFFVBdKIFo9SELsY2MxLQBEaBNKImsQQFoRMtN7+WVzumsBT5/YicvA7waYTIkADr/t8DxBDuiYMmzKVSI6XMyVo/eBXGPQzKD22URCcOKzt64M0I4PxdVfGFUwBN1f8IImc0KOwoUCQgHtTOs1mmA4fxnxHh1fcigmoxvqwu2mXXwKeJ4Lv691U+PtveYBPMqVpBM/UbfdJwBOcr/ncg1esAAk+dDQLYofNi4TnIBICp4Fv3AksAJALFhfAjjefR/LAFxxX944nBiFw4kMBtSyBivqBizRQHAgBzc0reKzjJdZVvnUrVO3tCEpIYPY8J5+fnBtYAlWv6pV2sfV9AMuD209kQdshJOm+ZDz47gDPUE9FKKAhFaj0enCVNwxqKdoZK6TEPT9+FJv7TnWz2GGLcj/vvuLcCRjXP4icoW+5l5EQIJ99CMimgE4AgoRd8QT8s31ncbr6gf9OgCS9Dahp4DUAy/eyj6+xB8vPttT2krrnez1I/o0C7jEG4GE7UCgCcmggy2UjR00EdNFAhwb4ubTle4liLrSlsTL9APH5C3nZ5QNkyh+bAAAAAElFTkSuQmCC",
+          "height": 452,
+          "highlighted": false,
+          "id": 603,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "@Pepperb",
+          "url": "https://discord.com/channels/@me/755106394494992535",
+          "width": 674,
+          "windowId": 606
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "606": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 540,
+        "id": 606,
+        "incognito": false,
+        "left": 2221,
+        "state": "normal",
+        "top": 92,
+        "type": "popup",
+        "width": 690
+      }
+    },
+    "tabsNumber": 1,
+    "name": "@Pepperb",
+    "date": 1600462561584,
+    "lastEditedTime": 1601295398548,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600354019297,
+    "id": "a5ec4b9e-f674-4dc3-a993-a1c00e88277e"
+  }
+]

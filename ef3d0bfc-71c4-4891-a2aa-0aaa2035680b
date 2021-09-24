@@ -1,0 +1,56 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "586": {
+        "width": 1440,
+        "type": "normal",
+        "top": -442,
+        "state": "normal",
+        "left": 1945,
+        "incognito": false,
+        "height": 780,
+        "focused": false,
+        "alwaysOnTop": false,
+        "id": 586
+      }
+    },
+    "windows": {
+      "586": {
+        "576": {
+          "title": "14Anger music, videos, stats, and photos | Last.fm",
+          "windowId": 586,
+          "width": 1383,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 691,
+          "favIconUrl": "https://www.last.fm/static/images/favicon.702b239b6194.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://www.last.fm/music/14Anger",
+          "id": 576,
+          "index": 0
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Home",
+      "Loppy"
+    ],
+    "tabsNumber": 1,
+    "sessionStartTime": 1600621101255,
+    "name": "14Anger music, videos, stats, and photos | Last.fm",
+    "lastEditedTime": 1601167836561,
+    "date": 1600685335313,
+    "id": "34b16055-a915-439d-8711-e6328669a3c0"
+  }
+]

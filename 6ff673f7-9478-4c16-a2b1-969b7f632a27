@@ -1,0 +1,187 @@
+[
+  {
+    "windows": {
+      "2445": {
+        "2446": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2446,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Looping a table in MapBasic",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Looping%20a%20table%20in%20MapBasic&pos=0&uri=https://support.pitneybowes.com/SearchArticles/VFP05_KnowledgeWithSidebarHowTo?id=kA180000000CtKCCA0&popup=false;&lang=en_US",
+          "width": 1073,
+          "windowId": 2445
+        },
+        "2450": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2450,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "TuneMyMusic ImportCsv - Google Sheets",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=TuneMyMusic%20ImportCsv%20-%20Google%20Sheets&pos=0&uri=https://docs.google.com/spreadsheets/d/1LAsM00pMvRVYOReItM8NjR0_QMsufpVWj3oDiWwbuHQ/edit#gid=0",
+          "width": 1073,
+          "windowId": 2445
+        },
+        "2453": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2453,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Yonohub - Collaboration Platform for Autonomous Vehicles and AI",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Yonohub%20-%20Collaboration%20Platform%20for%20Autonomous%20Vehicles%20and%20AI&pos=0&uri=https://yonohub.com/?gclid=Cj0KCQiAiZPvBRDZARIsAORkq7cV01B691Qzm1XpRKUL07R4ncbdhDN2_HSkvWqa7lMQ8QPrlLFNtUkaAs9bEALw_wcB",
+          "width": 1073,
+          "windowId": 2445
+        },
+        "2456": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2456,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Import playlist from text file to Spotify",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Import%20playlist%20from%20text%20file%20to%20Spotify&pos=0&uri=https://www.tunemymusic.com/Text-File-to-Spotify.php#step5",
+          "width": 1073,
+          "windowId": 2445
+        },
+        "2459": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2459,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Log in to RescueTime",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Log%20in%20to%20RescueTime&pos=0&uri=https://www.rescuetime.com/login",
+          "width": 1073,
+          "windowId": 2445
+        },
+        "2462": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2462,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Chrome Web Store - Extensions",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Chrome%20Web%20Store%20-%20Extensions&pos=0&uri=https://chrome.google.com/webstore/detail/tab-session-manager/iaiomicjabeggjcfkbimgmglanimpnae/related?hl=en",
+          "width": 1073,
+          "windowId": 2445
+        },
+        "2465": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/icon_min.svg",
+          "height": 1155,
+          "highlighted": true,
+          "id": 2465,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tab Session Manager",
+          "url": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/options/index.html#settings",
+          "width": 1073,
+          "windowId": 2445
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2445": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 2445,
+        "incognito": false,
+        "left": 536,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Tab Session Manager",
+    "date": 1611536804256,
+    "lastEditedTime": 1611536802915,
+    "tag": [
+      "winClose",
+      "loppy"
+    ],
+    "sessionStartTime": 1611535482936,
+    "id": "1ea4a640-09cf-4798-a569-b82726d62a31"
+  }
+]

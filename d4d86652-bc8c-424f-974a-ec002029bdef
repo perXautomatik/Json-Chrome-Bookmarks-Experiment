@@ -1,0 +1,187 @@
+[
+  {
+    "windows": {
+      "3088": {
+        "3091": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3091,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Firebug Lite for Google Chrome - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/ehemiojjcpldeipjhjkepfdaohajpbdo/related?hl=en",
+          "width": 1383,
+          "windowId": 3088
+        },
+        "3093": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3093,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "GUI2 Output Examples - GUI2 Program for [ExifTool ver 8.79]",
+          "url": "https://web.archive.org/web/20120225101352/http://gui2-for-exiftool.weebly.com/gui2-output-examples.html",
+          "width": 1383,
+          "windowId": 3088
+        },
+        "3103": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.mrfdev.com/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3103,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to use Enhancer for YouTube™",
+          "url": "https://www.mrfdev.com/how-to-use-enhancer-for-youtube",
+          "width": 1383,
+          "windowId": 3088
+        },
+        "3106": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 3106,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to view all JavaScript functions called in real time? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/7049510/how-to-view-all-javascript-functions-called-in-real-time",
+          "width": 1383,
+          "windowId": 3088
+        },
+        "3121": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3121,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Is 5 the maximum amount of Workspaces on Opera for Windows 7? Is there a way to increase this limit behind the scenes? : operabrowser",
+          "url": "https://www.reddit.com/r/operabrowser/comments/fq8mml/is_5_the_maximum_amount_of_workspaces_on_opera/",
+          "width": 1383,
+          "windowId": 3088
+        },
+        "3139": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.nvidia.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3139,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NVIDIA PhysX System Software 9.15.0428",
+          "url": "https://www.nvidia.com/en-us/drivers/physx/9_15_0428/physx-9-15-0428-driver/",
+          "width": 1383,
+          "windowId": 3088
+        },
+        "3142": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://downloadsafer.lavasoft.com/wp-content/uploads/2019/02/favicon6.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3142,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "NetGlance | DownloadSafer",
+          "url": "https://downloadsafer.lavasoft.com/software/netglance/",
+          "width": 1383,
+          "windowId": 3088
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3088": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 3088,
+        "incognito": false,
+        "left": -85,
+        "state": "normal",
+        "top": 142,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 7,
+    "name": "NetGlance | DownloadSafer",
+    "date": 1601171969438,
+    "lastEditedTime": 1601171958044,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "d76f1afa-1d15-4e57-b214-8becd16834c2"
+  }
+]

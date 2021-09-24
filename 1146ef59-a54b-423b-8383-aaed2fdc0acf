@@ -1,0 +1,275 @@
+[
+  {
+    "windows": {
+      "382": {
+        "381": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://b2c.cdon.se/assets/b2c/favicon-consumer.ico",
+          "height": 535,
+          "highlighted": false,
+          "id": 381,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Orderhistorik | CDON",
+          "url": "https://b2c.cdon.se/mypages/customer/orders/",
+          "width": 1839,
+          "windowId": 382
+        },
+        "391": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 391,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Untitled spreadsheet - Google Sheets",
+          "url": "https://docs.google.com/spreadsheets/d/1CR6H0tUwSXf2fSylpnBoMy_DU86dUu_4vELeK83rkGE/edit#gid=0",
+          "width": 1879,
+          "windowId": 382
+        },
+        "409": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.allelectronics.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 409,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Microsoft Word - ISD1820_module_ug.doc",
+          "url": "https://www.allelectronics.com/mas_assets/media/allelectronics2018/spec/ME-63.pdf",
+          "width": 1879,
+          "windowId": 382
+        },
+        "427": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s.pinimg.com/webapp/style/images/favicon-54a5b2af.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 427,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(372) Pinterest",
+          "url": "https://www.pinterest.at/pin/499336677421219945/?nic_v2=1ansHCfIl",
+          "width": 1879,
+          "windowId": 382
+        },
+        "430": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.onsemi.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 430,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "2N3903 - General Purpose NPN Transistors",
+          "url": "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF",
+          "width": 1879,
+          "windowId": 382
+        },
+        "433": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 433,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Arduino",
+          "url": "https://www.reddit.com/r/arduino/",
+          "width": 1879,
+          "windowId": 382
+        },
+        "436": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 970,
+          "highlighted": false,
+          "id": 436,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "BC557 Transistor Pinout, Equivalent, Uses, Features & Applications - Components Info",
+          "url": "https://www.componentsinfo.com/bc557-pinout-equivalent/",
+          "width": 1879,
+          "windowId": 382
+        },
+        "439": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 439,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "joulthief - Google Search",
+          "url": "https://www.google.com/search?q=joulthief&client=opera-gx&hs=jCu&sxsrf=ALeKk037ZLylPT3wSeGJJM45scN2Z8ihrw:1601925700451&tbm=isch&source=iu&ictx=1&fir=Js0I8mFnaYsn0M%252CQu_grHfGJM_wSM%252C_&vet=1&usg=AI4_-kSCm0-ey1sbvAC1tgeb0Akwkts3_A&sa=X&ved=2ahUKEwikpdOilp7sAhUFiYsKHTfIBcAQ9QF6BAgKECA#imgrc=Js0I8mFnaYsn0M",
+          "width": 1879,
+          "windowId": 382
+        },
+        "442": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.physicsforums.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 442,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Transistor Approximations: NPN BC548 vs. 2N3904, PNP BC559 vs. 2N3906 | Physics Forums",
+          "url": "https://www.physicsforums.com/threads/transistor-approximations-npn-bc548-vs-2n3904-pnp-bc559-vs-2n3906.304312/",
+          "width": 1879,
+          "windowId": 382
+        },
+        "445": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 445,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "joulthief - Google Search",
+          "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fca%2FConventional_Joule_Thief_with_red_LED.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJoule_thief&tbnid=bxBb31P4BxthLM&vet=12ahUKEwik4JyLm57sAhUHuSoKHXwiD4cQMygDegUIARCeAQ..i&docid=NuBfWjgVvWDtzM&w=803&h=600&q=joulthief&client=opera-gx&ved=2ahUKEwik4JyLm57sAhUHuSoKHXwiD4cQMygDegUIARCeAQ",
+          "width": 1879,
+          "windowId": 382
+        },
+        "448": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 448,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 445,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Joule thief - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Joule_thief",
+          "width": 1879,
+          "windowId": 382
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "382": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 382,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 11,
+    "name": "Joule thief - Wikipedia",
+    "date": 1601932094043,
+    "lastEditedTime": 1601927072074,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601744038342,
+    "id": "d59a45ee-1188-4a39-88c6-4625753e8481"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "6397": {
+        "6396": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://hol.abime.net/favicon.ico",
+          "height": 399,
+          "highlighted": true,
+          "id": 6396,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Hall Of Light - The database of Amiga games",
+          "url": "http://hol.abime.net/hol_popup_getdata.php?mydata=developer&myid=&myref=N_ref_developer&myform=hol",
+          "width": 400,
+          "windowId": 6397
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "6397": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 470,
+        "id": 6397,
+        "incognito": false,
+        "left": 600,
+        "state": "normal",
+        "top": 130,
+        "type": "popup",
+        "width": 400
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Hall Of Light - The database of Amiga games",
+    "date": 1601445651559,
+    "lastEditedTime": 1601445647125,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1600633358975,
+    "id": "bcd154c7-d30f-49d4-8d06-bc09433d92ef"
+  }
+]

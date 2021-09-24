@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "80": {
+        "79": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 452,
+          "highlighted": false,
+          "id": 79,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Trello Addin",
+          "url": "https://trelloaddin.azureedge.net/trello/login.html?_host_Info=outlook$web$16.01$en-gb$2e90a83a-971b-5e75-c75c-7563d7bc3506$isDialog$#",
+          "width": 944,
+          "windowId": 80
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "80": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 540,
+        "id": 80,
+        "incognito": false,
+        "left": 420,
+        "state": "minimized",
+        "top": 219,
+        "type": "popup",
+        "width": 960
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Trello Addin",
+    "date": 1621948215013,
+    "lastEditedTime": 1621947642697,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1621945110214,
+    "id": "eeffe997-32f0-4a7c-8b67-8b91c92250fb"
+  }
+]

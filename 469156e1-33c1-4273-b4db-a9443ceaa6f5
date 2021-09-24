@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "3665": {
+        "3667": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://sdfestaticassets-eu-west-1.sciencedirectassets.com/shared-assets/13/images/favSD.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 3667,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Text Compression - an overview | ScienceDirect Topics",
+          "url": "https://www.sciencedirect.com/topics/computer-science/text-compression#:~:text=Text%20compression%20algorithms%20aim%20at,variable%2Dlength%20codes%20to%20characters.",
+          "width": 1383,
+          "windowId": 3665
+        },
+        "3676": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://sdfestaticassets-eu-west-1.sciencedirectassets.com/shared-assets/13/images/favSD.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 3676,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 3667,
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Huffman Coding - an overview | ScienceDirect Topics",
+          "url": "https://www.sciencedirect.com/topics/computer-science/huffman-coding",
+          "width": 0,
+          "windowId": 3665
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3665": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 3665,
+        "incognito": false,
+        "left": 304,
+        "state": "normal",
+        "top": 417,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Text Compression - an overview | ScienceDirect Topics",
+    "date": 1601172558845,
+    "lastEditedTime": 1601172555044,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "3421c2e8-9cb1-4e5c-9a10-ddc35698a735"
+  }
+]

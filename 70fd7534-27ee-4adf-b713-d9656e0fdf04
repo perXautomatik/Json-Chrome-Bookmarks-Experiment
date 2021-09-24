@@ -1,0 +1,166 @@
+[
+  {
+    "windows": {
+      "1330": {
+        "1157": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a1560165030_3.jpg",
+          "height": 967,
+          "highlighted": false,
+          "id": 1157,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "EXODUS | BLUSH RESPONSE",
+          "url": "https://blushresponse.bandcamp.com/album/exodus",
+          "width": 911,
+          "windowId": 1330
+        },
+        "1158": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a2340944661_3.jpg",
+          "height": 691,
+          "highlighted": false,
+          "id": 1158,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "BASTARDS OF BRUTALISM | Primitive Knot",
+          "url": "https://primitiveknot.bandcamp.com/album/bastards-of-brutalism",
+          "width": 1383,
+          "windowId": 1330
+        },
+        "1171": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a1129596415_3.jpg",
+          "height": 970,
+          "highlighted": false,
+          "id": 1171,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "We Know The Devil OST | Alec Lambert",
+          "url": "https://aleclambert.bandcamp.com/album/we-know-the-devil-ost",
+          "width": 1879,
+          "windowId": 1330
+        },
+        "1172": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a3350291252_3.jpg",
+          "height": 691,
+          "highlighted": false,
+          "id": 1172,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NODAPL NOISE | Various Artists | CHTHONIC STREAMS",
+          "url": "https://chthonicstreams.bandcamp.com/album/nodapl-noise",
+          "width": 1383,
+          "windowId": 1330
+        },
+        "1182": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a2637494912_3.jpg",
+          "height": 691,
+          "highlighted": false,
+          "id": 1182,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The World Has Left Us Behind LP (LUNGS-127) | DREADEYE | IRON LUNG Records",
+          "url": "https://ironlungpv.bandcamp.com/album/the-world-has-left-us-behind-lp-lungs-127",
+          "width": 1383,
+          "windowId": 1330
+        },
+        "1193": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a2402697893_3.jpg",
+          "height": 970,
+          "highlighted": false,
+          "id": 1193,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Forever Passing Glory | Plague Mother",
+          "url": "https://plaguemother.bandcamp.com/album/forever-passing-glory",
+          "width": 1879,
+          "windowId": 1330
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1330": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1330,
+        "incognito": false,
+        "left": 952,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 968
+      }
+    },
+    "tabsNumber": 6,
+    "name": "EXODUS | BLUSH RESPONSE",
+    "date": 1600036177203,
+    "lastEditedTime": 1601295398965,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600035071828,
+    "id": "e027d8fb-3462-4691-9313-72e8c724466d"
+  }
+]

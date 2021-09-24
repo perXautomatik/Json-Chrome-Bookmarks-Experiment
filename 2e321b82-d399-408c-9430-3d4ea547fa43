@@ -1,0 +1,120 @@
+[
+  {
+    "windows": {
+      "279": {
+        "289": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://portalen.gotland.se/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 289,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Portalen",
+          "url": "https://portalen.gotland.se/wa/chooseAuthmech?authmechs=Anv%c3%a4ndarnamn%20och%20L%c3%b6senord%3aAnv%c3%a4ndarnamn%20och%20L%c3%b6senord;b1tio2757gu8%3aForeign%20eID;Windows%20integrerad%3aWindows%20integrerad;e6j5is1jw64g%3ae-legitimation#map",
+          "width": 1383,
+          "windowId": 279
+        },
+        "294": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 294,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Innehåll i kartan",
+          "url": "https://help.sgroup-solutions.se/19.3/sv/Webapplication/karta/map_content.htm",
+          "width": 1383,
+          "windowId": 279
+        },
+        "299": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "height": 691,
+          "highlighted": false,
+          "id": 299,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Page not found · GitHub · GitHub",
+          "url": "https://github.com/perXautomatik/mapinfo-Uts-kning-f-r-utskick/branches",
+          "width": 1383,
+          "windowId": 279
+        },
+        "304": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.jetbrains.com/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 304,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Managing and filtering database objects, data sources groups, diagrams - Features | DataGrip",
+          "url": "https://www.jetbrains.com/datagrip/features/dbobjects.html",
+          "width": 1383,
+          "windowId": 279
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "279": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 279,
+        "incognito": false,
+        "left": 479,
+        "state": "normal",
+        "top": 300,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Managing and filtering database objects, data sources groups, diagrams - Features | DataGrip",
+    "date": 1601168304328,
+    "lastEditedTime": 1601168300669,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "5e615180-41be-47e9-a91c-8c3df1a29098"
+  }
+]

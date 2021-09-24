@@ -1,0 +1,252 @@
+[
+  {
+    "windows": {
+      "3981": {
+        "4146": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f4.bcbits.com/img/a1710201881_3.jpg",
+          "height": 958,
+          "highlighted": false,
+          "id": 4146,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Krach und Stahl für immer! | FLUTWACHT",
+          "url": "https://flutwacht.bandcamp.com/album/krach-und-stahl-f-r-immer",
+          "width": 691,
+          "windowId": 3981
+        },
+        "4214": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 958,
+          "highlighted": false,
+          "id": 4214,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql message - Google Search",
+          "url": "https://www.google.com/search?q=sql%20message",
+          "width": 691,
+          "windowId": 3981
+        },
+        "4241": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 958,
+          "highlighted": false,
+          "id": 4241,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "STRING_SPLIT (Transact-SQL) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/functions/string-split-transact-sql?view=sql-server-ver15",
+          "width": 691,
+          "windowId": 3981
+        },
+        "4242": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 958,
+          "highlighted": false,
+          "id": 4242,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to use GROUP BY to concatenate strings in SQL Server? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/273238/how-to-use-group-by-to-concatenate-strings-in-sql-server",
+          "width": 691,
+          "windowId": 3981
+        },
+        "4243": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 958,
+          "highlighted": false,
+          "id": 4243,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "alternative to stuff function in sql server - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/28127061/alternative-to-stuff-function-in-sql-server",
+          "width": 691,
+          "windowId": 3981
+        },
+        "4244": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/dba/Img/favicon.ico?v=fccaf00a9c8c",
+          "height": 958,
+          "highlighted": false,
+          "id": 4244,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql server - Faster alternative to scalar UDF with recursion to walk tree hierarchy? - Database Administrators Stack Exchange",
+          "url": "https://dba.stackexchange.com/questions/17772/faster-alternative-to-scalar-udf-with-recursion-to-walk-tree-hierarchy",
+          "width": 691,
+          "windowId": 3981
+        },
+        "4246": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.sqlshack.com/favicon.ico",
+          "height": 958,
+          "highlighted": false,
+          "id": 4246,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Improvements of Scalar User-defined function performance in SQL Server 2019",
+          "url": "https://www.sqlshack.com/improvements-of-scalar-user-defined-function-performance-in-sql-server-2019/",
+          "width": 691,
+          "windowId": 3981
+        },
+        "4248": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 958,
+          "highlighted": false,
+          "id": 4248,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Scalar UDF Inlining in Microsoft SQL Server - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/scalar-udf-inlining?view=sql-server-ver15",
+          "width": 691,
+          "windowId": 3981
+        },
+        "4249": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 958,
+          "highlighted": false,
+          "id": 4249,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "opera://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "url": "chrome://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "width": 691,
+          "windowId": 3981
+        },
+        "4250": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 958,
+          "highlighted": false,
+          "id": 4250,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql column stuffing with Scalar UDF Inlining - Google Search",
+          "url": "https://www.google.com/search?q=sql%20column%20stuffing%20with%20Scalar%20UDF%20Inlining",
+          "width": 691,
+          "windowId": 3981
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3981": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1047,
+        "id": 3981,
+        "incognito": false,
+        "left": -7,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 748
+      }
+    },
+    "tabsNumber": 10,
+    "name": "How to use GROUP BY to concatenate strings in SQL Server? - Stack Overflow",
+    "date": 1600026277987,
+    "lastEditedTime": 1601295398203,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "7511fb36-f126-4449-a1ab-c317007e1fa9"
+  }
+]

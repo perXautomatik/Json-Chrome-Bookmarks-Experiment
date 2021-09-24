@@ -1,0 +1,162 @@
+[
+  {
+    "windows": {
+      "2196": {
+        "2077": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 778,
+          "highlighted": false,
+          "id": 2077,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Download EXIFutils",
+          "url": "http://www.hugsan.com/EXIFutils/html/downloads.html",
+          "width": 496,
+          "windowId": 2196
+        },
+        "2090": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.relliksoftware.com/exifdatechanger/wp-content/uploads/exif_160.png",
+          "height": 778,
+          "highlighted": false,
+          "id": 2090,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "EXIF Date Changer",
+          "url": "https://www.relliksoftware.com/exifdatechanger/#pricing",
+          "width": 496,
+          "windowId": 2196
+        },
+        "2091": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.relliksoftware.com/exifdatechanger/wp-content/uploads/exif_160.png",
+          "height": 778,
+          "highlighted": false,
+          "id": 2091,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "EXIF Date Changer",
+          "url": "https://www.relliksoftware.com/exifdatechanger/",
+          "width": 935,
+          "windowId": 2196
+        },
+        "2092": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 778,
+          "highlighted": false,
+          "id": 2092,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Exif Copier: copy, backup and restore exif",
+          "url": "https://web.archive.org/web/20121122084216/http://exifcopier.110mb.com/",
+          "width": 935,
+          "windowId": 2196
+        },
+        "2093": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 778,
+          "highlighted": false,
+          "id": 2093,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Exif Stats Software | The Art of Seeing",
+          "url": "https://web.archive.org/web/20111216212338/http://www.thezeal.com/blog/exif-stats/",
+          "width": 935,
+          "windowId": 2196
+        },
+        "2096": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 778,
+          "highlighted": false,
+          "id": 2096,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "GUI2 Output Examples - GUI2 Program for [ExifTool ver 8.79]",
+          "url": "https://web.archive.org/web/20120225101352/http://gui2-for-exiftool.weebly.com/gui2-output-examples.html",
+          "width": 1049,
+          "windowId": 2196
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2196": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 867,
+        "id": 2196,
+        "incognito": false,
+        "left": 583,
+        "state": "normal",
+        "top": 8,
+        "type": "normal",
+        "width": 553
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Download EXIFutils",
+    "date": 1600042383116,
+    "lastEditedTime": 1601295398181,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "70d461cc-aff4-42db-a96e-aa7f236d7cf5"
+  }
+]

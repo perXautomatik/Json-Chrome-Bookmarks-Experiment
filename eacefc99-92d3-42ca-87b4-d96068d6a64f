@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "7832": {
+        "7826": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "height": 1009,
+          "highlighted": true,
+          "id": 7826,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Transfer a gist to a GitHub repository",
+          "url": "https://gist.github.com/ishu3101/830b556b487de5d69690",
+          "width": 1872,
+          "windowId": 7832
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7832": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 7832,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 1872
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Transfer a gist to a GitHub repository",
+    "date": 1601454453456,
+    "lastEditedTime": 1601454451691,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1600633358975,
+    "id": "d1d35bb1-48df-49c5-ad3a-6bd3d72996b0"
+  }
+]

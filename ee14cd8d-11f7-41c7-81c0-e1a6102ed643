@@ -1,0 +1,254 @@
+[
+  {
+    "windows": {
+      "754": {
+        "787": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 787,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql server - Check if a temporary table exists and delete if it exists before creating a temporary table - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/659051/check-if-a-temporary-table-exists-and-delete-if-it-exists-before-creating-a-temp",
+          "width": 0,
+          "windowId": 754
+        },
+        "790": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 790,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL Server Insert if not exists - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/20971680/sql-server-insert-if-not-exists",
+          "width": 0,
+          "windowId": 754
+        },
+        "793": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 793,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "don't drop table just check if exsits before moving on - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=don%27t+drop+table+just+check+if+exsits+before+moving+on&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 0,
+          "windowId": 754
+        },
+        "796": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 796,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "tsql - Check if table exists in SQL Server - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/167576/check-if-table-exists-in-sql-server",
+          "width": 0,
+          "windowId": 754
+        },
+        "799": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 0,
+          "highlighted": false,
+          "id": 799,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql - How to check if a stored procedure exists before creating it - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/2072086/how-to-check-if-a-stored-procedure-exists-before-creating-it",
+          "width": 0,
+          "windowId": 754
+        },
+        "802": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 721,
+          "highlighted": false,
+          "id": 802,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql server - Check if a temporary table exists and delete if it exists before creating a temporary table - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/659051/check-if-a-temporary-table-exists-and-delete-if-it-exists-before-creating-a-temp",
+          "width": 753,
+          "windowId": 754
+        },
+        "810": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 1820,
+          "highlighted": false,
+          "id": 810,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "STCentroid (geometry Data Type) - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/t-sql/spatial-geometry/stcentroid-geometry-data-type?view=sql-server-ver15",
+          "width": 1039,
+          "windowId": 754
+        },
+        "813": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/gis/Img/favicon.ico?v=6e585ede6bca",
+          "height": 1820,
+          "highlighted": false,
+          "id": 813,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql - Configuring results from STCentroid select statement? - Geographic Information Systems Stack Exchange",
+          "url": "https://gis.stackexchange.com/questions/103680/configuring-results-from-stcentroid-select-statement",
+          "width": 1039,
+          "windowId": 754
+        },
+        "816": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/gis/Img/favicon.ico?v=6e585ede6bca",
+          "height": 1820,
+          "highlighted": false,
+          "id": 816,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "qgis - Obtaining Centroid from Polygon in SQL Server 2008 R2 - Geographic Information Systems Stack Exchange",
+          "url": "https://gis.stackexchange.com/questions/166320/obtaining-centroid-from-polygon-in-sql-server-2008-r2",
+          "width": 1039,
+          "windowId": 754
+        },
+        "819": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1820,
+          "highlighted": false,
+          "id": 819,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 816,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "sql stcentroid keep returning null - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=sql+stcentroid+keep+returning+null&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1039,
+          "windowId": 754
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "754": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1906,
+        "id": 754,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -735,
+        "type": "normal",
+        "width": 1096
+      }
+    },
+    "tabsNumber": 10,
+    "name": "sql stcentroid keep returning null - Google Search",
+    "date": 1601302701990,
+    "lastEditedTime": 1601302631120,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1601295271964,
+    "id": "4f43752b-4ba6-47d0-89a7-915b533473a1"
+  }
+]

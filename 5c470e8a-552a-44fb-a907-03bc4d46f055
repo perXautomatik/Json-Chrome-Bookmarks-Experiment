@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "11": {
+        "40": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "height": 643,
+          "highlighted": false,
+          "id": 40,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": true,
+          "selected": true,
+          "status": "complete",
+          "title": "Dubolt Mix: Yabibo Hazurfa / Moral Order / Headless Horseman / Shelley Parker - playlist by Christoffer Brobäck | Spotify",
+          "url": "https://open.spotify.com/playlist/7ovTonGCFXDy01Hp83oznh",
+          "width": 1370,
+          "windowId": 11
+        },
+        "45": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.sqlshack.com/favicon.ico",
+          "height": 643,
+          "highlighted": false,
+          "id": 45,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The Table Variable in SQL Server",
+          "url": "https://www.sqlshack.com/the-table-variable-in-sql-server/",
+          "width": 1370,
+          "windowId": 11
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "11": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 763,
+        "id": 11,
+        "incognito": false,
+        "left": 320,
+        "state": "normal",
+        "top": 177,
+        "type": "normal",
+        "width": 1427
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Dubolt Mix: Yabibo Hazurfa / Moral Order / Headless Horseman / Shelley Parker - playlist by Christoffer Brobäck | Spotify",
+    "date": 1608549066010,
+    "lastEditedTime": 1608549066010,
+    "tag": [
+      "browserExit",
+      "Work"
+    ],
+    "sessionStartTime": 1608548602515,
+    "id": "ac1c0441-b202-47c0-9eba-d9520db5963a"
+  }
+]

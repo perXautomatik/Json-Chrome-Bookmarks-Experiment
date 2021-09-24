@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "184": {
+        "180": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/superuser/Img/favicon.ico?v=4852d6fb3f5d",
+          "height": 691,
+          "highlighted": false,
+          "id": 180,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How to Keep Window Focused/More than One Window Focused - Super User",
+          "url": "https://superuser.com/questions/733212/how-to-keep-window-focused-more-than-one-window-focused",
+          "width": 1383,
+          "windowId": 184
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "184": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 184,
+        "incognito": false,
+        "left": 204,
+        "state": "normal",
+        "top": 119,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 1,
+    "name": "How to Keep Window Focused/More than One Window Focused - Super User",
+    "date": 1599908674258,
+    "lastEditedTime": 1601295398636,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599905734360,
+    "id": "b294b4cc-e00b-4609-ad3c-b93549c65511"
+  }
+]

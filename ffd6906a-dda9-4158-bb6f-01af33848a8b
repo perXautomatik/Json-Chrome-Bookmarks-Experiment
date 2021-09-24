@@ -1,0 +1,319 @@
+[
+  {
+    "windows": {
+      "3679": {
+        "3721": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3721,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Execute a SQL Server procedure inside a function",
+          "url": "https://www.sqlshack.com/execute-a-sql-server-procedure-inside-the-function/",
+          "width": 1383,
+          "windowId": 3679
+        },
+        "3736": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3736,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sql server - Execute WITH statement inside a function - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/13166048/execute-with-statement-inside-a-function",
+          "width": 1383,
+          "windowId": 3679
+        },
+        "3805": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3805,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Discovery Report for Microsoft SQL Server 2008 Setup",
+          "url": "file:///C:/Program%20Files/Microsoft%20SQL%20Server/100/Setup%20Bootstrap/Log/20200630_164304/SqlDiscoveryReport.htm",
+          "width": 1383,
+          "windowId": 3679
+        },
+        "3847": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3847,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Configure SQL server to listen on a specific port - SPDocKit",
+          "url": "https://docs.syskit.com/spdockit/troubleshooting/sql-server-connection/configure-server-to-specific-port",
+          "width": 1383,
+          "windowId": 3679
+        },
+        "3887": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3887,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to manage your servers remotely with PowerShell",
+          "url": "https://techtalk.gfi.com/how-to-manage-your-servers-remotely-with-powershell/",
+          "width": 1383,
+          "windowId": 3679
+        },
+        "3922": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3922,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "opera://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "url": "chrome://vivaldi-webui/startpage?section=Speed-dials&activeSpeedDialIndex=0&background-color=#ececec",
+          "width": 1383,
+          "windowId": 3679
+        },
+        "3951": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3951,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Enter-PSSession (Microsoft.PowerShell.Core) - PowerShell | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/enter-pssession?view=powershell-7",
+          "width": 1383,
+          "windowId": 3679
+        },
+        "3969": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3969,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL Server Express : how to allow remote connections - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/23162708/sql-server-express-how-to-allow-remote-connections",
+          "width": 1383,
+          "windowId": 3679
+        },
+        "3981": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3981,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How Domain Name Servers Work | HowStuffWorks",
+          "url": "https://computer.howstuffworks.com/dns.htm#pt1",
+          "width": 1383,
+          "windowId": 3679
+        },
+        "3992": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 3992,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "HiFi Engine - Search Results",
+          "url": "https://www.hifiengine.com/search_results.php?cx=partner-pub-3664363573068202%3A4773069801&cof=FORID%3A10&ie=UTF-8&q=str+60+36&sa=++&siteurl=www.hifiengine.com%2F&ref=www.hifiengine.com%2F&ss=5899j4444863j13",
+          "width": 1383,
+          "windowId": 3679
+        },
+        "4000": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 4000,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sony STR-6036A AM/FM Stereo Receiver Manual | HiFi Engine",
+          "url": "https://www.hifiengine.com/manual_library/sony/str-6036a.shtml",
+          "width": 1383,
+          "windowId": 3679
+        },
+        "4005": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 4005,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "sql server - RETURN statements in scalar valued functions must include an argument - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/48993147/return-statements-in-scalar-valued-functions-must-include-an-argument",
+          "width": 1383,
+          "windowId": 3679
+        },
+        "4008": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 4008,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://www.hifiengine.com/register-a-free-account.shtml",
+          "url": "https://www.hifiengine.com/register-a-free-account.shtml",
+          "width": 1383,
+          "windowId": 3679
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3679": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 3679,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 13,
+    "name": "sql server - RETURN statements in scalar valued functions must include an argument - Stack Overflow",
+    "date": 1601172562429,
+    "lastEditedTime": 1601172555044,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "f6d0e599-7532-4f37-b11f-3ce680f7a321"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "8836": {
+        "8844": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 1001,
+          "highlighted": false,
+          "id": 8844,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "https://www.google.com/search?rlz=1CAZBMY_enSE834&sxsrf=ALeKk01-9KZFu0ZC4o35lsWC-Ldef3cL2Q:1601558431527&q=sql+real+time+update+openquery&spell=1&sa=X&ved=2ahUKEwjzrJeLvpPsAhWRk4sKHcKCBqkQBSgAegQIGxAq&biw=936&bih=1001",
+          "url": "https://www.google.com/search?rlz=1CAZBMY_enSE834&sxsrf=ALeKk01-9KZFu0ZC4o35lsWC-Ldef3cL2Q:1601558431527&q=sql+real+time+update+openquery&spell=1&sa=X&ved=2ahUKEwjzrJeLvpPsAhWRk4sKHcKCBqkQBSgAegQIGxAq&biw=936&bih=1001",
+          "width": 936,
+          "windowId": 8836
+        },
+        "8974": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://qsf.fs.quoracdn.net/-4-images.favicon.ico-26-ebf6a9e7f7b4576d.ico",
+          "height": 1001,
+          "highlighted": true,
+          "id": 8974,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "https://www.quora.com/SQL-Server-Why-is-Open-Query-faster-than-a-Linked-Server",
+          "url": "https://www.quora.com/SQL-Server-Why-is-Open-Query-faster-than-a-Linked-Server",
+          "width": 936,
+          "windowId": 8836
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "8836": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 8836,
+        "incognito": false,
+        "left": 173,
+        "state": "normal",
+        "top": 329,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 2,
+    "name": "https://www.quora.com/SQL-Server-Why-is-Open-Query-faster-than-a-Linked-Server",
+    "date": 1601560779325,
+    "lastEditedTime": 1601560767499,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1600633358975,
+    "id": "7e9267ad-dc0f-4745-9267-996e9a189403"
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "windows": {
+      "171": {
+        "174": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 174,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "( github or gist ) json compression - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&hs=UAO&sxsrf=ALeKk02fg_1WgpVZYzhsPC1FdeUO0W9l4A%3A1602755835927&ei=-xyIX6OHOM-k3AO-_qLABw&q=%28+github+or+gist+%29+json+compression&oq=%28+github+OR+gist+%29+json+compress&gs_lcp=CgZwc3ktYWIQAxgCMgUIIRCgATIFCCEQoAEyBQghEKABOgQIABBHOgkIABDJAxAWEB46BggAEBYQHjoICCEQFhAdEB46BwghEAoQoAE6BAghEBVQ3U1Yvc4BYO7lAWgAcAJ4AIABXIgBiwySAQIyMZgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab",
+          "width": 1324,
+          "windowId": 171
+        },
+        "175": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "height": 721,
+          "highlighted": false,
+          "id": 175,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Canop/JSON.prune: A pruning version of JSON.stringify, allowing for example to stringify window or any big or recursive object",
+          "url": "https://github.com/Canop/JSON.prune#:~:text=prune%20is%20a%20pruning%20JSON,the%20result%20to%20be%20complete.&text=version%20of%20window-,JSON.,and%2For%20non%20enumerable%20properties.",
+          "width": 1324,
+          "windowId": 171
+        },
+        "176": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 176,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell json to sqlite - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&hs=Bti&sxsrf=ALeKk004ke_UWqANqX0jeGAB8Ty3wuLkkQ%3A1602756045335&ei=zR2IX-SLFMmk3APxn7SQDg&q=powershell+json+to+sqlite&oq=powershell+json+to+sqlite&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoHCCMQsAIQJzoGCAAQBxAeOgQIABANOgYIABANEB5Q54gBWKqTAWDxlAFoAHACeACAAWeIAbsGkgEEMTAuMZgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwikpvnFq7bsAhVJEncKHfEPDeIQ4dUDCAw&uact=5",
+          "width": 1324,
+          "windowId": 171
+        },
+        "177": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s0.wp.com/i/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 177,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Exploring SQLite’s new JSON Library | Joshua Chini",
+          "url": "https://joshuachini.com/2016/06/28/exploring-sqlites-new-json-library/",
+          "width": 1324,
+          "windowId": 171
+        },
+        "178": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://news.ycombinator.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 178,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JSON with Sqlite | Hacker News",
+          "url": "https://news.ycombinator.com/item?id=19277809",
+          "width": 1324,
+          "windowId": 171
+        },
+        "179": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.codegrepper.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 179,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "sqlite json to table Code Example",
+          "url": "https://www.codegrepper.com/code-examples/sql/sqlite+json+to+table",
+          "width": 1324,
+          "windowId": 171
+        },
+        "180": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.codegrepper.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 180,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Grepper | The Query & Answer System for the Coder Community",
+          "url": "https://www.codegrepper.com/index.php",
+          "width": 1324,
+          "windowId": 171
+        },
+        "181": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 721,
+          "highlighted": false,
+          "id": 181,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "json to relational database - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=json+to+relational+database&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1324,
+          "windowId": 171
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "171": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 171,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Json with sqlite",
+    "date": 1602756422346,
+    "lastEditedTime": 1602768447587,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602751855737,
+    "id": "fd02ab95-7ee3-4cfd-b7ea-5346d40faea6"
+  }
+]

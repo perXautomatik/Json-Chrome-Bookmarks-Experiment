@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "4108": {
+        "4583": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico",
+          "height": 1009,
+          "highlighted": false,
+          "id": 4583,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "hdd management - Google Sheets",
+          "url": "https://docs.google.com/spreadsheets/d/1LP4hDt2JuKUOa-tC7xC6Qlx0rVI-mvnJEUI1NIlr93E/edit#gid=0",
+          "width": 1872,
+          "windowId": 4108
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4108": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 4108,
+        "incognito": false,
+        "left": 936,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "HddManagement",
+    "date": 1599919074674,
+    "lastEditedTime": 1601295397986,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1599781701302,
+    "id": "50dae361-5931-4105-af1d-26d1face462f"
+  }
+]

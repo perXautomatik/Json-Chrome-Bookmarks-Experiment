@@ -1,0 +1,97 @@
+[
+  {
+    "windows": {
+      "2499": {
+        "2500": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2500,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://open.spotify.com/playlist/7pvcgbw9qS1Dej5ksgO67S",
+          "url": "https://open.spotify.com/playlist/7pvcgbw9qS1Dej5ksgO67S",
+          "width": 1073,
+          "windowId": 2499
+        },
+        "2504": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2504,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://www.google.com/search?sxsrf=ACYBGNQUsrUMmdXtpSFHWkjRAzJmNtyeWg%3A1575324806794&ei=hozlXfCPMMmmmwXI3rfwCA&q=arbetsförmedlingen+visby&oq=arbetsförmedlingen+visby&gs_l=psy-ab.3..35i39l3j0j0i203l2j0i22i30l4.25657.25657..26181...0.2..0.75.75.1......0....1..gws-wiz.......0i71.b7CTuxVw5LE&ved=0ahUKEwjw6o6c_pfmAhVJ06YKHUjvDY4Q4dUDCAs&uact=5",
+          "url": "https://www.google.com/search?sxsrf=ACYBGNQUsrUMmdXtpSFHWkjRAzJmNtyeWg%3A1575324806794&ei=hozlXfCPMMmmmwXI3rfwCA&q=arbetsf%C3%B6rmedlingen+visby&oq=arbetsf%C3%B6rmedlingen+visby&gs_l=psy-ab.3..35i39l3j0j0i203l2j0i22i30l4.25657.25657..26181...0.2..0.75.75.1......0....1..gws-wiz.......0i71.b7CTuxVw5LE&ved=0ahUKEwjw6o6c_pfmAhVJ06YKHUjvDY4Q4dUDCAs&uact=5",
+          "width": 1073,
+          "windowId": 2499
+        },
+        "2507": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 1155,
+          "highlighted": true,
+          "id": 2507,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "database - How can I make use of a .db file in SQL server 2008? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/24962255/how-can-i-make-use-of-a-db-file-in-sql-server-2008",
+          "width": 1073,
+          "windowId": 2499
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2499": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 2499,
+        "incognito": false,
+        "left": 536,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 3,
+    "name": "database - How can I make use of a .db file in SQL server 2008? - Stack Overflow",
+    "date": 1611537115398,
+    "lastEditedTime": 1611537076317,
+    "tag": [
+      "winClose",
+      "loppy"
+    ],
+    "sessionStartTime": 1611535482936,
+    "id": "8a26d712-3423-4969-9c23-fa2feff35960"
+  }
+]

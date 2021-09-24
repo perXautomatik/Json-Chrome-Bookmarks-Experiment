@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "479": {
+        "482": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 652,
+          "highlighted": false,
+          "id": 482,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Task Scheduler trigger \"on remote connection to\" not firing on new RDP session - Microsoft Q&A",
+          "url": "https://docs.microsoft.com/en-us/answers/questions/60416/task-scheduler-trigger-34on-remote-connection-to34.html",
+          "width": 1324,
+          "windowId": 479
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "479": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 810,
+        "id": 479,
+        "incognito": false,
+        "left": 308,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Task Scheduler trigger \"on remote connection to\" not firing on new RDP session - Microsoft Q&A",
+    "date": 1615288669647,
+    "lastEditedTime": 1615288668613,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1615187048136,
+    "id": "e2408b5f-159e-4a07-be54-19079347267a"
+  }
+]

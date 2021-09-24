@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "18255": {
+        "18240": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://store.steampowered.com/favicon.ico",
+          "height": 1155,
+          "highlighted": true,
+          "id": 18240,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "per_automatik's wishlist",
+          "url": "https://store.steampowered.com/wishlist/profiles/76561198070792349/#sort=price&type=Game&price_1=1",
+          "width": 1073,
+          "windowId": 18255
+        },
+        "18356": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB40lEQVRYR2NkoBIo09KqJ8aormvXGpHVMRKjiRg1A+YAmMWRBhBnGhhqYHXvhfM3wOLLL0CkYSFBcQgMmAMwLNaUAvvs0857YJrv8F0I31YZwndXAtMXrj9DCQmyQ2DQOKDT5Q/Ep+cgNMznsIQACwEYn8+IBcws3wOhKQ4Bih2wMEsEa/6Nn/YGJb/CfLCzWQesfu/yf2ChaqEfWFM9ehpAV9T6jgMSAoPGAXFTX6M4coK3MJhfuO0dOCRgDoWpK9fWpm4IDLwDekUgIcBxHUwRGwKuXJDUb8YBoeGpHa0cgImf+gFJ/bu/QXMBPGgHjQOgTp0Q/Ap7GoA6NJgfUuKpqKiAaVwhgcvnd+7cQc0FcbAQGGwOgPlASIEJzER3KHpIoCQELByYz9f9+gXOXfByAFcIDJgDCPkEJt/kDKndLp7BXiKimwPzOUwcZwjQ3QEekQLE2omibkY5JLfUH/uEte4gZCg8BAbcATbGqCGwZC7EZ+ggJlkMRQimjuIQGLQOgPms30sI3A7wCxaibwjQ3QFKUZBaCpa/0R1QsBaSBu4tg9R+VE8DA+YAWFG8p+cL2GfHtn9Cyd+wNABLALCQQA8pQvkeXR6jJKS7Axqt+LC2ignla3R9hNTjChnGgXYAANFYlsQF33TfAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 18356,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Hero Wars | Online action RPG",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Hero%20Wars%20%7C%20Online%20action%20RPG&pos=0&uri=https://hero-wars.com/?hl=en&l=loot&m=registration&nx_source=adx_adwordsyoutube.hw_wb_u7_-.cc-ww_en.g-m.a-2554.au-all.opt-cpa.lp-loot.cr-tublet13.dt-youtube.cid-11118218147.csd-140920.-&l=loot&cp=-.cid-11118218147.agid-108261091199.tgid-.intgeo-9067819.phgeo-9067819.ngr-ytv.devt-c.devm-.gcid-CjwKCAiAnIT9BRAmEiwANaoE1WfGSdqe-JyQZZiXt6MwAHfiG4faKOM7ocjt7RyUZx8POfl6h0ePxhoCn4AQAvD_BwE.adId-464452495355.pt-youtube.com_pt.ptc-male.-&gclid=CjwKCAiAnIT9BRAmEiwANaoE1WfGSdqe-JyQZZiXt6MwAHfiG4faKOM7ocjt7RyUZx8POfl6h0ePxhoCn4AQAvD_BwE",
+          "width": 0,
+          "windowId": 18255
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "18255": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1234,
+        "id": 18255,
+        "incognito": false,
+        "left": 1073,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 2,
+    "name": "per_automatik's wishlist",
+    "date": 1604473679152,
+    "lastEditedTime": 1604444734002,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "80fe7aa0-f9d7-4311-adcd-bffbba357c2a"
+  }
+]

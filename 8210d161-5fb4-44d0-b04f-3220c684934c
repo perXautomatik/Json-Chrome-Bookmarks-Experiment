@@ -1,0 +1,165 @@
+[
+  {
+    "windows": {
+      "10744": {
+        "10748": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.myanimelist.net/images/favicon.ico",
+          "height": 1009,
+          "highlighted": true,
+          "id": 10748,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Kunoichi Gakuen Ninpouchou (Ninja) - MyAnimeList.net",
+          "url": "https://myanimelist.net/anime/4369/Kunoichi_Gakuen_Ninpouchou",
+          "width": 1872,
+          "windowId": 10744
+        },
+        "10788": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 10788,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Search Anime - MyAnimeList.net",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Search%20Anime%20-%20MyAnimeList.net&pos=0&uri=https://myanimelist.net/anime.php?cat=anime&q=&type=0&score=0&status=0&p=0&r=0&sm=0&sd=0&sy=0&em=0&ed=0&ey=0&c%5B%5D=a&c%5B%5D=b&c%5B%5D=c&c%5B%5D=f&gx=0&genre%5B%5D=6&genre%5B%5D=12&genre%5B%5D=17",
+          "width": 0,
+          "windowId": 10744
+        },
+        "10791": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 10791,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Makai Kishi Ingrid - MyAnimeList.net",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Makai%20Kishi%20Ingrid%20-%20MyAnimeList.net&pos=0&uri=https://myanimelist.net/anime/6590/Makai_Kishi_Ingrid",
+          "width": 0,
+          "windowId": 10744
+        },
+        "10794": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 10794,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Mitama: Nin - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Mitama%3A%20Nin%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=Mitama:+Nin&rlz=1CAZBMY_enSE834&sxsrf=ALeKk01ZpGY5FwiXh19HCGMdmX335gfAOw:1601721430512&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi99JOnnZjsAhWtneAKHRMfCewQ_AUoAXoECAsQAw&biw=1872&bih=1009",
+          "width": 0,
+          "windowId": 10744
+        },
+        "10797": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 10797,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "( hentai ) ( ninja ) - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=(%20hentai%20)%20(%20ninja%20)%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=(+hentai+)+(++ninja+)&tbm=isch&ved=2ahUKEwiWsozQm5jsAhVRiOAKHbSqDkcQ2-cCegQIABAA&oq=(+hentai+)+(++ninja+)&gs_lcp=CgNpbWcQA1DAgAJYt5UCYL-YAmgAcAB4AIABqAGIAfIDkgEDMC4zmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=k1J4X9acHtGQgge01bq4BA&bih=1009&biw=1872&rlz=1CAZBMY_enSE834",
+          "width": 0,
+          "windowId": 10744
+        },
+        "10800": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 10800,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Kunoichi Gakuen Ninpouchou - Google Search",
+          "url": "chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=Kunoichi%20Gakuen%20Ninpouchou%20-%20Google%20Search&pos=0&uri=https://www.google.com/search?q=Kunoichi+Gakuen+Ninpouchou&rlz=1CAZBMY_enSE834&sxsrf=ALeKk001Wnjn9vwOOSpjXciBsgzWoSxkHw:1601721670804&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjm_d2ZnpjsAhXwTN8KHX2nAfQQ_AUoAXoECAsQAw&biw=1872&bih=1009",
+          "width": 0,
+          "windowId": 10744
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10744": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1080,
+        "id": 10744,
+        "incognito": false,
+        "left": 0,
+        "state": "maximized",
+        "top": 0,
+        "type": "normal",
+        "width": 1872
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Kunoichi Gakuen Ninpouchou (Ninja) - MyAnimeList.net",
+    "date": 1601721756054,
+    "lastEditedTime": 1601721753762,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "70981ea5-ce37-4f2a-85f3-8084aae8fef6"
+  }
+]

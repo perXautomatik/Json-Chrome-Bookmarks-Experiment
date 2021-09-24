@@ -1,0 +1,314 @@
+[
+  {
+    "windows": {
+      "1548": {
+        "1524": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://alternativeto.net/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 1524,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "MetadataTouch Alternatives and Similar Software - AlternativeTo.net",
+          "url": "https://alternativeto.net/software/metadatatouch/",
+          "width": 489,
+          "windowId": 1548
+        },
+        "1525": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://alternativeto.net/favicon.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 1525,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MetadataTouch Alternatives and Similar Software - AlternativeTo.net",
+          "url": "https://alternativeto.net/software/metadatatouch/",
+          "width": 489,
+          "windowId": 1548
+        },
+        "1526": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 778,
+          "highlighted": false,
+          "id": 1526,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Exif Copier: copy, backup and restore exif",
+          "url": "https://web.archive.org/web/20121122084216/http://exifcopier.110mb.com/",
+          "width": 1035,
+          "windowId": 1548
+        },
+        "1527": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 778,
+          "highlighted": false,
+          "id": 1527,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Exif Stats Software | The Art of Seeing",
+          "url": "https://web.archive.org/web/20111216212338/http://www.thezeal.com/blog/exif-stats/",
+          "width": 1035,
+          "windowId": 1548
+        },
+        "1528": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 778,
+          "highlighted": false,
+          "id": 1528,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "GUI2 Output Examples - GUI2 Program for [ExifTool ver 8.79]",
+          "url": "https://web.archive.org/web/20120225101352/http://gui2-for-exiftool.weebly.com/gui2-output-examples.html",
+          "width": 1035,
+          "windowId": 1548
+        },
+        "1529": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 778,
+          "highlighted": false,
+          "id": 1529,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Exif Copier: copy, backup and restore exif",
+          "url": "https://web.archive.org/web/20121122084216/http://exifcopier.110mb.com/",
+          "width": 1035,
+          "windowId": 1548
+        },
+        "1530": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 778,
+          "highlighted": false,
+          "id": 1530,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Exif Stats Software | The Art of Seeing",
+          "url": "https://web.archive.org/web/20111216212338/http://www.thezeal.com/blog/exif-stats/",
+          "width": 1035,
+          "windowId": 1548
+        },
+        "1531": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 778,
+          "highlighted": false,
+          "id": 1531,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "GUI2 Output Examples - GUI2 Program for [ExifTool ver 8.79]",
+          "url": "https://web.archive.org/web/20120225101352/http://gui2-for-exiftool.weebly.com/gui2-output-examples.html",
+          "width": 1035,
+          "windowId": 1548
+        },
+        "1532": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 1532,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "File:JabRef-3.6.png - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/File:JabRef-3.6.png",
+          "width": 1035,
+          "windowId": 1548
+        },
+        "1533": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 1533,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "File:JabRef-3.6.png - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/File:JabRef-3.6.png",
+          "width": 1035,
+          "windowId": 1548
+        },
+        "1534": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 1534,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JabRef - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/JabRef",
+          "width": 1035,
+          "windowId": 1548
+        },
+        "1535": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.metalith.ru/files/metalith.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 1535,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Metalith",
+          "url": "http://www.metalith.ru/en/download.html",
+          "width": 1035,
+          "windowId": 1548
+        },
+        "1536": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.metalith.ru/files/metalith.ico",
+          "height": 778,
+          "highlighted": false,
+          "id": 1536,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Metalith",
+          "url": "http://www.metalith.ru/en/download.html",
+          "width": 1035,
+          "windowId": 1548
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1548": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 867,
+        "id": 1548,
+        "incognito": false,
+        "left": 545,
+        "state": "normal",
+        "top": 8,
+        "type": "normal",
+        "width": 546
+      }
+    },
+    "tabsNumber": 13,
+    "name": "MetadataTouch Alternatives and Similar Software - AlternativeTo.net",
+    "date": 1600040710199,
+    "lastEditedTime": 1601295398604,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "ae24c355-ebe7-4c1b-b7f5-3d4fbf015690"
+  }
+]

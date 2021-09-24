@@ -1,0 +1,385 @@
+[
+  {
+    "windows": {
+      "15": {
+        "32": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 627,
+          "highlighted": false,
+          "id": 32,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "symlink - Creating hard and soft links using PowerShell - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/894430/creating-hard-and-soft-links-using-powershell",
+          "width": 1138,
+          "windowId": 15
+        },
+        "38": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 627,
+          "highlighted": false,
+          "id": 38,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "tortoisgit handling gists - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=tortoisgit+handling+gists&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1138,
+          "windowId": 15
+        },
+        "49": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.voidtools.com/favicon.ico?v=2",
+          "height": 627,
+          "highlighted": false,
+          "id": 49,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Customizing - voidtools",
+          "url": "https://www.voidtools.com/support/everything/customizing/",
+          "width": 1138,
+          "windowId": 15
+        },
+        "64": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.voidtools.com/favicon.ico?v=2",
+          "height": 979,
+          "highlighted": false,
+          "id": 64,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "INI - voidtools",
+          "url": "https://www.voidtools.com/support/everything/ini/",
+          "width": 1801,
+          "windowId": 15
+        },
+        "67": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.voidtools.com/favicon.ico?v=2",
+          "height": 979,
+          "highlighted": false,
+          "id": 67,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Indexes - voidtools",
+          "url": "https://www.voidtools.com/support/everything/indexes/",
+          "width": 1801,
+          "windowId": 15
+        },
+        "70": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.voidtools.com/favicon.ico?v=2",
+          "height": 979,
+          "highlighted": false,
+          "id": 70,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "File Lists - voidtools",
+          "url": "https://www.voidtools.com/support/everything/file_lists/",
+          "width": 1801,
+          "windowId": 15
+        },
+        "73": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.voidtools.com/favicon.ico?v=2",
+          "height": 979,
+          "highlighted": false,
+          "id": 73,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Command Line Interface - voidtools",
+          "url": "https://www.voidtools.com/support/everything/command_line_interface/",
+          "width": 1801,
+          "windowId": 15
+        },
+        "76": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.voidtools.com/favicon.ico?v=2",
+          "height": 979,
+          "highlighted": false,
+          "id": 76,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Command Line Options - voidtools",
+          "url": "https://www.voidtools.com/support/everything/command_line_options/",
+          "width": 1801,
+          "windowId": 15
+        },
+        "79": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.voidtools.com/favicon.ico",
+          "height": 979,
+          "highlighted": false,
+          "id": 79,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "voidtools forum - Index page",
+          "url": "https://www.voidtools.com/forum/",
+          "width": 1801,
+          "windowId": 15
+        },
+        "82": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,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",
+          "height": 0,
+          "highlighted": false,
+          "id": 82,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "about_Profiles - PowerShell | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7.1",
+          "width": 0,
+          "windowId": 15
+        },
+        "85": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACQUlEQVQ4T32ST0iTYRzHP887x2quaWiDJF0RRs3QTNC9Eq4okDp0UAmJzDq00VynLtHJQ5eygkg3CUreQzAJOkVgKBTLMY1gSlBoYnUwMUfhv0zd+8Y7m7W59Rwffp/P8/39np8gy+muoVSFY0iUomHRYFESjK+t8OrKWz4kMZHOt7cj2fpotpqpq7QjSmxgNsHSL/gyC9FJ+DHP4A47j888Ib5J4Jc5u7sQ14lyMBo3x1uNQ38UPn0j7I2gpAj02BYLV5ucCJMRJr7Cmwn4vgjbzVC1F0qLIB6H3jDML3AvReCvwe0qo8pRsg6/iBKToGd6K5M7V7DHVS4cL8e2rwjGpmBghNFUgUxHiwurZQsEX0Nsjju+YcaSjdyvZk9+LtfOuWB5BZQBllIFTgKeeiRJQKAPZky0tb9k7d9J+J0E3PVIhj81KYIuJ7fPH2VbIkEI5n5yyxNmIinorMWeZ+J6IsEqPBpgOUUQkPHUlXHYsQvGp6B/lBkBD80e5RTqqg+D8YAus8RjMev08PuPz4K96YL6onwaTtesv6kPasja7NAOnjySad+02c83NgRdtRySVC41yeQU5v0tf1p8t3HBUFCQcWEFIwlBOqz/e+gd7C+GSK3izrbu+r3orqZCk3AnX9bhYAhVgueqRknuZaXzv4KAk5sNMvm2vPWN02EMKN5BIjqoKEoUjYqsLfhlOhqdWI05m+GEoEfxIujKKNBoEwGZSlWjRWgIVRD0RRhKL05IJNwbSQQjqDxovdjq/w3ZZ8tGJeZnGAAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 85,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "What's New - voidtools",
+          "url": "https://www.voidtools.com/support/everything/whats_new/",
+          "width": 0,
+          "windowId": 15
+        },
+        "88": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACQUlEQVQ4T32ST0iTYRzHP887x2quaWiDJF0RRs3QTNC9Eq4okDp0UAmJzDq00VynLtHJQ5eygkg3CUreQzAJOkVgKBTLMY1gSlBoYnUwMUfhv0zd+8Y7m7W59Rwffp/P8/39np8gy+muoVSFY0iUomHRYFESjK+t8OrKWz4kMZHOt7cj2fpotpqpq7QjSmxgNsHSL/gyC9FJ+DHP4A47j888Ib5J4Jc5u7sQ14lyMBo3x1uNQ38UPn0j7I2gpAj02BYLV5ucCJMRJr7Cmwn4vgjbzVC1F0qLIB6H3jDML3AvReCvwe0qo8pRsg6/iBKToGd6K5M7V7DHVS4cL8e2rwjGpmBghNFUgUxHiwurZQsEX0Nsjju+YcaSjdyvZk9+LtfOuWB5BZQBllIFTgKeeiRJQKAPZky0tb9k7d9J+J0E3PVIhj81KYIuJ7fPH2VbIkEI5n5yyxNmIinorMWeZ+J6IsEqPBpgOUUQkPHUlXHYsQvGp6B/lBkBD80e5RTqqg+D8YAus8RjMev08PuPz4K96YL6onwaTtesv6kPasja7NAOnjySad+02c83NgRdtRySVC41yeQU5v0tf1p8t3HBUFCQcWEFIwlBOqz/e+gd7C+GSK3izrbu+r3orqZCk3AnX9bhYAhVgueqRknuZaXzv4KAk5sNMvm2vPWN02EMKN5BIjqoKEoUjYqsLfhlOhqdWI05m+GEoEfxIujKKNBoEwGZSlWjRWgIVRD0RRhKL05IJNwbSQQjqDxovdjq/w3ZZ8tGJeZnGAAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 88,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Troubleshooting - voidtools",
+          "url": "https://www.voidtools.com/support/everything/troubleshooting/",
+          "width": 0,
+          "windowId": 15
+        },
+        "91": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACQUlEQVQ4T32ST0iTYRzHP887x2quaWiDJF0RRs3QTNC9Eq4okDp0UAmJzDq00VynLtHJQ5eygkg3CUreQzAJOkVgKBTLMY1gSlBoYnUwMUfhv0zd+8Y7m7W59Rwffp/P8/39np8gy+muoVSFY0iUomHRYFESjK+t8OrKWz4kMZHOt7cj2fpotpqpq7QjSmxgNsHSL/gyC9FJ+DHP4A47j888Ib5J4Jc5u7sQ14lyMBo3x1uNQ38UPn0j7I2gpAj02BYLV5ucCJMRJr7Cmwn4vgjbzVC1F0qLIB6H3jDML3AvReCvwe0qo8pRsg6/iBKToGd6K5M7V7DHVS4cL8e2rwjGpmBghNFUgUxHiwurZQsEX0Nsjju+YcaSjdyvZk9+LtfOuWB5BZQBllIFTgKeeiRJQKAPZky0tb9k7d9J+J0E3PVIhj81KYIuJ7fPH2VbIkEI5n5yyxNmIinorMWeZ+J6IsEqPBpgOUUQkPHUlXHYsQvGp6B/lBkBD80e5RTqqg+D8YAus8RjMev08PuPz4K96YL6onwaTtesv6kPasja7NAOnjySad+02c83NgRdtRySVC41yeQU5v0tf1p8t3HBUFCQcWEFIwlBOqz/e+gd7C+GSK3izrbu+r3orqZCk3AnX9bhYAhVgueqRknuZaXzv4KAk5sNMvm2vPWN02EMKN5BIjqoKEoUjYqsLfhlOhqdWI05m+GEoEfxIujKKNBoEwGZSlWjRWgIVRD0RRhKL05IJNwbSQQjqDxovdjq/w3ZZ8tGJeZnGAAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 91,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "SDK - voidtools",
+          "url": "https://www.voidtools.com/support/everything/sdk/",
+          "width": 0,
+          "windowId": 15
+        },
+        "94": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACQUlEQVQ4T32ST0iTYRzHP887x2quaWiDJF0RRs3QTNC9Eq4okDp0UAmJzDq00VynLtHJQ5eygkg3CUreQzAJOkVgKBTLMY1gSlBoYnUwMUfhv0zd+8Y7m7W59Rwffp/P8/39np8gy+muoVSFY0iUomHRYFESjK+t8OrKWz4kMZHOt7cj2fpotpqpq7QjSmxgNsHSL/gyC9FJ+DHP4A47j888Ib5J4Jc5u7sQ14lyMBo3x1uNQ38UPn0j7I2gpAj02BYLV5ucCJMRJr7Cmwn4vgjbzVC1F0qLIB6H3jDML3AvReCvwe0qo8pRsg6/iBKToGd6K5M7V7DHVS4cL8e2rwjGpmBghNFUgUxHiwurZQsEX0Nsjju+YcaSjdyvZk9+LtfOuWB5BZQBllIFTgKeeiRJQKAPZky0tb9k7d9J+J0E3PVIhj81KYIuJ7fPH2VbIkEI5n5yyxNmIinorMWeZ+J6IsEqPBpgOUUQkPHUlXHYsQvGp6B/lBkBD80e5RTqqg+D8YAus8RjMev08PuPz4K96YL6onwaTtesv6kPasja7NAOnjySad+02c83NgRdtRySVC41yeQU5v0tf1p8t3HBUFCQcWEFIwlBOqz/e+gd7C+GSK3izrbu+r3orqZCk3AnX9bhYAhVgueqRknuZaXzv4KAk5sNMvm2vPWN02EMKN5BIjqoKEoUjYqsLfhlOhqdWI05m+GEoEfxIujKKNBoEwGZSlWjRWgIVRD0RRhKL05IJNwbSQQjqDxovdjq/w3ZZ8tGJeZnGAAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 94,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "HTTP - voidtools",
+          "url": "https://www.voidtools.com/support/everything/http/",
+          "width": 0,
+          "windowId": 15
+        },
+        "97": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACQUlEQVQ4T32ST0iTYRzHP887x2quaWiDJF0RRs3QTNC9Eq4okDp0UAmJzDq00VynLtHJQ5eygkg3CUreQzAJOkVgKBTLMY1gSlBoYnUwMUfhv0zd+8Y7m7W59Rwffp/P8/39np8gy+muoVSFY0iUomHRYFESjK+t8OrKWz4kMZHOt7cj2fpotpqpq7QjSmxgNsHSL/gyC9FJ+DHP4A47j888Ib5J4Jc5u7sQ14lyMBo3x1uNQ38UPn0j7I2gpAj02BYLV5ucCJMRJr7Cmwn4vgjbzVC1F0qLIB6H3jDML3AvReCvwe0qo8pRsg6/iBKToGd6K5M7V7DHVS4cL8e2rwjGpmBghNFUgUxHiwurZQsEX0Nsjju+YcaSjdyvZk9+LtfOuWB5BZQBllIFTgKeeiRJQKAPZky0tb9k7d9J+J0E3PVIhj81KYIuJ7fPH2VbIkEI5n5yyxNmIinorMWeZ+J6IsEqPBpgOUUQkPHUlXHYsQvGp6B/lBkBD80e5RTqqg+D8YAus8RjMev08PuPz4K96YL6onwaTtesv6kPasja7NAOnjySad+02c83NgRdtRySVC41yeQU5v0tf1p8t3HBUFCQcWEFIwlBOqz/e+gd7C+GSK3izrbu+r3orqZCk3AnX9bhYAhVgueqRknuZaXzv4KAk5sNMvm2vPWN02EMKN5BIjqoKEoUjYqsLfhlOhqdWI05m+GEoEfxIujKKNBoEwGZSlWjRWgIVRD0RRhKL05IJNwbSQQjqDxovdjq/w3ZZ8tGJeZnGAAAAABJRU5ErkJggg==",
+          "height": 0,
+          "highlighted": false,
+          "id": 97,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "FAQ - voidtools",
+          "url": "https://www.voidtools.com/faq/",
+          "width": 0,
+          "windowId": 15
+        },
+        "100": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADLUlEQVRYR7VXO2hUQRQ9Z61iZ2IRghYxEkttFcGgES0SK7HcqPjBzmgXFQujXcQuqGj2banlBtEiEC201U4CBiQBGwMpJGlMrpxlZpl9ztv3XlZvtbvzuWfOPfezRAkzsyMADgPYC6AHwH53fAXAJoCfAD6T/FL0WuZtNLM+AGMA5Hx33n63viEgAF6T1OdM6wjAzMYBnCzhOO1IzhdIzmchiAIwM730VkBxwYdnblOIHsfY+AuAmSmucl6U7qLgxIZACEzL2gC4lz/8D869Q4G4EzLRApBB+yoAIR4GIDGWsTUAS+6czntbITntv4QAJDipPbSE5Ef9YGbH3LoHostDU+iUmkrHV8E5Zc+N1N55kg391gTgUu1uhPoZki1HjqW+dBz95e6ezZBipyndHVorFB7ARQBHI/y2ASjDfwrUo8jZTyRrHsATR196XysEO3Hu2I2FQEsbJCfpyms6RtqgWE7lVbI8YC5sCkFMxLMCkEV/168PwiABT0TALgjAbZdm6fXJbl8fXmhmTyMAlgTgHoB9qUUp+WYevWXWMx66IgAxZGskp8o4yNubxXQWAJC8nndpbL1er58ws6pt2wjJAy4Tlvv7+38NHxr+Pjg4+CM8JwDK0ZhCS2ugntSfmdnVTsAHBga+jp4e/eD2rHUSYaksSOaStyDOFGGtd0/v6ti5sTfqFQJwAcCpqELJmSIXFnl5+h7HxP1OhUhn1FQWOoFoxnzbFosATe8ZOjh0RQA0eEgH6mQxa3QaqZIkeQHD5Z0AqOyq1GPNSPObZgC1Z18f1Ns1ZGribWvDtbnaN6/2siDMbDlsx75jNUcnAHKqKpkuUqskH3hnSS2xso7b0tB/cROwH0gEwk8tqpRheGZJio2m/TMArmCEZbnZr51GfJaoQjYnJG//JAQBC2lBTmdNPy0GuhAhiJdZY7li72nXi6WHpqUzops0ZIUjnf6YxAQY7RE7KUQkn1cnqteK/DVrm5SzmlSZUgzDu4lLE2ebjOalkJt0JUJNNWIgc04owoR/eSukeQBSAu0h2dJDtGw2GuPr6+vnt35vHQ/bMStcJFmvVqvvw3N/AHLUaiOu1L5UAAAAAElFTkSuQmCC",
+          "height": 0,
+          "highlighted": false,
+          "id": 100,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "hschmitt’s gists · GitHub",
+          "url": "https://gist.github.com/hschmitt?direction=asc&sort=created",
+          "width": 0,
+          "windowId": 15
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "15": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 747,
+        "id": 15,
+        "incognito": false,
+        "left": 1617,
+        "state": "normal",
+        "top": 336,
+        "type": "normal",
+        "width": 1195
+      }
+    },
+    "tabsNumber": 16,
+    "name": "Customizing - voidtools",
+    "date": 1618909642947,
+    "lastEditedTime": 1618909642028,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1618906522568,
+    "id": "c4830d31-9e7d-4a3f-a96a-5c2f0eb1de6a"
+  }
+]

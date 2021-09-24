@@ -1,0 +1,276 @@
+[
+  {
+    "windows": {
+      "1472": {
+        "1420": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.image-info-toolkit.com/favicon.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 1420,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Image Info Toolkit [what's new]",
+          "url": "http://www.image-info-toolkit.com/en/download/welcome.html",
+          "width": 911,
+          "windowId": 1472
+        },
+        "1421": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1421,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Is 5 the maximum amount of Workspaces on Opera for Windows 7? Is there a way to increase this limit behind the scenes? : operabrowser",
+          "url": "https://www.reddit.com/r/operabrowser/comments/fq8mml/is_5_the_maximum_amount_of_workspaces_on_opera/",
+          "width": 1879,
+          "windowId": 1472
+        },
+        "1422": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.steelbytes.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1422,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JPEG & PNG Stripper - www.SteelBytes.com",
+          "url": "http://www.steelbytes.com/?mid=30",
+          "width": 1879,
+          "windowId": 1472
+        },
+        "1424": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://digitalconfidence.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1424,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MetadataTouch - Powerful Multi-Format Metadata Editor",
+          "url": "http://digitalconfidence.com/MetadataTouch.html",
+          "width": 1879,
+          "windowId": 1472
+        },
+        "1425": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://alternativeto.net/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1425,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MetadataTouch Alternatives and Similar Software - AlternativeTo.net",
+          "url": "https://alternativeto.net/software/metadatatouch/",
+          "width": 1879,
+          "windowId": 1472
+        },
+        "1426": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://www.metalith.ru/files/metalith.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1426,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Metalith",
+          "url": "http://www.metalith.ru/en/download.html",
+          "width": 1879,
+          "windowId": 1472
+        },
+        "1427": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.nvidia.com/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1427,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NVIDIA PhysX System Software 9.15.0428",
+          "url": "https://www.nvidia.com/en-us/drivers/physx/9_15_0428/physx-9-15-0428-driver/",
+          "width": 1879,
+          "windowId": 1472
+        },
+        "1428": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://downloadsafer.lavasoft.com/wp-content/uploads/2019/02/favicon6.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1428,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NetGlance | DownloadSafer",
+          "url": "https://downloadsafer.lavasoft.com/software/netglance/",
+          "width": 1879,
+          "windowId": 1472
+        },
+        "1429": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.photome.de/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1429,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PhotoME - Exif, IPTC & ICC Metadata Editor",
+          "url": "https://www.photome.de/download_en.html",
+          "width": 1879,
+          "windowId": 1472
+        },
+        "1452": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.photome.de/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1452,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "edit_en.png (982×629)",
+          "url": "https://www.photome.de/images/screenshots/edit_en.png",
+          "width": 1879,
+          "windowId": 1472
+        },
+        "1454": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.photome.de/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 1454,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "lang_en.png (982×629)",
+          "url": "https://www.photome.de/images/screenshots/lang_en.png",
+          "width": 1879,
+          "windowId": 1472
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1472": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1472,
+        "incognito": false,
+        "left": 952,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 968
+      }
+    },
+    "tabsNumber": 11,
+    "name": "Image Info Toolkit [what's new]",
+    "date": 1600036632830,
+    "lastEditedTime": 1601295398578,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600035071828,
+    "id": "aaa81c70-f13f-4604-874f-ccb740565317"
+  }
+]

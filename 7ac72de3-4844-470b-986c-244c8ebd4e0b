@@ -1,0 +1,143 @@
+[
+  {
+    "windows": {
+      "4226": {
+        "4229": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.brentozar.com/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 4229,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Adaptive Joins And Scalar Valued Functions - Brent Ozar Unlimited®",
+          "url": "https://www.brentozar.com/archive/2017/05/adaptive-joins-scalar-valued-functions/",
+          "width": 1383,
+          "windowId": 4226
+        },
+        "4231": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4231,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Intelligent query processing - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/relational-databases/performance/intelligent-query-processing?view=sql-server-ver15",
+          "width": 1383,
+          "windowId": 4226
+        },
+        "4232": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4232,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Scalar UDF Inlining in Microsoft SQL Server - SQL Server | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/scalar-udf-inlining?view=sql-server-ver15",
+          "width": 1383,
+          "windowId": 4226
+        },
+        "4233": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.w3schools.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 4233,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SQL Server STUFF() Function",
+          "url": "https://www.w3schools.com/sql/func_sqlserver_stuff.asp",
+          "width": 1383,
+          "windowId": 4226
+        },
+        "4234": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 4234,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "10 SQL tricks that you didn’t think were possible - JAXenter",
+          "url": "https://jaxenter.com/10-sql-tricks-that-you-didnt-think-were-possible-125934.html",
+          "width": 1383,
+          "windowId": 4226
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4226": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 4226,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Adaptive Joins And Scalar Valued Functions - Brent Ozar Unlimited®",
+    "date": 1600026185320,
+    "lastEditedTime": 1601295398442,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "98ee7a3f-97d3-4306-9a92-7e64132073d9"
+  }
+]

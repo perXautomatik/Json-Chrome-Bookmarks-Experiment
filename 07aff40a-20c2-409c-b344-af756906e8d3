@@ -1,0 +1,210 @@
+[
+  {
+    "windows": {
+      "1052": {
+        "1055": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://img.informer.com/images/favicon-download2.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1055,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Windows Hotkey Commander Download - Hotkey Commander provides automation tools like other hotkey utilities also",
+          "url": "https://windows-hotkey-commander.software.informer.com/",
+          "width": 1383,
+          "windowId": 1052
+        },
+        "1057": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1057,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sign in to Outlook",
+          "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fmail%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=b8a463c6-42d8-4785-84e8-e11f127e5310&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=637356094731345679.48209aa9-07ba-4bb5-8863-0c1ee882ee41&state=Dcu7DoIwAEBR0G9hrG1poWVsAiEaHkHxARuFRspDBpWAXy_Duds1DcPYb3YbE20xmEsYcVzkUUYwoY7LvAPlNvKqygOIyQpQKR3AuUsAqrFSnNtKUWxubw3HSg9Qv-S0QN1AIbJe-Kc29m9DkQdrlNdres8-id8vxQXrsrvSKG-HoivH1Be0DI-_-CkykbAQxpYt2btXtJ0f3wnNPDhzizR_",
+          "width": 1383,
+          "windowId": 1052
+        },
+        "1058": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1058,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Write-Progress (Microsoft.PowerShell.Utility) - PowerShell | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/write-progress?view=powershell-7",
+          "width": 1383,
+          "windowId": 1052
+        },
+        "1059": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://autoclose.net/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1059,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AutoClose Software - Auto Close Running Programs at a Scheduled Time - Download",
+          "url": "https://autoclose.net/",
+          "width": 1383,
+          "windowId": 1052
+        },
+        "1060": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_180,h_180/https://www.computerperformance.co.uk/wp-content/uploads/2018/08/favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1060,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PowerShell Scripting Basics: Kill Process | Stop-Process | Code Examples",
+          "url": "https://www.computerperformance.co.uk/powershell/process-stop/",
+          "width": 1383,
+          "windowId": 1052
+        },
+        "1061": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_180,h_180/https://www.computerperformance.co.uk/wp-content/uploads/2018/08/favicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 1061,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PowerShell Start-Process Cmdlet",
+          "url": "https://www.computerperformance.co.uk/powershell/process-start/",
+          "width": 1383,
+          "windowId": 1052
+        },
+        "1062": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.raymond.cc/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1062,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://www.raymond.cc/blog/prevent-program-closing-disabling-close-button/",
+          "url": "https://www.raymond.cc/blog/prevent-program-closing-disabling-close-button/",
+          "width": 1383,
+          "windowId": 1052
+        },
+        "1063": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 1063,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "More Powerful Ways to Launch Windows PowerShell | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/previous-versions/technet-magazine/ff629472(v=msdn.10)?redirectedfrom=MSDN",
+          "width": 1383,
+          "windowId": 1052
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1052": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 1052,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Windows Hotkey Commander Download - Hotkey Commander provides automation tools like other hotkey utilities also",
+    "date": 1600039024371,
+    "lastEditedTime": 1601295398296,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600036728839,
+    "id": "840f3466-5817-41cd-ae60-c9033967a924"
+  }
+]

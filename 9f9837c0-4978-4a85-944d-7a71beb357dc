@@ -1,0 +1,166 @@
+[
+  {
+    "windows": {
+      "343": {
+        "345": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 691,
+          "highlighted": false,
+          "id": 345,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "php - Detect \"overall average\" color of the picture - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/3468500/detect-overall-average-color-of-the-picture",
+          "width": 1383,
+          "windowId": 343
+        },
+        "346": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.php.net/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 346,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PHP: imagesetinterpolation - Manual",
+          "url": "https://www.php.net/manual/en/function.imagesetinterpolation.php",
+          "width": 1383,
+          "windowId": 343
+        },
+        "347": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "height": 691,
+          "highlighted": false,
+          "id": 347,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "GitHub - lokesh/color-thief: Grab the color palette from an image using just Javascript. Works in the browser and in Node.",
+          "url": "https://github.com/lokesh/color-thief",
+          "width": 1383,
+          "windowId": 343
+        },
+        "348": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 348,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "php in powershell - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=php+in+powershell&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 343
+        },
+        "349": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 349,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Powershell and PHP : PowerShell",
+          "url": "https://www.reddit.com/r/PowerShell/comments/26rwm7/powershell_and_php/",
+          "width": 1383,
+          "windowId": 343
+        },
+        "350": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://msitproblog.com/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 350,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 349,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Automating PHP 7 Syntax Check using PowerShell - msitproblog",
+          "url": "https://msitproblog.com/2015/12/04/automated-php-7-syntax-check-using-powershell/",
+          "width": 1383,
+          "windowId": 343
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "343": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 343,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 6,
+    "name": "php - Detect \"overall average\" color of the picture - Stack Overflow",
+    "date": 1602490761450,
+    "lastEditedTime": 1602490758127,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1602486715090,
+    "id": "f47fd113-3983-4be5-a65c-a06bf762c13e"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4632": {
+        "width": 1872,
+        "type": "normal",
+        "top": 0,
+        "state": "maximized",
+        "left": 0,
+        "incognito": false,
+        "height": 1080,
+        "focused": false,
+        "alwaysOnTop": false,
+        "id": 4632
+      }
+    },
+    "windows": {
+      "4632": {
+        "4825": {
+          "title": "Spatial Intersect of two SQL Server layers/tables - Stack Overflow",
+          "windowId": 4632,
+          "width": 1872,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": true,
+          "height": 1009,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADU0lEQVRYR+2VXYhUZRjH///3HHd2PDOurEo7y2Y5OyurIBhIXkRh3aVBN2UIFQRGd+FdrNTsu65kd0HdBCJdVEJRBBJEX3eKHyCSkEh7ZhWRdpvcWd2ds83szHkfOWd2RAanMztODETP1fl6/8/v+TxEl41d9o//ATqaAU8/OgjE9hrIqaTO5Vspb8cA5KNMzJvHIQK9BlK4Jf7xLfp6KQqiYwCBo8XJkW3KyP7gWgDXybonyeCyuT0UgAhYPJzZmDzm/lV3sZgdflZZfCaEEJ5J6Kmf/zWAO9mRfbbCE1Dmeyebu7gSOT2dPkCqkeDeVPF1ctL9rRlE2xmQD9J9XpkHCSYCcUIuxwfWf8e3LlaCfigW5E1FboBBRSr+icT71/58EETbAIFYXm9PrEXlJVIeC6MF8lKyv1p37Orcgt66UYk5SIWYgLcXxDs+qP9YaoR4KIAw5VorD188R8pT4b1BWYhTSe1eKen0Vp/qwEpppp2s+3ljU64aoHhkdIdtUI7pq1MMm71mC/rxUUX7xWAMQ4c+zjnK/ankZ542NvbUnyWOuD/cn4VVAYSzfguHaKHXCOctyIV4Py7xbbcciN7RQ/024y8DMlCLmjcckW+KRj0vlklbVfnRmaw1a91WBbA4ltnENeYFWmpzXcD3sWwp86tf7jkf1F70HnuJN/cB2FkbRfGqVX4LZ7mwfuzGfEd6wDu8LYVY5UkId4Bi1UWD5WOLnI/pXG7pvcxO2LJXwCVHcILaXej4FIgeXFuCs8uH7CKRrDswInMG5oIvnF1Dlv7pv9ByCUrvpkeqPeg1xp5Jjv8+d383i4YqYni7kLstYOheeYz5Zd3E9OlmS6i2P1q0oh5+neSW8HODik/MWjCz8NWMWNUZB9fz1DDBH5Hs2W2AtCOxj6mvLHcIIPMqBEPBYnmgoNAHTN43nLHEzFat5VyfvlmIiq/lDKwsEy6OjfYzXh2gMSlQpWCYopJ4oyOrYk72Hp2eahvg08++HA8Ov/HaKxNRIoV30n123KQIe4Awg6B6xLm96RN+ePbvKJ2mGYg6GAVVfx+l0zKAN5EJM9KqOeNumLn/DkCrkTd+17EMdA2gXceN55pNU2QTdg2gU46jdFa1CaPE2nnfdYC72TuAMDgVU1UAAAAASUVORK5CYII=",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://stackoverflow.com/questions/48287902/spatial-intersect-of-two-sql-server-layers-tables",
+          "id": 4825,
+          "index": 0
+        },
+        "4834": {
+          "title": "How can I get column names from a table in SQL Server? - Stack Overflow",
+          "windowId": 4632,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADU0lEQVRYR+2VXYhUZRjH///3HHd2PDOurEo7y2Y5OyurIBhIXkRh3aVBN2UIFQRGd+FdrNTsu65kd0HdBCJdVEJRBBJEX3eKHyCSkEh7ZhWRdpvcWd2ds83szHkfOWd2RAanMztODETP1fl6/8/v+TxEl41d9o//ATqaAU8/OgjE9hrIqaTO5Vspb8cA5KNMzJvHIQK9BlK4Jf7xLfp6KQqiYwCBo8XJkW3KyP7gWgDXybonyeCyuT0UgAhYPJzZmDzm/lV3sZgdflZZfCaEEJ5J6Kmf/zWAO9mRfbbCE1Dmeyebu7gSOT2dPkCqkeDeVPF1ctL9rRlE2xmQD9J9XpkHCSYCcUIuxwfWf8e3LlaCfigW5E1FboBBRSr+icT71/58EETbAIFYXm9PrEXlJVIeC6MF8lKyv1p37Orcgt66UYk5SIWYgLcXxDs+qP9YaoR4KIAw5VorD188R8pT4b1BWYhTSe1eKen0Vp/qwEpppp2s+3ljU64aoHhkdIdtUI7pq1MMm71mC/rxUUX7xWAMQ4c+zjnK/ankZ542NvbUnyWOuD/cn4VVAYSzfguHaKHXCOctyIV4Py7xbbcciN7RQ/024y8DMlCLmjcckW+KRj0vlklbVfnRmaw1a91WBbA4ltnENeYFWmpzXcD3sWwp86tf7jkf1F70HnuJN/cB2FkbRfGqVX4LZ7mwfuzGfEd6wDu8LYVY5UkId4Bi1UWD5WOLnI/pXG7pvcxO2LJXwCVHcILaXej4FIgeXFuCs8uH7CKRrDswInMG5oIvnF1Dlv7pv9ByCUrvpkeqPeg1xp5Jjv8+d383i4YqYni7kLstYOheeYz5Zd3E9OlmS6i2P1q0oh5+neSW8HODik/MWjCz8NWMWNUZB9fz1DDBH5Hs2W2AtCOxj6mvLHcIIPMqBEPBYnmgoNAHTN43nLHEzFat5VyfvlmIiq/lDKwsEy6OjfYzXh2gMSlQpWCYopJ4oyOrYk72Hp2eahvg08++HA8Ov/HaKxNRIoV30n123KQIe4Awg6B6xLm96RN+ePbvKJ2mGYg6GAVVfx+l0zKAN5EJM9KqOeNumLn/DkCrkTd+17EMdA2gXceN55pNU2QTdg2gU46jdFa1CaPE2nnfdYC72TuAMDgVU1UAAAAASUVORK5CYII=",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://stackoverflow.com/questions/1054984/how-can-i-get-column-names-from-a-table-in-sql-server",
+          "id": 4834,
+          "index": 1
+        },
+        "4843": {
+          "title": "Group By and STUFF combined result in sql server - Stack Overflow",
+          "windowId": 4632,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADU0lEQVRYR+2VXYhUZRjH///3HHd2PDOurEo7y2Y5OyurIBhIXkRh3aVBN2UIFQRGd+FdrNTsu65kd0HdBCJdVEJRBBJEX3eKHyCSkEh7ZhWRdpvcWd2ds83szHkfOWd2RAanMztODETP1fl6/8/v+TxEl41d9o//ATqaAU8/OgjE9hrIqaTO5Vspb8cA5KNMzJvHIQK9BlK4Jf7xLfp6KQqiYwCBo8XJkW3KyP7gWgDXybonyeCyuT0UgAhYPJzZmDzm/lV3sZgdflZZfCaEEJ5J6Kmf/zWAO9mRfbbCE1Dmeyebu7gSOT2dPkCqkeDeVPF1ctL9rRlE2xmQD9J9XpkHCSYCcUIuxwfWf8e3LlaCfigW5E1FboBBRSr+icT71/58EETbAIFYXm9PrEXlJVIeC6MF8lKyv1p37Orcgt66UYk5SIWYgLcXxDs+qP9YaoR4KIAw5VorD188R8pT4b1BWYhTSe1eKen0Vp/qwEpppp2s+3ljU64aoHhkdIdtUI7pq1MMm71mC/rxUUX7xWAMQ4c+zjnK/ankZ542NvbUnyWOuD/cn4VVAYSzfguHaKHXCOctyIV4Py7xbbcciN7RQ/024y8DMlCLmjcckW+KRj0vlklbVfnRmaw1a91WBbA4ltnENeYFWmpzXcD3sWwp86tf7jkf1F70HnuJN/cB2FkbRfGqVX4LZ7mwfuzGfEd6wDu8LYVY5UkId4Bi1UWD5WOLnI/pXG7pvcxO2LJXwCVHcILaXej4FIgeXFuCs8uH7CKRrDswInMG5oIvnF1Dlv7pv9ByCUrvpkeqPeg1xp5Jjv8+d383i4YqYni7kLstYOheeYz5Zd3E9OlmS6i2P1q0oh5+neSW8HODik/MWjCz8NWMWNUZB9fz1DDBH5Hs2W2AtCOxj6mvLHcIIPMqBEPBYnmgoNAHTN43nLHEzFat5VyfvlmIiq/lDKwsEy6OjfYzXh2gMSlQpWCYopJ4oyOrYk72Hp2eahvg08++HA8Ov/HaKxNRIoV30n123KQIe4Awg6B6xLm96RN+ePbvKJ2mGYg6GAVVfx+l0zKAN5EJM9KqOeNumLn/DkCrkTd+17EMdA2gXceN55pNU2QTdg2gU46jdFa1CaPE2nnfdYC72TuAMDgVU1UAAAAASUVORK5CYII=",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://stackoverflow.com/questions/41823610/group-by-and-stuff-combined-result-in-sql-server",
+          "id": 4843,
+          "index": 2
+        },
+        "5292": {
+          "title": "sql merge strings - Google Search",
+          "windowId": 4632,
+          "width": 0,
+          "status": "unloaded",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 0,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFK0lEQVRYR71XYWwURRT+5u3cel4uzVlrPZtKaoMEmqpQDUqtpGgFTAANEElUolgQEQmiqBhSG6OIGAloJQaQGAWCEvwhRkMQasTSXEKhRNEfQGptIilNUxpybpbr7oyZ5bq3e7fXXg1h/rQ3++a9b9733pv3GApcUsobAEywbfsOALcyxm4CoPbUuiKlvATgoqZpXQDOMcauFKKajSYkpbzZtu06xlg1EfHR5NV3IYQlpfxd07Q2xtjASGfyApBShizLmkFEDxDRqECDjIirK8E5/5kxZgXJBCpWtxZCLCKiWwq58WgyQog+IvomyBs5AKSUtwkhniGiSLZi0XsBZuthWJ0nYHV3QVweVP4GFcVAFZXQ77kX4YbZoLLyHExCCIOIdjPGer0ffQDSN38+27gynNzRgtSvrY7BERcR9Np6RFesBsXLfKJpELu8nnABKM6FEMuy3W4e+RHJLZsA0xjN0/7vkQiKXmuCXt+QDULRsXM4JlwAQ0NDMznn07zSxtdfwdjZMjbDHunwY3MRXft2znnLstpDodBP6oMDIO36ld5od26+sTnQOK8cD/3+B12uxYULSJ04Duv8WVc+PHcBoq+sCzyvUoOItikqHACWZT2uadrkYWnF+UDjIsA0fQpUcEXXvAW9Zmqg4lRHAsnNG6A/NAPRl14d0XO2bXdyzg8yVeGEEGu9Rcb4ZBWM7xI+BbyqGrGNLUA0OjIlhgFEchIoKCuGiOgjBeAuAPNdCbML1rFJMI6WIdVR4mxTcQliu/Y56XaN1wFmWdY8TdOmuO7v/gCiq8n5mfozBuOHCkTXNCM8c841tg3Ytn1SAVimaZqbsOLULIjBVteYuFwOfc45gBf0DIwJpG3b/zDbtt8gohuHT1pttwOpTLGi0oWg6n15FT/yfuH1oekJHfVVmYuowqQANBERuQBa1QubqXZUsQ5U+e41AdBYr+OpWh8A+7oCWFzH8dx0PUOvEA6A60bBigYdC6dmUZAThKdnQQxkgrBPr0Jp7UnwwnoR93bd/QKNO/yFrHm+jukTMwCcIMxNww8hutY7ig6Z5diUnIzX71uFeZUPjynC9ycsbG9N+c7sfTmCeFFmy0lDKWU1gAWZQtQNs30Stiar8K1Z4WwXh2PYN3Oz87eQlTSBJTsMDCQz0uNKCF+8EM4+fiCwFG9NvIe9PZ0+4YmxSmyrb0aRPnIptgSwfr+Jji5/37C8QceTfv6vlmJlJZuGXqMfiw6thmH5OYxHSvBmzXLUldUEOuL8YA82Hkug+8xsABmui6PA7hcjCGcSQFXBU5zz74ef42IhhHqO3XpwqKcNTYktgYYqisoxLT4F46Jx9VKgz+xHZ98fON2vnmMBMscj0rsKZBU7599ZGEbdBFe16prVc/wpY+yStyF5lHNe67W45+xBfHz6y0Joz5WxihDpW4klNXf7cj/t8bZQKHRU/Z/dki0lolKvtsM97djQ8RkMq/CSq84TOJZVPY2l1fN84IQQF4no85yWTElJKRUVjdlNqYqJlt/24EjPcQhPmc7nmprSaqyZ/CxU4HqXEOJfIlJNqZqinBXUlseFEIuD2nIF5HBPG070ncH5wb8xmLrsNMmxcBTjomWYUjoJDeW1mBC7mr4BxlVbftG7n28wUZ5Qg4mPjv8XDM6optyuBhP35nk9MPxBSsk9o1kmhMeAIj2atXPOfxnTaOa1oeLCM5yGCrEvhBjyDKc5tx6VgiAjUkpVRu5Mj+fxPON5r6Zpf6XHc/9DkAf5f6NKY4NMqNy0AAAAAElFTkSuQmCC",
+          "discarded": true,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?q=sql+merge+strings&rlz=1CAZBMY_enSE834&oq=sql+merge+strings+&aqs=chrome..69i57j0l7.6377j0j7&sourceid=chrome&ie=UTF-8",
+          "id": 5292,
+          "index": 3
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Loppy",
+      "Home"
+    ],
+    "tabsNumber": 4,
+    "sessionStartTime": 1600633358975,
+    "name": "Spatial Intersect of two SQL Server layers/tables - Stack Overflow",
+    "lastEditedTime": 1601167837775,
+    "date": 1601139969594,
+    "id": "e232be88-9bb5-48f9-8d5b-9a8e0c8b59f8"
+  }
+]

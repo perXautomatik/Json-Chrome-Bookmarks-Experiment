@@ -1,0 +1,97 @@
+[
+  {
+    "windows": {
+      "3119": {
+        "2593": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": true,
+          "id": 2593,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "RescueTime - Use RescueTime with Outlook / Office 365 Calendar",
+          "url": "https://www.rescuetime.com/integrations/outlook-calendar#",
+          "width": 1073,
+          "windowId": 3119
+        },
+        "2605": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2605,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "RescueTime - Use RescueTime with Google Calendar",
+          "url": "https://www.rescuetime.com/integrations/google-calendar",
+          "width": 1073,
+          "windowId": 3119
+        },
+        "2611": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://d3eto7onm69fcz.cloudfront.net/assets/ico/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2611,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://help.rescuetime.com/article/208-google-calendar",
+          "url": "https://help.rescuetime.com/article/208-google-calendar",
+          "width": 1073,
+          "windowId": 3119
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3119": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 3119,
+        "incognito": false,
+        "left": 656,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 3,
+    "name": "RescueTime - Use RescueTime with Outlook / Office 365 Calendar",
+    "date": 1611537234560,
+    "lastEditedTime": 1611537220794,
+    "tag": [
+      "winClose",
+      "loppy"
+    ],
+    "sessionStartTime": 1611535482936,
+    "id": "c2cccd57-8737-4a76-81e1-c978c13119bf"
+  }
+]

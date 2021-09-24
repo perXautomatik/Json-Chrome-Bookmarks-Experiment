@@ -1,0 +1,57 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1442": {
+        "width": 718,
+        "type": "normal",
+        "top": 0,
+        "state": "normal",
+        "left": 0,
+        "incognito": false,
+        "height": 1080,
+        "focused": false,
+        "alwaysOnTop": false,
+        "id": 1442
+      }
+    },
+    "windows": {
+      "1442": {
+        "1457": {
+          "title": "Homepage | BE-KIND Snacks",
+          "windowId": 1442,
+          "width": 718,
+          "status": "loading",
+          "selected": true,
+          "pinned": false,
+          "pendingUrl": "https://se.bekindsnacks.com/",
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": true,
+          "height": 1001,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAb0lEQVRYR2N8u5qhngEL+PuO7Q9I+NNsZbDs30+sLMjK/giBpRlelb4C039EIHyGf//A1FcGObDArq+LwfxvjGIo+mFmMY46YDQERkNgNARGQ2A0BEZDYDQERkNgNARGQ2A0BEZDYDQERkNgoEMAAFbZz19AuinOAAAAAElFTkSuQmCC",
+          "discarded": false,
+          "autoDiscardable": false,
+          "audible": false,
+          "active": true,
+          "url": "https://se.bekindsnacks.com/",
+          "id": 1457,
+          "index": 0
+        }
+      }
+    },
+    "tag": [
+      "winClose",
+      "Loppy",
+      "Home"
+    ],
+    "tabsNumber": 1,
+    "sessionStartTime": 1600291736857,
+    "name": "Homepage | BE-KIND Snacks",
+    "lastEditedTime": 1601167836893,
+    "date": 1600382877214,
+    "id": "6825daea-983c-4488-abe7-4106c8546a07"
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "windows": {
+      "1605": {
+        "1626": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://jameschambers.com/favicon.ico",
+          "height": 942,
+          "highlighted": false,
+          "id": 1626,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PowerShell Script Examples for NuGet Packages | They Call Me Mister James",
+          "url": "http://jameschambers.com/2011/06/powershell-script-examples-for-nuget-packages/",
+          "width": 1801,
+          "windowId": 1605
+        },
+        "1632": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://devblogs.microsoft.com/scripting/wp-content/uploads/sites/29/2018/10/Microsoft-Favicon.png",
+          "height": 0,
+          "highlighted": false,
+          "id": 1632,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PowerTip: Use PowerShell to find all methods from .NET Framework class | Scripting Blog",
+          "url": "https://devblogs.microsoft.com/scripting/powertip-use-powershell-to-find-all-methods-from-net-framework-class/",
+          "width": 0,
+          "windowId": 1605
+        },
+        "1635": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 1635,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NuGet PowerShell Reference | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/nuget/reference/powershell-reference",
+          "width": 0,
+          "windowId": 1605
+        },
+        "1638": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 1638,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell using nuget - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=powershell+using+nuget&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 0,
+          "windowId": 1605
+        },
+        "1641": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://docs.myget.org/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 1641,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Make Use Of NuGet Within Your Build Scripts",
+          "url": "https://docs.myget.org/docs/how-to/make-use-of-nuget-within-your-build-scripts",
+          "width": 0,
+          "windowId": 1605
+        },
+        "1644": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://docs.microsoft.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 1644,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": ".nuspec File Reference for NuGet | Microsoft Docs",
+          "url": "https://docs.microsoft.com/en-us/nuget/reference/nuspec",
+          "width": 0,
+          "windowId": 1605
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1605": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 801,
+        "id": 1605,
+        "incognito": false,
+        "left": 453,
+        "state": "minimized",
+        "top": 4,
+        "type": "normal",
+        "width": 1467
+      }
+    },
+    "tabsNumber": 6,
+    "name": "PowerShell Script Examples for NuGet Packages | They Call Me Mister James",
+    "date": 1600267065534,
+    "lastEditedTime": 1601295398865,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600156534702,
+    "id": "d22af4e6-b248-4f9c-818b-dc883c79dfae"
+  }
+]

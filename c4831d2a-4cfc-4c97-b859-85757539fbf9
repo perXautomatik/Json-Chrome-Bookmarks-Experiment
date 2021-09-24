@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "200": {
+        "202": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://djhgeeodemlfdpmcccdekfalbhllcoim/favicon-32x32.png",
+          "height": 963,
+          "highlighted": false,
+          "id": 202,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Wildfire",
+          "url": "chrome-extension://djhgeeodemlfdpmcccdekfalbhllcoim/eventlog.html",
+          "width": 1842,
+          "windowId": 200
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "200": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1096,
+        "id": 200,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "popup",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Wildfire",
+    "date": 1605009754095,
+    "lastEditedTime": 1605008937571,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1605006245574,
+    "id": "bdb85e5d-3f9e-4afd-9f8a-4c43180ad322"
+  }
+]

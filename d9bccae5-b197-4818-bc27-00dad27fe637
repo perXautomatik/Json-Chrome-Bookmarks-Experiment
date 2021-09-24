@@ -1,0 +1,298 @@
+[
+  {
+    "windows": {
+      "1074": {
+        "1006": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 967,
+          "highlighted": false,
+          "id": 1006,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Oxen Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/736189-Oxen",
+          "width": 911,
+          "windowId": 1074
+        },
+        "1010": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1010,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Chaosynod Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/137020-Chaosynod?sort=year&sort_order=desc",
+          "width": 1879,
+          "windowId": 1074
+        },
+        "1018": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1018,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "EC Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/2585-EC-Records",
+          "width": 1879,
+          "windowId": 1074
+        },
+        "1022": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1022,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Third Coming Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/845179-Third-Coming-Records?sort=year&sort_order=desc",
+          "width": 1879,
+          "windowId": 1074
+        },
+        "1024": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1024,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Dry Lungs Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/209939-Dry-Lungs-Records?sort=year&sort_order=desc",
+          "width": 1879,
+          "windowId": 1074
+        },
+        "1027": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1027,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Fix Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/3333-Fix-Records",
+          "width": 1879,
+          "windowId": 1074
+        },
+        "1030": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1030,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Kristoffer Oustad | Discography | Discogs",
+          "url": "https://www.discogs.com/artist/577733-Kristoffer-Oustad",
+          "width": 1879,
+          "windowId": 1074
+        },
+        "1036": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1036,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Vinyl Records, CDs, and More from Redscroll For Sale at Discogs Marketplace",
+          "url": "https://www.discogs.com/seller/Redscroll/profile",
+          "width": 1879,
+          "windowId": 1074
+        },
+        "1038": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1038,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Night Animal Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/921653-Night-Animal-Records",
+          "width": 1879,
+          "windowId": 1074
+        },
+        "1040": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1040,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Kaos Kontrol Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/6870-Kaos-Kontrol",
+          "width": 1879,
+          "windowId": 1074
+        },
+        "1041": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1041,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Cadabra Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/891578-Cadabra-Records",
+          "width": 1879,
+          "windowId": 1074
+        },
+        "1046": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 970,
+          "highlighted": false,
+          "id": 1046,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Kernkrach Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/14845-Kernkrach",
+          "width": 1879,
+          "windowId": 1074
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1074": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1074,
+        "incognito": false,
+        "left": 952,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 968
+      }
+    },
+    "tabsNumber": 12,
+    "name": "Oxen Label | Releases | Discogs",
+    "date": 1600035762223,
+    "lastEditedTime": 1601295398307,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600035071828,
+    "id": "8669b36c-d98f-4f7f-a805-5438bfaa726f"
+  }
+]

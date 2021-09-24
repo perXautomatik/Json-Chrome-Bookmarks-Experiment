@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "291": {
+        "297": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.tutorialspoint.com/favicon.ico",
+          "height": 987,
+          "highlighted": false,
+          "id": 297,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "DBMS - Joins - Tutorialspoint",
+          "url": "https://www.tutorialspoint.com/dbms/database_joins.htm#:~:text=Theta%20Join%2C%20Equijoin%2C%20and%20Natural,discarded%20in%20the%20resulting%20relation.",
+          "width": 1324,
+          "windowId": 291
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "291": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1076,
+        "id": 291,
+        "incognito": false,
+        "left": 476,
+        "state": "normal",
+        "top": 313,
+        "type": "normal",
+        "width": 1381
+      }
+    },
+    "tabsNumber": 1,
+    "name": "DBMS - Joins - Tutorialspoint",
+    "date": 1602075939554,
+    "lastEditedTime": 1602075633344,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1602068426777,
+    "id": "a62a1707-de3b-422c-a76a-b5e385266f55"
+  }
+]

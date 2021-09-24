@@ -1,0 +1,465 @@
+[
+  {
+    "windows": {
+      "285": {
+        "287": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s4.bcbits.com/img/favicon/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 287,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Widsith Records' Community | Widsith Records",
+          "url": "https://widsithrecords.bandcamp.com/community",
+          "width": 1056,
+          "windowId": 285
+        },
+        "288": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 288,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Artists | American Dreams",
+          "url": "https://americandreamsrecords.bandcamp.com/",
+          "width": 1383,
+          "windowId": 285
+        },
+        "289": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 289,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "KVLT OF BELIALS RECORDS - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=KVLT+OF+BELIALS+RECORDS&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1056,
+          "windowId": 285
+        },
+        "290": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 290,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Instagram",
+          "url": "https://www.instagram.com/explore/people/suggested/",
+          "width": 1056,
+          "windowId": 285
+        },
+        "291": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.discogs.com/7c2a0304485bfe751e0787b69dcd941b44d63389/images/favicon-32x32.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 291,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Rising Pulse Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/188745-Rising-Pulse-Records?sort=year&sort_order=desc",
+          "width": 1056,
+          "windowId": 285
+        },
+        "292": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 292,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "About – Scry Recordings",
+          "url": "https://www.scryrecordings.com/about/",
+          "width": 1056,
+          "windowId": 285
+        },
+        "293": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 293,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "4iB Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/373020-4iB-Records?sort=year&sort_order=desc",
+          "width": 1056,
+          "windowId": 285
+        },
+        "294": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 294,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "New Approach Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/173105-New-Approach-Records",
+          "width": 1056,
+          "windowId": 285
+        },
+        "295": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 295,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Black Monolith Records Label | Releases | Discogs",
+          "url": "https://www.discogs.com/label/11860-Black-Monolith-Records",
+          "width": 1056,
+          "windowId": 285
+        },
+        "296": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 691,
+          "highlighted": false,
+          "id": 296,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Music | Abjection Ritual",
+          "url": "https://abjectionritual.bandcamp.com/",
+          "width": 1056,
+          "windowId": 285
+        },
+        "297": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 297,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Abjection Ritual - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=Abjection+Ritual&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1056,
+          "windowId": 285
+        },
+        "298": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 298,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "code \"/neda\" spotify - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&sxsrf=ALeKk00nYy3N-Tsd2D10X8kQwVvJI7FhEA:1599941686291&q=code+%22/neda%22+spotify&sa=X&ved=2ahUKEwihj_2et-TrAhXGpYsKHbcWA-sQ5t4CMAB6BAgFEAo&biw=1879&bih=970",
+          "width": 1383,
+          "windowId": 285
+        },
+        "299": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 299,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Instagram",
+          "url": "https://www.instagram.com/explore/people/suggested/",
+          "width": 1383,
+          "windowId": 285
+        },
+        "300": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 300,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "TRANCE//FURNACE (@trancefurnace) • Instagram photos and videos",
+          "url": "https://www.instagram.com/trancefurnace/",
+          "width": 1383,
+          "windowId": 285
+        },
+        "301": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 301,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "#kalabalikpåtyrolen2020 hashtag on Instagram • Photos and Videos",
+          "url": "https://www.instagram.com/explore/tags/kalabalikp%C3%A5tyrolen2020/",
+          "width": 1383,
+          "windowId": 285
+        },
+        "302": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 302,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "➕Stockholm Alternative ➕ (@stockholmalternative) • Instagram photos and videos",
+          "url": "https://www.instagram.com/stockholmalternative/",
+          "width": 1383,
+          "windowId": 285
+        },
+        "303": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 303,
+          "incognito": false,
+          "index": 16,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "I did it out of love | WordReference Forums",
+          "url": "https://forum.wordreference.com/threads/i-did-it-out-of-love.2722613/",
+          "width": 1383,
+          "windowId": 285
+        },
+        "304": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 304,
+          "incognito": false,
+          "index": 17,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Photo - Google Photos",
+          "url": "https://photos.google.com/photo/AF1QipNxWKdaDuW8pPpvluXt5MRWWyf_OYSzxcCQ55FV",
+          "width": 1383,
+          "windowId": 285
+        },
+        "305": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 305,
+          "incognito": false,
+          "index": 18,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "knights of sidonia - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=knights+of+sidonia&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1383,
+          "windowId": 285
+        },
+        "306": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 691,
+          "highlighted": false,
+          "id": 306,
+          "incognito": false,
+          "index": 19,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to upload posts to Instagram from your desktop PC, laptop or Mac | Tomango | Web Design Sussex",
+          "url": "https://www.tomango.co.uk/thinks/post-to-instagram-desktop-chrome-pc-mac/",
+          "width": 1383,
+          "windowId": 285
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "285": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 780,
+        "id": 285,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 20,
+    "name": "Widsith Records' Community | Widsith Records",
+    "date": 1600035107482,
+    "lastEditedTime": 1601295398286,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600035071828,
+    "id": "82969177-2fba-4943-95e6-6299593c43d1"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "15338": {
+        "15335": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://i1.social.s-msft.com/Forums/GlobalResources/images/Technet/favicon.ico",
+          "height": 1155,
+          "highlighted": true,
+          "id": 15335,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Powershell - How to get a filename without extension?",
+          "url": "https://social.technet.microsoft.com/Forums/office/en-US/4f5bf6bf-4e22-4faf-9245-b8caf4668cab/powershell-how-to-get-a-filename-without-extension?forum=ITCG",
+          "width": 1351,
+          "windowId": 15338
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "15338": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 15338,
+        "incognito": false,
+        "left": 828,
+        "state": "normal",
+        "top": 560,
+        "type": "normal",
+        "width": 1351
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Powershell - How to get a filename without extension?",
+    "date": 1603239991813,
+    "lastEditedTime": 1603239873710,
+    "tag": [
+      "winClose",
+      "Loppy"
+    ],
+    "sessionStartTime": 1601625843517,
+    "id": "32ba178d-f055-42b4-92b7-7ff77ed1c280"
+  }
+]

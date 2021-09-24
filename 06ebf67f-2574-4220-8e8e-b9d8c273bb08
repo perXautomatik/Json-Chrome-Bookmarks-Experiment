@@ -1,0 +1,231 @@
+[
+  {
+    "windows": {
+      "205": {
+        "233": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://jsonschema.net/favicon.ico",
+          "height": 979,
+          "highlighted": false,
+          "id": 233,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "JSON Schema Tool",
+          "url": "https://jsonschema.net/login",
+          "width": 1801,
+          "windowId": 205
+        },
+        "234": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.liquid-technologies.com/favicon.ico",
+          "height": 979,
+          "highlighted": false,
+          "id": 234,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Free Online JSON to JSON Schema Converter",
+          "url": "https://www.liquid-technologies.com/online-json-to-schema-converter",
+          "width": 1801,
+          "windowId": 205
+        },
+        "237": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.liquid-technologies.com/favicon.ico",
+          "height": 979,
+          "highlighted": false,
+          "id": 237,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "XML Software Prices and Online Store",
+          "url": "https://www.liquid-technologies.com/shop",
+          "width": 1801,
+          "windowId": 205
+        },
+        "240": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 979,
+          "highlighted": false,
+          "id": 240,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://www.liquid-technologies.com/trial-download",
+          "url": "https://www.liquid-technologies.com/trial-download",
+          "width": 1801,
+          "windowId": 205
+        },
+        "243": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 979,
+          "highlighted": false,
+          "id": 243,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Best JSON Parser Online",
+          "url": "https://jsonformatter.org/json-parser",
+          "width": 1801,
+          "windowId": 205
+        },
+        "246": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/nofavicon.png",
+          "height": 979,
+          "highlighted": false,
+          "id": 246,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Best JSON Parser Online",
+          "url": "https://jsonformatter.org/json-parser",
+          "width": 1801,
+          "windowId": 205
+        },
+        "249": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 979,
+          "highlighted": false,
+          "id": 249,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "online json schema to graph - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=online+json+schema+to+graph&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1801,
+          "windowId": 205
+        },
+        "252": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://vanya.jp.net/favicon.ico",
+          "height": 979,
+          "highlighted": false,
+          "id": 252,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Online JSON to Tree Diagram Converter",
+          "url": "https://vanya.jp.net/vtree/",
+          "width": 1801,
+          "windowId": 205
+        },
+        "255": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "height": 979,
+          "highlighted": false,
+          "id": 255,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "LocalStorage Manager - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/localstorage-manager/fkhoimdhngkiicbjobkinobjkoefhkap",
+          "width": 1801,
+          "windowId": 205
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "205": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1096,
+        "id": 205,
+        "incognito": false,
+        "left": 70,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1858
+      }
+    },
+    "tabsNumber": 9,
+    "name": "JSON Schema Tool",
+    "date": 1600336626830,
+    "lastEditedTime": 1601295397890,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600333983387,
+    "id": "454e42d6-d6c3-439b-8434-4f01c479e8e0"
+  }
+]

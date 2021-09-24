@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "62": {
+        "61": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 512,
+          "highlighted": false,
+          "id": 61,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sign in - Google Accounts",
+          "url": "https://accounts.google.com/o/oauth2/auth/oauthchooseaccount?redirect_uri=storagerelay%3A%2F%2Fhttps%2Fgetpocket.com%3Fid%3Dauth830772&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm&client_id=173409440056-oek12ddu7d36lbnpquv9dr8rs6ijcer0.apps.googleusercontent.com&ss_domain=https%3A%2F%2Fgetpocket.com&prompt&fetch_basic_profile=true&gsiwebsdk=2&flowName=GeneralOAuthFlow",
+          "width": 583,
+          "windowId": 62
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "62": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 600,
+        "id": 62,
+        "incognito": false,
+        "left": 383,
+        "state": "normal",
+        "top": 84,
+        "type": "popup",
+        "width": 599
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Sign in - Google Accounts",
+    "date": 1629095670967,
+    "lastEditedTime": 1629095667423,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1629095335673,
+    "id": "ea2575eb-3545-4305-ae53-f53bf1330192"
+  }
+]

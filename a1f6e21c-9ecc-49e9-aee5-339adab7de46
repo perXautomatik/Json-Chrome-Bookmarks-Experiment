@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "5731": {
+        "5733": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pdfsam.org/icns/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5733,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download PDF Split And Merge - PDFsam",
+          "url": "https://pdfsam.org/downloads/",
+          "width": 1383,
+          "windowId": 5731
+        },
+        "5734": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pdfsam.org/icns/favicon.ico",
+          "height": 691,
+          "highlighted": false,
+          "id": 5734,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 5733,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Customize file names - PDFsam",
+          "url": "https://pdfsam.org/customize-file-names/",
+          "width": 1383,
+          "windowId": 5731
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5731": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 780,
+        "id": 5731,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 130,
+        "type": "normal",
+        "width": 1440
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Customize file names - PDFsam",
+    "date": 1601174807047,
+    "lastEditedTime": 1601174806618,
+    "tag": [
+      "winClose",
+      "Home"
+    ],
+    "sessionStartTime": 1601166016014,
+    "id": "38dbb6a9-390d-4b50-a5a7-f54671a3da6f"
+  }
+]

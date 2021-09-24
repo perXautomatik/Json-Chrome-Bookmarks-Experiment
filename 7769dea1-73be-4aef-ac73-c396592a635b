@@ -1,0 +1,184 @@
+[
+  {
+    "windows": {
+      "2654": {
+        "2655": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2655,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "https://www.youtube.com/watch?v=oInD8Vl4ZDA",
+          "url": "https://www.youtube.com/watch?v=oInD8Vl4ZDA",
+          "width": 1073,
+          "windowId": 2654
+        },
+        "2662": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://code.visualstudio.com/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2662,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Language Support in Visual Studio Code",
+          "url": "https://code.visualstudio.com/docs/languages/overview",
+          "width": 1073,
+          "windowId": 2654
+        },
+        "2665": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://code.visualstudio.com/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2665,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Language Server Extension Guide | Visual Studio Code Extension API",
+          "url": "https://code.visualstudio.com/api/language-extensions/language-server-extension-guide",
+          "width": 1073,
+          "windowId": 2654
+        },
+        "2668": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://code.visualstudio.com/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2668,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Syntax Highlight Guide | Visual Studio Code Extension API",
+          "url": "https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide",
+          "width": 1073,
+          "windowId": 2654
+        },
+        "2671": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://code.visualstudio.com/favicon.ico",
+          "height": 1155,
+          "highlighted": false,
+          "id": 2671,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Visual Studio Code language identifiers",
+          "url": "https://code.visualstudio.com/docs/languages/identifiers",
+          "width": 1073,
+          "windowId": 2654
+        },
+        "2674": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": false,
+          "id": 2674,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "vscode hybrid language reference - Google Search",
+          "url": "https://www.google.com/search?q=vscode%20hybrid%20language%20reference",
+          "width": 1073,
+          "windowId": 2654
+        },
+        "2677": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "height": 1155,
+          "highlighted": true,
+          "id": 2677,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "nested code formatting vscode - Google Search",
+          "url": "https://www.google.com/search?q=nested%20code%20formatting%20vscode",
+          "width": 1073,
+          "windowId": 2654
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2654": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1234,
+        "id": 2654,
+        "incognito": false,
+        "left": 536,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1073
+      }
+    },
+    "tabsNumber": 7,
+    "name": "nested code formatting vscode - Google Search",
+    "date": 1611537115959,
+    "lastEditedTime": 1611537076317,
+    "tag": [
+      "winClose",
+      "loppy"
+    ],
+    "sessionStartTime": 1611535482936,
+    "id": "e040ca19-b0de-45f4-9925-cbc892bfe776"
+  }
+]

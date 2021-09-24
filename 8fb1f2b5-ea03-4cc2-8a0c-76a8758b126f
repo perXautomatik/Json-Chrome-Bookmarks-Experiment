@@ -1,0 +1,210 @@
+[
+  {
+    "windows": {
+      "4875": {
+        "4702": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://img.findmysoft.com/i/favicon.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 4702,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "» Download free trial NetGlance",
+          "url": "http://netglance.findmysoft.com/download/",
+          "width": 1879,
+          "windowId": 4875
+        },
+        "4706": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 4706,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "V7 Sessions extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/v7-sessions/",
+          "width": 1879,
+          "windowId": 4875
+        },
+        "4708": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 4708,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tree Tabs extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/tree-tabs/",
+          "width": 1879,
+          "windowId": 4875
+        },
+        "4709": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 4709,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "V7 Extension Manager extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/v7-extension-manager/",
+          "width": 1879,
+          "windowId": 4875
+        },
+        "4711": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 4711,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "uMatrix extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/umatrix/",
+          "width": 1879,
+          "windowId": 4875
+        },
+        "4712": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 4712,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sidebar for YouTube™ extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/youtubetm-sidebar/",
+          "width": 1879,
+          "windowId": 4875
+        },
+        "4718": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 970,
+          "highlighted": false,
+          "id": 4718,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download and use Chrome extensions in Opera - Install Chrome Extensions - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/install-chrome-extensions/",
+          "width": 1879,
+          "windowId": 4875
+        },
+        "4722": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://addons-static.operacdn.com/static/header-footer/favicon/ico/opera.ico",
+          "height": 967,
+          "highlighted": false,
+          "id": 4722,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "quickiePages extension - Opera add-ons",
+          "url": "https://addons.opera.com/en/extensions/details/quickiepages/",
+          "width": 911,
+          "windowId": 4875
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4875": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 4875,
+        "incognito": false,
+        "left": 952,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 968
+      }
+    },
+    "tabsNumber": 8,
+    "name": "extension - Opera add-ons",
+    "date": 1600029240669,
+    "lastEditedTime": 1601295397619,
+    "tag": [
+      "winClose",
+      "Home",
+      "Work"
+    ],
+    "sessionStartTime": 1600014207644,
+    "id": "1508f473-d9d3-4d88-8b6b-933eac1fa460"
+  }
+]

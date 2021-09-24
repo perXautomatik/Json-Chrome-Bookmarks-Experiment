@@ -1,0 +1,233 @@
+[
+  {
+    "windows": {
+      "1351": {
+        "1363": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 681,
+          "highlighted": false,
+          "id": 1363,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "run net objects in powershell - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=run+net+objects+in+powershell&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1410,
+          "windowId": 1351
+        },
+        "1373": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 1373,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "regex guid vb to ps1 - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=regex+guid+vb+to+ps1&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 0,
+          "windowId": 1351
+        },
+        "1376": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 0,
+          "highlighted": false,
+          "id": 1376,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "semantic comparison vbs powershell - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&hs=h5&sxsrf=ALeKk03JQQ4BSv8fDzw10YqtPbF1q1y6bg:1600242926263&q=semantic+comparison+vbs+powershell&spell=1&sa=X&ved=2ahUKEwjW57G5me3rAhVnmYsKHYRWCPkQBSgAegQIDBAo&biw=1410&bih=681",
+          "width": 0,
+          "windowId": 1351
+        },
+        "1382": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 681,
+          "highlighted": false,
+          "id": 1382,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MSScriptControl.ScriptControl.1 dealing with imports - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=MSScriptControl.ScriptControl.1+dealing+with+imports&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1410,
+          "windowId": 1351
+        },
+        "1385": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://i1.social.s-msft.com/Forums/GlobalResources/images/Msdn/favicon.ico",
+          "height": 681,
+          "highlighted": false,
+          "id": 1385,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Help With Microsoft Script Control?",
+          "url": "https://social.msdn.microsoft.com/Forums/vstudio/en-US/d1920224-095d-4912-936d-d421f91fee6d/help-with-microsoft-script-control?forum=vbgeneral",
+          "width": 1410,
+          "windowId": 1351
+        },
+        "1388": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "height": 681,
+          "highlighted": false,
+          "id": 1388,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MSScriptControl.ScriptControl imports - Google Search",
+          "url": "https://www.google.com/search?client=opera-gx&q=MSScriptControl.ScriptControl+imports&sourceid=opera&ie=UTF-8&oe=UTF-8",
+          "width": 1410,
+          "windowId": 1351
+        },
+        "1391": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "height": 681,
+          "highlighted": false,
+          "id": 1391,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to import a DLL to MSScriptControl.ScriptControl - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/26716234/how-to-import-a-dll-to-msscriptcontrol-scriptcontrol",
+          "width": 1410,
+          "windowId": 1351
+        },
+        "1395": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.vbforums.com/favicon.ico",
+          "height": 681,
+          "highlighted": false,
+          "id": 1395,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1388,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MS Script Control - Intellisense for imported dlls ?-VBForums",
+          "url": "https://www.vbforums.com/showthread.php?760665-MS-Script-Control-Intellisense-for-imported-dlls",
+          "width": 1410,
+          "windowId": 1351
+        },
+        "1398": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.codeproject.com/favicon/favicon-32x32.png",
+          "height": 681,
+          "highlighted": false,
+          "id": 1398,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1395,
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "VbScript Editor With Intellisense - CodeProject",
+          "url": "https://www.codeproject.com/Articles/19986/VbScript-Editor-With-Intellisense",
+          "width": 1410,
+          "windowId": 1351
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1351": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 801,
+        "id": 1351,
+        "incognito": false,
+        "left": 143,
+        "state": "normal",
+        "top": 279,
+        "type": "normal",
+        "width": 1467
+      }
+    },
+    "tabsNumber": 9,
+    "name": "VbScript Editor With Intellisense - CodeProject",
+    "date": 1600245617864,
+    "lastEditedTime": 1601295399097,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1600156534702,
+    "id": "f0522915-4480-4cab-bc6c-9449bd063f55"
+  }
+]

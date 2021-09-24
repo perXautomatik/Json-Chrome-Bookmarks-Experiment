@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "155": {
+        "154": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://mfa.gotland.se/authenticate/res/favicon.ico",
+          "height": 660,
+          "highlighted": false,
+          "id": 154,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Activate PhenixID One Touch on your mobile device.",
+          "url": "https://mfa.gotland.se/activateonetouch/authenticate/activateonetouchotp",
+          "width": 1247,
+          "windowId": 155
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "155": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 576,
+        "id": 155,
+        "incognito": false,
+        "left": 478,
+        "state": "minimized",
+        "top": 167,
+        "type": "normal",
+        "width": 966
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Activate PhenixID One Touch on your mobile device.",
+    "date": 1605707220693,
+    "lastEditedTime": 1605707057815,
+    "tag": [
+      "winClose",
+      "Work"
+    ],
+    "sessionStartTime": 1605641685945,
+    "id": "d7d98d36-8fd7-4740-9a6d-6050d750a43c"
+  }
+]
