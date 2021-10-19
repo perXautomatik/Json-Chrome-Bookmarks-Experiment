@@ -50,17 +50,18 @@ $healthyJson = cat .\008b183c-ba86-4bf9-9195-2f06784b5066 | fx 'this[0]'
 
 $healthyJson | ConvertFrom-Json  | %{
     $folderName = $_ | Select-Object name 
-    $folderName
-    
+        
     $flatJson = (($healthyJson | Tee-Object -Variable folder | fx 'this.name' | Tee-Object -Variable folderName | %{$folder} | fx 'this.windows' | ConvertFrom-Json ).psobject.properties.value).PSObject.Properties | ForEach-Object { $_.Name; $_.Value } 
-
-    $flatJson  
-    $flatJson | %{$_ | ConvertTo-Json |  fx .[] }
+        
+    $title = $flatJson | %{$_ | ConvertTo-Json | fx '{ .title, .url}' }
+    $title
+    
+    #;$url = $flatJson | %{$_ | ConvertTo-Json |  fx .url }} | select title,url
 
     #$flatJson | %{ select-Object title,url }
+
+
 }
-
-
 
 
 
