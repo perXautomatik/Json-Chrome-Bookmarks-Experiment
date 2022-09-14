@@ -1,0 +1,126 @@
+[
+  {
+    "windows": {
+      "1062": {
+        "1061": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 1061,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "youtube set auto translate annotations in url - Bing",
+          "url": "https://www.bing.com/search?q=youtube+set+auto+translate+annotations+in+url&FORM=AWRE",
+          "width": 1920,
+          "windowId": 1062
+        },
+        "1063": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 1063,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "android auto translate youtube anotations - Bing",
+          "url": "https://www.bing.com/search?q=android+auto+translate+youtube+anotations&cvid=c10147b403b34a779721c8d099e111ef&aqs=edge..69i57.10102j0j1&pglt=2083&FORM=ANNTA1&PC=U531",
+          "width": 1920,
+          "windowId": 1062
+        },
+        "1064": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 924,
+          "highlighted": true,
+          "id": 1064,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Auto Translate for YouTube™ captions - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/auto-translate-for-youtub/codommceejgdnbmfednpkhkfnlbepckf",
+          "width": 1920,
+          "windowId": 1062
+        },
+        "1066": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.androidheadlines.com/favicon-32x32.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 1066,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1063,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "YouTube Automatic Translation Feature Rolls Out For Some Users",
+          "url": "https://www.androidheadlines.com/2021/05/youtube-automatic-translation-feature.html",
+          "width": 1920,
+          "windowId": 1062
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1062": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1056,
+        "id": 1062,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Auto Translate for YouTube™ captions - Chrome Web Store",
+    "date": 1630320248574,
+    "lastEditedTime": 1630319939857,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "47d6d62e-8113-49d7-a6b3-051454bc25a1"
+  }
+]

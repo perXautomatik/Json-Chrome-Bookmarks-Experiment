@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2481": {
+        "2482": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2482,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Wearable and Reusable Stealth Boy Adds Rads by request at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/64747",
+          "width": 1154,
+          "windowId": 2481
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2481": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2481,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Wearable and Reusable Stealth Boy Adds Rads by request at Fallout New Vegas - mods and community",
+    "date": 1627156386727,
+    "lastEditedTime": 1627156385637,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "13aba58f-215c-4ba5-b52f-79682b0059ef"
+  }
+]

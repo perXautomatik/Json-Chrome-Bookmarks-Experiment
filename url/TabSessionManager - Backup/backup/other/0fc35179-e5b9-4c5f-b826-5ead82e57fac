@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "7136": {
+        "7137": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7137,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=111009",
+          "width": 1319,
+          "windowId": 7136
+        },
+        "7202": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://ombpkjoelcapenbepmgifadkgpokfgfd/data/icons/48.svg",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7202,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Bookmark Dupes",
+          "url": "chrome-extension://ombpkjoelcapenbepmgifadkgpokfgfd/data/tab/index.html",
+          "width": 1319,
+          "windowId": 7136
+        },
+        "7424": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 908,
+          "highlighted": false,
+          "id": 7424,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Folderwise Bookmarks: Search & Sessions - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/folderwise-bookmarks-sear/lcabfbidcbbfdfmonhonidjgcgdnfhle",
+          "width": 1319,
+          "windowId": 7136
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7136": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1040,
+        "id": 7136,
+        "incognito": false,
+        "left": -5,
+        "state": "normal",
+        "top": 453,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Favorites",
+    "date": 1631365095450,
+    "lastEditedTime": 1631365075930,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "018374d4-c03b-4caf-a874-971238f87258"
+  }
+]

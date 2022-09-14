@@ -1,0 +1,116 @@
+[
+  {
+    "windows": {
+      "2": {
+        "3": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.copyhandler.com/sites/default/files/ch16.png",
+          "groupId": -1,
+          "height": 709,
+          "highlighted": false,
+          "id": 3,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download | Copy Handler",
+          "url": "https://www.copyhandler.com/download",
+          "width": 996,
+          "windowId": 2
+        },
+        "1549": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://magic.wizards.com/sites/all/themes/wiz_mtg/icons/favicon.ico",
+          "groupId": -1,
+          "height": 709,
+          "highlighted": true,
+          "id": 1549,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Jumpstart Decklists | MAGIC: THE GATHERING",
+          "url": "https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18",
+          "width": 996,
+          "windowId": 2
+        }
+      },
+      "1548": {
+        "1545": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210604153606",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 1545,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1841,
+          "windowId": 1548
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "2": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 796,
+        "id": 2,
+        "incognito": false,
+        "left": 9,
+        "state": "normal",
+        "top": 365,
+        "type": "normal",
+        "width": 1091
+      },
+      "1548": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1056,
+        "id": 1548,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+    "date": 1622893931323,
+    "lastEditedTime": 1622893931323,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "f01fc748-2040-46f3-a6c5-b413249ba826"
+  }
+]

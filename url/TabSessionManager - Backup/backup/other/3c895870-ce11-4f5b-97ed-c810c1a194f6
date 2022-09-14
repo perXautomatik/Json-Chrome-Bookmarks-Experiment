@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2433": {
+        "2434": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2434,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "White Glove Society Cannibal Path Reward at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/64188",
+          "width": 1154,
+          "windowId": 2433
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2433": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2433,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "White Glove Society Cannibal Path Reward at Fallout New Vegas - mods and community",
+    "date": 1627156362346,
+    "lastEditedTime": 1627156360741,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "265ff751-d697-464f-9116-bff1bdeeb28e"
+  }
+]

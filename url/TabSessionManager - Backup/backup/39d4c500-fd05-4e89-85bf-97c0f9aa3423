@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2758": {
+        "2759": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2759,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Sortomatic DLC and TTW Fix at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/66986",
+          "width": 1154,
+          "windowId": 2758
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2758": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2758,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Sortomatic DLC and TTW Fix at Fallout New Vegas - mods and community",
+    "date": 1627976347098,
+    "lastEditedTime": 1627976345270,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "c17402df-7a05-4450-8483-ea8d6a0ab7a1"
+  }
+]

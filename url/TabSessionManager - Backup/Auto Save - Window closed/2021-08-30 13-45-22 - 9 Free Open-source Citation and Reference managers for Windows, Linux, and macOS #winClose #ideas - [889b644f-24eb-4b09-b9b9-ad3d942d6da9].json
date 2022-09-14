@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1159": {
+        "1152": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://medevel.com/favicon.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 1152,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "9 Free Open-source Citation and Reference managers for Windows, Linux, and macOS",
+          "url": "https://medevel.com/9-citation-managers/",
+          "width": 1920,
+          "windowId": 1159
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1159": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1159,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "9 Free Open-source Citation and Reference managers for Windows, Linux, and macOS",
+    "date": 1630323922027,
+    "lastEditedTime": 1630323779078,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "889b644f-24eb-4b09-b9b9-ad3d942d6da9"
+  }
+]

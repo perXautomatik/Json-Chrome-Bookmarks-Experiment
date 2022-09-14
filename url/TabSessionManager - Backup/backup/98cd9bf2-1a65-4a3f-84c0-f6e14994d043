@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "288": {
+        "9": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 9,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Shock the audience",
+          "url": "https://open.spotify.com/album/1o1i4gcx5Nkq4kYcM4AnkH",
+          "width": 1434,
+          "windowId": 288
+        },
+        "294": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/bd9d1675/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 294,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Over 800,000 Servicemen Face Court Martial For Not Getting Mandatory Vaccine, Biden Admin Under Fire - YouTube - Tim Pool Tim Pool",
+          "url": "https://www.youtube.com/watch?v=yvNN3tUIx2M",
+          "width": 1152,
+          "windowId": 288
+        },
+        "301": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 301,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Floating Head/Invisible Body/T-Pose glitch : skyrimmods",
+          "url": "https://www.reddit.com/r/skyrimmods/comments/35tfcl/floating_headinvisible_bodytpose_glitch/",
+          "width": 1152,
+          "windowId": 288
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "288": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 288,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Floating Head/Invisible Body/T-Pose glitch : skyrimmods",
+    "date": 1629940191862,
+    "lastEditedTime": 1629940191862,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629772774244,
+    "id": "e817a254-6a04-43f6-85f2-af5bce727f7e"
+  }
+]

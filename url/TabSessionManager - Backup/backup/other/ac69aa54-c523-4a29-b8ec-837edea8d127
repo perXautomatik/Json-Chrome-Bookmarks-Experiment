@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2151": {
+        "2152": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2152,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Quantum Sling (Short-Range Teleporter) at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/70770",
+          "width": 1154,
+          "windowId": 2151
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2151": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2151,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Quantum Sling (Short-Range Teleporter) at Fallout New Vegas - mods and community",
+    "date": 1627156213693,
+    "lastEditedTime": 1627156212097,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "8b873836-d39a-4158-b784-26d8c1316156"
+  }
+]

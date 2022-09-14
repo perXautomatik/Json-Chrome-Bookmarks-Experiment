@@ -1,0 +1,209 @@
+[
+  {
+    "windows": {
+      "4317": {
+        "3562": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/35e75ccf/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": true,
+          "id": 3562,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "China's ISS Competitor Begins Construction In Orbit - YouTube",
+          "url": "https://www.youtube.com/watch?v=06GUEkc4EEA&list=TLPQMDYwNzIwMjGtzIY43W9k-w&index=105",
+          "width": 1006,
+          "windowId": 4317
+        }
+      },
+      "4320": {
+        "4319": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": false,
+          "id": 4319,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Work2",
+          "url": "https://www.dwservice.net/session.dw?parent=mng#s",
+          "width": 1006,
+          "windowId": 4320
+        },
+        "4399": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 4399,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "RAS (CMAK) - Bing",
+          "url": "https://www.bing.com/search?q=RAS+%28CMAK%29&qs=n&form=QBRE&sp=-1&pq=ras+%28cmak%29&sc=0-10&sk=&cvid=B143A41808154F2B8341847D182C2429",
+          "width": 1152,
+          "windowId": 4320
+        },
+        "4400": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://forsenergy.com/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 4400,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Installera Administration av Anslutningshanteraren",
+          "url": "https://forsenergy.com/sv-se/cmak_ops/html/7da60249-0832-4089-aa98-d9e4bba65461.htm",
+          "width": 1152,
+          "windowId": 4320
+        },
+        "4401": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": true,
+          "id": 4401,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "borderlands 2 elemental empathy - Bing",
+          "url": "https://www.bing.com/search?q=borderlands+2+elemental+empathy&cvid=bf8f3ce343eb401aaf0dcc46c3385af7&aqs=edge..69i57.10312j0j4&PC=U531&first=5&FORM=PORE",
+          "width": 1006,
+          "windowId": 4320
+        },
+        "4402": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 794,
+          "highlighted": false,
+          "id": 4402,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1006,
+          "windowId": 4320
+        },
+        "4403": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "http://orcz.com/favicon.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": false,
+          "id": 4403,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 4401,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Borderlands 2: Elemental Empathy - Orcz.com, The Video Games Wiki",
+          "url": "http://orcz.com/Borderlands_2:_Elemental_Empathy",
+          "width": 1006,
+          "windowId": 4320
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "4317": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 913,
+        "id": 4317,
+        "incognito": false,
+        "left": 1181,
+        "state": "normal",
+        "top": 520,
+        "type": "normal",
+        "width": 1070
+      },
+      "4320": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 913,
+        "id": 4320,
+        "incognito": false,
+        "left": 869,
+        "state": "normal",
+        "top": 210,
+        "type": "normal",
+        "width": 1070
+      }
+    },
+    "tabsNumber": 7,
+    "name": "borderlands 2 elemental empathy - Bing",
+    "date": 1625765143779,
+    "lastEditedTime": 1625765143779,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "5b5414e3-35b1-47ce-99b7-1995ad98a379"
+  }
+]

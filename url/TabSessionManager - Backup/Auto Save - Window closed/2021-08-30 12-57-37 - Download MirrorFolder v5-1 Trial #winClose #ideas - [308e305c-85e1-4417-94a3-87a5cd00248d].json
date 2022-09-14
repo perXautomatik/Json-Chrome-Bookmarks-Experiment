@@ -1,0 +1,172 @@
+[
+  {
+    "windows": {
+      "1117": {
+        "1118": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://assets.msn.com/statics/icons/favicon_newtabpage.png",
+          "groupId": -1,
+          "height": 738,
+          "highlighted": false,
+          "id": 1118,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "New tab",
+          "url": "edge://newtab/",
+          "width": 1481,
+          "windowId": 1117
+        },
+        "1119": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 1119,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "clone user profile edge - Bing",
+          "url": "https://www.bing.com/search?q=clone+user+profile+edge&cvid=1590ccde2b364434a1e1dd6f4499594c&aqs=edge..69i57.9885j0j1&pglt=2083&FORM=ANNTA1&PC=U531",
+          "width": 1481,
+          "windowId": 1117
+        },
+        "1127": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 1127,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "mirror folder service - Bing",
+          "url": "https://www.bing.com/search?q=mirror+folder+service&cvid=e5ec9340882342e2beeed672a6327e5f&aqs=edge..69i57.16619j0j1&pglt=2083&FORM=ANNTA1&PC=U531",
+          "width": 1481,
+          "windowId": 1117
+        },
+        "1128": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://c.s-microsoft.com/favicon.ico?v2",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 1128,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Feature request: copy Edge Chromium Profile data to a new profile - Microsoft Tech Community",
+          "url": "https://techcommunity.microsoft.com/t5/discussions/feature-request-copy-edge-chromium-profile-data-to-a-new-profile/m-p/1503687",
+          "width": 1481,
+          "windowId": 1117
+        },
+        "1129": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://c.s-microsoft.com/favicon.ico?v2",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 1129,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Import data from Profile 1 to Profile 2 - Microsoft Tech Community",
+          "url": "https://techcommunity.microsoft.com/t5/discussions/import-data-from-profile-1-to-profile-2/m-p/1600664",
+          "width": 1481,
+          "windowId": 1117
+        },
+        "1131": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.techsoftpl.com/favicon.ico",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": true,
+          "id": 1131,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1127,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Download MirrorFolder v5.1 Trial",
+          "url": "https://www.techsoftpl.com/backup/download.php",
+          "width": 1481,
+          "windowId": 1117
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1117": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 858,
+        "id": 1117,
+        "incognito": false,
+        "left": 107,
+        "state": "normal",
+        "top": 46,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Download MirrorFolder v5.1 Trial",
+    "date": 1630321057375,
+    "lastEditedTime": 1630324414938,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "308e305c-85e1-4417-94a3-87a5cd00248d"
+  }
+]

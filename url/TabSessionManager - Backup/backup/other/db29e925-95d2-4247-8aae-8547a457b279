@@ -1,0 +1,195 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 2,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "xedit site:nexusmods.com/fallout4/mods/ - Google Search",
+          "url": "https://www.google.com/search?q=xedit+site:nexusmods.com/fallout4/mods/&sxsrf=ALeKk025ow3KIvydCC3KSaDkQhFCN_FpUg:1628105257298&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZlZLcjJjyAhVik4sKHZjVASY4oAEQ_AUoAXoECAEQAw&biw=1508&bih=969#imgrc=TSZq2k0reJMTRM",
+          "width": 1508,
+          "windowId": 1
+        },
+        "767": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 767,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "xEdit (FO4Edit) Plugin - Export list of all items of a type at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/42955?tab=files&file_id=174114",
+          "width": 1508,
+          "windowId": 1
+        },
+        "768": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 768,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "xEdit (FO4Edit) Plugin - Export-Import LVLI (Leveled Item Lists) and LVLN (Leveled NPC Lists) at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/42868?tab=files&file_id=174172",
+          "width": 1508,
+          "windowId": 1
+        },
+        "769": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 769,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "xEdit pre-made bats - omniguous at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/50499?tab=description",
+          "width": 1508,
+          "windowId": 1
+        },
+        "770": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 770,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Ruddy88's Simple Sorter at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/33983",
+          "width": 1508,
+          "windowId": 1
+        },
+        "771": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 771,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Combat Zone Restored at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/21498/?Combat_Zone_Enforcer_Umarex_CO2_Airsoft_PistolA=&tab=posts",
+          "width": 1508,
+          "windowId": 1
+        },
+        "772": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 772,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FO4Edit Despongifier at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/28046/.popup-topic?tab=description",
+          "width": 1508,
+          "windowId": 1
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 7,
+    "name": "xedit site:nexusmods.com/fallout4/mods/ - Google Search",
+    "date": 1628105530618,
+    "lastEditedTime": 1628105530618,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1628104616079,
+    "id": "9ddec4a4-c8fe-4a83-b1fc-1b893c9b70cc"
+  }
+]

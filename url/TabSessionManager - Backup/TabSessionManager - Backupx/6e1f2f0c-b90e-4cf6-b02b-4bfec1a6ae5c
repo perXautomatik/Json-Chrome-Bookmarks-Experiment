@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "237": {
+        "238": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/df22805b/img/favicon_32.png",
+          "groupId": -1,
+          "height": 1485,
+          "highlighted": true,
+          "id": 238,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(13) DNA is FAKE (Barnabas Nagy) - YouTube",
+          "url": "https://www.youtube.com/watch?v=keUJnYQcIuo&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=13",
+          "width": 1094,
+          "windowId": 237
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "237": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1527,
+        "id": 237,
+        "incognito": false,
+        "left": 2031,
+        "state": "normal",
+        "top": 80,
+        "type": "popup",
+        "width": 1110
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(13) DNA is FAKE (Barnabas Nagy) - YouTube",
+    "date": 1621940291129,
+    "lastEditedTime": 1621940291129,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1621883588884,
+    "id": "03940d61-e8a5-4cfd-8652-37b88873fcb1"
+  }
+]

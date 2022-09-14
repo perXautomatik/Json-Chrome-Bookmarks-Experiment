@@ -1,0 +1,125 @@
+[
+  {
+    "windows": {
+      "1369": {
+        "1370": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 860,
+          "highlighted": false,
+          "id": 1370,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "source control structured data - Bing",
+          "url": "https://www.bing.com/search?q=source+control+structured+data&cvid=321660842d3b483bafc35853cad7d506&aqs=edge..69i57.5287j0j1&pglt=2083&FORM=ANSPA1&PC=U531",
+          "width": 1148,
+          "windowId": 1369
+        },
+        "1371": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.c-sharpcorner.com/Images/McnIcon.ico",
+          "groupId": -1,
+          "height": 860,
+          "highlighted": false,
+          "id": 1371,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Data Source Controls",
+          "url": "https://www.c-sharpcorner.com/UploadFile/bc1c71/data-source-controls/",
+          "width": 1148,
+          "windowId": 1369
+        },
+        "1372": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 860,
+          "highlighted": false,
+          "id": 1372,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "version control structured data - Bing",
+          "url": "https://www.bing.com/search?q=version+control+structured+data&cvid=63a4fb49cd17483d945066ae35ea71a2&aqs=edge..69i57.6631j0j1&pglt=2083&FORM=ANNTA1&PC=U531",
+          "width": 1148,
+          "windowId": 1369
+        },
+        "1374": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://publications.lib.chalmers.se/favicon.ico",
+          "groupId": -1,
+          "height": 860,
+          "highlighted": true,
+          "id": 1374,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Master Thesis:",
+          "url": "https://publications.lib.chalmers.se/records/fulltext/219831/219831.pdf",
+          "width": 1148,
+          "windowId": 1369
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1369": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 948,
+        "id": 1369,
+        "incognito": false,
+        "left": 757,
+        "state": "normal",
+        "top": 114,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Master Thesis:",
+    "date": 1630501448490,
+    "lastEditedTime": 1630501440298,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630484833118,
+    "id": "1837d86f-b2a8-4c7c-be23-aa2383769874"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10241": {
+        "10242": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10242,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Extra Item Info (EII) at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/32435?tab=files&file_id=177153&nmm=1",
+          "width": 1154,
+          "windowId": 10241
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10241": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10241,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Extra Item Info (EII) at Fallout 4 Nexus - Mods and community",
+    "date": 1622643209980,
+    "lastEditedTime": 1622643206963,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "4d9c21c6-f8f4-4e31-98ef-d5a9448ea3a8"
+  }
+]

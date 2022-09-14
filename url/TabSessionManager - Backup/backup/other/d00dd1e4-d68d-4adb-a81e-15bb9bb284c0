@@ -1,0 +1,93 @@
+[
+  {
+    "windows": {
+      "7136": {
+        "7137": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7137,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=121653",
+          "width": 1319,
+          "windowId": 7136
+        }
+      },
+      "7174": {
+        "7175": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 561,
+          "highlighted": true,
+          "id": 7175,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "[L] AutoBookmarks [R] /",
+          "url": "chrome-extension://knfpajocfeohpaipkfpdbfhgibajfmcf/data/commander/index.html?mode=window",
+          "width": 734,
+          "windowId": 7174
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "7136": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1040,
+        "id": 7136,
+        "incognito": false,
+        "left": 509,
+        "state": "normal",
+        "top": 266,
+        "type": "normal",
+        "width": 1383
+      },
+      "7174": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 600,
+        "id": 7174,
+        "incognito": false,
+        "left": 926,
+        "state": "normal",
+        "top": 224,
+        "type": "popup",
+        "width": 750
+      }
+    },
+    "tabsNumber": 2,
+    "name": "[L] AutoBookmarks [R] /",
+    "date": 1631309910696,
+    "lastEditedTime": 1631309910696,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "ea77bc59-42d5-4f7f-a3fd-8d05ba6d8119"
+  }
+]

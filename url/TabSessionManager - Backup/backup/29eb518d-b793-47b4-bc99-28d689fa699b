@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1706": {
+        "1705": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://static-exp1.licdn.com/sc/h/3m4lyvbs6efg8pyhv7kupo6dh",
+          "groupId": -1,
+          "height": 749,
+          "highlighted": true,
+          "id": 1705,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Authorize | LinkedIn",
+          "url": "https://www.linkedin.com/oauth/v2/login-success?app_id=3213341&auth_type=AC&flow=%7B%22authorizationType%22%3A%22OAUTH2_AUTHORIZATION_CODE%22%2C%22redirectUri%22%3A%22https%3A%2F%2Ftt.teamtailor.com%2Fauth%2Flinkedin_apply%2Fcallback%22%2C%22currentStage%22%3A%22LOGIN_SUCCESS%22%2C%22currentSubStage%22%3A0%2C%22authFlowName%22%3A%22generic-permission-list%22%2C%22appId%22%3A3213341%2C%22creationTime%22%3A1628622712241%2C%22state%22%3A%22c52b12ffa86d253be899a5af2835adbc5199c331306bf766%22%2C%22scope%22%3A%22r_liteprofile+r_emailaddress%22%7D",
+          "width": 600,
+          "windowId": 1706
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1706": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 819,
+        "id": 1706,
+        "incognito": false,
+        "left": 726,
+        "state": "normal",
+        "top": 221,
+        "type": "popup",
+        "width": 616
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Authorize | LinkedIn",
+    "date": 1628622725479,
+    "lastEditedTime": 1628622720523,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "d1a2d076-97fc-4971-86aa-d49949e08484"
+  }
+]

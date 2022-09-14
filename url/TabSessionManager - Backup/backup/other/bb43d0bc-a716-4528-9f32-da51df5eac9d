@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2994": {
+        "2995": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2995,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Weapons of the Wasteland - Weapon Distribution Tweaks and DLC Weapon Integration at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/66115",
+          "width": 1154,
+          "windowId": 2994
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2994": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2994,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Weapons of the Wasteland - Weapon Distribution Tweaks and DLC Weapon Integration at Fallout New Vegas - mods and community",
+    "date": 1627976489536,
+    "lastEditedTime": 1627976487847,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "d5b24e4b-124f-4b2f-a183-3450f9f5286c"
+  }
+]

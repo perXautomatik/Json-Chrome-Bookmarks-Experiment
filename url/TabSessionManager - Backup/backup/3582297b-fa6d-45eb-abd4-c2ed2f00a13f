@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "354": {
+        "355": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.tamriel-rebuilt.org/sites/all/themes/tamriel_rebuilt/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 355,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "unloaded",
+          "title": "ESM, ESP: understanding master files and plugin files | Tamriel Rebuilt",
+          "url": "https://www.tamriel-rebuilt.org/content/tutorial-esm-esp-understanding-master-files-and-plugin-files",
+          "width": 1174,
+          "windowId": 354
+        },
+        "356": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.tamriel-rebuilt.org/sites/all/themes/tamriel_rebuilt/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 356,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "[Tutorial] How to merge into section files | Tamriel Rebuilt",
+          "url": "https://www.tamriel-rebuilt.org/content/tutorial-how-merge-section-files",
+          "width": 1174,
+          "windowId": 354
+        },
+        "357": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 357,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Merging mods with BSA's : skyrimmods",
+          "url": "https://www.reddit.com/r/skyrimmods/comments/8qgz5m/merging_mods_with_bsas/",
+          "width": 1174,
+          "windowId": 354
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "354": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 681,
+        "id": 354,
+        "incognito": false,
+        "left": 1920,
+        "state": "minimized",
+        "top": 359,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 3,
+    "name": "ESM, ESP: understanding master files and plugin files | Tamriel Rebuilt",
+    "date": 1627984612536,
+    "lastEditedTime": 1627984547473,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "965edca1-ce46-4f0b-bbb7-ce54b7ed46f2"
+  }
+]

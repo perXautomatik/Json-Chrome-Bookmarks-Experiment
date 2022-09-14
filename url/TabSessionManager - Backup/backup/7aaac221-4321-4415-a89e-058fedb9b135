@@ -1,0 +1,285 @@
+[
+  {
+    "windows": {
+      "203": {
+        "205": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.fsdn.com/con/img/sandiego/svg/originals/sf-icon-orange-no_sf.svg",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 205,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "INI Manager - Browse Files at SourceForge.net",
+          "url": "https://sourceforge.net/projects/inimanager/files/",
+          "width": 1110,
+          "windowId": 203
+        },
+        "206": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 206,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FellippeHeitor/INI-Manager: Library for QB64 for reading from/writing to INI configuration files.",
+          "url": "https://github.com/FellippeHeitor/INI-Manager",
+          "width": 746,
+          "windowId": 203
+        },
+        "207": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://64.media.tumblr.com/avatar_5e350c74f2b8_512.pnj",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 207,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Mille's Style: Image",
+          "url": "https://66.media.tumblr.com/db1bff043c8d2f92e34af6d7d5d9342c/tumblr_nkkn1cHM6m1th0a7uo1_1280.jpg",
+          "width": 1110,
+          "windowId": 203
+        },
+        "210": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://freesoft.dev/favicon-32x32.png",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 210,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "INI-Manager",
+          "url": "https://freesoft.dev/program/88466224",
+          "width": 1110,
+          "windowId": 203
+        },
+        "211": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.powershellgallery.com/favicon.ico",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 211,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PowerShell Gallery | IniManager 0.1",
+          "url": "https://www.powershellgallery.com/packages/IniManager/0.1",
+          "width": 746,
+          "windowId": 203
+        },
+        "212": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.sordum.org/favicon.ico",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 212,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Desktop.ini Editor v1.0",
+          "url": "https://www.sordum.org/10084/desktop-ini-editor-v1-0/",
+          "width": 746,
+          "windowId": 203
+        },
+        "213": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 213,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "ini manager - Google Search",
+          "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fg.how2.be%2Fss%2Fphpinimgr_01.png&imgrefurl=https%3A%2F%2Fhow2.be%2Fen%2Fcommunity%2Fphpinimgr%2F&tbnid=eH_IrCKr1RhGYM&vet=12ahUKEwiNqvHq-P3xAhWSzioKHS8GC5QQMygDegUIARCyAQ..i&docid=XT913NFbkT9phM&w=1072&h=779&q=ini%20manager&ved=2ahUKEwiNqvHq-P3xAhWSzioKHS8GC5QQMygDegUIARCyAQ",
+          "width": 1110,
+          "windowId": 203
+        },
+        "214": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 214,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "ini manager - Google Search",
+          "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ledman.tech%2Fwiki%2Flib%2Fexe%2Ffetch.php%3Fmedia%3Dstart%3Asap%3Alededitor4saplogon.png&imgrefurl=https%3A%2F%2Fwww.ledman.tech%2Fwiki%2Fdoku.php%3Fid%3Dstart%3Autils%3Asap%3Asaplogoneditor&tbnid=JVaDdD3cr-E1HM&vet=12ahUKEwiNqvHq-P3xAhWSzioKHS8GC5QQMygNegUIARDGAQ..i&docid=bPzu0zniOqyAYM&w=1037&h=630&q=ini%20manager&ved=2ahUKEwiNqvHq-P3xAhWSzioKHS8GC5QQMygNegUIARDGAQ",
+          "width": 1110,
+          "windowId": 203
+        },
+        "215": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.ledman.tech/wiki/lib/tpl/dokuwiki/images/favicon.ico",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 215,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Editor for SAPLOGON.INI [Le wiki de Ledman]",
+          "url": "https://www.ledman.tech/wiki/doku.php?id=start:utils:sap:saplogoneditor",
+          "width": 746,
+          "windowId": 203
+        },
+        "218": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 218,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download .NET Framework 4.8 Web Installer",
+          "url": "https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer",
+          "width": 746,
+          "windowId": 203
+        },
+        "298": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 586,
+          "highlighted": true,
+          "id": 298,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Save as Gist - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/save-as-gist/bkdmkcpliolodfhpndnocfpglldmeeop/related",
+          "width": 1667,
+          "windowId": 203
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "203": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 718,
+        "id": 203,
+        "incognito": false,
+        "left": 192,
+        "state": "normal",
+        "top": 139,
+        "type": "normal",
+        "width": 1731
+      }
+    },
+    "tabsNumber": 11,
+    "name": "Save as Gist - Chrome Web Store",
+    "date": 1627223319833,
+    "lastEditedTime": 1627223309895,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "dd3e1d0a-c7e1-4efc-857d-fcbd7a8dd024"
+  }
+]

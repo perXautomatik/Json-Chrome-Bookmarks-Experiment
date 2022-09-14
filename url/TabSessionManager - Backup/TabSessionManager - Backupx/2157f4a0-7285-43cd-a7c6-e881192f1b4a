@@ -1,0 +1,93 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/bb401db8/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1920,
+          "highlighted": true,
+          "id": 2,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(14) Which Countries Have Declining Populations & What Can They Do About It? - TLDR News - YouTube",
+          "url": "https://www.youtube.com/watch?v=KbLf9ne119w&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=23",
+          "width": 1200,
+          "windowId": 1
+        }
+      },
+      "767": {
+        "768": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210602162038",
+          "groupId": -1,
+          "height": 951,
+          "highlighted": true,
+          "id": 768,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1406,
+          "windowId": 767
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1920,
+        "id": 1,
+        "incognito": false,
+        "left": 1920,
+        "state": "fullscreen",
+        "top": -620,
+        "type": "normal",
+        "width": 1200
+      },
+      "767": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 993,
+        "id": 767,
+        "incognito": false,
+        "left": 154,
+        "state": "normal",
+        "top": 29,
+        "type": "popup",
+        "width": 1422
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+    "date": 1622760430793,
+    "lastEditedTime": 1622760430793,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622741471669,
+    "id": "a59d7d10-d5e0-4685-8255-98a85b2e704f"
+  }
+]

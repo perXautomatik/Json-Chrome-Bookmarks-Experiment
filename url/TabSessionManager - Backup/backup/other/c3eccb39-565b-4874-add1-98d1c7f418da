@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2337": {
+        "2338": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2338,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Adam's Vision Redone - Loading Screens and Main Menu Replacer for TTW at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/64423",
+          "width": 1154,
+          "windowId": 2337
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2337": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2337,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Adam's Vision Redone - Loading Screens and Main Menu Replacer for TTW at Fallout New Vegas - mods and community",
+    "date": 1627156313658,
+    "lastEditedTime": 1627156312517,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "197342cd-fde9-4be7-8d1a-5a38c1e551dc"
+  }
+]

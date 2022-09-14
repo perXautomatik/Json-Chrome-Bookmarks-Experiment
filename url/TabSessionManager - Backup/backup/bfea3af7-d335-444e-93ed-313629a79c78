@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1391": {
+        "1389": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 860,
+          "highlighted": true,
+          "id": 1389,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "sh - Tree of inheritance of Git branches - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/49478015/tree-of-inheritance-of-git-branches",
+          "width": 1148,
+          "windowId": 1391
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1391": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 948,
+        "id": 1391,
+        "incognito": false,
+        "left": 829,
+        "state": "normal",
+        "top": 60,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 1,
+    "name": "sh - Tree of inheritance of Git branches - Stack Overflow",
+    "date": 1630509944370,
+    "lastEditedTime": 1630501498491,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630484833118,
+    "id": "c757d7e5-e66c-4d64-8655-539c03b7469c"
+  }
+]

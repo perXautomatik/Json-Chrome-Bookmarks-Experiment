@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "690": {
+        "691": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.appuals.com/wp-content/uploads/2021/06/cropped-cropped-512-1-32x32.png",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": true,
+          "id": 691,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Fix: Application Load Error 3:0000065432 - Appuals.com",
+          "url": "https://appuals.com/fix-application-load-error-30000065432/",
+          "width": 1100,
+          "windowId": 690
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "690": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 896,
+        "id": 690,
+        "incognito": false,
+        "left": 773,
+        "state": "normal",
+        "top": 63,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Fix: Application Load Error 3:0000065432 - Appuals.com",
+    "date": 1631039457202,
+    "lastEditedTime": 1631039457202,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1630969783792,
+    "id": "80a439c3-b2c8-42a5-86de-15ea8e79d701"
+  }
+]

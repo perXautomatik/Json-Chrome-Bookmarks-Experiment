@@ -1,0 +1,125 @@
+[
+  {
+    "windows": {
+      "629": {
+        "630": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s.discogs.com/7bb5c71a14c5a4b5e2f5f9370949a0d7f1201d6f/images/favicon-32x32.png",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": true,
+          "id": 630,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Hamish McDonald | Discography | Discogs",
+          "url": "https://www.discogs.com/artist/7163-Hamish-McDonald",
+          "width": 1064,
+          "windowId": 629
+        },
+        "631": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s.discogs.com/7f87d8b433b9c7c0f699f838e39ec2019e7e0c01/images/favicon-32x32.png",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 631,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Mark Arundale | Discography | Discogs",
+          "url": "https://www.discogs.com/artist/1385039-Mark-Arundale",
+          "width": 1064,
+          "windowId": 629
+        },
+        "632": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s.discogs.com/7f87d8b433b9c7c0f699f838e39ec2019e7e0c01/images/favicon-32x32.png",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 632,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Sophie Chery | Discography | Discogs",
+          "url": "https://www.discogs.com/artist/934544-Sophie-Chery",
+          "width": 1064,
+          "windowId": 629
+        },
+        "633": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 633,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "sexbeat - Google Search",
+          "url": "https://www.google.com/search?q=sexbeat&qs=n&sp=-1&pq=sexbeat&sc=0-7&sk=&cvid=75B87B1118D14F78876732B0CE011072&first=11&FORM=PORE",
+          "width": 1064,
+          "windowId": 629
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "629": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 831,
+        "id": 629,
+        "incognito": false,
+        "left": 1992,
+        "state": "normal",
+        "top": 335,
+        "type": "normal",
+        "width": 1128
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Hamish McDonald | Discography | Discogs",
+    "date": 1629106408214,
+    "lastEditedTime": 1629106246631,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1629105972374,
+    "id": "6f96455a-2d83-4203-b105-f6bd480ae3fa"
+  }
+]

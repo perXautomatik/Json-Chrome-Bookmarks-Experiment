@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "288": {
+        "9": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 9,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Shock the audience",
+          "url": "https://open.spotify.com/album/1o1i4gcx5Nkq4kYcM4AnkH",
+          "width": 1434,
+          "windowId": 288
+        },
+        "294": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/bd9d1675/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": true,
+          "id": 294,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(2) 5G Debate with FE Pilot Quincy Carr - YouTube - MCToon MCToon",
+          "url": "https://www.youtube.com/watch?v=5wAdq5SsKUc&list=TLPQMjQwODIwMjFrSg439o6_sQ&index=11",
+          "width": 1434,
+          "windowId": 288
+        },
+        "301": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 301,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PerAutomatik's profile at Nexus mods and community",
+          "url": "https://www.nexusmods.com/users/6545719",
+          "width": 1434,
+          "windowId": 288
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "288": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 831,
+        "id": 288,
+        "incognito": false,
+        "left": 1978,
+        "state": "normal",
+        "top": -215,
+        "type": "normal",
+        "width": 1498
+      }
+    },
+    "tabsNumber": 3,
+    "name": "(2) 5G Debate with FE Pilot Quincy Carr - YouTube - MCToon MCToon",
+    "date": 1629837591869,
+    "lastEditedTime": 1629837591869,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629772774244,
+    "id": "ea6a7f70-39c4-4153-ab23-02a5c8d339fb"
+  }
+]

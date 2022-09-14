@@ -1,0 +1,401 @@
+[
+  {
+    "windows": {
+      "769": {
+        "386": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 836,
+          "highlighted": true,
+          "id": 386,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Mod categories at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/categories/4/?BH=5",
+          "width": 355,
+          "windowId": 769
+        },
+        "394": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 394,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "xEdit Cleaning Extension at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/61?tab=files&file_id=1117&nmm=1",
+          "width": 1872,
+          "windowId": 769
+        },
+        "396": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 396,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download Game Assigner at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/224",
+          "width": 1432,
+          "windowId": 769
+        },
+        "397": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 397,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Modlist Backup at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/67",
+          "width": 1432,
+          "windowId": 769
+        },
+        "398": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 398,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Vortex Showcase at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/145",
+          "width": 1432,
+          "windowId": 769
+        },
+        "399": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 399,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Compare Profiles at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/148",
+          "width": 1432,
+          "windowId": 769
+        },
+        "400": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 400,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Vortex Showcase - Extended Formats at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/182",
+          "width": 1432,
+          "windowId": 769
+        },
+        "401": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 401,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Fully Virtual Deployment at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/37",
+          "width": 1432,
+          "windowId": 769
+        },
+        "402": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 402,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Import from Steam Workshop at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/114",
+          "width": 1432,
+          "windowId": 769
+        },
+        "403": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 403,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Add Game Wizard at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/155",
+          "width": 1432,
+          "windowId": 769
+        },
+        "404": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 404,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Modwatch for Vortex at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/152",
+          "width": 1432,
+          "windowId": 769
+        },
+        "405": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 405,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "File Preview with WinMerge at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/151",
+          "width": 1432,
+          "windowId": 769
+        },
+        "406": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 406,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Import from Bethesda.net at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/120",
+          "width": 1432,
+          "windowId": 769
+        },
+        "407": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 407,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Gamebyro Settings Shortcut at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/103",
+          "width": 1432,
+          "windowId": 769
+        },
+        "408": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 408,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Builtin Mod Browser at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/88",
+          "width": 1432,
+          "windowId": 769
+        },
+        "409": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 409,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Archive binding fix at Modifications for the Nexus Mods website and software",
+          "url": "https://www.nexusmods.com/site/mods/25",
+          "width": 1432,
+          "windowId": 769
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "769": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 923,
+        "id": 769,
+        "incognito": false,
+        "left": 255,
+        "state": "normal",
+        "top": 117,
+        "type": "normal",
+        "width": 1186
+      }
+    },
+    "tabsNumber": 16,
+    "name": "Mod categories at Modifications for the Nexus Mods website and software",
+    "date": 1627309535353,
+    "lastEditedTime": 1627309524028,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "10e8fc13-67ff-4a4f-a4ec-5c5c2f2fdf09"
+  }
+]

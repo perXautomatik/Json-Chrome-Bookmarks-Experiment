@@ -1,0 +1,217 @@
+[
+  {
+    "windows": {
+      "28": {
+        "29": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/unreadcountfavicon/3/20+.png",
+          "groupId": -1,
+          "height": 861,
+          "highlighted": false,
+          "id": 29,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "jobb - christoffer.broback@gmail.com - Gmail",
+          "url": "https://mail.google.com/mail/u/0/?hl=sv#inbox/FMfcgzGkbDVqjDswjkmzMDQvPGpFjHhV",
+          "width": 1100,
+          "windowId": 28
+        },
+        "30": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.gotland.se/images_gui/_/icons/favicon.ico",
+          "groupId": -1,
+          "height": 861,
+          "highlighted": false,
+          "id": 30,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Systemförvaltare - Region Gotland",
+          "url": "https://www.gotland.se/ledigt_jobb/C675049A-30D5-465B-A557-8B28BF731B89",
+          "width": 1100,
+          "windowId": 28
+        },
+        "31": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://recruit.visma.com/favicon.ico",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": false,
+          "id": 31,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Logga in till befintligt användarkonto - Rekrytering",
+          "url": "https://recruit.visma.com/Public/Login/Applicant.aspx?ReturnUrl=%2Fspa%2Fsv%2Fapplicant%2Fapply%3FguidAssignment%3Dc675049a-30d5-465b-a557-8b28bf731b89%26newAccount%3D1",
+          "width": 1100,
+          "windowId": 28
+        },
+        "32": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://recruit.visma.com/favicon.ico",
+          "groupId": -1,
+          "height": 861,
+          "highlighted": false,
+          "id": 32,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Logga in till befintligt användarkonto - Rekrytering",
+          "url": "https://recruit.visma.com/Public/Login/Applicant.aspx?ReturnUrl=%2Fspa%2Fsv%2Fapplicant%2Fapply%3FguidAssignment%3Dc675049a-30d5-465b-a557-8b28bf731b89%26frameablegui%3D",
+          "width": 1100,
+          "windowId": 28
+        },
+        "33": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "groupId": -1,
+          "height": 861,
+          "highlighted": false,
+          "id": 33,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "DWService - christoffer.broback@gmail.com",
+          "url": "https://www.dwservice.net/session.dw#s",
+          "width": 1100,
+          "windowId": 28
+        },
+        "419": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": false,
+          "id": 419,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "My Map Free",
+          "url": "chrome-extension://pklnbjkiadglpemlgdaheegaehhlehlp/ex/ex.html",
+          "width": 1100,
+          "windowId": 28
+        },
+        "420": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": false,
+          "id": 420,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AM_Delta.exe - Google Search",
+          "url": "https://www.google.com/search?q=AM_Delta.exe",
+          "width": 1100,
+          "windowId": 28
+        },
+        "642": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://magic.wizards.com/sites/all/themes/wiz_mtg/icons/favicon.ico",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": true,
+          "id": 642,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Innistrad: Midnight Hunt | MAGIC: THE GATHERING",
+          "url": "https://magic.wizards.com/en/articles/archive/card-image-gallery/innistrad-midnight-hunt",
+          "width": 1100,
+          "windowId": 28
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "28": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 896,
+        "id": 28,
+        "incognito": false,
+        "left": 785,
+        "state": "normal",
+        "top": 64,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Innistrad: Midnight Hunt | MAGIC: THE GATHERING",
+    "date": 1631031357211,
+    "lastEditedTime": 1631031357211,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1630969783792,
+    "id": "6746f996-3ed4-4d86-b0be-66b339140710"
+  }
+]

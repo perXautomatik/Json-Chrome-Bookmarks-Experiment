@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "3025": {
+        "3026": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3026,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "SUP NVSE - DELETED at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/71878",
+          "width": 1154,
+          "windowId": 3025
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3025": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3025,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "SUP NVSE - DELETED at Fallout New Vegas - mods and community",
+    "date": 1627976508440,
+    "lastEditedTime": 1627976506620,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "9ebf52da-05cc-47b1-a402-ead860622166"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "2334": {
+        "2335": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 837,
+          "highlighted": true,
+          "id": 2335,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Dear God, I Hate Myself · Xiu Xiu",
+          "url": "https://open.spotify.com/collection/tracks",
+          "width": 1133,
+          "windowId": 2334
+        },
+        "2336": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 837,
+          "highlighted": false,
+          "id": 2336,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1133,
+          "windowId": 2334
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2334": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 924,
+        "id": 2334,
+        "incognito": false,
+        "left": 2234,
+        "state": "normal",
+        "top": 66,
+        "type": "normal",
+        "width": 1197
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Dear God, I Hate Myself · Xiu Xiu",
+    "date": 1625038231267,
+    "lastEditedTime": 1625038231267,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1624961591940,
+    "id": "9a63341d-b39b-436b-8f1b-eab5d0dc7e34"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1148": {
+        "1149": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 933,
+          "highlighted": true,
+          "id": 1149,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Chrome Web Store - Extensions",
+          "url": "https://chrome.google.com/webstore/category/extensions",
+          "width": 929,
+          "windowId": 1148
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1148": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1020,
+        "id": 1148,
+        "incognito": false,
+        "left": 10,
+        "state": "normal",
+        "top": 10,
+        "type": "popup",
+        "width": 945
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Chrome Web Store - Extensions",
+    "date": 1627468738440,
+    "lastEditedTime": 1627468735364,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "3bc64332-10b7-4df5-a0b6-2dccf6aa100a"
+  }
+]

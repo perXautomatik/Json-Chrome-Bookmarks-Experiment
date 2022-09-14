@@ -1,0 +1,128 @@
+[
+  {
+    "windows": {
+      "238": {
+        "237": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bettertechtips.com/wp-content/uploads/2018/03/cropped-newava-32x32.png",
+          "groupId": -1,
+          "height": 482,
+          "highlighted": false,
+          "id": 237,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "9 Best Chrome Bookmark Extensions – Better Tech Tips",
+          "url": "https://www.bettertechtips.com/google-chrome/chrome-bookmark-extensions/",
+          "width": 1110,
+          "windowId": 238
+        },
+        "239": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 924,
+          "highlighted": false,
+          "id": 239,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 237,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tagpacker's \"Pack It\" Button - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tagpackers-pack-it-button/nohjijligchgbabiimogbigfkjmhekdm/related",
+          "width": 1872,
+          "windowId": 238
+        },
+        "244": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 924,
+          "highlighted": false,
+          "id": 244,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 239,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Bookmarks Tagging - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/bookmarks-tagging/kmdepbjjhlbhohppiancfgdpkjcoajgb",
+          "width": 1872,
+          "windowId": 238
+        },
+        "247": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 437,
+          "highlighted": true,
+          "id": 247,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 239,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Trove Bookmarks - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/trove-bookmarks/ncdpfaefabdipmdhaadggjfammeaooeb",
+          "width": 1110,
+          "windowId": 238
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "238": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 569,
+        "id": 238,
+        "incognito": false,
+        "left": 304,
+        "state": "normal",
+        "top": 484,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Trove Bookmarks - Chrome Web Store",
+    "date": 1627223388579,
+    "lastEditedTime": 1627223309895,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "4f1daa4a-a8e4-4ce7-a8a9-e36eb8511462"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10367": {
+        "10368": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10368,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Root Builder - Mod Organiser 2 Plugin at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/43814?tab=files&file_id=203323",
+          "width": 1154,
+          "windowId": 10367
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10367": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10367,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Root Builder - Mod Organiser 2 Plugin at Fallout 4 Nexus - Mods and community",
+    "date": 1622643314851,
+    "lastEditedTime": 1622643311766,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "0586861a-3e95-425c-b975-45a4e11031e3"
+  }
+]

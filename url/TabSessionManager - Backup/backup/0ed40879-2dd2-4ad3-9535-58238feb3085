@@ -1,0 +1,263 @@
+[
+  {
+    "windows": {
+      "1071": {
+        "1072": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACzJYIvAAAAFXRSTlMA/2Ag4KBROZDGAuvbFK32CST9cJ2k7uEbAAAAoklEQVR4nIWTSRKFIAwFf5xwxun+Z/0koG7ynlnSqbLtgp87nX/88ovzECvK90lqxpdZGsa3QaQlfFxFhCn0iTOFUzlR6A5dwAohKscKKYANUkgBbJCCBrABChaAKVgAqqBTP1u9v1DdfB39hbbwYQOfaDKfF64w7cgxK8QAf8IUDnKlTeHE3BRAgEcBBbgVYICiAAMUBRwgK5AANtfnm3ZP/zRJA33pFUT1AAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 695,
+          "highlighted": false,
+          "id": 1072,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Dubolt - Discover new music on Spotify",
+          "url": "https://dubolt.com/",
+          "width": 1136,
+          "windowId": 1071
+        },
+        "2254": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 796,
+          "highlighted": false,
+          "id": 2254,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Magic: The Gathering (MTG) - Mana Land Mix Calculator (",
+          "url": "https://www.playedthegame.co.uk/mtg/",
+          "width": 1136,
+          "windowId": 1071
+        },
+        "2263": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2263,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Fork a file within a Git repository - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/11366428/fork-a-file-within-a-git-repository",
+          "width": 1136,
+          "windowId": 1071
+        },
+        "2264": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2264,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sexbeat - Google Search",
+          "url": "https://www.google.com/search?q=sexbeat&qs=n&sp=-1&pq=sexbeat&sc=0-7&sk=&cvid=75B87B1118D14F78876732B0CE011072&first=11&FORM=PORE",
+          "width": 1136,
+          "windowId": 1071
+        },
+        "2279": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 656,
+          "highlighted": false,
+          "id": 2279,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1136,
+          "windowId": 1071
+        },
+        "2280": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/e9a67dcd/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 695,
+          "highlighted": false,
+          "id": 2280,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "I Set Off So Much Dynamite It Ended Reality in Astroneer - YouTube - Let's Game It Out Let's Game It Out Verified",
+          "url": "https://www.youtube.com/watch?v=MjiZrDrGCcc&t=971",
+          "width": 1136,
+          "windowId": 1071
+        },
+        "2281": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 695,
+          "highlighted": true,
+          "id": 2281,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/searchEngines?search=search",
+          "width": 1136,
+          "windowId": 1071
+        },
+        "2282": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 544,
+          "highlighted": false,
+          "id": 2282,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "replace filetype:pas - Google Search",
+          "url": "https://www.google.com/search?q=replace+filetype%3Apas&hl=en",
+          "width": 1111,
+          "windowId": 1071
+        },
+        "2296": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 2296,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Spotify – Overdue Radio",
+          "url": "https://open.spotify.com/playlist/37i9dQZF1E8AU7k5E7rX3M",
+          "width": 1152,
+          "windowId": 1071
+        },
+        "2297": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.last.fm/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 2297,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2296,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "LaFM konstruktor_k/obsessions/2954451",
+          "url": "https://www.last.fm/user/konstruktor_k/obsessions/2954451",
+          "width": 1872,
+          "windowId": 1071
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1071": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 782,
+        "id": 1071,
+        "incognito": false,
+        "left": 728,
+        "state": "normal",
+        "top": 56,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 10,
+    "name": "Settings",
+    "date": 1629102671922,
+    "lastEditedTime": 1629102617333,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "abcf30e3-c739-41de-8d87-a8ffe4911a59"
+  }
+]

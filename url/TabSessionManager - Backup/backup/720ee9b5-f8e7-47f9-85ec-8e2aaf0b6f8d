@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "8205": {
+        "8202": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico",
+          "groupId": -1,
+          "height": 887,
+          "highlighted": true,
+          "id": 8202,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(20+) Facebook",
+          "url": "https://www.facebook.com/",
+          "width": 1135,
+          "windowId": 8205
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "8205": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 974,
+        "id": 8205,
+        "incognito": false,
+        "left": 236,
+        "state": "normal",
+        "top": 84,
+        "type": "normal",
+        "width": 1199
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(20+) Facebook",
+    "date": 1624437532143,
+    "lastEditedTime": 1624437464664,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1624310197137,
+    "id": "cf18b39a-d64f-4b27-be4d-44548cce3b77"
+  }
+]

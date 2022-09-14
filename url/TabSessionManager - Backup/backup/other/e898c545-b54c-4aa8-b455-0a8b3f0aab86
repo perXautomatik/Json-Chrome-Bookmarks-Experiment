@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2565": {
+        "2566": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2566,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Forlorn War at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/71691",
+          "width": 1154,
+          "windowId": 2565
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2565": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2565,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Forlorn War at Fallout New Vegas - mods and community",
+    "date": 1627156434212,
+    "lastEditedTime": 1627156432428,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "c8e0fe31-9526-46ff-a19e-6b7da4e05d47"
+  }
+]

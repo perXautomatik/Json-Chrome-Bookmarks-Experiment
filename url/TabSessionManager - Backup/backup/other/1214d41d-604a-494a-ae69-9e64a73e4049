@@ -1,0 +1,239 @@
+[
+  {
+    "windows": {
+      "1579": {
+        "1591": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1591,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Releases · Dijji/FileMeta",
+          "url": "https://github.com/Dijji/FileMeta/releases",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1602": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1602,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1608": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://jkjjclfiflhpjangefhgfjhgfbhajadk/icons/icon_min.svg",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1608,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab Session Manager",
+          "url": "chrome-extension://jkjjclfiflhpjangefhgfjhgfbhajadk/options/index.html#sessions",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1632": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAA4ovo5rvgnX+Ywce40y/8iVeAA//8bz+k2lfpKr/Azmf8wwfo0ifc2g/ElxvQtaelAk+5OvvU5rfkyefM1ifc2fulRx/k4oPsv0uA3vvc6uPdFoO46vfgxjfNS2tYzjfhPwfcpuf9Vqv8tZukyv/k7tPU+tvY0o/gAAP9EsvAtaOs9te5OxvxV0f0xwPxU0Ps+lO4xc/AmedsoXOVO0dk4u/g7k/IzZv85vvog0Oc4gOs2vfuA//8xqvNFn+4yeOsqZOkdy+4xnvM7fvdFouwYzuo/uv8iZNovc/Q4vfgvb/EuwO4xgOdA1twzvv0v3t5V0/tCm+tLtfYhzeg+yNw6jOoyffQpj+Igwu0rv/hL0/8kYedW1/9LtfMct+OAgIAAgP81091V1aoAgIBLuvUqVdUqqtVV1f8vduJJktsbz+QAqv9HrO4zZuZV//9V3cwA1f8kbdtIrdkzzMwu0f9mzMwcxvEhrt5Uz/xEpe9A2eYxcO5Owtg+kPJAn/8F99CBAAAAgHRSTlMApqampgalAaWlpQWkpqakpaWmkqGVo6WToxampZsVLTaXDASXazWZNgEWOw8RgJWhFBWamZNUkwU1IHl5AxUtIJGLFQ+UnQqhNoeTFlSJQQggalVxpDyRCVQwCBUzk38CAlIGAn0GBgZoBzADbAoDDwYHNQULBRKhT08UhmiHCDhsr4wAAAHASURBVHicndP3U9pgGMDx1BBChUIASSFh1IRUZMouw1JAWWqpo+Iq3a177/mv+z4RTaLJeef3p9w9n3vHJcHu4ifDBNl7VusnI7QyDKENjO+HWE8xF9ZchMh5WJZFi2gJAq2AGspo7YJAH4ptfdQEdgB99peDwDPAGLC/guxVjKjfqFzFGHCKwFklckKb4Z4QCXBFT6zYZv4PawBvXTCZTDFh6WRTCd45X0NOL9eOIWGpzOX3lMAhgqyXZFoALLXKxhcleAM5vNhRBuYGg2EuLzuqDPBLMYsIXL9kSxibHTPUSWAYJ9zNXZ8vJPCh2RmAAPCTi5VaDYBvRwYmdNAEAhjJ5Re/n7q+pn2H6mB44dNUspFE4FgCIT8FlVcwrF6dLySphj6Z9o0+gH+hFA6VV8hwaSZL0xSub6R9Px7Afg+kEsHZcbfVTOsovHG1K91ifd6vh1Lnf7v9bqvVjED54LcEyHgBR3Oc7tr6RUDr/Gtx+cuoz2b9FO222Xpg4DKU+CMHo9PRt1APOArN7UdfxPK36MjIPbieGhtTjlERUQAYnyktqP1hq9Nn0cHBbnerFOdVxnCO5UgkEgwGecXut89jTPEGBRLJAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1632,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "smartphone as smartfridge - Bing",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=smartphone%20as%20smartfridge%20-%20Bing&url=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dsmartphone%2Bas%2Bsmartfridge%26cvid%3D7923f82171ed4857bb980350c090d3d6%26aqs%3Dedge..69i57.60073j0j1%26FORM%3DANAB01%26PC%3DU531&tabId=1583&sessionId=1622847893290&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQAUlEQVR4XuWbe4xU133Hv79z7tyZ2V12Wd6PBduMsfFibCjG%2BEG8uI6VR%2BNWkUrUKKJNmraS1UZK%2F6jUqorEVlXaSJWaJn2pjtq4Sh8yf7SxolSO8xjA77BmjTHGzoKdGLABe70s%2B5i595zftzp3ZoHFJrN3vUlMO%2BJqZvYMc%2B%2F3c76%2F3znnd%2B4I%2Fp8%2FJJd%2BUnYA5vXHznY6tcsibzuNhXUp06hgR1wtPdvlO87%2Bz0elnut7f4EfzgVgB2mPDaBYmJhYZzw%2BIpAbRNAO5dskDxL2IJw79MSH5p3%2BBWrKdepcALb%2F4JXSpF%2FcZY3eZsR%2BmsAWAdohMgzyoAKDQhwA9KhTedNNjp5bM7m8vvsT4nNd1c%2Fxw7kAbP32W51xHPeoNR8Q4jcBbAIQgUggGAFxipAfQ%2Fg8lI%2FZgjkyPjry1sB9KyZ%2BjppynSoXgG372M3JiYoY6YNwJ4ibp59NagBHCHkZ4GMiMgjHY0KctMW2t6t3h%2Fb312N2AGD7aPQdAATwBFIQ50TkTZJDgOynyID1%2Ftl9H25%2F%2Ff0lH8gH4FvspkxUpGD7SN0JXOqAS%2BQJToF8nsTTEPN9S33x%2FeaE2QGwto%2FAToCXhMA7%2BjdY%2FizJl0HuhbFPWry%2FnDB7AMROsCWAKSJvEPIcyT2IzH89%2BaHikfdLKOQH4Ccq0nQAWztgSmcYBc6QugeQv3vyvrZnrmgAtLZPiJ2cqQMkzAOYklI1hl98%2FGPlfVc2ANg%2BEckBAASgIPdQ8GdP%2Fmp5zxUPAJA8OSDTS6BKsv%2Bpj5erVyyApDZRiaztA2UnWw2D71ApVXrf%2F9SOKxyAiO0TyE55x0ywVb9Klfy%2FAICNHDArALiSAfwbuxMzUZHI9onKTskbAtIMgU9eqSEwBcCEYXAWANAMgSsewHsJgZAEdzYcsOMh2uM9iGsOHdZhgVVYR4zFHmNnRzF2%2BBOStMoq77U930wwOCDMBIMDwjCYNwQgVYQk2ARw%2BxMsYxILnOBaAW4VRZkGQ0oMFVIMPflhGX6vAlv9%2F9kBQNwnWT1gxmuBxnWIVBGSYBPAlh9wGYCNUNwixG0QtFEwBNGXBTwC2tdoMawJRtGNiYFbJG0lKG97fgC1tCIF6RMyvwMEVYQQ%2BEwjBLb8gBuN4tMAtlGwFERMwRiEw4SegshLSj6TGn84TuKfDNwrZ%2FMKbPX52QHI1gKhHpDTASEEgP6nPlPIAGx9lKHXPw%2FBdgJdBEoQhhljIsJxFbwSAHjRgzD%2BZUbmhK%2BnI8DE2BIsrlXvFtdKYKv22QGA7YPMoCDyzrNXxaP%2Fqd9tANjyHW40Bp9mACC4CuD8sGgI6waCjgbjBIe96Ek1fEWBFwXpIKwfYr3%2BxuG7l4y1EtiqPR%2BAvw%2FzgDRbDs8aAC8AuPW7vM4AH1NhALAZwIoAIPOAABrcIAoVjKnoKQWHvPGDCj2SGv%2BqE3MijvzpY8e6x7ADCpEmv1ayL7TPDoDYPmAWDhA0HHB%2FwwF3focrfIRbFLqdkF8BcB0bIZBBCAAaEOhUWFPRMW90xBu%2B4UV%2FrKIH1PD7SMaHjh%2FvSTCL8vvsALAJIO9aIAAIOaAJYPOj7IpjrPaqfYT8FohNKjSZ5IZw%2BCYEzZxAeBOeMxCnvNGDzvK7ifUHRJOflCcwnBdEfgA%2BzeYBWVE05zAoIlUJIfC5hgM272cBb6PNRv4DBD5PyJ0ECgTtVO9PCddMeAOAE3Xeas0bHfbiT3irAwb4dlHdQQQId6yanGkQzAoAOTUM5hsF2FwL7P%2FD6WuBW77HWyH6B41kyIUE294NgBfNAJx%2FNvRqfUro4YLhw5EJexHu8K2Hrjq9e4Y5IT%2BA2kSFiJs5IB8ACKoE%2By8FsGkve43TX4fhdhWsJ7jkfM9nIXCJ8OZ7tSRE1RqeLtC%2FWDB8jKoPLxkzh3uO9yQz2ZLLBWDDX7A7Ms2CyCwqQhkAsn%2F%2FH013wJY9XOXV30GTDYf3KrQSRIcc0HDCdAAuuMCEdoXNDk4WoW9Hhj%2BM4P%2Bz3cvTNZROH7x52XirUJgdgDAPQI6i6IWrqILo3%2F8n0wGEZIgYqx3T7TD4jIIhGTYBNMVfZP0pACKKQjhAH4smBeFLMfSRgtF9HvbZgd6rW%2B5E5QfgJyomK4lhp1BbbYxM74CwFvDo3%2F%2BF6QB6H2Isneiw5fo2ivw%2BBXdQtOSFUdb7Uw5o9nw2EhiFEUURiliIOIPBkzF0oGBYNcC3Hruh8vLcOyAAoGQAZjMVFvX9%2B3fNm14U3UXT24vILHW3iNHfUehdKliqoh3Tk17DDUF86P1ILohvQhiNwRMRWAX0a%2Ft61z47xwBGuqM6KkZDEpzNYkiqIu8CoHmVN%2ByprbUGH6Xo7Sq83gtXetFOb3wxG%2F6aDoBhJj7YvyH8vAOSInU8Eu6Dka8saoufQE9Psjvbl3j3R74Q%2BOOR7siiYiTuYwCQex4QJkLs3%2F%2FnlzigeW2bHx3uSuJ4tYu4XoHbvHCTt7zBi1%2BcOaF5GOFF4qe5QIuizgqejlT%2FITLcW25rG9696vLzgvwAFBVjoplujk7DzlASA%2FsH%2F%2FLdATQqRMfjUXSurNNspNWbvOF6b3SlE21T%2BHYK2wy0rai%2BHAsLcYEoRg0HxGiAiYABSz4QiYZQO%2FnwunXn5s4BigoQ9UG5E5JzHpDVBNE%2F%2BFfvDgDhJqzdMC8sPlNOyh3zPWoLVMwiH6XLU8PVUF5lvL%2FapLq6MOlWxhE7S51AsYQGgOAMMAyLByLBv5SsrwLxT3ZXKpetI%2BR3QD0AMH0Q7MyxOdroADZKYoNf7p7ZztBDtD09x2MZiVcAfgMT3iSp3mzqep3U3Sobs7PUBS11AeVOmGKREhvCGgxGog8W6KtpIXn1v6%2FZNDJ3DggA1PQx1APyLoaAKoQzB0AKdsOsO%2FHqKp2wt6nnViZ6m6a%2B4hPtpNHItLHethzovt4W25eIjSMishy0wgftnAO4v5EEVTiriZBAstXg4N%2F%2BdAds38UoLb9Z1rTWmSgWeMc1vobNPvUbXZ0bfKrL07oWvFfS%2BnpxqbD7RhN1XiW2vRs2LuM5K%2F7BmKzGheTVr8%2BZA%2B4f6aamFWujPs1qgrPJAb7%2F0D8u%2FqkhcOeXzsxTm670HuvocKum7HUpV2udS12iXa6uZVdX8amH96q2na60DEnnGsjiG1BqXySHrOiD9mcFAGzkgLzDYFgLhBC4FMCuXTRPLxgq6LIl7ZPj9YVa8yvppKJ13eBTs0VTrWjCLpew5BPCJwpXV7hEs9cU70ybTnZVgJ47UJ7XI89Z6gM2ctU4KZ785zkbBYID6hMVmEI2E8y7OyxZDkD%2Foa9Nd8BHvvKjYrRo6bwxN1GBM1t9gpvoUGHKlS7hAk3QrgkLLmG2%2BA2iA4gpAN6rJ1zauYa4%2BpdR6Lqazwj410XUqx2YN%2FrVtWsve%2BturlFg%2FWdfWxAhutap2Q7iUwRuajXVvLg95AAP33%2Fk68uzELj9odfKHcVSN%2BpcYhmtcM73%2BoS3M5VeTblSU87TBPApoFnPN48MwkUAnKpPvZ%2B32rtr7tV691o8RuJv0vLI4%2Bg5nuyWT8zNTHDz751c5GN7vatxu0%2FwG1TcmAcAggPA%2FiPfaAC495tnVkSmuFkTvxHO3ahOrtGUyzTFfE1QVsfoAgBkorUpPjghc0DDEfTOs2O5H73qHvfagl7uNcZ%2FvbbmxQO7seOnFktzOWDTF88ttolbnwwn291Z3RGSU1bAnGEtVgweL3aZL63c0XnAUheixrVe%2FVakuFlTv45el2giBXUwocc16%2FkpB4RnNt8TPm2EQfa3NABQlhe6kz197odLNvo9avHtf6%2F0%2FqhVB%2BUCcM8DY0tTg5snf1zbXnst%2BbircZ0PFfwZArCxPNt5bfzA0rvaz6jXO8VxPT1X0usipjpPUy15B2ECycS%2FG4Ds7w3h5wE4qjrvCx3uyPKt6TdXbKvv9REO%2FseaDafmFMCHHuICmsm14y%2FV7qqdqH8yHdcN9Zpa70LtpnET0LSHNG5FFQOaSLQ43x7tvqnte%2FNviJ063kmvFTq20WmBqUJdw%2BJBOM%2BLl4tANF3RBDAFgp4JxY9HRd0%2F%2Fzr3jas%2FNvlEvY43dq9f33LjJJcDdjzEeBTomBwa2abjyefqY3r72BlXTCZ8dDkTiABRLL7cYettKwrjnTeW3y4ujQyVC%2Bm0gymtOjVMw16QNsRe1PuN1w0IDbtPtU%2FZP2yi6DlT8idtyT9e6vL%2F2vNrEwNnTp%2BuVe%2B%2Bu%2BXWWS4AU717z5ff3CJi76%2Bfc33nTiaLk1FfdnVPdVk%2BMKHbjYXaWBAVrYk7rJYX2LRtWQHFVXEx6jA2DFz0Gu4ezISH54sdcEFo0wEXg0lBn5LqOK6pviWGx21HejRq02fUFh8Z%2BMLSo62sP9U%2BKwD3PVJfJ8DH62%2FV75o8Ue%2Btv5kurL2VuuScFzoUxAKFdpvE3RalRXGhuKgQxfMjieYZY0piRCDnATiehzBl%2F%2FMhcF70RRBclgPUp0jV8VWf8ElSny20pS%2BaBdErk%2F7NU4d3tbb%2BewKw4yWuVGCLP5V%2BIDlV%2B2DydnpN%2FS2nadjBS5kBiNptUpxvUVxUKBS6ooLtiCwsDMMN9V4xDUAGIdi%2FafHgpEvEN96L05R1dRjRBK%2BrxyHvsTd1GIxLeGXwy92XXfXNyWpw6kt2vMAOAMt8zW%2BTuv42HX%2FJJRrRZwJN%2BFwIAYkEEomRSASh30nJA6Ap%2BnwOoMO4dzjDBC86hz1MZdA7eUUK%2FrSdmD8%2B8E%2F5b6CYVQiEH0%2FVBlAsl7BJDD4FwZ1UrgLQFZI%2BlEISVIDKcJMsgvCp44IDsk3wZg6YGgUavZ%2BJd0KfgHQyqamc9Slfp5cfacpBer9PXeHls8mpc0NfvfxUt1UumBWArHITOvkQVqhgIwy2CfhhEteHqhRIkx9AIwlmyTADkMW9qpNUHV7XhM%2F7FAeg9odJPRmyiM8Mj50aG1p4bYpdoq2EzmkITH3ZffvZVipjkQk%2FnhLcR%2FIWACuh7AqVKVWG4W6GDrgIgIPTFJNMZVhTyXrd1%2FU5JnLQRdHBp%2F%2B0o%2BUEZ6ZAZueA5rdPhUJbF5b7BDcaYCvBe6C8HmQbFYX8ABDC4pymOKFenmfKqkvlBUmj03Unw%2BX0zNnqrmvm7MdX7wnApU5QwY2i%2BkGhbAC5lIpuKjugLNGjEPZypyfB8znAMdVJdRhjylF18rqmOArlgTTB3vG4%2B%2BiabvxMfn84JwCmnFAoYEGhgB7n%2FbWi0iuU61R9hR7LRdGlXkuXAXCOKU%2Bo02Oa4gWoeUnrPOqS9HgURWe6u7vHZrrdPVPrv6d5wOVOMgWiVMBSwF3vvVkL6hqoLIf6%2BVQphtkfQrLTEPOajQLq9BwdT9DpMZ%2FiBUn0WEl54uHPLr5sPT%2Bv0J9JEnzHlzZHh9JBlGoR5qGGjtSnHcaiZJwUnDqLMDvPDhf%2BZa%2B9MlWnk%2BLTcdYxWkwwNrpm0eRc3AbXCtSchECrk7yf2%2F8Xd73M5lbyVXcAAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 1579
+        },
+        "1686": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAA5rvg4ofowce4nX+c0y/8iVeAA//8bz+lKr/A2lfozmf8wwfo5rPk0ifc2g/ElxvQtaelAk+46uPdOvvUyefM2fulRx/lFoe4v0uA3vvc6uPc6vfg4oPsxjfMzjfhS2tZPwfcpuf9Vqv8tZukyv/k+tvY0o/gkY902kfoAAP89te5OxvxV0f0xwPw2hfVU0PwtaOs+lO4xc/AnedsoXOVEsvBO0dk4u/gzZv84gOs2vfsyeOuA//8xqvNFn+4g0OcqZOkdy+4xnvM7fvdFouwYzuo/uv8vc/Q4vfgvb/Efw+0+ydw6jOozvv0v3t5V0/tLtfYhzehA1twuwO4xgOcyffQpj+Irv/dBmutL0/8kYec/kupW1/9LtfMA1f8bz+QzzMwct+MkbdtV1aoAgIBJkttLuvUqVdUqqtVV1f8vduKAgIBIrdkAqv9HrO4zZuZV//9Epe9A2eYAgP8u0f9mzMwcxvE1090hrt5Uz/xV3cwxcO5Owtg+kPJAn/93nGgpAAAAgHRSTlMApqampgalAaWlpQWkkqampKWlNaaho6Wloxamm5QVNi2XDASXa5k2opMBDxGAlZWhOxMVmpkWk1QFeXkgAxUtIJGLFQ+UnQo2h5NUpDxBCCBVcYkWVJEJMGoJFZQ0kwYwBX8HBgIHfQYGBmgCNQNsCgNPFAILBRJSoU8PhmiHCB509GIAAAHFSURBVHicndP3U9pgGMDx10IINlCmKSQQMSESZMmmUMtShlaq1q2le+/WPf913yeiSTQ57/z+lLvnc++4JOgyYTlGkINnvXYYsVtiCGNAecbZQMUTM1yE8ARYlsWLGAkCr4AbLxntgsEQju0+MwR2AEP2+4PIHYCK2B9A9iYi2uc6V6EiQRkEm4RH7DH8LaIAvhJIVnrM1wkDwLVFm82WFNf3f2nBaPAhFOT4XhILZ2Op9loLojKIciTTBeBsNd680IJHUJRDuyWYW63WpZrqqNRoSgYpDgnrSacM/AeqJahOygGtZhHixcu5/+V/BTzprI5AAITluUarBSD0VwVmTdAsBojka3PvDv3Pi6G3+mBi7elKTsphsKeAdNgF1bcQajfnyzlJsuSKoalr8CWdN0P1LTJW3dimaZdkkYqhH9fg/QDks4XFGZ/bQZtcZun0WLnFp/mwBcr/+9wf9rndDgzqPz8ogMyUzXhupvveYRnQpvD3jPpltBe3wy7a5/UOwMhJOvtRDaYWEo+hAUiVO39ufBGbrxKTk1fgbGV6WjvGxWUBYGajuqb3h31bOEqMjfX7v6sZQWcM59iMx+OFQkHQ7H4BtutM0CHvjKoAAAAASUVORK5CYII=",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1686,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "sort windows start menue - Bing",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=sort%20windows%20start%20menue%20-%20Bing&url=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dsort%2Bwindows%2Bstart%2Bmenue%26cvid%3D33936cea88004f6581e937cdb32c9d37%26aqs%3Dedge..69i57.8630j0j1%26FORM%3DANAB01%26PC%3DU531&tabId=1593&sessionId=1622847893290&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQAUlEQVR4XuWbe4xU133Hv79z7tyZ2V12Wd6PBduMsfFibCjG%2BEG8uI6VR%2BNWkUrUKKJNmraS1UZK%2F6jUqorEVlXaSJWaJn2pjtq4Sh8yf7SxolSO8xjA77BmjTHGzoKdGLABe70s%2B5i595zftzp3ZoHFJrN3vUlMO%2BJqZvYMc%2B%2F3c76%2F3znnd%2B4I%2Fp8%2FJJd%2BUnYA5vXHznY6tcsibzuNhXUp06hgR1wtPdvlO87%2Bz0elnut7f4EfzgVgB2mPDaBYmJhYZzw%2BIpAbRNAO5dskDxL2IJw79MSH5p3%2BBWrKdepcALb%2F4JXSpF%2FcZY3eZsR%2BmsAWAdohMgzyoAKDQhwA9KhTedNNjp5bM7m8vvsT4nNd1c%2Fxw7kAbP32W51xHPeoNR8Q4jcBbAIQgUggGAFxipAfQ%2Fg8lI%2FZgjkyPjry1sB9KyZ%2BjppynSoXgG372M3JiYoY6YNwJ4ibp59NagBHCHkZ4GMiMgjHY0KctMW2t6t3h%2Fb312N2AGD7aPQdAATwBFIQ50TkTZJDgOynyID1%2Ftl9H25%2F%2Ff0lH8gH4FvspkxUpGD7SN0JXOqAS%2BQJToF8nsTTEPN9S33x%2FeaE2QGwto%2FAToCXhMA7%2BjdY%2FizJl0HuhbFPWry%2FnDB7AMROsCWAKSJvEPIcyT2IzH89%2BaHikfdLKOQH4Ccq0nQAWztgSmcYBc6QugeQv3vyvrZnrmgAtLZPiJ2cqQMkzAOYklI1hl98%2FGPlfVc2ANg%2BEckBAASgIPdQ8GdP%2Fmp5zxUPAJA8OSDTS6BKsv%2Bpj5erVyyApDZRiaztA2UnWw2D71ApVXrf%2F9SOKxyAiO0TyE55x0ywVb9Klfy%2FAICNHDArALiSAfwbuxMzUZHI9onKTskbAtIMgU9eqSEwBcCEYXAWANAMgSsewHsJgZAEdzYcsOMh2uM9iGsOHdZhgVVYR4zFHmNnRzF2%2BBOStMoq77U930wwOCDMBIMDwjCYNwQgVYQk2ARw%2BxMsYxILnOBaAW4VRZkGQ0oMFVIMPflhGX6vAlv9%2F9kBQNwnWT1gxmuBxnWIVBGSYBPAlh9wGYCNUNwixG0QtFEwBNGXBTwC2tdoMawJRtGNiYFbJG0lKG97fgC1tCIF6RMyvwMEVYQQ%2BEwjBLb8gBuN4tMAtlGwFERMwRiEw4SegshLSj6TGn84TuKfDNwrZ%2FMKbPX52QHI1gKhHpDTASEEgP6nPlPIAGx9lKHXPw%2FBdgJdBEoQhhljIsJxFbwSAHjRgzD%2BZUbmhK%2BnI8DE2BIsrlXvFtdKYKv22QGA7YPMoCDyzrNXxaP%2Fqd9tANjyHW40Bp9mACC4CuD8sGgI6waCjgbjBIe96Ek1fEWBFwXpIKwfYr3%2BxuG7l4y1EtiqPR%2BAvw%2FzgDRbDs8aAC8AuPW7vM4AH1NhALAZwIoAIPOAABrcIAoVjKnoKQWHvPGDCj2SGv%2BqE3MijvzpY8e6x7ADCpEmv1ayL7TPDoDYPmAWDhA0HHB%2FwwF3focrfIRbFLqdkF8BcB0bIZBBCAAaEOhUWFPRMW90xBu%2B4UV%2FrKIH1PD7SMaHjh%2FvSTCL8vvsALAJIO9aIAAIOaAJYPOj7IpjrPaqfYT8FohNKjSZ5IZw%2BCYEzZxAeBOeMxCnvNGDzvK7ifUHRJOflCcwnBdEfgA%2BzeYBWVE05zAoIlUJIfC5hgM272cBb6PNRv4DBD5PyJ0ECgTtVO9PCddMeAOAE3Xeas0bHfbiT3irAwb4dlHdQQQId6yanGkQzAoAOTUM5hsF2FwL7P%2FD6WuBW77HWyH6B41kyIUE294NgBfNAJx%2FNvRqfUro4YLhw5EJexHu8K2Hrjq9e4Y5IT%2BA2kSFiJs5IB8ACKoE%2By8FsGkve43TX4fhdhWsJ7jkfM9nIXCJ8OZ7tSRE1RqeLtC%2FWDB8jKoPLxkzh3uO9yQz2ZLLBWDDX7A7Ms2CyCwqQhkAsn%2F%2FH013wJY9XOXV30GTDYf3KrQSRIcc0HDCdAAuuMCEdoXNDk4WoW9Hhj%2BM4P%2Bz3cvTNZROH7x52XirUJgdgDAPQI6i6IWrqILo3%2F8n0wGEZIgYqx3T7TD4jIIhGTYBNMVfZP0pACKKQjhAH4smBeFLMfSRgtF9HvbZgd6rW%2B5E5QfgJyomK4lhp1BbbYxM74CwFvDo3%2F%2BF6QB6H2Isneiw5fo2ivw%2BBXdQtOSFUdb7Uw5o9nw2EhiFEUURiliIOIPBkzF0oGBYNcC3Hruh8vLcOyAAoGQAZjMVFvX9%2B3fNm14U3UXT24vILHW3iNHfUehdKliqoh3Tk17DDUF86P1ILohvQhiNwRMRWAX0a%2Ft61z47xwBGuqM6KkZDEpzNYkiqIu8CoHmVN%2ByprbUGH6Xo7Sq83gtXetFOb3wxG%2F6aDoBhJj7YvyH8vAOSInU8Eu6Dka8saoufQE9Psjvbl3j3R74Q%2BOOR7siiYiTuYwCQex4QJkLs3%2F%2FnlzigeW2bHx3uSuJ4tYu4XoHbvHCTt7zBi1%2BcOaF5GOFF4qe5QIuizgqejlT%2FITLcW25rG9696vLzgvwAFBVjoplujk7DzlASA%2FsH%2F%2FLdATQqRMfjUXSurNNspNWbvOF6b3SlE21T%2BHYK2wy0rai%2BHAsLcYEoRg0HxGiAiYABSz4QiYZQO%2FnwunXn5s4BigoQ9UG5E5JzHpDVBNE%2F%2BFfvDgDhJqzdMC8sPlNOyh3zPWoLVMwiH6XLU8PVUF5lvL%2FapLq6MOlWxhE7S51AsYQGgOAMMAyLByLBv5SsrwLxT3ZXKpetI%2BR3QD0AMH0Q7MyxOdroADZKYoNf7p7ZztBDtD09x2MZiVcAfgMT3iSp3mzqep3U3Sobs7PUBS11AeVOmGKREhvCGgxGog8W6KtpIXn1v6%2FZNDJ3DggA1PQx1APyLoaAKoQzB0AKdsOsO%2FHqKp2wt6nnViZ6m6a%2B4hPtpNHItLHethzovt4W25eIjSMishy0wgftnAO4v5EEVTiriZBAstXg4N%2F%2BdAds38UoLb9Z1rTWmSgWeMc1vobNPvUbXZ0bfKrL07oWvFfS%2BnpxqbD7RhN1XiW2vRs2LuM5K%2F7BmKzGheTVr8%2BZA%2B4f6aamFWujPs1qgrPJAb7%2F0D8u%2FqkhcOeXzsxTm670HuvocKum7HUpV2udS12iXa6uZVdX8amH96q2na60DEnnGsjiG1BqXySHrOiD9mcFAGzkgLzDYFgLhBC4FMCuXTRPLxgq6LIl7ZPj9YVa8yvppKJ13eBTs0VTrWjCLpew5BPCJwpXV7hEs9cU70ybTnZVgJ47UJ7XI89Z6gM2ctU4KZ785zkbBYID6hMVmEI2E8y7OyxZDkD%2Foa9Nd8BHvvKjYrRo6bwxN1GBM1t9gpvoUGHKlS7hAk3QrgkLLmG2%2BA2iA4gpAN6rJ1zauYa4%2BpdR6Lqazwj410XUqx2YN%2FrVtWsve%2BturlFg%2FWdfWxAhutap2Q7iUwRuajXVvLg95AAP33%2Fk68uzELj9odfKHcVSN%2BpcYhmtcM73%2BoS3M5VeTblSU87TBPApoFnPN48MwkUAnKpPvZ%2B32rtr7tV691o8RuJv0vLI4%2Bg5nuyWT8zNTHDz751c5GN7vatxu0%2FwG1TcmAcAggPA%2FiPfaAC495tnVkSmuFkTvxHO3ahOrtGUyzTFfE1QVsfoAgBkorUpPjghc0DDEfTOs2O5H73qHvfagl7uNcZ%2FvbbmxQO7seOnFktzOWDTF88ttolbnwwn291Z3RGSU1bAnGEtVgweL3aZL63c0XnAUheixrVe%2FVakuFlTv45el2giBXUwocc16%2FkpB4RnNt8TPm2EQfa3NABQlhe6kz197odLNvo9avHtf6%2F0%2FqhVB%2BUCcM8DY0tTg5snf1zbXnst%2BbircZ0PFfwZArCxPNt5bfzA0rvaz6jXO8VxPT1X0usipjpPUy15B2ECycS%2FG4Ds7w3h5wE4qjrvCx3uyPKt6TdXbKvv9REO%2FseaDafmFMCHHuICmsm14y%2FV7qqdqH8yHdcN9Zpa70LtpnET0LSHNG5FFQOaSLQ43x7tvqnte%2FNviJ063kmvFTq20WmBqUJdw%2BJBOM%2BLl4tANF3RBDAFgp4JxY9HRd0%2F%2Fzr3jas%2FNvlEvY43dq9f33LjJJcDdjzEeBTomBwa2abjyefqY3r72BlXTCZ8dDkTiABRLL7cYettKwrjnTeW3y4ujQyVC%2Bm0gymtOjVMw16QNsRe1PuN1w0IDbtPtU%2FZP2yi6DlT8idtyT9e6vL%2F2vNrEwNnTp%2BuVe%2B%2Bu%2BXWWS4AU717z5ff3CJi76%2Bfc33nTiaLk1FfdnVPdVk%2BMKHbjYXaWBAVrYk7rJYX2LRtWQHFVXEx6jA2DFz0Gu4ezISH54sdcEFo0wEXg0lBn5LqOK6pviWGx21HejRq02fUFh8Z%2BMLSo62sP9U%2BKwD3PVJfJ8DH62%2FV75o8Ue%2Btv5kurL2VuuScFzoUxAKFdpvE3RalRXGhuKgQxfMjieYZY0piRCDnATiehzBl%2F%2FMhcF70RRBclgPUp0jV8VWf8ElSny20pS%2BaBdErk%2F7NU4d3tbb%2BewKw4yWuVGCLP5V%2BIDlV%2B2DydnpN%2FS2nadjBS5kBiNptUpxvUVxUKBS6ooLtiCwsDMMN9V4xDUAGIdi%2FafHgpEvEN96L05R1dRjRBK%2BrxyHvsTd1GIxLeGXwy92XXfXNyWpw6kt2vMAOAMt8zW%2BTuv42HX%2FJJRrRZwJN%2BFwIAYkEEomRSASh30nJA6Ap%2BnwOoMO4dzjDBC86hz1MZdA7eUUK%2FrSdmD8%2B8E%2F5b6CYVQiEH0%2FVBlAsl7BJDD4FwZ1UrgLQFZI%2BlEISVIDKcJMsgvCp44IDsk3wZg6YGgUavZ%2BJd0KfgHQyqamc9Slfp5cfacpBer9PXeHls8mpc0NfvfxUt1UumBWArHITOvkQVqhgIwy2CfhhEteHqhRIkx9AIwlmyTADkMW9qpNUHV7XhM%2F7FAeg9odJPRmyiM8Mj50aG1p4bYpdoq2EzmkITH3ZffvZVipjkQk%2FnhLcR%2FIWACuh7AqVKVWG4W6GDrgIgIPTFJNMZVhTyXrd1%2FU5JnLQRdHBp%2F%2B0o%2BUEZ6ZAZueA5rdPhUJbF5b7BDcaYCvBe6C8HmQbFYX8ABDC4pymOKFenmfKqkvlBUmj03Unw%2BX0zNnqrmvm7MdX7wnApU5QwY2i%2BkGhbAC5lIpuKjugLNGjEPZypyfB8znAMdVJdRhjylF18rqmOArlgTTB3vG4%2B%2BiabvxMfn84JwCmnFAoYEGhgB7n%2FbWi0iuU61R9hR7LRdGlXkuXAXCOKU%2Bo02Oa4gWoeUnrPOqS9HgURWe6u7vHZrrdPVPrv6d5wOVOMgWiVMBSwF3vvVkL6hqoLIf6%2BVQphtkfQrLTEPOajQLq9BwdT9DpMZ%2FiBUn0WEl54uHPLr5sPT%2Bv0J9JEnzHlzZHh9JBlGoR5qGGjtSnHcaiZJwUnDqLMDvPDhf%2BZa%2B9MlWnk%2BLTcdYxWkwwNrpm0eRc3AbXCtSchECrk7yf2%2F8Xd73M5lbyVXcAAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 1579
+        },
+        "1784": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 802,
+          "highlighted": false,
+          "id": 1784,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "2100": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA/FBMVEUAAADc6ffW5vbz9/zr8/r09/3w9Pp/mbbl8PnZ6Pfw9vzg7fnd6/fp8/rj7vng7fft9Prm8Pro8frX5vb5+v0AAAD3+v38/f2hu9T6/P39/f/0+f23y91PbohNZICdt9DJ2ObA0uOuw9m7zeCswti1yNzO3Onu8vc5TGixxdpCWnHG1uW9z+DK2eg7Umk9VW1yjq1CXnbc5fCyxtzD1OVJW3ZEW3JMY3tJYHZCXnHD0uNJZHs8TmU7Um05TGPl7fOSsc5JZIBAVWqjvNPp8Pbi6fNAV207V21MXns9UGjW4u09UG1CVW2Ys89AV3I5UGg7TWlJYHtAW3LR3ekkOKtdAAAAVHRSTlMApqampqampaampqampqampqampqYBpqampqampjo4pKampqampqamNqY2pqamODalNqampjg4Njg2pjg4ODampjgkpKamODg2NqY2NqQ4Njg4OKa7iYDoAAAA1UlEQVR4nKXK1XLCQBiG4bbUXain2wgJkgR3d3fu/17gaP/dnW8GZnhP3+fksN6V1M+aX1KzPxVsfqQa/4pgzqdUV1MEc76lwroimBOUCqQVwfwPqWBYES3/V2onemO/0+agol+A9AIBNwByCazcW1B2yEExewkqpwiUn0EGgZxxDjJKAngAeQTy3ivIixGwXkAWgbV1DRLAXHsEaVMO+todyE5wMLCfQAKo2fegjAAyp6DohIN4FIIRAfMGZC4E8AYyIxwsQ2egEIHqXpC8AiXrHBzVFvOUMREOuR4CAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 2100,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "127.0.0.1:35830/?code=4/0AY0e-g7y4KYUqFYJ_0GmEvpXq0yvWkFlSr6axpyh_5rQsSZOA9RCzXJRwCpIyCqks_wgUA&scope=email profile https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid&authuser=0&prompt=consent",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=127.0.0.1%3A35830%2F%3Fcode%3D4%2F0AY0e-g7y4KYUqFYJ_0GmEvpXq0yvWkFlSr6axpyh_5rQsSZOA9RCzXJRwCpIyCqks_wgUA%26scope%3Demail%20profile%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%20openid%26authuser%3D0%26prompt%3Dconsent&url=http%3A%2F%2F127.0.0.1%3A35830%2F%3Fcode%3D4%2F0AY0e-g7y4KYUqFYJ_0GmEvpXq0yvWkFlSr6axpyh_5rQsSZOA9RCzXJRwCpIyCqks_wgUA%26scope%3Demail%2520profile%2520https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive%2520https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%2520https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile%2520openid%26authuser%3D0%26prompt%3Dconsent&tabId=1792&sessionId=1622847893290",
+          "width": 0,
+          "windowId": 1579
+        },
+        "2535": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 2535,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "127.0.0.1",
+          "url": "http://127.0.0.1:35831/?state=1603372254&code=fPSDb0GUCjYAAAAAAAB8a-0xGmYHrmn_IgqPejgrEpY",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "4841": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 4841,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windows 10 Start Menu via Registry",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Windows%2010%20Start%20Menu%20via%20Registry&url=https%3A%2F%2Fsocial.technet.microsoft.com%2FForums%2Fen-US%2Ffa742f1a-38be-4ca2-9660-da58068214ed%2Fwindows-10-start-menu-via-registry&tabId=1599&sessionId=1622847893290&icon=https%3A%2F%2Fi1.social.s-msft.com%2FForums%2FGlobalResources%2Fimages%2FTechnet%2Ffavicon.ico",
+          "width": 0,
+          "windowId": 1579
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1579": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 1579,
+        "incognito": false,
+        "left": 165,
+        "state": "normal",
+        "top": 484,
+        "type": "normal",
+        "width": 1395
+      }
+    },
+    "tabsNumber": 9,
+    "name": "127.0.0.1",
+    "date": 1623022653896,
+    "lastEditedTime": 1623022646104,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "1f5afdc8-564f-4cc7-8c92-b97bd20f478e"
+  }
+]

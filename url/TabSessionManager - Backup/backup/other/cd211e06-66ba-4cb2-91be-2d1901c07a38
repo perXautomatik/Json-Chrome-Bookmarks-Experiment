@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2403": {
+        "2404": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2404,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Sexout-InnuendoRewards at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/70522",
+          "width": 1154,
+          "windowId": 2403
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2403": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2403,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Sexout-InnuendoRewards at Fallout New Vegas - mods and community",
+    "date": 1627156347184,
+    "lastEditedTime": 1627156345544,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "9b3a6684-5e61-4f65-8aa2-e53128f6f045"
+  }
+]

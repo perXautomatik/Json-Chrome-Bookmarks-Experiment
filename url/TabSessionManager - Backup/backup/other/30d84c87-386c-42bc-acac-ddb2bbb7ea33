@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1096": {
+        "1097": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.last.fm/favicon.ico",
+          "groupId": -1,
+          "height": 593,
+          "highlighted": true,
+          "id": 1097,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "MASHUP - Mariah Manson - \"All I Want For Christmas is the Beautiful People\" — Bill McClintock | Last.fm",
+          "url": "https://www.last.fm/music/Bill+McClintock/_/MASHUP+-+Mariah+Manson+-+%22All+I+Want+For+Christmas+is+the+Beautiful+People%22",
+          "width": 1122,
+          "windowId": 1096
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1096": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 680,
+        "id": 1096,
+        "incognito": false,
+        "left": 1955,
+        "state": "normal",
+        "top": 145,
+        "type": "normal",
+        "width": 1186
+      }
+    },
+    "tabsNumber": 1,
+    "name": "MASHUP - Mariah Manson - \"All I Want For Christmas is the Beautiful People\" — Bill McClintock | Last.fm",
+    "date": 1627468088498,
+    "lastEditedTime": 1627468078051,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "472eec7a-bc17-4fe6-9495-6c9f428bfaff"
+  }
+]

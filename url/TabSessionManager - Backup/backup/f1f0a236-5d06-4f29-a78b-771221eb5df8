@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "2337": {
+        "2335": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 837,
+          "highlighted": false,
+          "id": 2335,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Spotify – Search",
+          "url": "https://open.spotify.com/search",
+          "width": 1133,
+          "windowId": 2337
+        },
+        "2351": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://magic.wizards.com/sites/all/themes/wiz_mtg/icons/favicon.ico",
+          "groupId": -1,
+          "height": 837,
+          "highlighted": false,
+          "id": 2351,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Article Archives | MAGIC: THE GATHERING",
+          "url": "https://magic.wizards.com/en/articles/archive/card-image-gallery/adventures-in-forgotten-realms",
+          "width": 1133,
+          "windowId": 2337
+        },
+        "2352": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/f73a46b5/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": true,
+          "id": 2352,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(14) Top Ten Pseudoscience (& Woo) - YouTube",
+          "url": "https://www.youtube.com/watch?v=G1iILyoS-wc&list=TLPQMzAwNjIwMjGmX_94GqommA&index=6",
+          "width": 1133,
+          "windowId": 2337
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2337": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 913,
+        "id": 2337,
+        "incognito": false,
+        "left": 1926,
+        "state": "normal",
+        "top": 76,
+        "type": "normal",
+        "width": 1197
+      }
+    },
+    "tabsNumber": 3,
+    "name": "(14) Top Ten Pseudoscience (& Woo) - YouTube",
+    "date": 1625078731277,
+    "lastEditedTime": 1625078731277,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1624961591940,
+    "id": "c1e8cecd-5263-45c8-947d-72ebc48ebc35"
+  }
+]

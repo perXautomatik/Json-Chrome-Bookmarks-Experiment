@@ -1,0 +1,166 @@
+[
+  {
+    "windows": {
+      "1016": {
+        "1017": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 1017,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Text - Comparison - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=250",
+          "width": 1152,
+          "windowId": 1016
+        },
+        "1018": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 1018,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Text - Editors - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=14",
+          "width": 1136,
+          "windowId": 1016
+        },
+        "1019": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 1019,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Text - Processing - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=181",
+          "width": 1136,
+          "windowId": 1016
+        },
+        "1020": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 1020,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Text - Search/Replace - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=95",
+          "width": 1136,
+          "windowId": 1016
+        },
+        "1021": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 1021,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Text - Viewers - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=149",
+          "width": 1136,
+          "windowId": 1016
+        },
+        "1022": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 1022,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Text - Notepads - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=63",
+          "width": 1136,
+          "windowId": 1016
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1016": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 768,
+        "id": 1016,
+        "incognito": false,
+        "left": 1920,
+        "state": "minimized",
+        "top": 283,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Text - Comparison - The Portable Freeware Collection",
+    "date": 1629103154996,
+    "lastEditedTime": 1629102888611,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "b7d30d8d-792a-4377-a52b-37d80d89d2ce"
+  }
+]

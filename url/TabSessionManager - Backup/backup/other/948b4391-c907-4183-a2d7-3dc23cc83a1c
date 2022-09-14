@@ -1,0 +1,222 @@
+[
+  {
+    "windows": {
+      "3485": {
+        "3484": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://mega.nz/favicon.ico?v=3",
+          "groupId": -1,
+          "height": 537,
+          "highlighted": false,
+          "id": 3484,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download - MEGA",
+          "url": "https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg",
+          "width": 1121,
+          "windowId": 3485
+        },
+        "4516": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/90b31458/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 589,
+          "highlighted": true,
+          "id": 4516,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "\"We Have Utter Chaos\": Chip Roy Gives Mammoth House Floor Remarks Decrying \"America Last\" Policies - YouTube",
+          "url": "https://www.youtube.com/watch?v=Tu_f9vND7Co",
+          "width": 1031,
+          "windowId": 3485
+        },
+        "4517": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/90b31458/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 537,
+          "highlighted": false,
+          "id": 4517,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(26) Tucker Carlson the election audit fraud in Georgia. Proof of duplicate ballot INTENTIONAL deceit. - YouTube",
+          "url": "https://www.youtube.com/watch?v=sHNqNLP1dEQ",
+          "width": 1121,
+          "windowId": 3485
+        },
+        "4626": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/a910c60b/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 502,
+          "highlighted": false,
+          "id": 4626,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "#bigtech - YouTube",
+          "url": "https://www.youtube.com/hashtag/bigtech",
+          "width": 1086,
+          "windowId": 3485
+        }
+      },
+      "4637": {
+        "4625": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 447,
+          "highlighted": true,
+          "id": 4625,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Create a new Gist",
+          "url": "https://gist.github.com/",
+          "width": 1031,
+          "windowId": 4637
+        }
+      },
+      "4847": {
+        "4627": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 497,
+          "highlighted": false,
+          "id": 4627,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windowed Mode Fallout New Vegas 1440P Windowed Mode, Windowed Mode",
+          "url": "https://vivaworldcup.info/windowed-mode-fallout-new-vegas/",
+          "width": 1081,
+          "windowId": 4847
+        },
+        "4638": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 446,
+          "highlighted": true,
+          "id": 4638,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 4627,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Manually changing size in Windowed mode. :: Fallout: New Vegas General Discussions",
+          "url": "https://steamcommunity.com/app/22380/discussions/0/864949037870363626/",
+          "width": 1030,
+          "windowId": 4847
+        }
+      }
+    },
+    "windowsNumber": 3,
+    "windowsInfo": {
+      "3485": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 676,
+        "id": 3485,
+        "incognito": false,
+        "left": 2024,
+        "state": "normal",
+        "top": 202,
+        "type": "normal",
+        "width": 1095
+      },
+      "4637": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 534,
+        "id": 4637,
+        "incognito": false,
+        "left": 2024,
+        "state": "normal",
+        "top": 489,
+        "type": "normal",
+        "width": 1095
+      },
+      "4847": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 533,
+        "id": 4847,
+        "incognito": false,
+        "left": 2025,
+        "state": "normal",
+        "top": 324,
+        "type": "normal",
+        "width": 1094
+      }
+    },
+    "tabsNumber": 7,
+    "name": "\"We Have Utter Chaos\": Chip Roy Gives Mammoth House Floor Remarks Decrying \"America Last\" Policies - YouTube",
+    "date": 1626532141014,
+    "lastEditedTime": 1626532141014,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625991790805,
+    "id": "7d6d6039-5543-4fb0-b904-5750310d201a"
+  }
+]

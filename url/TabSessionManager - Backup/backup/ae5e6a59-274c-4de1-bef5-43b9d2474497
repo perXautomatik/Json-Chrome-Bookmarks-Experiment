@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "919": {
+        "920": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/65defdc1/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1029,
+          "highlighted": true,
+          "id": 920,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "unloaded",
+          "title": "Even Ben 10 made an MP3 player... - YouTube",
+          "url": "https://www.youtube.com/watch?v=SoBiMD96qdI&list=TLPQMTEwODIwMjG2fghRJ0Dnxg&index=3",
+          "width": 1089,
+          "windowId": 919
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "919": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1029,
+        "id": 919,
+        "incognito": false,
+        "left": 684,
+        "state": "minimized",
+        "top": 11,
+        "type": "popup",
+        "width": 1089
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Even Ben 10 made an MP3 player... - YouTube",
+    "date": 1628837699055,
+    "lastEditedTime": 1628837667968,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "c85d4b39-f7e1-4960-b0c5-859c5b1475d2"
+  }
+]

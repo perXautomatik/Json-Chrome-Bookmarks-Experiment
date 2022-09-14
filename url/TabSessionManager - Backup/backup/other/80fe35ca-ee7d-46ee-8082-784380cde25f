@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "1359": {
+        "1202": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 366,
+          "highlighted": true,
+          "id": 1202,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "CD/DVD - Catalogers - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=253",
+          "width": 1111,
+          "windowId": 1359
+        },
+        "1203": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1203,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "CD/DVD - Identification - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=236",
+          "width": 1111,
+          "windowId": 1359
+        },
+        "1204": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 458,
+          "highlighted": false,
+          "id": 1204,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "CD/DVD - Image Tools - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=244",
+          "width": 1111,
+          "windowId": 1359
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1359": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 453,
+        "id": 1359,
+        "incognito": false,
+        "left": 752,
+        "state": "minimized",
+        "top": 236,
+        "type": "normal",
+        "width": 1175
+      }
+    },
+    "tabsNumber": 3,
+    "name": "CD/DVD - Catalogers - The Portable Freeware Collection",
+    "date": 1628757500427,
+    "lastEditedTime": 1628757452342,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "910efda1-9548-4249-881d-d7784081c95a"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "290": {
+        "291": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://wiki.nexusmods.com/favicon.ico",
+          "groupId": -1,
+          "height": 923,
+          "highlighted": true,
+          "id": 291,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Creating a game extension for Vortex - Nexus Mods Wiki",
+          "url": "https://wiki.nexusmods.com/index.php/Creating_a_game_extension_for_Vortex",
+          "width": 1186,
+          "windowId": 290
+        },
+        "292": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://wiki.nexusmods.com/favicon.ico",
+          "groupId": -1,
+          "height": 923,
+          "highlighted": false,
+          "id": 292,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to create mod installers - Nexus Mods Wiki",
+          "url": "https://wiki.nexusmods.com/index.php/How_to_create_mod_installers",
+          "width": 1186,
+          "windowId": 290
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "290": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 923,
+        "id": 290,
+        "incognito": false,
+        "left": 1920,
+        "state": "minimized",
+        "top": 117,
+        "type": "normal",
+        "width": 1186
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Creating a game extension for Vortex - Nexus Mods Wiki",
+    "date": 1627984757573,
+    "lastEditedTime": 1627984740296,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "95e4bb76-1865-4d9b-a9d5-cc51a8816f7e"
+  }
+]

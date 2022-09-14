@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2951": {
+        "2952": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2952,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Show Pickpocket Success Rate at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/67018",
+          "width": 1154,
+          "windowId": 2951
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2951": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2951,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Show Pickpocket Success Rate at Fallout New Vegas - mods and community",
+    "date": 1627976460629,
+    "lastEditedTime": 1627976458788,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "68deb030-4a7e-4aa1-ae11-f3d2ea8dbd11"
+  }
+]

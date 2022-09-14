@@ -1,0 +1,401 @@
+[
+  {
+    "windows": {
+      "1451": {
+        "1452": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1452,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1453": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1453,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AutoBookmarks",
+          "url": "chrome-extension://lcchihcbfbaedlagdpaemgbpjapiihpo/options.html#",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1454": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1454,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Floating Head/Invisible Body/T-Pose glitch : skyrimmods",
+          "url": "https://www.reddit.com/r/skyrimmods/comments/35tfcl/floating_headinvisible_bodytpose_glitch/",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1455": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.zoomsearchengine.com/favicon.ico",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1455,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Zoom Search Engine - Support - Custom Meta Fields",
+          "url": "https://www.zoomsearchengine.com/zoom/support/tutorial_custom_meta_fields.html#:~:text=Custom%20meta%20tags%20can%20be%20used%20to%20allow,price%2C%20size%2C%20color%2C%20location%20or%20other%20defining%20features.",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1456": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.thesharedweb.com/wp-content/uploads/2020/01/cropped-Webp.net-resizeimage-9-1-32x32.png",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1456,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "What Is GPU Throttling And How To Fix It - The Shared Web",
+          "url": "https://www.thesharedweb.com/gpu-throttling-and-how-to-fix-it/",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1457": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://tpucdn.com/favicon-v1630009776698.ico",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1457,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Download TechPowerUp GPU-Z v2.41.0 | TechPowerUp",
+          "url": "https://www.techpowerup.com/download/techpowerup-gpu-z/",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1458": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gatherer.wizards.com/Images/favicon.ico",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1458,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Yawgmoth, Thran Physician (Modern Horizons) - Gatherer - Magic: The Gathering",
+          "url": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464065",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1459": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1459,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Factual feminist - Bing",
+          "url": "https://www.bing.com/search?q=Factual+feminist&aqs=edge..69i57&FORM=ANCMS9&PC=U531",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1460": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1460,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "My Map Free - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/my-map-free/pklnbjkiadglpemlgdaheegaehhlehlp/related",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1461": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1461,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "History Master",
+          "url": "chrome-extension://mkfgjjeggnmkbobjmelbjhdchcoadnin/option/index.html",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1462": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1462,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "My Map Free",
+          "url": "chrome-extension://pklnbjkiadglpemlgdaheegaehhlehlp/ex/ex.html",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1463": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1463,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "History Master",
+          "url": "chrome-extension://mkfgjjeggnmkbobjmelbjhdchcoadnin/option/index.html",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1464": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1464,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "chrome-extension://idfbjjfgccflicphjlpbomcklaehplha/newtab.html#111610",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1465": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://sidebar.li/assets/static/fav.png",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1465,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sidebar - Apps and Bookmark Manager",
+          "url": "https://sidebar.li/how-it-work#pin-extension-to-the-dashboard",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1466": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1466,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab Modifier",
+          "url": "chrome-extension://hcbgadmbdkiilgpifjgcakjehmafcjai/html/options.html",
+          "width": 1433,
+          "windowId": 1451
+        },
+        "1467": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.zotero.org/favicon.ico",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": true,
+          "id": 1467,
+          "incognito": false,
+          "index": 15,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Zotero | Your personal research assistant",
+          "url": "https://www.zotero.org/start",
+          "width": 1433,
+          "windowId": 1451
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1451": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 858,
+        "id": 1451,
+        "incognito": false,
+        "left": 8,
+        "state": "normal",
+        "top": 163,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 16,
+    "name": "Zotero | Your personal research assistant",
+    "date": 1630332466861,
+    "lastEditedTime": 1630332043441,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1630245328865,
+    "id": "8ac333eb-a970-4089-b8fb-aba037727e5d"
+  }
+]

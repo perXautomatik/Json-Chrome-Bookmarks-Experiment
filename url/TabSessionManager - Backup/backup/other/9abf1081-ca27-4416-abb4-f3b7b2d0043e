@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "4347": {
+        "4346": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": false,
+          "id": 4346,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "gmail - Bing",
+          "url": "https://www.bing.com/search?q=gmail&cvid=3178e891b2a3475c9742fe606d1a81a6&aqs=edge.0.69i59j69i57j0l2j69i61l2j69i65.1110j0j1&FORM=ANAB01&PC=U531",
+          "width": 1006,
+          "windowId": 4347
+        },
+        "4349": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/unreadcountfavicon/3/7.png",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": false,
+          "id": 4349,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Your Steam account: Access from new web or mobile device - christoffer.broback@gmail.com - Gmail",
+          "url": "https://mail.google.com/mail/u/0/?hl=sv#search/steam/FMfcgzGkZGnTDpQTtKzdkslBGpJwfXNr",
+          "width": 1006,
+          "windowId": 4347
+        },
+        "4360": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 794,
+          "highlighted": true,
+          "id": 4360,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1006,
+          "windowId": 4347
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4347": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 913,
+        "id": 4347,
+        "incognito": false,
+        "left": 728,
+        "state": "normal",
+        "top": 123,
+        "type": "normal",
+        "width": 1070
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Visual bookmarks",
+    "date": 1625755690912,
+    "lastEditedTime": 1625755615500,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "83fcbb1d-1894-44f4-8e9d-ba6d37611520"
+  }
+]

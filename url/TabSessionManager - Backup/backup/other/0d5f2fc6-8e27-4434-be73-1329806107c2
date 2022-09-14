@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "4914": {
+        "4915": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAhFBMVEVVrO8AAAAxNzxKeJpDkMozPEI7UGZaqupsk8RTot9bpuYvNTk2RFFGaIMvNThloc45VXE5QUo+YX5Yq+4zNTlWrO51lcpupdQzMzZdqOcuPj7//wCqqlWqgIA1OkBcqO0vNDhAODa/gIAwPEAxNjs4NzgzOD17l8Y1PEMwOD5ep+hcrO14JHyvAAAALHRSTlP/AP7//5D+zBqRru3+/9pECaHv4IHzGEFtqiEBAwYwwcV3BEDixGkbIn+jy+BzzR0AAACdSURBVHictdPXEoIwEAXQNZZgUERFsfcK//9/lBe4SSbLMHDfMnsmfWlQz/MmIME9BHB4YT1PBOBj1IUPYGwCoYH5EDPTwYgwk87A+eQGcbr/OsGUSHoMILllQDGHFSyUUutyID0r2FQjubSBelatALsEu0n2mE0vyn3V8TUp6o7nfhx7/1HNAfvtmcb5m/UAwM83wA7b//LWWjcKM8KyCXJ2kh+8AAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": true,
+          "id": 4915,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Importing to Memex from other services",
+          "url": "https://www.notion.so/Importing-to-Memex-from-other-services-7a12d7a019094785a14ff109e99a531d#0f52655d3afb455e9d3227dd7d2fda46",
+          "width": 1003,
+          "windowId": 4914
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4914": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 911,
+        "id": 4914,
+        "incognito": false,
+        "left": 630,
+        "state": "normal",
+        "top": 385,
+        "type": "normal",
+        "width": 1067
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Importing to Memex from other services",
+    "date": 1625830714562,
+    "lastEditedTime": 1625830459032,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "97b68580-895d-4e60-8ed8-5f5afc2e4629"
+  }
+]

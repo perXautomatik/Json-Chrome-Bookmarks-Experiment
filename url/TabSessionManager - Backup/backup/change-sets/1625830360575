@@ -1,0 +1,58 @@
+{
+    "version": 1618185600000,
+    "changes": [
+        {
+            "timestamp": 0,
+            "operation": "create",
+            "collection": "customLists",
+            "objectPk": 20201014,
+            "object": {
+                "id": 20201014,
+                "name": "Inbox",
+                "searchableName": "Inbox",
+                "isDeletable": false,
+                "isNestable": false,
+                "createdAt": "2021-07-09T11:16:39.389Z",
+                "nameTerms": [
+                    "inbox"
+                ]
+            }
+        },
+        {
+            "timestamp": 1,
+            "operation": "create",
+            "collection": "templates",
+            "objectPk": 1,
+            "object": {
+                "id": 1,
+                "title": "Roam Markdown",
+                "code": "[[{{{PageTitle}}}]]\n  url:: {{{PageUrl}}}\n{{#Notes}}\n  ^^{{{NoteHighlight}}}^^ {{{NoteTags}}}\n    {{{NoteText}}}\n{{/Notes}}\n",
+                "isFavourite": false
+            }
+        },
+        {
+            "timestamp": 2,
+            "operation": "create",
+            "collection": "templates",
+            "objectPk": 2,
+            "object": {
+                "id": 2,
+                "title": "Notion Markdown",
+                "code": "[{{{PageTitle}}}]({{{PageUrl}}})\n{{#Notes}}\n- {{{NoteHighlight}}}\n  {{{NoteTags}}}\n  {{{NoteText}}}\n{{/Notes}}\n",
+                "isFavourite": false
+            }
+        },
+        {
+            "timestamp": 3,
+            "operation": "create",
+            "collection": "templates",
+            "objectPk": 3,
+            "object": {
+                "id": 3,
+                "title": "HTML",
+                "code": "<a target=\"_blank\"  href=\"{{{PageUrl}}}\">{{{PageTitle}}}</a>\n<ul>\n{{#Notes}}\n<li>\n<p style=\"font-style: italic\">\n\"{{{NoteHighlight}}}\"\n</p>\n<p>\n{{{NoteText}}}\n</p>\n</li>\n{{/Notes}}\n</ul>\n",
+                "isFavourite": false
+            }
+        }
+    ]
+}

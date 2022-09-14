@@ -1,0 +1,240 @@
+[
+  {
+    "windows": {
+      "2624": {
+        "2601": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2601,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "RandomFractals/vscode-data-preview: Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲 charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files",
+          "url": "https://github.com/RandomFractals/vscode-data-preview",
+          "width": 1232,
+          "windowId": 2624
+        },
+        "2602": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://showcase.report/img/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2602,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "PrivateBin",
+          "url": "https://showcase.report/?7c21517965e9e289#32yiqd5wV6mf6rg61GyAY66h7GhaAfWCWuWe8htBsNVG",
+          "width": 1232,
+          "windowId": 2624
+        },
+        "2603": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://favicons.teamtailor-cdn.com/icon?url=https://www.unicus.com&size=16..32..500",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2603,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Unicus Sverige – Connect",
+          "url": "https://jobb.sverige.unicus.com/sv/connect/dashboard",
+          "width": 1232,
+          "windowId": 2624
+        },
+        "2604": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2604,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "How do I do windowed mode? :: Fallout: New Vegas General Discussions",
+          "url": "https://steamcommunity.com/app/22380/discussions/0/1694922526907647427/",
+          "width": 1232,
+          "windowId": 2624
+        },
+        "2605": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2605,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "ADO - Armor Damage Overhaul at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/73267",
+          "width": 1232,
+          "windowId": 2624
+        },
+        "2606": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://selectorshub.com/wp-content/uploads/2020/07/cropped-logo-512-32x32.png",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2606,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Uninstall – SelectorsHub",
+          "url": "https://selectorshub.com/uninstall/",
+          "width": 1232,
+          "windowId": 2624
+        },
+        "2607": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2607,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab Modifier - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai/related",
+          "width": 1232,
+          "windowId": 2624
+        },
+        "2608": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2608,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab Modifier",
+          "url": "chrome-extension://hcbgadmbdkiilgpifjgcakjehmafcjai/html/options.html#/install",
+          "width": 1232,
+          "windowId": 2624
+        },
+        "2619": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2619,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/?id=aadahadfdmiibmdhfmpbeeebejmjnkef",
+          "width": 1232,
+          "windowId": 2624
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2624": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 768,
+        "id": 2624,
+        "incognito": false,
+        "left": 2175,
+        "state": "normal",
+        "top": 135,
+        "type": "normal",
+        "width": 1296
+      }
+    },
+    "tabsNumber": 9,
+    "name": "RandomFractals/vscode-data-preview: Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲 charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files",
+    "date": 1628757451173,
+    "lastEditedTime": 1628757448610,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "c0636c65-3e77-4d7f-b419-a735b82bb525"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "386": {
+        "387": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "groupId": -1,
+          "height": 619,
+          "highlighted": false,
+          "id": 387,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Floating Head/Invisible Body/T-Pose glitch : skyrimmods",
+          "url": "https://www.reddit.com/r/skyrimmods/comments/35tfcl/floating_headinvisible_bodytpose_glitch/",
+          "width": 1434,
+          "windowId": 386
+        },
+        "388": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.uesp.net/favicon-32.png",
+          "groupId": -1,
+          "height": 619,
+          "highlighted": false,
+          "id": 388,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Oblivion Mod:Biped Object Flags - The Unofficial Elder Scrolls Pages (UESP)",
+          "url": "https://en.uesp.net/wiki/Oblivion_Mod:Biped_Object_Flags",
+          "width": 1434,
+          "windowId": 386
+        },
+        "390": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://lf16-tiktok-common.ibytedtos.com/obj/tiktok-web-common-sg/mtact/static/images/logo_144c91a.png?v=2",
+          "groupId": -1,
+          "height": 619,
+          "highlighted": true,
+          "id": 390,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Watch trending videos for you | TikTok",
+          "url": "https://www.tiktok.com/foryou?_d=secCgYIASAHKAESPgo8%2BSvyfcpVa2jHDIAhkEGuwf8zropeAdTSu4%2F%2FmLG%2Fv42cVLeyzMIZiVo3A9o%2BdDndUx%2B%2BT3f9ZQlh0vcPGgA%3D&checksum=59694f1323c3e7222a342395a17f837599de70735e8220360df3d8f2fa85ca13&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAAcvtX5CQNVSL7mIZPb6WZSS274dwRzjcRIED41TJO1DHnsdWbVz6s2GjVC3BK79EA&share_app_id=1233&share_item_id=6993385031188139269&share_link_id=87b78d47-6fdc-4c82-90fd-19ac09600b2e&source=h5_m&timestamp=1629988157&u_code=dedcfk7hm7ch7b&user_id=6872189702213534721&utm_campaign=client_share&utm_medium=android&utm_source=sms&_r=1&is_copy_url=1&is_from_webapp=v1&item_id=6988976400678046982#/@michaelchristoffe/video/6988976400678046982",
+          "width": 1434,
+          "windowId": 386
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "386": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 706,
+        "id": 386,
+        "incognito": false,
+        "left": 146,
+        "state": "normal",
+        "top": 110,
+        "type": "normal",
+        "width": 1498
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Watch trending videos for you | TikTok",
+    "date": 1629989190616,
+    "lastEditedTime": 1629989055559,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1629772774244,
+    "id": "092f0264-0682-4305-8660-b91cf5db5a5c"
+  }
+]

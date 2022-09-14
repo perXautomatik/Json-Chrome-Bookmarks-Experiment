@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "240": {
+        "241": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": true,
+          "id": 241,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/searchEngines?search=search",
+          "width": 1560,
+          "windowId": 240
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "240": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 831,
+        "id": 240,
+        "incognito": false,
+        "left": 192,
+        "state": "normal",
+        "top": 115,
+        "type": "normal",
+        "width": 1576
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Settings",
+    "date": 1629298456236,
+    "lastEditedTime": 1629298456236,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629294844519,
+    "id": "a1fbf1db-6098-4978-ab2b-bebcc509a557"
+  }
+]

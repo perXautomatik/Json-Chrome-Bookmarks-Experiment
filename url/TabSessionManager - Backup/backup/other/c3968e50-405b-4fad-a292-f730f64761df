@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2715": {
+        "2716": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2716,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Better Explosives Indicator at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/68950",
+          "width": 1154,
+          "windowId": 2715
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2715": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2715,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Better Explosives Indicator at Fallout New Vegas - mods and community",
+    "date": 1627976325241,
+    "lastEditedTime": 1627976323427,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "2ce68ce8-85c9-4068-bfff-981b460b556d"
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "windows": {
+      "109": {
+        "110": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://mtgarena.codes/favicon-32x32.png?v=33329007c03085f1ee1dc8277cb7b141",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": false,
+          "id": 110,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Free Magic The Gathering Arena Promo Codes | MTG Arena Codes",
+          "url": "https://mtgarena.codes/",
+          "width": 1100,
+          "windowId": 109
+        },
+        "111": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": false,
+          "id": 111,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=117336",
+          "width": 1100,
+          "windowId": 109
+        },
+        "236": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": false,
+          "id": 236,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AutoBookmarks",
+          "url": "chrome-extension://lcchihcbfbaedlagdpaemgbpjapiihpo/options.html",
+          "width": 736,
+          "windowId": 109
+        },
+        "239": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": false,
+          "id": 239,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/profiles/sync",
+          "width": 736,
+          "windowId": 109
+        },
+        "240": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": false,
+          "id": 240,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab Modifier",
+          "url": "chrome-extension://hcbgadmbdkiilgpifjgcakjehmafcjai/html/options.html",
+          "width": 736,
+          "windowId": 109
+        },
+        "255": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://ombpkjoelcapenbepmgifadkgpokfgfd/data/icons/48.svg",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": false,
+          "id": 255,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Bookmark Dupes",
+          "url": "chrome-extension://ombpkjoelcapenbepmgifadkgpokfgfd/data/tab/index.html",
+          "width": 1100,
+          "windowId": 109
+        },
+        "258": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": false,
+          "id": 258,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Folder tree - BMStats",
+          "url": "chrome-extension://ogdcicncikokgpojepfdikmpeghoepig/treemap.html",
+          "width": 1100,
+          "windowId": 109
+        },
+        "261": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 261,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=109350",
+          "width": 1872,
+          "windowId": 109
+        },
+        "263": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 263,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "chrome-extension://idfbjjfgccflicphjlpbomcklaehplha/newtab.html#109350",
+          "width": 1872,
+          "windowId": 109
+        },
+        "3472": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 764,
+          "highlighted": true,
+          "id": 3472,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 263,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Bookmark Dupes - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/bookmark-dupes/ombpkjoelcapenbepmgifadkgpokfgfd",
+          "width": 1100,
+          "windowId": 109
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "109": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 896,
+        "id": 109,
+        "incognito": false,
+        "left": 296,
+        "state": "minimized",
+        "top": 422,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 10,
+    "name": "Bookmark Dupes - Chrome Web Store",
+    "date": 1631214960971,
+    "lastEditedTime": 1631214960971,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1631199486672,
+    "id": "0690d466-2a34-4a69-a969-1a70ad0c2bb5"
+  }
+]

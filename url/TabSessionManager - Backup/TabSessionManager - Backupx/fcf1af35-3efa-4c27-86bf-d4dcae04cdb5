@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "237": {
+        "238": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/df22805b/img/favicon_32.png",
+          "groupId": -1,
+          "height": 1485,
+          "highlighted": true,
+          "id": 238,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(13) What Happens if you MIX ALL The METALS Together? - YouTube",
+          "url": "https://www.youtube.com/watch?v=8IeEDKQ35vg&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=12",
+          "width": 1094,
+          "windowId": 237
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "237": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1527,
+        "id": 237,
+        "incognito": false,
+        "left": 2031,
+        "state": "normal",
+        "top": 80,
+        "type": "popup",
+        "width": 1110
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(13) What Happens if you MIX ALL The METALS Together? - YouTube",
+    "date": 1621939391124,
+    "lastEditedTime": 1621939391124,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1621883588884,
+    "id": "6751b174-3b98-48f7-9d0f-66eb45bb18ec"
+  }
+]

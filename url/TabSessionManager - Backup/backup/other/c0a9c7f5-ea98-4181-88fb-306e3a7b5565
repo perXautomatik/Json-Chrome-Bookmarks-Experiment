@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "1559": {
+        "1557": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/79946f8f/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1557,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(42) Can You Beat Skyrim in Chaos Mode? - YouTube",
+          "url": "https://www.youtube.com/watch?v=2LasZLX4TzA&list=TLPQMDYwNjIwMjGRldRDJIUDaA&index=2",
+          "width": 1121,
+          "windowId": 1559
+        },
+        "31183": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://magic.wizards.com/sites/all/themes/wiz_mtg/icons/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 31183,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Jumpstart Decklists | MAGIC: THE GATHERING",
+          "url": "https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18",
+          "width": 1841,
+          "windowId": 1559
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1559": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1559,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Jumpstart Decklists | MAGIC: THE GATHERING",
+    "date": 1623085631318,
+    "lastEditedTime": 1623085631318,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "1db776f8-059c-41e1-8538-5acdaf2307a5"
+  }
+]

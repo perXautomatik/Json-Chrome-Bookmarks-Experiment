@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10072": {
+        "10073": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10073,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Distributed DLC Leveled Lists at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/44122?tab=files&file_id=184197&nmm=1",
+          "width": 1154,
+          "windowId": 10072
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10072": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10072,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Distributed DLC Leveled Lists at Fallout 4 Nexus - Mods and community",
+    "date": 1622643000833,
+    "lastEditedTime": 1622642997785,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "caf4fc70-886c-46fa-81f0-81a4d98503a8"
+  }
+]

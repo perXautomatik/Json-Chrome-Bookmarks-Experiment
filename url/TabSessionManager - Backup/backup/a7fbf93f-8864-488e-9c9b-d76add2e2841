@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2866": {
+        "2867": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2867,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Project Nevada - Better Sprinting at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/66487",
+          "width": 1154,
+          "windowId": 2866
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2866": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2866,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Project Nevada - Better Sprinting at Fallout New Vegas - mods and community",
+    "date": 1627976405208,
+    "lastEditedTime": 1627976403881,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "d54fea50-b797-4f72-a298-fc1f11659958"
+  }
+]

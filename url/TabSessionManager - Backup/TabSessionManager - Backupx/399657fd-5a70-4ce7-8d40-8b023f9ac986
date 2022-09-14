@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10217": {
+        "10218": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10218,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Better Manufacturing at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/26375?tab=files&file_id=177213&nmm=1",
+          "width": 1154,
+          "windowId": 10217
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10217": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10217,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Better Manufacturing at Fallout 4 Nexus - Mods and community",
+    "date": 1622643192000,
+    "lastEditedTime": 1622643188414,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "a316543d-0611-44b2-9cff-428cca075fb7"
+  }
+]

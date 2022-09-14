@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "794": {
+        "1016": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": true,
+          "id": 1016,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "ignore file locking windows | ntfs - Bing",
+          "url": "https://www.bing.com/search?q=ignore+file+locking+windows+%7C+ntfs&qs=n&form=QBRE&sp=-1&pq=ignore+file+locking+&sc=0-20&sk=&cvid=9F355D9881724B69BE73D0F37FACB2BE",
+          "width": 1481,
+          "windowId": 794
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "794": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 858,
+        "id": 794,
+        "incognito": false,
+        "left": 187,
+        "state": "normal",
+        "top": 78,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 1,
+    "name": "ignore file locking windows | ntfs - Bing",
+    "date": 1630320480271,
+    "lastEditedTime": 1630320476337,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "91879bbb-63ba-4d72-9e00-ecb0d3c5e516"
+  }
+]

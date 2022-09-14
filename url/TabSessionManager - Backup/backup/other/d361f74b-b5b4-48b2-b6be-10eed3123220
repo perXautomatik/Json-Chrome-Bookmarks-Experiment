@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "322": {
+        "9": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 742,
+          "highlighted": true,
+          "id": 9,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PLAYLIST The Pulse of Power Noise The music that fans of Power Noise are listening to now. See also The Sound of Power Noise or The Edge of Power Noise. Particle Detector 43 likes 200 songs, about 16 hr",
+          "url": "https://open.spotify.com/playlist/4LpBKDl493rdfsBSPZRcZQ",
+          "width": 1434,
+          "windowId": 322
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "322": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 829,
+        "id": 322,
+        "incognito": false,
+        "left": 1493,
+        "state": "normal",
+        "top": -27,
+        "type": "normal",
+        "width": 1498
+      }
+    },
+    "tabsNumber": 1,
+    "name": "PLAYLIST The Pulse of Power Noise The music that fans of Power Noise are listening to now. See also The Sound of Power Noise or The Edge of Power Noise. Particle Detector 43 likes 200 songs, about 16 hr",
+    "date": 1629988474249,
+    "lastEditedTime": 1629988456582,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1629772774244,
+    "id": "a7cb8bb9-13a4-4f9a-ba5e-3e98c929d6b2"
+  }
+]

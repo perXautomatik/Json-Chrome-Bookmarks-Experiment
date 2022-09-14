@@ -1,0 +1,126 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 2,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "advanced renamer portable - Bing",
+          "url": "https://www.bing.com/search?q=advanced+renamer+portable&cvid=12566c2002b94fd58f0c201d9b9fb663&aqs=edge.0.0l6.6812j0j1&FORM=ANAB01&PC=U531",
+          "width": 1664,
+          "windowId": 1
+        },
+        "1512": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 1512,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=24649",
+          "width": 1664,
+          "windowId": 1
+        },
+        "1513": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 937,
+          "highlighted": false,
+          "id": 1513,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1664,
+          "windowId": 1
+        },
+        "1515": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://cdn.lo4d.com/i/logo_256px_ob.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 1515,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Download File Organizer Software | LO4D.com",
+          "url": "https://en.lo4d.com/windows/file-organizer",
+          "width": 1664,
+          "windowId": 1
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 682,
+        "id": 1,
+        "incognito": false,
+        "left": 253,
+        "state": "minimized",
+        "top": 166,
+        "type": "normal",
+        "width": 1188
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Download File Organizer Software | LO4D.com",
+    "date": 1622818308335,
+    "lastEditedTime": 1622818308335,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622817390872,
+    "id": "0a32a57d-7da4-4259-9b8c-8b754ab7efcd"
+  }
+]

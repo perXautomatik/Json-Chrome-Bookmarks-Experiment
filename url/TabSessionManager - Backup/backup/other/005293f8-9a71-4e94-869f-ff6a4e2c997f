@@ -1,0 +1,80 @@
+[
+  {
+    "windows": {
+      "647": {
+        "648": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 710,
+          "highlighted": false,
+          "id": 648,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "edge cckbmnafioajhemchhomamafaconghdb - Bing",
+          "url": "https://www.bing.com/search?q=edge+cckbmnafioajhemchhomamafaconghdb&cvid=f0b0eea2878f4d8cac836737e4604f6f&aqs=edge..69i57.14704j0j1&FORM=ANAB01&PC=U531",
+          "width": 808,
+          "windowId": 647
+        },
+        "764": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 678,
+          "highlighted": true,
+          "id": 764,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 648,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 808,
+          "windowId": 647
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "647": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 797,
+        "id": 647,
+        "incognito": false,
+        "left": 466,
+        "state": "normal",
+        "top": 186,
+        "type": "normal",
+        "width": 1199
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Visual bookmarks",
+    "date": 1627309739233,
+    "lastEditedTime": 1627309702026,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "0ff010bb-7748-4f8c-a323-b3129c528274"
+  }
+]

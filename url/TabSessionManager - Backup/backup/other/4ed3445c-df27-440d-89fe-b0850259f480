@@ -1,0 +1,148 @@
+[
+  {
+    "windows": {
+      "194": {
+        "186": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 186,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "add delay to autorun programs - Bing",
+          "url": "https://www.bing.com/search?q=add+delay+to+autorun+programs&cvid=797e7ad9ede24d449e2cf9d93419dfb7&aqs=edge..69i57.9512j0j1&FORM=ANAB01&PC=U531",
+          "width": 1110,
+          "windowId": 194
+        },
+        "187": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.raymond.cc/favicon.ico",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": true,
+          "id": 187,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "7 Free Tools to Delay Programs Starting With Windows • Raymond.CC",
+          "url": "https://www.raymond.cc/blog/delay-startup-programs-to-boot-windows-faster/",
+          "width": 746,
+          "windowId": 194
+        },
+        "283": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.raymond.cc/favicon.ico",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 283,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Before You Download or Visit External Websites... • Raymond.CC",
+          "url": "https://www.raymond.cc/blog/download/did/3943/",
+          "width": 746,
+          "windowId": 194
+        },
+        "285": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.chemtable.com/images/autorun-organizer/logo-32px.png",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 285,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Autorun Organizer 5.11 - Free Advanced Startup Manager for Windows",
+          "url": "https://www.chemtable.com/autorun-organizer.htm",
+          "width": 746,
+          "windowId": 194
+        },
+        "286": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.chemtable.com/favicon.ico",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 286,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Thank You For Choosing Autorun Organizer",
+          "url": "https://www.chemtable.com/thank-you.htm?prod_id=Autorun%20Organizer&ver=5.11",
+          "width": 746,
+          "windowId": 194
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "194": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 573,
+        "id": 194,
+        "incognito": false,
+        "left": 227,
+        "state": "normal",
+        "top": 42,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 5,
+    "name": "7 Free Tools to Delay Programs Starting With Windows • Raymond.CC",
+    "date": 1627211996859,
+    "lastEditedTime": 1627211528288,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "46f6fe5f-ecc1-42e1-860a-e37a21422d74"
+  }
+]

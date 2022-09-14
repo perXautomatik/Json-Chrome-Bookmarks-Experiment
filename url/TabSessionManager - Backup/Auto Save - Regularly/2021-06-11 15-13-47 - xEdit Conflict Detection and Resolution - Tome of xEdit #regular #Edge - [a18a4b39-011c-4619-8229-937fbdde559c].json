@@ -1,0 +1,128 @@
+[
+  {
+    "windows": {
+      "2": {
+        "3": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 3,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "fallout 4 merge and detect conflicts - Bing",
+          "url": "https://www.bing.com/search?q=fallout+4+merge+and+detect+conflicts&cvid=2e3eb1e7d05b45e089bc4b2f8b471c54&aqs=edge..69i57.8200j0j1&FORM=ANAB01&PC=U531",
+          "width": 1121,
+          "windowId": 2
+        },
+        "54": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://tes5edit.github.io/docs/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 54,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 3,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "xEdit Conflict Detection and Resolution | Tome of xEdit",
+          "url": "https://tes5edit.github.io/docs/5-conflict-detection-and-resolution.html",
+          "width": 1121,
+          "windowId": 2
+        },
+        "55": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 55,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 3,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tutorial 1: How To Merge Plugins at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/articles/329/",
+          "width": 1121,
+          "windowId": 2
+        },
+        "56": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 56,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 3,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Conflict Detector and Mapper at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/40600",
+          "width": 1121,
+          "windowId": 2
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1896,
+        "id": 2,
+        "incognito": false,
+        "left": 690,
+        "state": "normal",
+        "top": 210,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 4,
+    "name": "xEdit Conflict Detection and Resolution | Tome of xEdit",
+    "date": 1623417227082,
+    "lastEditedTime": 1623417227082,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1623415425883,
+    "id": "a18a4b39-011c-4619-8229-937fbdde559c"
+  }
+]

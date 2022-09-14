@@ -1,0 +1,216 @@
+[
+  {
+    "windows": {
+      "4847": {
+        "4627": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 497,
+          "highlighted": false,
+          "id": 4627,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windowed Mode Fallout New Vegas 1440P Windowed Mode, Windowed Mode",
+          "url": "https://vivaworldcup.info/windowed-mode-fallout-new-vegas/",
+          "width": 1081,
+          "windowId": 4847
+        },
+        "4638": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/a910c60b/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 567,
+          "highlighted": false,
+          "id": 4638,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Incredible Times People Beat the Casino - YouTube",
+          "url": "https://www.youtube.com/watch?v=6NCOGSeA69g&list=TLPQMjEwNzIwMjExqW22-s3_qw&index=8",
+          "width": 999,
+          "windowId": 4847
+        },
+        "4856": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://dofreality.com/wp-content/uploads/2018/02/cropped-DOF_logo1_square-32x32.png",
+          "groupId": -1,
+          "height": 617,
+          "highlighted": false,
+          "id": 4856,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Flight Motion Simulator - Affordable Motion Simulator Platform DOF Reality",
+          "url": "https://dofreality.com/flight-motion-simulator/?gclid=Cj0KCQjw_8mHBhClARIsABfFgphRF9JOqY0vFDPXwMAMafddlzN3dchc8wJxqlXPxm_fqjo0wh64P0oaAsNYEALw_wcB",
+          "width": 1049,
+          "windowId": 4847
+        },
+        "5190": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://assets.msn.com/statics/icons/favicon_newtabpage.png",
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 5190,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "New tab",
+          "url": "edge://newtab/",
+          "width": 999,
+          "windowId": 4847
+        },
+        "5262": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.thermofisher.com/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 5262,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Vaccine Research & Development | Thermo Fisher Scientific - SE",
+          "url": "https://www.thermofisher.com/se/en/home/biotech-lab-solutions/therapeutics-research-development-solutions/vaccine-research-development-tools.html?cid=bid_mol_sbu_r01_co_cp1358_pjt1332_col24846_0vi_yut_sv_awa_rt_s24_bt_ss457&ef_id=CjwKCAjwos-HBhB3EiwAe4xM99A_TIz3--maI-b1V2jagr1nCrHXWY2xjirdcXxVfNve3-TvOWCBDhoCI68QAvD_BwE:G:s&s_kwcid=AL!3652!3!522039142681!!youtube.com!ytv!!!13131105769!122762107616&gclid=CjwKCAjwos-HBhB3EiwAe4xM99A_TIz3--maI-b1V2jagr1nCrHXWY2xjirdcXxVfNve3-TvOWCBDhoCI68QAvD_BwE",
+          "width": 1152,
+          "windowId": 4847
+        },
+        "5853": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DarkYellow/favicon.ico",
+          "groupId": -1,
+          "height": 567,
+          "highlighted": true,
+          "id": 5853,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Red text Explainer at Borderlands 2 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/borderlands2/mods/214?tab=description",
+          "width": 999,
+          "windowId": 4847
+        },
+        "5909": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.diodhuset.se/assets/favicon-32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 5909,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Ljusplatta för Poppy med rinnande ljus i kabeln (USB)",
+          "url": "https://www.diodhuset.se/ljusplatta-ledson-for-poppy-led-rinnande-kabel?gclid=CjwKCAjwi9-HBhACEiwAPzUhHFe-Q8ul2SbEEjThdAKEL4z3h7y0Knio9oNua29LLLymLxKqBDty8hoC8_gQAvD_BwE",
+          "width": 1152,
+          "windowId": 4847
+        },
+        "5910": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://eu.4game.com/rot/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 5910,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Ragnarok Online Prime your favorite game with a new look",
+          "url": "https://eu.4game.com/roprime/?utm_source=google&utm_medium=cpc&utm_campaign=[ROP-EU]_EUROPE_YT_CPA&gclsrc=aw.ds&gclid=CjwKCAjwi9-HBhACEiwAPzUhHLY1ZntPH-nzklUkgtYK4CFtfBjxPv3QnSHrzpQGV3SM9vwbw0euRRoChTAQAvD_BwE",
+          "width": 1152,
+          "windowId": 4847
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4847": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 654,
+        "id": 4847,
+        "incognito": false,
+        "left": 778,
+        "state": "normal",
+        "top": 283,
+        "type": "normal",
+        "width": 1063
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Red text Explainer at Borderlands 2 Nexus - Mods and community",
+    "date": 1626898441772,
+    "lastEditedTime": 1626898441772,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625991790805,
+    "id": "1a542009-78a5-4d44-a219-4d7af5442834"
+  }
+]

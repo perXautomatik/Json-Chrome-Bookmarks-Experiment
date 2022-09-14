@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2181": {
+        "2182": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2182,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "RMF3 Roberts_Brawler Body-Breeze compatible for FNV and TTW at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/65202",
+          "width": 1154,
+          "windowId": 2181
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2181": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2181,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "RMF3 Roberts_Brawler Body-Breeze compatible for FNV and TTW at Fallout New Vegas - mods and community",
+    "date": 1627156229317,
+    "lastEditedTime": 1627156227707,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "f7113d06-be76-4a38-b7ca-cee128e18828"
+  }
+]

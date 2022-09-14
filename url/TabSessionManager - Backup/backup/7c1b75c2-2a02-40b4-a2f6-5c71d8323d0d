@@ -1,0 +1,263 @@
+[
+  {
+    "windows": {
+      "5217": {
+        "4913": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://img.itch.zone/aW1nLzI2OTE2NzcucG5n/32x32%23/iAWLIi.png",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": true,
+          "id": 4913,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "\"The Tower\" Final version by Octopussy",
+          "url": "https://octopussyco.itch.io/thetower",
+          "width": 1003,
+          "windowId": 5217
+        },
+        "5164": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://gamefabrique.com/favicon-32x32.png",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 5164,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Forest Of The Blue Skin Download | GameFabrique",
+          "url": "https://gamefabrique.com/games/forest-of-the-blue-skin/",
+          "width": 1003,
+          "windowId": 5217
+        },
+        "5190": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://img.itch.zone/aW1nLzU4ODUxODgucG5n/32x32%23/ZyZtB4.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 5190,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Max the Elf ♂ by T-Hoodie",
+          "url": "https://thoodie-draws.itch.io/max-the-elf",
+          "width": 1872,
+          "windowId": 5217
+        },
+        "5191": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://img.itch.zone/aW1nLzQwMDYwMDEucG5n/32x32%23/NwlqjT.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 5191,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Yorna: Monster Girl's Secret by Yeehaw Games",
+          "url": "https://yeehaw-games.itch.io/yorna",
+          "width": 1872,
+          "windowId": 5217
+        },
+        "5209": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://img.itch.zone/aW1nLzY0MDYyNDEuZ2lm/32x32%23m/Apupsl.gif",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 5209,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tales of Androgyny by Majalis",
+          "url": "https://majalis.itch.io/tales-of-androgyny",
+          "width": 1872,
+          "windowId": 5217
+        },
+        "5210": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://img.itch.zone/aW1nLzMwODA1MzYucG5n/32x32%23/fbYliu.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 5210,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Guild Project by GuildProject, TinyHat Studios",
+          "url": "https://guildproject.itch.io/guild-project",
+          "width": 1872,
+          "windowId": 5217
+        },
+        "5211": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://img.itch.zone/aW1nLzQ0NzQxNDcuZ2lm/32x32%23m/R0HOhC.gif",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 5211,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Hero's Harem Guild (NSFW +18) by Komisari",
+          "url": "https://komisari.itch.io/heros-harem-guild",
+          "width": 1872,
+          "windowId": 5217
+        },
+        "5212": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://img.itch.zone/aW1nLzQ1MDM5NjcucG5n/32x32%23/Rxpe%2Bi.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 5212,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Zombie's Retreat by Siren",
+          "url": "https://sirensdomain.itch.io/zombiesretreat",
+          "width": 1872,
+          "windowId": 5217
+        },
+        "5213": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://img.itch.zone/aW1nLzUyOTA0ODkucG5n/32x32%23/Ja4fvP.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 5213,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Deviant Anomalies by Moolah Milk",
+          "url": "https://moolahmilk.itch.io/deviant-anomalies",
+          "width": 1872,
+          "windowId": 5217
+        },
+        "5214": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://img.itch.zone/aW1nLzMwOTcxMDcucG5n/32x32%23/lJdoiz.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 5214,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Haremon by haremondev",
+          "url": "https://haremondev.itch.io/haremon",
+          "width": 1872,
+          "windowId": 5217
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5217": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 911,
+        "id": 5217,
+        "incognito": false,
+        "left": 184,
+        "state": "normal",
+        "top": 79,
+        "type": "normal",
+        "width": 1067
+      }
+    },
+    "tabsNumber": 10,
+    "name": "\"The Tower\" Final version by Octopussy",
+    "date": 1625864895440,
+    "lastEditedTime": 1625864519552,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "ce68541b-5dad-4787-af93-479a39e5c3c4"
+  }
+]

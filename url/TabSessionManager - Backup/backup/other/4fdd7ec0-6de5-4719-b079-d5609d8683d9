@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2650": {
+        "2651": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2651,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "FNV Mod Limit Fix at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/68714?tab=files&file_id=1000061401&nmm=1",
+          "width": 1154,
+          "windowId": 2650
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2650": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2650,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "FNV Mod Limit Fix at Fallout New Vegas - mods and community",
+    "date": 1627156754516,
+    "lastEditedTime": 1627156753246,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "bbf857df-d8c9-4311-a788-e1d652ac8f00"
+  }
+]

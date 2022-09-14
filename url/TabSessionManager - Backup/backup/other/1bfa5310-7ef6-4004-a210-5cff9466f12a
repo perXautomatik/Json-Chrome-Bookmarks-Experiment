@@ -1,0 +1,117 @@
+[
+  {
+    "windows": {
+      "4317": {
+        "3562": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/35e75ccf/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": true,
+          "id": 3562,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "China's ISS Competitor Begins Construction In Orbit - YouTube",
+          "url": "https://www.youtube.com/watch?v=06GUEkc4EEA&list=TLPQMDYwNzIwMjGtzIY43W9k-w&index=105",
+          "width": 1004,
+          "windowId": 4317
+        }
+      },
+      "4408": {
+        "4402": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 4402,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "DWService - christoffer.broback@gmail.com",
+          "url": "https://www.dwservice.net/session.dw#s",
+          "width": 1004,
+          "windowId": 4408
+        },
+        "4881": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 4881,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 4402,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Work2",
+          "url": "https://www.dwservice.net/session.dw?parent=mng#s",
+          "width": 1872,
+          "windowId": 4408
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "4317": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 911,
+        "id": 4317,
+        "incognito": false,
+        "left": 859,
+        "state": "normal",
+        "top": 136,
+        "type": "normal",
+        "width": 1068
+      },
+      "4408": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 4408,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Work2",
+    "date": 1625820943786,
+    "lastEditedTime": 1625820943786,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "3a3199c0-9b0c-492c-9718-ab44fe5449c0"
+  }
+]

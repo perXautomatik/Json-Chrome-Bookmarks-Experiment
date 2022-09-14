@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1021": {
+        "759": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 482,
+          "highlighted": true,
+          "id": 759,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Gist — Manage in one repository many gists by using git submodule",
+          "url": "https://gist.github.com/perXautomatik/49b768e0deaa4bbf0fcd849432de2f51",
+          "width": 783,
+          "windowId": 1021
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1021": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 569,
+        "id": 1021,
+        "incognito": false,
+        "left": 940,
+        "state": "normal",
+        "top": 114,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Gist — Manage in one repository many gists by using git submodule",
+    "date": 1627309835903,
+    "lastEditedTime": 1627309828202,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "1fc1a91f-a26d-47f4-b3d5-646d225972ea"
+  }
+]

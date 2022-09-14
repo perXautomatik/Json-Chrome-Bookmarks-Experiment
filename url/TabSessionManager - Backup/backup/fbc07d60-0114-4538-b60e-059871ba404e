@@ -1,0 +1,125 @@
+[
+  {
+    "windows": {
+      "4847": {
+        "4627": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 497,
+          "highlighted": false,
+          "id": 4627,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windowed Mode Fallout New Vegas 1440P Windowed Mode, Windowed Mode",
+          "url": "https://vivaworldcup.info/windowed-mode-fallout-new-vegas/",
+          "width": 1081,
+          "windowId": 4847
+        },
+        "4638": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/a910c60b/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 572,
+          "highlighted": true,
+          "id": 4638,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Epic Woke Fail! HBO's Lovecraft Country Is CANCELLED As Viewers Continue To REJECT Garbage Shows! - YouTube",
+          "url": "https://www.youtube.com/watch?v=d8hMdNraSxg",
+          "width": 1004,
+          "windowId": 4847
+        },
+        "4856": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://dofreality.com/wp-content/uploads/2018/02/cropped-DOF_logo1_square-32x32.png",
+          "groupId": -1,
+          "height": 617,
+          "highlighted": false,
+          "id": 4856,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 4638,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Flight Motion Simulator - Affordable Motion Simulator Platform DOF Reality",
+          "url": "https://dofreality.com/flight-motion-simulator/?gclid=Cj0KCQjw_8mHBhClARIsABfFgphRF9JOqY0vFDPXwMAMafddlzN3dchc8wJxqlXPxm_fqjo0wh64P0oaAsNYEALw_wcB",
+          "width": 1049,
+          "windowId": 4847
+        },
+        "4857": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 592,
+          "highlighted": false,
+          "id": 4857,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JIP LN NVSE Plugin at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/58277",
+          "width": 1024,
+          "windowId": 4847
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4847": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 659,
+        "id": 4847,
+        "incognito": false,
+        "left": 1308,
+        "state": "normal",
+        "top": -505,
+        "type": "normal",
+        "width": 1068
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Epic Woke Fail! HBO's Lovecraft Country Is CANCELLED As Viewers Continue To REJECT Garbage Shows! - YouTube",
+    "date": 1626643741012,
+    "lastEditedTime": 1626643741012,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625991790805,
+    "id": "d94385eb-af62-48d0-9b92-96308fac23f8"
+  }
+]

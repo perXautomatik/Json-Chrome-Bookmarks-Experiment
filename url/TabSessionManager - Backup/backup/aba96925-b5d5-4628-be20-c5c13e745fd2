@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "2299": {
+        "2300": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 641,
+          "highlighted": true,
+          "id": 2300,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sign in - Google Accounts",
+          "url": "https://accounts.google.com/o/oauth2/auth/oauthchooseaccount?response_type=code&client_id=725590110388-85vnjajfs9fd23oppbpmus99u39hfnku.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fchrome-cluster-e97d9.firebaseapp.com%2F__%2Fauth%2Fhandler&state=AMbdmDmr5BAuQaqOy8Tba5hL7boH2wCzSn7wpjEf0sPrZYRSSjx5hHNDpJM3NRDd1RxdATMxr1l9h8qxXkHv3Hzaf-eOX4zIOE249g3pXy9t93Tbf0WloyLHE6JuAj28tzlh8zbbC5f-COlq0s0Vvvk72kuFaBURK2J6krYUeQM5HqkuBBgBi0Il-NZkBg0cp5guXS7ZJQc8S0x4v1aD4Rzd0ixAQNZPYsjdCE-Ba5cZnPJhFRO97NqqR9YexBNnACFapiPmvSHktorSP46Kywr3Ca0mH_zuhCmc5aICw1nsNKln8GYQfQpYj8tm36zmDCeKWQ0QsNLyydyAKHN2&scope=openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20profile&prompt=select_account&context_uri=chrome-extension%3A%2F%2Faadahadfdmiibmdhfmpbeeebejmjnkef&flowName=GeneralOAuthFlow",
+          "width": 499,
+          "windowId": 2299
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2299": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 680,
+        "id": 2299,
+        "incognito": false,
+        "left": 702,
+        "state": "normal",
+        "top": 180,
+        "type": "popup",
+        "width": 515
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Sign in - Google Accounts",
+    "date": 1629028501177,
+    "lastEditedTime": 1629028498700,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "aba60db0-1150-4013-8b14-88dabdc32386"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "windows": {
+      "1476": {
+        "1477": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/b0971059/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 1477,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(7) How To Fight The Woke | JP Sears - MP Podcast #90 - YouTube - Mikhaila Peterson Mikhaila Peterson Verified",
+          "url": "https://www.youtube.com/watch?v=mr1tjwWTkzI",
+          "width": 1136,
+          "windowId": 1476
+        },
+        "2978": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": true,
+          "id": 2978,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1477,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PLAYLIST And There Will Your Heart Be Also Radio With Fields Of The Nephilim, The Chameleons, And Also The Trees, :Of The Wand And The Moon: and more Spotify 5 likes 50 songs, 3 hr 59 min",
+          "url": "https://open.spotify.com/playlist/37i9dQZF1E8N57G0XAzmke",
+          "width": 1136,
+          "windowId": 1476
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1476": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 831,
+        "id": 1476,
+        "incognito": false,
+        "left": 2060,
+        "state": "normal",
+        "top": -107,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 2,
+    "name": "PLAYLIST And There Will Your Heart Be Also Radio With Fields Of The Nephilim, The Chameleons, And Also The Trees, :Of The Wand And The Moon: and more Spotify 5 likes 50 songs, 3 hr 59 min",
+    "date": 1629725059074,
+    "lastEditedTime": 1629725059074,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629628744839,
+    "id": "498aea10-ca8e-4ee6-9125-db9897389c32"
+  }
+]

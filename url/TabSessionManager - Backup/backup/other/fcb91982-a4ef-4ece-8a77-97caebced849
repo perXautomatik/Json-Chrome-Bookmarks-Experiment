@@ -1,0 +1,125 @@
+[
+  {
+    "windows": {
+      "1559": {
+        "1557": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/79946f8f/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 1557,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(42) Can You Beat Fallout 3 As Benjamin Button? - YouTube",
+          "url": "https://www.youtube.com/watch?v=jelPCGiQ09k&list=TLPQMDYwNjIwMjGRldRDJIUDaA&index=7",
+          "width": 1121,
+          "windowId": 1559
+        },
+        "31183": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://magic.wizards.com/sites/all/themes/wiz_mtg/icons/favicon.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 31183,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Jumpstart Decklists | MAGIC: THE GATHERING",
+          "url": "https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18",
+          "width": 1121,
+          "windowId": 1559
+        },
+        "31186": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAsVBMVEUAAAAop+kAeNQDZLgUkN8DYrgDZLcgnuYAd9YWkuAoqOoAedQdnOQCc84TkN8Zl+Imp+kAYbYkqucjpOgTkN8AZswSkOAAedsGYbYDe9YCY7oEZroIY70CbcQAd9QjoeYCaL4FftcmpOkPitwSitoAd9MDZbkCZbkcmuMameYzs/8oqeopqeoEZ7kOgM8JhNonqeoCcskCZLcnp+oqqOoAdtIGbL4JdskcmuMXkd8Mh9yZmhlmAAAAO3RSTlMApqamplOcpj6mh3ymppGmphUVpocKUxUqpmemH6aHpqampqamnEl8SQoKkT4+pqZ8poecSaampqaHpiYdGzgAAADSSURBVHic1ZJHAoIwEEUHCVYERaSIDbH33u5/MJOBAFFwz9u+n/kDCRQPR6Hs2jm2q5TlkIWT5fvnSDOUDM+Ph/R+5oteludpW22UKM2BkEhWtYdMY2ScVWLPuKecvDhQ5oH4PHLDHu8xJYRoFvYLHnvue2oRcwWA+6UJKpUaDxATQLQ+mUiS1FLjhCUEDk9qkY4eBbQk4AYjrhm8hwd8nc1OE/WES77VL5v00M90iTBb7NEAXnkWe5YAxuVPoM7+pVHP9+vwOrbHTL255jzO4vEBWYANEv/JadYAAAAASUVORK5CYII=",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 31186,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "All Photos - OneDrive",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=All%20Photos%20-%20OneDrive&url=https%3A%2F%2Fonedrive.live.com%2F%3Fv%3Dphotos%26id%3D6DA6DE33539410C3%2521338934%26cid%3D6DA6DE33539410C3%26qt%3Dallmyphotos&tabId=31184&sessionId=1622847893290&icon=https%3A%2F%2Fp.sfx.ms%2Fimages%2Ffavicon.ico",
+          "width": 0,
+          "windowId": 1559
+        },
+        "31190": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210604153606",
+          "groupId": -1,
+          "height": 951,
+          "highlighted": false,
+          "id": 31190,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1406,
+          "windowId": 1559
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1559": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 1559,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 4,
+    "name": "(42) Can You Beat Fallout 3 As Benjamin Button? - YouTube",
+    "date": 1623145031358,
+    "lastEditedTime": 1623145031358,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "9e4fd443-5f31-4f97-ae88-14c7ca7f1cea"
+  }
+]

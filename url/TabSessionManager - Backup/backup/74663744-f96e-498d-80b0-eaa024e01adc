@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "1809": {
+        "1810": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1810,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=119788",
+          "width": 1433,
+          "windowId": 1809
+        },
+        "1811": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": true,
+          "id": 1811,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "google play store - Bing",
+          "url": "https://www.bing.com/search?q=google+play+store&cvid=a5b3b60cdb5e4193b4c85707dc3333e7&aqs=edge.0.0l9.10207j0j9&FORM=ANAB01&PC=U531",
+          "width": 1433,
+          "windowId": 1809
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1809": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 858,
+        "id": 1809,
+        "incognito": false,
+        "left": 996,
+        "state": "normal",
+        "top": 300,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 2,
+    "name": "google play store - Bing",
+    "date": 1630395650869,
+    "lastEditedTime": 1630395650869,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1630245328865,
+    "id": "665ec45d-385c-407b-a56d-887c7bdd1085"
+  }
+]

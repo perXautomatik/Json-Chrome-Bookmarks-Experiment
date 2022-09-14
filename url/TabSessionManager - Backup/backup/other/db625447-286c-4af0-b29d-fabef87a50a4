@@ -1,0 +1,80 @@
+[
+  {
+    "windows": {
+      "1006": {
+        "1050": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 1050,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "The Coral - Dreaming of you - Bing video",
+          "url": "https://www.bing.com/videos/search?q=the+coral+dreaming+of+you&&view=detail&mid=17BCD6FC7C75424AEA1117BCD6FC7C75424AEA11&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dthe%2Bcoral%2Bdreaming%2Bof%2Byou%26FORM%3DHDRSC3",
+          "width": 1121,
+          "windowId": 1006
+        },
+        "1051": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://f.vimeocdn.com/images_v6/favicon.ico?190770ec89cd66c500368fec34f16cd382693ef1",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 1051,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1050,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The Coral - Dreaming of you on Vimeo",
+          "url": "https://vimeo.com/35204988",
+          "width": 1121,
+          "windowId": 1006
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1006": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 1006,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 2,
+    "name": "The Coral - Dreaming of you - Bing video",
+    "date": 1627468121137,
+    "lastEditedTime": 1627468111560,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "d13d3cab-2c0c-424b-b4b6-03187715501c"
+  }
+]

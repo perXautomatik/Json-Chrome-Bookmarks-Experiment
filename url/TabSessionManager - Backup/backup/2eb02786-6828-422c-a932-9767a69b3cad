@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "7786": {
+        "7787": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 581,
+          "highlighted": true,
+          "id": 7787,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "[L] AutoBookmarks [R] .html",
+          "url": "chrome-extension://knfpajocfeohpaipkfpdbfhgibajfmcf/data/commander/index.html?mode=window",
+          "width": 1256,
+          "windowId": 7786
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7786": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 620,
+        "id": 7786,
+        "incognito": false,
+        "left": 685,
+        "state": "normal",
+        "top": 454,
+        "type": "popup",
+        "width": 1272
+      }
+    },
+    "tabsNumber": 1,
+    "name": "[L] AutoBookmarks [R] .html",
+    "date": 1631530818436,
+    "lastEditedTime": 1631530730154,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "fb7f80cf-fd1c-42f1-825b-1f50163233ff"
+  }
+]

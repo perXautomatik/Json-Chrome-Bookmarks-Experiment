@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "2262": {
+        "2263": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2263,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Fork a file within a Git repository - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/11366428/fork-a-file-within-a-git-repository",
+          "width": 1136,
+          "windowId": 2262
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2262": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 768,
+        "id": 2262,
+        "incognito": false,
+        "left": 1966,
+        "state": "minimized",
+        "top": 483,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Fork a file within a Git repository - Stack Overflow",
+    "date": 1629028831764,
+    "lastEditedTime": 1629028816643,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "8cb66182-8018-42cb-bd91-6a0904ff686c"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "3584": {
+        "3585": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/a910c60b/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3585,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "https://www.youtube.com/watch?time_continue=125&v=sD9xKao_u30&feature=emb_title",
+          "url": "https://www.youtube.com/watch?time_continue=125&v=sD9xKao_u30&feature=emb_title",
+          "width": 1154,
+          "windowId": 3584
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3584": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3584,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "https://www.youtube.com/watch?time_continue=125&v=sD9xKao_u30&feature=emb_title",
+    "date": 1628835461985,
+    "lastEditedTime": 1628835453200,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "1bb5aa38-db63-4d49-af7b-3d7504cf78d8"
+  }
+]

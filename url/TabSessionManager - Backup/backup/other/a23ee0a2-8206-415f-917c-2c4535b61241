@@ -1,0 +1,148 @@
+[
+  {
+    "windows": {
+      "3": {
+        "4": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 712,
+          "highlighted": false,
+          "id": 4,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1064,
+          "windowId": 3
+        },
+        "484": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": true,
+          "id": 484,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "html - A CSS selector or xpath to iterate over rows with specific attributes - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/30474519/a-css-selector-or-xpath-to-iterate-over-rows-with-specific-attributes",
+          "width": 1064,
+          "windowId": 3
+        },
+        "1021": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.w3.org/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 1021,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "CSS Snapshot 2020",
+          "url": "https://www.w3.org/TR/CSS/#css",
+          "width": 1064,
+          "windowId": 3
+        },
+        "1031": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 1031,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "edge cluster - Bing",
+          "url": "https://www.bing.com/search?q=edge+cluster&src=IE-SearchBox&FORM=IESR4N&pc=EUPP_",
+          "width": 1064,
+          "windowId": 3
+        },
+        "1099": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://zetcode.com/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 1099,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Document.querySelector tutorial - selecting elements with querySelector",
+          "url": "https://zetcode.com/javascript/queryselector/#:~:text=Document.querySelector.%20The%20Document%27s%20querySelector%20%28%29%20method%20returns%20the,If%20no%20matches%20are%20found%2C%20null%20is%20returned.",
+          "width": 1064,
+          "windowId": 3
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 831,
+        "id": 3,
+        "incognito": false,
+        "left": 933,
+        "state": "normal",
+        "top": 512,
+        "type": "normal",
+        "width": 1128
+      }
+    },
+    "tabsNumber": 5,
+    "name": "html - A CSS selector or xpath to iterate over rows with specific attributes - Stack Overflow",
+    "date": 1629117819043,
+    "lastEditedTime": 1629113201082,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1629105972374,
+    "id": "3985fe24-1b29-4e46-8ba7-d7f7392d7c33"
+  }
+]

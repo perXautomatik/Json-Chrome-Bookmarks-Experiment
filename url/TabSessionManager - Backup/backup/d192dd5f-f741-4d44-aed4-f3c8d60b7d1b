@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2679": {
+        "2680": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2680,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Convenient Companion Inventory at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/66761",
+          "width": 1154,
+          "windowId": 2679
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2679": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2679,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Convenient Companion Inventory at Fallout New Vegas - mods and community",
+    "date": 1627976306201,
+    "lastEditedTime": 1627976304662,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "c7ccc8ad-d7d6-492f-a205-b94529d73ebf"
+  }
+]

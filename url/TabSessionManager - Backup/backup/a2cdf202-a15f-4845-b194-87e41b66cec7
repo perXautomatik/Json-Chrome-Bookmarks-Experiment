@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2523": {
+        "2524": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2524,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "https://www.nexusmods.com/newvegas/mods/72317",
+          "url": "https://www.nexusmods.com/newvegas/mods/72317",
+          "width": 1154,
+          "windowId": 2523
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2523": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2523,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "https://www.nexusmods.com/newvegas/mods/72317",
+    "date": 1627156410785,
+    "lastEditedTime": 1627156406982,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "f7b75896-449c-472c-a339-e4689f7779c4"
+  }
+]

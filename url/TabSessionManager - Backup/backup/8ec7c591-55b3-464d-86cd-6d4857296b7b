@@ -1,0 +1,57 @@
+[
+  {
+    "windows": {
+      "921": {
+        "922": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/65defdc1/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1014,
+          "highlighted": true,
+          "id": 922,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pendingUrl": "https://www.youtube.com/watch?v=NIZAZ6toEL4",
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Corporate Darwin Awards III – Secret Whispers and Short Circuits - YouTube",
+          "url": "https://www.youtube.com/watch?v=NIZAZ6toEL4",
+          "width": 1184,
+          "windowId": 921
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "921": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1096,
+        "id": 921,
+        "incognito": false,
+        "left": 1920,
+        "state": "normal",
+        "top": -620,
+        "type": "popup",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Corporate Darwin Awards III – Secret Whispers and Short Circuits - YouTube",
+    "date": 1628837692100,
+    "lastEditedTime": 1628837666218,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "8ca54409-c51d-4af0-b79b-783ec2dac58b"
+  }
+]

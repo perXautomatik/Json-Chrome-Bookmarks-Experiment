@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "2306": {
+        "2285": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 2285,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "code template extract - Bing",
+          "url": "https://www.bing.com/search?q=code+template+extract&cvid=1909dcbdbab344719e599676685ddd43&aqs=edge..69i57.7267j0j1&FORM=ANAB01&PC=U531",
+          "width": 1064,
+          "windowId": 2306
+        },
+        "2287": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 2287,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/?options=hilgambgdpjgljhjdaccadahckpdiapo",
+          "width": 1872,
+          "windowId": 2306
+        },
+        "2298": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://clusterwm.com/res/icons/icon16.png",
+          "groupId": -1,
+          "height": 1169,
+          "highlighted": true,
+          "id": 2298,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Cluster: Manage your tabs with simplicity",
+          "url": "https://clusterwm.com/",
+          "width": 512,
+          "windowId": 2306
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2306": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1256,
+        "id": 2306,
+        "incognito": false,
+        "left": 2050,
+        "state": "normal",
+        "top": -490,
+        "type": "normal",
+        "width": 576
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Cluster: Manage your tabs with simplicity",
+    "date": 1629102721368,
+    "lastEditedTime": 1629102693581,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "bcfc9f61-40f1-44e4-999b-4af3b9c92e1b"
+  }
+]

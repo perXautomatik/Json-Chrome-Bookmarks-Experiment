@@ -1,0 +1,148 @@
+[
+  {
+    "windows": {
+      "4847": {
+        "4627": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 497,
+          "highlighted": false,
+          "id": 4627,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windowed Mode Fallout New Vegas 1440P Windowed Mode, Windowed Mode",
+          "url": "https://vivaworldcup.info/windowed-mode-fallout-new-vegas/",
+          "width": 1081,
+          "windowId": 4847
+        },
+        "4638": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/a910c60b/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 4638,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Using Sony DAS (And WinDAS) to calibrate and breathe new life into Sony computer monitors - YouTube",
+          "url": "https://www.youtube.com/watch?v=Lt1NtRH4BOg&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=27",
+          "width": 1152,
+          "windowId": 4847
+        },
+        "4856": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://dofreality.com/wp-content/uploads/2018/02/cropped-DOF_logo1_square-32x32.png",
+          "groupId": -1,
+          "height": 617,
+          "highlighted": false,
+          "id": 4856,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Flight Motion Simulator - Affordable Motion Simulator Platform DOF Reality",
+          "url": "https://dofreality.com/flight-motion-simulator/?gclid=Cj0KCQjw_8mHBhClARIsABfFgphRF9JOqY0vFDPXwMAMafddlzN3dchc8wJxqlXPxm_fqjo0wh64P0oaAsNYEALw_wcB",
+          "width": 1049,
+          "windowId": 4847
+        },
+        "4857": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 592,
+          "highlighted": false,
+          "id": 4857,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JIP LN NVSE Plugin at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/58277",
+          "width": 1024,
+          "windowId": 4847
+        },
+        "5262": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.thermofisher.com/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 5262,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 4638,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Vaccine Research & Development | Thermo Fisher Scientific - SE",
+          "url": "https://www.thermofisher.com/se/en/home/biotech-lab-solutions/therapeutics-research-development-solutions/vaccine-research-development-tools.html?cid=bid_mol_sbu_r01_co_cp1358_pjt1332_col24846_0vi_yut_sv_awa_rt_s24_bt_ss457&ef_id=CjwKCAjwos-HBhB3EiwAe4xM99A_TIz3--maI-b1V2jagr1nCrHXWY2xjirdcXxVfNve3-TvOWCBDhoCI68QAvD_BwE:G:s&s_kwcid=AL!3652!3!522039142681!!youtube.com!ytv!!!13131105769!122762107616&gclid=CjwKCAjwos-HBhB3EiwAe4xM99A_TIz3--maI-b1V2jagr1nCrHXWY2xjirdcXxVfNve3-TvOWCBDhoCI68QAvD_BwE",
+          "width": 1152,
+          "windowId": 4847
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4847": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 4847,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Using Sony DAS (And WinDAS) to calibrate and breathe new life into Sony computer monitors - YouTube",
+    "date": 1626713040739,
+    "lastEditedTime": 1626713040739,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625991790805,
+    "id": "f84a728f-8b3c-459b-aafd-c67e33fe1f86"
+  }
+]

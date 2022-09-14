@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2908": {
+        "2909": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2909,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "First Aid NVSE - Heal and Use Items on NPCs at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/66701",
+          "width": 1154,
+          "windowId": 2908
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2908": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2908,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "First Aid NVSE - Heal and Use Items on NPCs at Fallout New Vegas - mods and community",
+    "date": 1627976438742,
+    "lastEditedTime": 1627976436957,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "0b2bd332-b864-4527-bc8b-b9bb79cf30fd"
+  }
+]

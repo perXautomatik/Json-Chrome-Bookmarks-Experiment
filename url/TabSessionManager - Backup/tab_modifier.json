@@ -1,0 +1,112 @@
+{
+    "settings": {
+        "enable_new_version_notification": false
+    },
+    "rules": [
+        {
+            "name": "LengthInTitle",
+            "detection": "CONTAINS",
+            "url_fragment": "https://www.xvideos.com/video",
+            "tab": {
+                "icon": null,
+                "muted": false,
+                "pinned": false,
+                "protected": false,
+                "title": "{title} - [{.duration}] - {.name}",
+                "title_matcher": null,
+                "unique": false,
+                "url_matcher": null
+            }
+        },
+        {
+            "name": "TitleAndSimilar",
+            "detection": "CONTAINS",
+            "url_fragment": "https://www.xvideos.com/?k=",
+            "tab": {
+                "icon": null,
+                "muted": false,
+                "pinned": false,
+                "protected": false,
+                "title": "{title} - {#search-associates .simplyweb-checked}",
+                "title_matcher": null,
+                "unique": false,
+                "url_matcher": null
+            }
+        },
+        {
+            "name": "TagsUploaderLength",
+            "detection": "CONTAINS",
+            "url_fragment": "https://www.nudiststube.com/videos/",
+            "tab": {
+                "icon": null,
+                "muted": false,
+                "pinned": false,
+                "protected": false,
+                "title": "{title} - ({span em}) - {#tab_video_info a:nth-child(1)} - {#tab_video_info a:nth-child(2)} - {#tab_video_info a:nth-child(3)} - {#tab_video_info a:nth-child(4)} - {#tab_video_info a:nth-child(5)} - {#tab_video_info a:nth-child(6)}",
+                "title_matcher": null,
+                "unique": false,
+                "url_matcher": null
+            }
+        },
+        {
+            "name": "TitleAndNumberOfRessults",
+            "detection": "CONTAINS",
+            "url_fragment": "www.alohatube.com/top/",
+            "tab": {
+                "icon": null,
+                "muted": false,
+                "pinned": false,
+                "protected": false,
+                "title": "{title} - {span b:nth-child(2)}",
+                "title_matcher": null,
+                "unique": false,
+                "url_matcher": null
+            }
+        },
+        {
+            "name": "TitleAndNumberOfRessults",
+            "detection": "CONTAINS",
+            "url_fragment": "https://www.alohatube.com/ktm/view.cgi",
+            "tab": {
+                "icon": null,
+                "muted": false,
+                "pinned": false,
+                "protected": false,
+                "title": "{title} - {.sel}",
+                "title_matcher": null,
+                "unique": false,
+                "url_matcher": null
+            }
+        },
+        {
+            "name": "TagsAndCategories",
+            "detection": "CONTAINS",
+            "url_fragment": "https://xhamster.com/videos/",
+            "tab": {
+                "icon": null,
+                "muted": false,
+                "pinned": false,
+                "protected": false,
+                "title": "{title} - \"{.collapsed .simplyweb-checked:nth-child(2) .categories-container__item}, {.simplyweb-checked:nth-child(4) .categories-container__item},{.simplyweb-checked:nth-child(5) .categories-container__item}, {.simplyweb-checked:nth-child(6) .categories-container__item}, {.simplyweb-checked:nth-child(7) .categories-container__item}, {.simplyweb-checked:nth-child(8) .categories-container__item}, {.simplyweb-checked:nth-child(9) .categories-container__item}, {.simplyweb-checked:nth-child(10) .categories-container__item}\"",
+                "title_matcher": null,
+                "unique": false,
+                "url_matcher": null
+            }
+        },
+        {
+            "name": "tagsIntitle",
+            "detection": "CONTAINS",
+            "url_fragment": "https://www.xvideos.com/video",
+            "tab": {
+                "icon": null,
+                "muted": false,
+                "pinned": false,
+                "protected": false,
+                "title": "{title}  -",
+                "title_matcher": null,
+                "unique": false,
+                "url_matcher": null
+            }
+        }
+    ]
+}

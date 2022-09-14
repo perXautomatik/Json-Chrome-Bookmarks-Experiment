@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "400": {
+        "401": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 581,
+          "highlighted": true,
+          "id": 401,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "[L] Tabli Saved Windows [R] .html",
+          "url": "chrome-extension://knfpajocfeohpaipkfpdbfhgibajfmcf/data/commander/index.html?mode=window",
+          "width": 1256,
+          "windowId": 400
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "400": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 620,
+        "id": 400,
+        "incognito": false,
+        "left": 78,
+        "state": "normal",
+        "top": 215,
+        "type": "popup",
+        "width": 1272
+      }
+    },
+    "tabsNumber": 1,
+    "name": "[L] Tabli Saved Windows [R] .html",
+    "date": 1631637877865,
+    "lastEditedTime": 1631637821988,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1631557337412,
+    "id": "985cffba-fa58-4ca8-a4c1-b71d0f6aada2"
+  }
+]

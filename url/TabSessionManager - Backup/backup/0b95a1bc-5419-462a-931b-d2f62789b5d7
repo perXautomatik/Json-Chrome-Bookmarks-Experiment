@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1462": {
+        "1463": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 860,
+          "highlighted": true,
+          "id": 1463,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=73",
+          "width": 1148,
+          "windowId": 1462
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1462": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 948,
+        "id": 1462,
+        "incognito": false,
+        "left": 448,
+        "state": "normal",
+        "top": 92,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Favorites",
+    "date": 1630509966762,
+    "lastEditedTime": 1630509966621,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630484833118,
+    "id": "85f168f4-1570-4fc5-b7b5-2d4da84b22e0"
+  }
+]

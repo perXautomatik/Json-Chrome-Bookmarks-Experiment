@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2535": {
+        "2536": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2536,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Doctors Heal Companions at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/67908",
+          "width": 1154,
+          "windowId": 2535
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2535": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2535,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Doctors Heal Companions at Fallout New Vegas - mods and community",
+    "date": 1627156416176,
+    "lastEditedTime": 1627156415019,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "ed528663-e78c-40f7-bc78-542227a8f449"
+  }
+]

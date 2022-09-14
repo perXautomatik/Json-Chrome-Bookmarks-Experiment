@@ -1,0 +1,93 @@
+[
+  {
+    "windows": {
+      "7738": {
+        "8081": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 8081,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/?options=fohimdklhhcpcnpmmichieidclgfdmol",
+          "width": 1319,
+          "windowId": 7738
+        }
+      },
+      "7876": {
+        "7828": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7828,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/searchEngines?search=search",
+          "width": 1319,
+          "windowId": 7876
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "7738": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1040,
+        "id": 7738,
+        "incognito": false,
+        "left": 517,
+        "state": "normal",
+        "top": 103,
+        "type": "normal",
+        "width": 1383
+      },
+      "7876": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1040,
+        "id": 7876,
+        "incognito": false,
+        "left": 527,
+        "state": "minimized",
+        "top": 113,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Extensions",
+    "date": 1631533109656,
+    "lastEditedTime": 1631533109656,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "d2fbe5c4-7042-4ff3-90bd-b0b6e5915138"
+  }
+]

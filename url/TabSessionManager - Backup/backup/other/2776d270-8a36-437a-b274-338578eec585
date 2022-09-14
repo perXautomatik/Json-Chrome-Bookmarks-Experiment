@@ -1,0 +1,466 @@
+[
+  {
+    "windows": {
+      "1559": {
+        "1557": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/79946f8f/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 1557,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(42) A Village Filled with Retro Treasure | GBR Thrifts Returns! | Nostalgia Nerd - YouTube",
+          "url": "https://www.youtube.com/watch?v=Pbf3HDnRN0s&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=1",
+          "width": 1300,
+          "windowId": 1559
+        }
+      },
+      "1579": {
+        "1583": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1583,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "smartphone as smartfridge - Bing",
+          "url": "https://www.bing.com/search?q=smartphone+as+smartfridge&cvid=7923f82171ed4857bb980350c090d3d6&aqs=edge..69i57.60073j0j1&FORM=ANAB01&PC=U531",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1591": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1591,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Window Manager",
+          "url": "chrome-extension://aadahadfdmiibmdhfmpbeeebejmjnkef/manager.html",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1593": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1593,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sort windows start menue - Bing",
+          "url": "https://www.bing.com/search?q=sort+windows+start+menue&cvid=33936cea88004f6581e937cdb32c9d37&aqs=edge..69i57.8630j0j1&FORM=ANAB01&PC=U531",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1594": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.computerhope.com/cdn/favicon.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1594,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to alphabetically sort the Windows Start menu icons",
+          "url": "https://www.computerhope.com/issues/ch001075.htm#:~:text=In%20Windows%20XP%20or%20earlier%2C%20click%20Start%2C%20Settings%2C,Click%20the%20Customize%20button.%20Click%20the%20Sort%20button.",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1595": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.computerhope.com/cdn/favicon.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1595,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to alphabetically sort the Windows Start menu icons",
+          "url": "https://www.computerhope.com/issues/ch001075.htm#:~:text=In%20Windows%20XP%20or%20earlier%2C%20click%20Start%2C%20Settings%2C,Click%20the%20Customize%20button.%20Click%20the%20Sort%20button.",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1596": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.lifewire.com/favicon.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1596,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to Organize Windows 10 Start Menu",
+          "url": "https://www.lifewire.com/organize-windows-10-start-menu-4012108",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1597": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://answers.microsoft.com/favicon.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1597,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to sort apps in start menu? - Microsoft Community",
+          "url": "https://answers.microsoft.com/en-us/windows/forum/windows_10-start-winpc/how-to-sort-apps-in-start-menu/ff5d69a0-9491-4ec7-8372-d5b330ff9477",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1598": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1598,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "win regestry pin apps in start menue - Bing",
+          "url": "https://www.bing.com/search?q=win+regestry+pin+apps+in+start+menue&cvid=3f6db88269c548cc92010371509ecc88&aqs=edge..69i57.11347j0j1&FORM=ANAB01&PC=U531",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1599": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://i1.social.s-msft.com/Forums/GlobalResources/images/Technet/favicon.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1599,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windows 10 Start Menu via Registry",
+          "url": "https://social.technet.microsoft.com/Forums/en-US/fa742f1a-38be-4ca2-9660-da58068214ed/windows-10-start-menu-via-registry",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1600": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.kapilarya.com/favicon.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1600,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "[FIX] Start Button Not Working In Windows 10",
+          "url": "https://www.kapilarya.com/fix-start-button-not-working-in-windows-10",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1601": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://microsoftedge.microsoft.com/favicon.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1601,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Shared Clipboard - Microsoft Edge Addons",
+          "url": "https://microsoftedge.microsoft.com/addons/detail/shared-clipboard/geohhkdenpidlmhghpfcpgffnnolofbp",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1602": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1602,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1603": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://microsoftedge.microsoft.com/favicon.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 1603,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Shared Clipboard - Microsoft Edge Addons",
+          "url": "https://microsoftedge.microsoft.com/addons/detail/shared-clipboard/geohhkdenpidlmhghpfcpgffnnolofbp",
+          "width": 1300,
+          "windowId": 1579
+        }
+      },
+      "1585": {
+        "1581": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210604153606",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 1581,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1300,
+          "windowId": 1585
+        }
+      },
+      "1592": {
+        "1580": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1580,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "split docx file rule - Bing",
+          "url": "https://www.bing.com/search?q=split+docx+file+rule&qs=n&form=QBRE&sp=-1&pq=split+docx+file+rule&sc=0-20&sk=&cvid=CD65AFC9C9CD4849A6B95CC3A1A09A99",
+          "width": 1300,
+          "windowId": 1592
+        },
+        "1590": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 1590,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "xml - Splitting a docx by headings into separate files in Python - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/54409495/splitting-a-docx-by-headings-into-separate-files-in-python",
+          "width": 1300,
+          "windowId": 1592
+        }
+      }
+    },
+    "windowsNumber": 4,
+    "windowsInfo": {
+      "1559": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 1559,
+        "incognito": false,
+        "left": 255,
+        "state": "minimized",
+        "top": 107,
+        "type": "normal",
+        "width": 1395
+      },
+      "1579": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 1579,
+        "incognito": false,
+        "left": 146,
+        "state": "normal",
+        "top": 80,
+        "type": "normal",
+        "width": 1395
+      },
+      "1585": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 1585,
+        "incognito": false,
+        "left": 1831,
+        "state": "normal",
+        "top": -620,
+        "type": "normal",
+        "width": 1395
+      },
+      "1592": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 1592,
+        "incognito": false,
+        "left": 156,
+        "state": "minimized",
+        "top": 90,
+        "type": "normal",
+        "width": 1395
+      }
+    },
+    "tabsNumber": 17,
+    "name": "Shared Clipboard - Microsoft Edge Addons",
+    "date": 1623003731315,
+    "lastEditedTime": 1623003731315,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "fe28028c-27aa-4f42-b6b5-88b8d6f64197"
+  }
+]

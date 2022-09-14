@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "876": {
+        "877": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 539,
+          "highlighted": true,
+          "id": 877,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "perXautomatik/xedit-scripts-1: A set of xEdit scripts by me, made to simplify repetitive tasks.",
+          "url": "https://github.com/perXautomatik/xedit-scripts-1",
+          "width": 1531,
+          "windowId": 876
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "876": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 626,
+        "id": 876,
+        "incognito": false,
+        "left": 349,
+        "state": "normal",
+        "top": 276,
+        "type": "normal",
+        "width": 1595
+      }
+    },
+    "tabsNumber": 1,
+    "name": "perXautomatik/xedit-scripts-1: A set of xEdit scripts by me, made to simplify repetitive tasks.",
+    "date": 1628330317060,
+    "lastEditedTime": 1628330256675,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628267657392,
+    "id": "c8395983-2278-4837-a359-d32a01869efb"
+  }
+]

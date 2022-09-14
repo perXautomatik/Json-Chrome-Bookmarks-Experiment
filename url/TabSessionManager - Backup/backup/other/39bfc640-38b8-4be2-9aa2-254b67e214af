@@ -1,0 +1,115 @@
+[
+  {
+    "windows": {
+      "4637": {
+        "4625": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 402,
+          "highlighted": true,
+          "id": 4625,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Create a new Gist",
+          "url": "https://gist.github.com/",
+          "width": 986,
+          "windowId": 4637
+        }
+      },
+      "4847": {
+        "4627": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 497,
+          "highlighted": false,
+          "id": 4627,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windowed Mode Fallout New Vegas 1440P Windowed Mode, Windowed Mode",
+          "url": "https://vivaworldcup.info/windowed-mode-fallout-new-vegas/",
+          "width": 1081,
+          "windowId": 4847
+        },
+        "4638": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/a910c60b/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 621,
+          "highlighted": true,
+          "id": 4638,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "FLAT EARTH PROOF | NASA Caught Lying - YouTube",
+          "url": "https://www.youtube.com/watch?v=fDWdBVDU7Mk&list=TLPQMTcwNzIwMjEAzF_OVKBQUw&index=6",
+          "width": 1053,
+          "windowId": 4847
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "4637": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 489,
+        "id": 4637,
+        "incognito": false,
+        "left": 2069,
+        "state": "normal",
+        "top": 489,
+        "type": "normal",
+        "width": 1050
+      },
+      "4847": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 708,
+        "id": 4847,
+        "incognito": false,
+        "left": 2002,
+        "state": "normal",
+        "top": -404,
+        "type": "normal",
+        "width": 1117
+      }
+    },
+    "tabsNumber": 3,
+    "name": "FLAT EARTH PROOF | NASA Caught Lying - YouTube",
+    "date": 1626546541028,
+    "lastEditedTime": 1626546541028,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625991790805,
+    "id": "3c6fd804-9c03-4dcd-8699-f4046c444425"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2325": {
+        "2326": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2326,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Expanded Crafting from The East Coast (EC-TEC) at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/66279",
+          "width": 1154,
+          "windowId": 2325
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2325": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2325,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Expanded Crafting from The East Coast (EC-TEC) at Fallout New Vegas - mods and community",
+    "date": 1627156308067,
+    "lastEditedTime": 1627156306952,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "dde3c0d7-b8fe-4ac8-8066-2c01735e49bd"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "windows": {
+      "358": {
+        "359": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 640,
+          "highlighted": false,
+          "id": 359,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Join Settings",
+          "url": "chrome-extension://flejfacjooompmliegamfbpjjdlhokhj/options.html?tab=1",
+          "width": 1186,
+          "windowId": 358
+        },
+        "360": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://joinjoaomgcd.appspot.com/favicon.ico",
+          "groupId": -1,
+          "height": 640,
+          "highlighted": false,
+          "id": 360,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Join",
+          "url": "https://joinjoaomgcd.appspot.com/?settings",
+          "width": 1186,
+          "windowId": 358
+        },
+        "361": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://helpdeskgeek.com/wp-content/themes/hdg/images/favicon.ico",
+          "groupId": -1,
+          "height": 640,
+          "highlighted": false,
+          "id": 361,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Create a Portable Version of Any Application in Windows",
+          "url": "https://helpdeskgeek.com/how-to/create-a-portable-version-of-any-application-in-windows/",
+          "width": 1186,
+          "windowId": 358
+        },
+        "362": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.online-tech-tips.com/wp-content/themes/ott/images/favicon.ico",
+          "groupId": -1,
+          "height": 640,
+          "highlighted": false,
+          "id": 362,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "What are Portable Apps and Why Should You Care?",
+          "url": "https://www.online-tech-tips.com/computer-tips/what-are-portable-apps-and-why-should-you-care/",
+          "width": 1186,
+          "windowId": 358
+        },
+        "363": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pendriveapps.com/favicon.ico",
+          "groupId": -1,
+          "height": 640,
+          "highlighted": false,
+          "id": 363,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Free Malware Removal Norton Power Eraser | USB Apps",
+          "url": "https://pendriveapps.com/free-malware-removal-norton-power-eraser/",
+          "width": 1186,
+          "windowId": 358
+        },
+        "364": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://launcher.nirsoft.net/favicon.ico",
+          "groupId": -1,
+          "height": 640,
+          "highlighted": false,
+          "id": 364,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "NirLauncher - Collection of more than 200 portable utilities from NirSoft",
+          "url": "http://launcher.nirsoft.net/",
+          "width": 1186,
+          "windowId": 358
+        },
+        "365": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.liberkey.com/images/favicon.ico",
+          "groupId": -1,
+          "height": 640,
+          "highlighted": false,
+          "id": 365,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "LiberKey - Portable Applications",
+          "url": "https://www.liberkey.com/en/",
+          "width": 1186,
+          "windowId": 358
+        },
+        "366": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cameyo.com/wp-content/uploads/2018/12/Play-Black-150x150.png",
+          "groupId": -1,
+          "height": 640,
+          "highlighted": false,
+          "id": 366,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Application Virtualization | Virtual Desktop Software | Cameyo",
+          "url": "https://cameyo.com/",
+          "width": 1186,
+          "windowId": 358
+        },
+        "367": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://my.vmware.com/files/templates/images/favicon.ico",
+          "groupId": -1,
+          "height": 640,
+          "highlighted": false,
+          "id": 367,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Try VMware ThinApp for Application Virtualization",
+          "url": "https://my.vmware.com/en/web/vmware/evalcenter?p=vmw-thinapp",
+          "width": 1186,
+          "windowId": 358
+        },
+        "368": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 640,
+          "highlighted": true,
+          "id": 368,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "unloaded",
+          "title": "Software Protection, Software Licensing, Software Virtualization",
+          "url": "https://enigmaprotector.com/en/downloads.html",
+          "width": 1186,
+          "windowId": 358
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "358": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 622,
+        "id": 358,
+        "incognito": false,
+        "left": 3,
+        "state": "minimized",
+        "top": 3,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 10,
+    "name": "Software Protection, Software Licensing, Software Virtualization",
+    "date": 1627984599201,
+    "lastEditedTime": 1627984547473,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "b74d6fd5-e9e5-496a-b3e2-4e28856a8db4"
+  }
+]

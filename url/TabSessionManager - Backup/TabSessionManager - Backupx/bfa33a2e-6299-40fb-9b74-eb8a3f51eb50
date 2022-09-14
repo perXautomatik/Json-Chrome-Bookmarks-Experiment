@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "237": {
+        "238": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/df22805b/img/favicon_32.png",
+          "groupId": -1,
+          "height": 1485,
+          "highlighted": true,
+          "id": 238,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(12) Youtube SUED Into Oblivion By Steven Crowder! A MASSIVE Battle For Free Speech! - YouTube",
+          "url": "https://www.youtube.com/watch?v=92ac3NUdTOE&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=2",
+          "width": 1094,
+          "windowId": 237
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "237": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1527,
+        "id": 237,
+        "incognito": false,
+        "left": 1941,
+        "state": "normal",
+        "top": 91,
+        "type": "popup",
+        "width": 1110
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(12) Youtube SUED Into Oblivion By Steven Crowder! A MASSIVE Battle For Free Speech! - YouTube",
+    "date": 1621884489465,
+    "lastEditedTime": 1621884489465,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1621883588884,
+    "id": "8a3dea4d-14c2-4a8a-ae45-15f9f2d89777"
+  }
+]

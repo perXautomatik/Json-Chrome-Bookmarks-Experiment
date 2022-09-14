@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2878": {
+        "2879": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2879,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "NV Animated Coffee Brewers at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/68000",
+          "width": 1154,
+          "windowId": 2878
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2878": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2878,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "NV Animated Coffee Brewers at Fallout New Vegas - mods and community",
+    "date": 1627976414698,
+    "lastEditedTime": 1627976410795,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "e20e664c-a831-4c73-881e-fe56cd506a05"
+  }
+]

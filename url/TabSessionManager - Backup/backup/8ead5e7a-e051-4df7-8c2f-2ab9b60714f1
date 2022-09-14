@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "369": {
+        "370": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://forums.nexusmods.com/favicon.ico",
+          "groupId": -1,
+          "height": 1096,
+          "highlighted": false,
+          "id": 370,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "To pack or not to pack? BSA/loose files.... - Skyrim Special Edition Creation Kit and Modders - The Nexus Forums",
+          "url": "https://forums.nexusmods.com/index.php?/topic/6722122-to-pack-or-not-to-pack-bsaloose-files/",
+          "width": 924,
+          "windowId": 369
+        },
+        "371": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://forums.nexusmods.com/favicon.ico",
+          "groupId": -1,
+          "height": 1096,
+          "highlighted": true,
+          "id": 371,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How are bsa linked to esp files? - Skyrim Mod Talk - The Nexus Forums",
+          "url": "https://forums.nexusmods.com/index.php?/topic/582145-how-are-bsa-linked-to-esp-files/",
+          "width": 924,
+          "windowId": 369
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "369": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1096,
+        "id": 369,
+        "incognito": false,
+        "left": 2196,
+        "state": "minimized",
+        "top": -178,
+        "type": "normal",
+        "width": 924
+      }
+    },
+    "tabsNumber": 2,
+    "name": "How are bsa linked to esp files? - Skyrim Mod Talk - The Nexus Forums",
+    "date": 1627984587199,
+    "lastEditedTime": 1627984547473,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "879ad8a1-6df4-4783-9a80-6595f47f1645"
+  }
+]

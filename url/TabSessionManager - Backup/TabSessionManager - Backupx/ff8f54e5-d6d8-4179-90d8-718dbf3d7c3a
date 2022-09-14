@@ -1,0 +1,93 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/bb401db8/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1920,
+          "highlighted": true,
+          "id": 2,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(9) Broken SEIKO Thesaurus ER2000 with NO DISPLAY - Tea Break Fix - YouTube",
+          "url": "https://www.youtube.com/watch?v=OjU-OOwMiSg&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=16",
+          "width": 1200,
+          "windowId": 1
+        }
+      },
+      "767": {
+        "768": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210602162038",
+          "groupId": -1,
+          "height": 951,
+          "highlighted": true,
+          "id": 768,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1406,
+          "windowId": 767
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1920,
+        "id": 1,
+        "incognito": false,
+        "left": 1920,
+        "state": "fullscreen",
+        "top": -620,
+        "type": "normal",
+        "width": 1200
+      },
+      "767": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 993,
+        "id": 767,
+        "incognito": false,
+        "left": 154,
+        "state": "normal",
+        "top": 29,
+        "type": "popup",
+        "width": 1422
+      }
+    },
+    "tabsNumber": 2,
+    "name": "(9) Broken SEIKO Thesaurus ER2000 with NO DISPLAY - Tea Break Fix - YouTube",
+    "date": 1622755030803,
+    "lastEditedTime": 1622755030803,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622741471669,
+    "id": "1764077f-3a70-43c4-91f8-e579b7b7809a"
+  }
+]

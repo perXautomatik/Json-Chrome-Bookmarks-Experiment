@@ -1,0 +1,209 @@
+[
+  {
+    "windows": {
+      "1559": {
+        "1557": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/79946f8f/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 1557,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(42) Can You Beat Skyrim in Chaos Mode? - YouTube",
+          "url": "https://www.youtube.com/watch?v=2LasZLX4TzA&list=TLPQMDYwNjIwMjGRldRDJIUDaA&index=2",
+          "width": 1121,
+          "windowId": 1559
+        }
+      },
+      "1592": {
+        "1590": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1590,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "xml - Splitting a docx by headings into separate files in Python - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/54409495/splitting-a-docx-by-headings-into-separate-files-in-python",
+          "width": 1300,
+          "windowId": 1592
+        },
+        "7608": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAA5rvg4ofonX+Ywce40y/8iVeAA//9Kr/Abz+k0hPUzmf8wwfo3lfolxvQtaek6uPdOvvU5rfkyefM2fulBle1Rx/lFoe4u0uAuZ+o0h/c3vvc6uPc4oPs7iO46vfhS2tZVqv8zjfgsaexPwfcpuf8yv/k0o/g+tvYxjfM0jPcAAP8taOtEsvFOxvxV0f09te4xwPxU0Ps+lO4xc/AmedsoXOUbzO08jvBO0dk4u/gzZv9Fouw2vfsxnvM3l/uA//8xqvMyeOsg0OdFn+47fvc/uv8iZNovc/Q4vfgpj+I2gewfw+1A1twxgOczvv0v3t5V0/tLtfYhzeg+yNwuwO46jOorv/hBmutL0/8kYedW1/8azexLtfM9h+4hrt4cxvFA2eYAgIBLuvUqVdWAgIBV1f8kbdszzMxJktsbz+QAqv9HrO4zZuZV//9Epe9V1aovduIAgP9Irdkct+Mu0f9mzMwxefQqqtUA1f81091Uz/xV3cwxcO5OwthAn/8anUDUAAAAgHRSTlMApqampgalAaWlpgWkpqSlNaaSoaOlpaWjl5MWppOmmy0ENpGXDGs2mRWmATsWEYAPlaETFZqZmpSTVAWUeRWUAxUgIC0PCqE2hwl0VIlUQQggVXGkFjwwaggVM4eThqESFAJ9BgIGBwUHMANsCgNPBmgCNX8LBZEGBlJPD4ZoCGZkgA0AAAG6SURBVHicndNnU+JQFIDhuDFEFpYAsiuYKGQxQZQqEIqCBaTYsHfsvfde/rr3hGiCJuOM76fMnGdumSRYNXYmRJDSs1oXNF9K0YQ2MJjbGWfaHNJchDA7GYZBi2gJAq2Aak9p7YJAHYop9WsCK4A668+B5xtg8Fh/QdYMRuRfVa5i8LSIoCVDmPkyzX0hMuDSznC6TN91agBvnjcajWF+bu2wFvzv/QP1erlyGAlTfCp7rw5IugTAFF8+GK8BzR1Qsxe7TsFcr9dPZRVHReA3hAA7FzaJwP6gWMJQrILbKIZxfHVuH12XQXfxthECwM6MLMdF4DpRgnoIAEZy2ZGrVft00rWnAA4RuAF0Dg2MxQoxBG5k4HNQkHsRw/KZ2eEYVdDFkq6+D7DlE3DIvUiGcvOJVhuF6wpJ1/YH2JWAEPVP9jT9bbXVU3jh5Um+xf6soIOE081KgwSEyzMZkJEVHM1xW8XSAAAJx3lE+TLykwkHZWuyWCTQ+OyLbihB30TwHySBxHDx+NMXsbAU7Op6Bytjg4O1Y1RAFAB65nNDan/YzsRjsK2tUjnKRViVMZxjIRAI+P1+tmb3N1fWTh0LOlfuAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 7608,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "split docx file rule - Bing",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=split%20docx%20file%20rule%20-%20Bing&url=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dsplit%2Bdocx%2Bfile%2Brule%26qs%3Dn%26form%3DQBRE%26sp%3D-1%26pq%3Dsplit%2Bdocx%2Bfile%2Brule%26sc%3D0-20%26sk%3D%26cvid%3DCD65AFC9C9CD4849A6B95CC3A1A09A99&tabId=1580&sessionId=1622847893290&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQAUlEQVR4XuWbe4xU133Hv79z7tyZ2V12Wd6PBduMsfFibCjG%2BEG8uI6VR%2BNWkUrUKKJNmraS1UZK%2F6jUqorEVlXaSJWaJn2pjtq4Sh8yf7SxolSO8xjA77BmjTHGzoKdGLABe70s%2B5i595zftzp3ZoHFJrN3vUlMO%2BJqZvYMc%2B%2F3c76%2F3znnd%2B4I%2Fp8%2FJJd%2BUnYA5vXHznY6tcsibzuNhXUp06hgR1wtPdvlO87%2Bz0elnut7f4EfzgVgB2mPDaBYmJhYZzw%2BIpAbRNAO5dskDxL2IJw79MSH5p3%2BBWrKdepcALb%2F4JXSpF%2FcZY3eZsR%2BmsAWAdohMgzyoAKDQhwA9KhTedNNjp5bM7m8vvsT4nNd1c%2Fxw7kAbP32W51xHPeoNR8Q4jcBbAIQgUggGAFxipAfQ%2Fg8lI%2FZgjkyPjry1sB9KyZ%2BjppynSoXgG372M3JiYoY6YNwJ4ibp59NagBHCHkZ4GMiMgjHY0KctMW2t6t3h%2Fb312N2AGD7aPQdAATwBFIQ50TkTZJDgOynyID1%2Ftl9H25%2F%2Ff0lH8gH4FvspkxUpGD7SN0JXOqAS%2BQJToF8nsTTEPN9S33x%2FeaE2QGwto%2FAToCXhMA7%2BjdY%2FizJl0HuhbFPWry%2FnDB7AMROsCWAKSJvEPIcyT2IzH89%2BaHikfdLKOQH4Ccq0nQAWztgSmcYBc6QugeQv3vyvrZnrmgAtLZPiJ2cqQMkzAOYklI1hl98%2FGPlfVc2ANg%2BEckBAASgIPdQ8GdP%2Fmp5zxUPAJA8OSDTS6BKsv%2Bpj5erVyyApDZRiaztA2UnWw2D71ApVXrf%2F9SOKxyAiO0TyE55x0ywVb9Klfy%2FAICNHDArALiSAfwbuxMzUZHI9onKTskbAtIMgU9eqSEwBcCEYXAWANAMgSsewHsJgZAEdzYcsOMh2uM9iGsOHdZhgVVYR4zFHmNnRzF2%2BBOStMoq77U930wwOCDMBIMDwjCYNwQgVYQk2ARw%2BxMsYxILnOBaAW4VRZkGQ0oMFVIMPflhGX6vAlv9%2F9kBQNwnWT1gxmuBxnWIVBGSYBPAlh9wGYCNUNwixG0QtFEwBNGXBTwC2tdoMawJRtGNiYFbJG0lKG97fgC1tCIF6RMyvwMEVYQQ%2BEwjBLb8gBuN4tMAtlGwFERMwRiEw4SegshLSj6TGn84TuKfDNwrZ%2FMKbPX52QHI1gKhHpDTASEEgP6nPlPIAGx9lKHXPw%2FBdgJdBEoQhhljIsJxFbwSAHjRgzD%2BZUbmhK%2BnI8DE2BIsrlXvFtdKYKv22QGA7YPMoCDyzrNXxaP%2Fqd9tANjyHW40Bp9mACC4CuD8sGgI6waCjgbjBIe96Ek1fEWBFwXpIKwfYr3%2BxuG7l4y1EtiqPR%2BAvw%2FzgDRbDs8aAC8AuPW7vM4AH1NhALAZwIoAIPOAABrcIAoVjKnoKQWHvPGDCj2SGv%2BqE3MijvzpY8e6x7ADCpEmv1ayL7TPDoDYPmAWDhA0HHB%2FwwF3focrfIRbFLqdkF8BcB0bIZBBCAAaEOhUWFPRMW90xBu%2B4UV%2FrKIH1PD7SMaHjh%2FvSTCL8vvsALAJIO9aIAAIOaAJYPOj7IpjrPaqfYT8FohNKjSZ5IZw%2BCYEzZxAeBOeMxCnvNGDzvK7ifUHRJOflCcwnBdEfgA%2BzeYBWVE05zAoIlUJIfC5hgM272cBb6PNRv4DBD5PyJ0ECgTtVO9PCddMeAOAE3Xeas0bHfbiT3irAwb4dlHdQQQId6yanGkQzAoAOTUM5hsF2FwL7P%2FD6WuBW77HWyH6B41kyIUE294NgBfNAJx%2FNvRqfUro4YLhw5EJexHu8K2Hrjq9e4Y5IT%2BA2kSFiJs5IB8ACKoE%2By8FsGkve43TX4fhdhWsJ7jkfM9nIXCJ8OZ7tSRE1RqeLtC%2FWDB8jKoPLxkzh3uO9yQz2ZLLBWDDX7A7Ms2CyCwqQhkAsn%2F%2FH013wJY9XOXV30GTDYf3KrQSRIcc0HDCdAAuuMCEdoXNDk4WoW9Hhj%2BM4P%2Bz3cvTNZROH7x52XirUJgdgDAPQI6i6IWrqILo3%2F8n0wGEZIgYqx3T7TD4jIIhGTYBNMVfZP0pACKKQjhAH4smBeFLMfSRgtF9HvbZgd6rW%2B5E5QfgJyomK4lhp1BbbYxM74CwFvDo3%2F%2BF6QB6H2Isneiw5fo2ivw%2BBXdQtOSFUdb7Uw5o9nw2EhiFEUURiliIOIPBkzF0oGBYNcC3Hruh8vLcOyAAoGQAZjMVFvX9%2B3fNm14U3UXT24vILHW3iNHfUehdKliqoh3Tk17DDUF86P1ILohvQhiNwRMRWAX0a%2Ft61z47xwBGuqM6KkZDEpzNYkiqIu8CoHmVN%2ByprbUGH6Xo7Sq83gtXetFOb3wxG%2F6aDoBhJj7YvyH8vAOSInU8Eu6Dka8saoufQE9Psjvbl3j3R74Q%2BOOR7siiYiTuYwCQex4QJkLs3%2F%2FnlzigeW2bHx3uSuJ4tYu4XoHbvHCTt7zBi1%2BcOaF5GOFF4qe5QIuizgqejlT%2FITLcW25rG9696vLzgvwAFBVjoplujk7DzlASA%2FsH%2F%2FLdATQqRMfjUXSurNNspNWbvOF6b3SlE21T%2BHYK2wy0rai%2BHAsLcYEoRg0HxGiAiYABSz4QiYZQO%2FnwunXn5s4BigoQ9UG5E5JzHpDVBNE%2F%2BFfvDgDhJqzdMC8sPlNOyh3zPWoLVMwiH6XLU8PVUF5lvL%2FapLq6MOlWxhE7S51AsYQGgOAMMAyLByLBv5SsrwLxT3ZXKpetI%2BR3QD0AMH0Q7MyxOdroADZKYoNf7p7ZztBDtD09x2MZiVcAfgMT3iSp3mzqep3U3Sobs7PUBS11AeVOmGKREhvCGgxGog8W6KtpIXn1v6%2FZNDJ3DggA1PQx1APyLoaAKoQzB0AKdsOsO%2FHqKp2wt6nnViZ6m6a%2B4hPtpNHItLHethzovt4W25eIjSMishy0wgftnAO4v5EEVTiriZBAstXg4N%2F%2BdAds38UoLb9Z1rTWmSgWeMc1vobNPvUbXZ0bfKrL07oWvFfS%2BnpxqbD7RhN1XiW2vRs2LuM5K%2F7BmKzGheTVr8%2BZA%2B4f6aamFWujPs1qgrPJAb7%2F0D8u%2FqkhcOeXzsxTm670HuvocKum7HUpV2udS12iXa6uZVdX8amH96q2na60DEnnGsjiG1BqXySHrOiD9mcFAGzkgLzDYFgLhBC4FMCuXTRPLxgq6LIl7ZPj9YVa8yvppKJ13eBTs0VTrWjCLpew5BPCJwpXV7hEs9cU70ybTnZVgJ47UJ7XI89Z6gM2ctU4KZ785zkbBYID6hMVmEI2E8y7OyxZDkD%2Foa9Nd8BHvvKjYrRo6bwxN1GBM1t9gpvoUGHKlS7hAk3QrgkLLmG2%2BA2iA4gpAN6rJ1zauYa4%2BpdR6Lqazwj410XUqx2YN%2FrVtWsve%2BturlFg%2FWdfWxAhutap2Q7iUwRuajXVvLg95AAP33%2Fk68uzELj9odfKHcVSN%2BpcYhmtcM73%2BoS3M5VeTblSU87TBPApoFnPN48MwkUAnKpPvZ%2B32rtr7tV691o8RuJv0vLI4%2Bg5nuyWT8zNTHDz751c5GN7vatxu0%2FwG1TcmAcAggPA%2FiPfaAC495tnVkSmuFkTvxHO3ahOrtGUyzTFfE1QVsfoAgBkorUpPjghc0DDEfTOs2O5H73qHvfagl7uNcZ%2FvbbmxQO7seOnFktzOWDTF88ttolbnwwn291Z3RGSU1bAnGEtVgweL3aZL63c0XnAUheixrVe%2FVakuFlTv45el2giBXUwocc16%2FkpB4RnNt8TPm2EQfa3NABQlhe6kz197odLNvo9avHtf6%2F0%2FqhVB%2BUCcM8DY0tTg5snf1zbXnst%2BbircZ0PFfwZArCxPNt5bfzA0rvaz6jXO8VxPT1X0usipjpPUy15B2ECycS%2FG4Ds7w3h5wE4qjrvCx3uyPKt6TdXbKvv9REO%2FseaDafmFMCHHuICmsm14y%2FV7qqdqH8yHdcN9Zpa70LtpnET0LSHNG5FFQOaSLQ43x7tvqnte%2FNviJ063kmvFTq20WmBqUJdw%2BJBOM%2BLl4tANF3RBDAFgp4JxY9HRd0%2F%2Fzr3jas%2FNvlEvY43dq9f33LjJJcDdjzEeBTomBwa2abjyefqY3r72BlXTCZ8dDkTiABRLL7cYettKwrjnTeW3y4ujQyVC%2Bm0gymtOjVMw16QNsRe1PuN1w0IDbtPtU%2FZP2yi6DlT8idtyT9e6vL%2F2vNrEwNnTp%2BuVe%2B%2Bu%2BXWWS4AU717z5ff3CJi76%2Bfc33nTiaLk1FfdnVPdVk%2BMKHbjYXaWBAVrYk7rJYX2LRtWQHFVXEx6jA2DFz0Gu4ezISH54sdcEFo0wEXg0lBn5LqOK6pviWGx21HejRq02fUFh8Z%2BMLSo62sP9U%2BKwD3PVJfJ8DH62%2FV75o8Ue%2Btv5kurL2VuuScFzoUxAKFdpvE3RalRXGhuKgQxfMjieYZY0piRCDnATiehzBl%2F%2FMhcF70RRBclgPUp0jV8VWf8ElSny20pS%2BaBdErk%2F7NU4d3tbb%2BewKw4yWuVGCLP5V%2BIDlV%2B2DydnpN%2FS2nadjBS5kBiNptUpxvUVxUKBS6ooLtiCwsDMMN9V4xDUAGIdi%2FafHgpEvEN96L05R1dRjRBK%2BrxyHvsTd1GIxLeGXwy92XXfXNyWpw6kt2vMAOAMt8zW%2BTuv42HX%2FJJRrRZwJN%2BFwIAYkEEomRSASh30nJA6Ap%2BnwOoMO4dzjDBC86hz1MZdA7eUUK%2FrSdmD8%2B8E%2F5b6CYVQiEH0%2FVBlAsl7BJDD4FwZ1UrgLQFZI%2BlEISVIDKcJMsgvCp44IDsk3wZg6YGgUavZ%2BJd0KfgHQyqamc9Slfp5cfacpBer9PXeHls8mpc0NfvfxUt1UumBWArHITOvkQVqhgIwy2CfhhEteHqhRIkx9AIwlmyTADkMW9qpNUHV7XhM%2F7FAeg9odJPRmyiM8Mj50aG1p4bYpdoq2EzmkITH3ZffvZVipjkQk%2FnhLcR%2FIWACuh7AqVKVWG4W6GDrgIgIPTFJNMZVhTyXrd1%2FU5JnLQRdHBp%2F%2B0o%2BUEZ6ZAZueA5rdPhUJbF5b7BDcaYCvBe6C8HmQbFYX8ABDC4pymOKFenmfKqkvlBUmj03Unw%2BX0zNnqrmvm7MdX7wnApU5QwY2i%2BkGhbAC5lIpuKjugLNGjEPZypyfB8znAMdVJdRhjylF18rqmOArlgTTB3vG4%2B%2BiabvxMfn84JwCmnFAoYEGhgB7n%2FbWi0iuU61R9hR7LRdGlXkuXAXCOKU%2Bo02Oa4gWoeUnrPOqS9HgURWe6u7vHZrrdPVPrv6d5wOVOMgWiVMBSwF3vvVkL6hqoLIf6%2BVQphtkfQrLTEPOajQLq9BwdT9DpMZ%2FiBUn0WEl54uHPLr5sPT%2Bv0J9JEnzHlzZHh9JBlGoR5qGGjtSnHcaiZJwUnDqLMDvPDhf%2BZa%2B9MlWnk%2BLTcdYxWkwwNrpm0eRc3AbXCtSchECrk7yf2%2F8Xd73M5lbyVXcAAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 1592
+        },
+        "14641": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 14641,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "github - Bing",
+          "url": "https://www.bing.com/search?q=github&cvid=5de9a8fd8eb646918c53a793f515b3eb&aqs=edge.0.69i59j0j69i60j69i65l3j69i60.8614j0j1&FORM=ANAB01&PC=U531",
+          "width": 1300,
+          "windowId": 1592
+        },
+        "14642": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://d3r49iyjzglexf.cloudfront.net/favicon-7821a60418a7ee3a7570d938fb95e809903dbfca7514b9245f1beef5d00da2d8.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 14642,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Continuous Integration with GitHub - CircleCI",
+          "url": "https://circleci.com/integrations/github/?utm_medium=sem&utm_source=bnb&utm_campaign=sem-bnb-dg-ao-global-en-github-eCPC--gh&utm_content=keyword-text_rsa--&msclkid=3a64236fa974113489b543d262c4dc4f",
+          "width": 1300,
+          "windowId": 1592
+        },
+        "14643": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://d3r49iyjzglexf.cloudfront.net/favicon-7821a60418a7ee3a7570d938fb95e809903dbfca7514b9245f1beef5d00da2d8.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 14643,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Continuous Integration with GitHub - CircleCI",
+          "url": "https://circleci.com/integrations/github/?utm_medium=sem&utm_source=bnb&utm_campaign=sem-bnb-dg-ao-global-en-github-eCPC--gh&utm_content=keyword-text_rsa--&msclkid=3a64236fa974113489b543d262c4dc4f",
+          "width": 1300,
+          "windowId": 1592
+        },
+        "14644": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 14644,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 14641,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Michael-Hollister/Internet-Browser-Bookmark-Converter: Command line conversion tool for Internet Explorer favorites and Mozilla Firefox bookmarks",
+          "url": "https://github.com/Michael-Hollister/Internet-Browser-Bookmark-Converter",
+          "width": 1300,
+          "windowId": 1592
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "1559": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 1559,
+        "incognito": false,
+        "left": 1907,
+        "state": "minimized",
+        "top": 69,
+        "type": "normal",
+        "width": 1395
+      },
+      "1592": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 1592,
+        "incognito": false,
+        "left": 156,
+        "state": "normal",
+        "top": 90,
+        "type": "normal",
+        "width": 1395
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Michael-Hollister/Internet-Browser-Bookmark-Converter: Command line conversion tool for Internet Explorer favorites and Mozilla Firefox bookmarks",
+    "date": 1623051431314,
+    "lastEditedTime": 1623051431314,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "5b02f426-ab5e-4b35-9946-47656fe37522"
+  }
+]

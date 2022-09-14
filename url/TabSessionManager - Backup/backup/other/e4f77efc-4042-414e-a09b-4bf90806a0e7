@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "2": {
+        "3": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.copyhandler.com/sites/default/files/ch16.png",
+          "groupId": -1,
+          "height": 708,
+          "highlighted": true,
+          "id": 3,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Download | Copy Handler",
+          "url": "https://www.copyhandler.com/download",
+          "width": 1075,
+          "windowId": 2
+        },
+        "1545": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210604153606",
+          "groupId": -1,
+          "height": 951,
+          "highlighted": false,
+          "id": 1545,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1406,
+          "windowId": 2
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 796,
+        "id": 2,
+        "incognito": false,
+        "left": 1923,
+        "state": "normal",
+        "top": -349,
+        "type": "normal",
+        "width": 1091
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Download | Copy Handler",
+    "date": 1622891231317,
+    "lastEditedTime": 1622891231317,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "d3db8e9f-683a-45b8-9e09-490956dbeb5b"
+  }
+]

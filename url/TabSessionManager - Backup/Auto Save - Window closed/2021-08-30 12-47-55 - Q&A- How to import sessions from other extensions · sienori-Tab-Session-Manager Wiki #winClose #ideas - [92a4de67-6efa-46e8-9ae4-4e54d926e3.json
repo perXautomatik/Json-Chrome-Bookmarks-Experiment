@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1033": {
+        "1043": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": true,
+          "id": 1043,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Q&A: How to import sessions from other extensions · sienori/Tab-Session-Manager Wiki",
+          "url": "https://github.com/sienori/Tab-Session-Manager/wiki/Q&A:-How-to-import-sessions-from-other-extensions",
+          "width": 1481,
+          "windowId": 1033
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1033": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 858,
+        "id": 1033,
+        "incognito": false,
+        "left": 197,
+        "state": "normal",
+        "top": 238,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Q&A: How to import sessions from other extensions · sienori/Tab-Session-Manager Wiki",
+    "date": 1630320475030,
+    "lastEditedTime": 1630320419333,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "92a4de67-6efa-46e8-9ae4-4e54d926e35d"
+  }
+]

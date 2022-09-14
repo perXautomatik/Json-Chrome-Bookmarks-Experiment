@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "912": {
+        "913": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 538,
+          "highlighted": true,
+          "id": 913,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "perXautomatik/xEdit-Scripts-2",
+          "url": "https://github.com/perXautomatik/xEdit-Scripts-2",
+          "width": 2089,
+          "windowId": 912
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "912": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 625,
+        "id": 912,
+        "incognito": false,
+        "left": 452,
+        "state": "normal",
+        "top": 362,
+        "type": "normal",
+        "width": 2153
+      }
+    },
+    "tabsNumber": 1,
+    "name": "perXautomatik/xEdit-Scripts-2",
+    "date": 1628330575344,
+    "lastEditedTime": 1628330531550,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628267657392,
+    "id": "d70621bf-d02b-44f7-9585-b58cbff6158e"
+  }
+]

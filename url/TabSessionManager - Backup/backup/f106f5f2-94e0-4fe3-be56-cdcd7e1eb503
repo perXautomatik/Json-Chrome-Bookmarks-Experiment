@@ -1,0 +1,289 @@
+[
+  {
+    "windows": {
+      "5223": {
+        "5165": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.adobe.com/content/dam/cc/Adobe_favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 5165,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Adobe Flash Player End of Life",
+          "url": "https://www.adobe.com/products/flashplayer/end-of-life.html",
+          "width": 1872,
+          "windowId": 5223
+        },
+        "5215": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAA5rvg4ofowce40y/8oX+ciVeAA//8bz+lKr/Azmf80hPUwwfo5rPk3lfolxvQtaek6uPdOvvU1futBle1Rx/kxePJFoe4v0uA0h/c3vvc6uPckYt47iO46vfg4oPszjfhS2tZPwfcxjfMpuf9Vqv8yv/k0o/gtZuk+tvY0jPcAAP9EsvEneds9te5OxvxV0f0xwPxU0PstaOs+lO4xc/AoXOUbzO08j/BO0dk4u/gzZv8yeOs2vfs3l/uA//8xqvMg0OcqZOkxnvNFn+47fvdFouw5gvA/uv8vc/Q4vfgvb/E2gewfw+0pj+JA1tw6jOozvv0rv/hV0/tLtfYhzeg+yNwuwO4xgOcv3d5BmutL0/8kYedW1/8azexLtfMhrt4A1f8zzMxV1aoAgIBLuvUqVdWAgIBV1f8zZuYu0f9JkttHrO4AgP9V//8Aqv9Epe8vduJV3cwkbdtIrdkct+NmzMwqqtUcxvE1090bz+RUz/xA2eYxcO5OwthAn/9tXeMcAAAAgHRSTlMApqamBqalAaWlBaakkqakpTWmoKWlpKWjkxamo6ablDYtlxUMBGs2l5mmARWaDxGAlKE7FBWZmpSTVAUgeZQDFSCRFS0PlIkKNoeTdFQJiTxBMCBVcaQWVAhqCRU0h5OhBgUGAn0GAgYKCwdsAgMDT2gPBzV/BQYSUjBPFIZoCLe3QBMAAAGzSURBVHicndP3U4JgGMBxShQzzUHDAC0T0MqZ27JyVGrT9ra99979672PUWDBddf3J+6ez73jAOwzbsGHE8KzXKcUX0xSuDLQmTtpe8rsU1wEN9tpmkaLKAkcrYDqTCrtgkANii4OKgIDgBrD/4HrD6BzGWohQxbD8+8yV9G52iqgLYub+RLF/iIiYFP2YKpE3XcrAGee1+v1QX764bwatPc3QP1OthREwhibS2/KA4IqAjDG1p+WqkBrF9TqxI6SMNdqtXNpyVERqIcQ4KaDxgqwPkqW0BUEEMEwlv+cWydfRNBbGG2GRhHgFsbXYxXgOJMCFQQAI9j0+O2GdT7h2JIH3RN9i17Gi8CdCEJuE5RZxbB8dmrMyzAab8Ix8A32QlE1lFklfLnluI00MRom4dj/BtcCiEY8s8MtjTZSZVIzb1fiLY6n3BooerFbrhNA5mZbBER4RI3marJsqQNga1a5L8PSl5GfjbtNZIvFIgDyNRTZkYKBmUATJID4WOHwxxexshbo6fkC8cWhoeoxyl8RAIaXcxNyf9jBzHOgo6NcPsmFOZkxnGPF7/d7PB6uavcPzdhNhnVhjBsAAAAASUVORK5CYII=",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 5215,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "yaml - Bing",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=yaml%20-%20Bing&url=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dyaml%26qs%3Dn%26form%3DQBRE%26sp%3D-1%26pq%3Dyaml%26sc%3D8-4%26sk%3D%26cvid%3DE4802974CF7C4B059114E49ECECC2F9B&tabId=5215&sessionId=1625515773073&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQAUlEQVR4XuWbe4xU133Hv79z7tyZ2V12Wd6PBduMsfFibCjG%2BEG8uI6VR%2BNWkUrUKKJNmraS1UZK%2F6jUqorEVlXaSJWaJn2pjtq4Sh8yf7SxolSO8xjA77BmjTHGzoKdGLABe70s%2B5i595zftzp3ZoHFJrN3vUlMO%2BJqZvYMc%2B%2F3c76%2F3znnd%2B4I%2Fp8%2FJJd%2BUnYA5vXHznY6tcsibzuNhXUp06hgR1wtPdvlO87%2Bz0elnut7f4EfzgVgB2mPDaBYmJhYZzw%2BIpAbRNAO5dskDxL2IJw79MSH5p3%2BBWrKdepcALb%2F4JXSpF%2FcZY3eZsR%2BmsAWAdohMgzyoAKDQhwA9KhTedNNjp5bM7m8vvsT4nNd1c%2Fxw7kAbP32W51xHPeoNR8Q4jcBbAIQgUggGAFxipAfQ%2Fg8lI%2FZgjkyPjry1sB9KyZ%2BjppynSoXgG372M3JiYoY6YNwJ4ibp59NagBHCHkZ4GMiMgjHY0KctMW2t6t3h%2Fb312N2AGD7aPQdAATwBFIQ50TkTZJDgOynyID1%2Ftl9H25%2F%2Ff0lH8gH4FvspkxUpGD7SN0JXOqAS%2BQJToF8nsTTEPN9S33x%2FeaE2QGwto%2FAToCXhMA7%2BjdY%2FizJl0HuhbFPWry%2FnDB7AMROsCWAKSJvEPIcyT2IzH89%2BaHikfdLKOQH4Ccq0nQAWztgSmcYBc6QugeQv3vyvrZnrmgAtLZPiJ2cqQMkzAOYklI1hl98%2FGPlfVc2ANg%2BEckBAASgIPdQ8GdP%2Fmp5zxUPAJA8OSDTS6BKsv%2Bpj5erVyyApDZRiaztA2UnWw2D71ApVXrf%2F9SOKxyAiO0TyE55x0ywVb9Klfy%2FAICNHDArALiSAfwbuxMzUZHI9onKTskbAtIMgU9eqSEwBcCEYXAWANAMgSsewHsJgZAEdzYcsOMh2uM9iGsOHdZhgVVYR4zFHmNnRzF2%2BBOStMoq77U930wwOCDMBIMDwjCYNwQgVYQk2ARw%2BxMsYxILnOBaAW4VRZkGQ0oMFVIMPflhGX6vAlv9%2F9kBQNwnWT1gxmuBxnWIVBGSYBPAlh9wGYCNUNwixG0QtFEwBNGXBTwC2tdoMawJRtGNiYFbJG0lKG97fgC1tCIF6RMyvwMEVYQQ%2BEwjBLb8gBuN4tMAtlGwFERMwRiEw4SegshLSj6TGn84TuKfDNwrZ%2FMKbPX52QHI1gKhHpDTASEEgP6nPlPIAGx9lKHXPw%2FBdgJdBEoQhhljIsJxFbwSAHjRgzD%2BZUbmhK%2BnI8DE2BIsrlXvFtdKYKv22QGA7YPMoCDyzrNXxaP%2Fqd9tANjyHW40Bp9mACC4CuD8sGgI6waCjgbjBIe96Ek1fEWBFwXpIKwfYr3%2BxuG7l4y1EtiqPR%2BAvw%2FzgDRbDs8aAC8AuPW7vM4AH1NhALAZwIoAIPOAABrcIAoVjKnoKQWHvPGDCj2SGv%2BqE3MijvzpY8e6x7ADCpEmv1ayL7TPDoDYPmAWDhA0HHB%2FwwF3focrfIRbFLqdkF8BcB0bIZBBCAAaEOhUWFPRMW90xBu%2B4UV%2FrKIH1PD7SMaHjh%2FvSTCL8vvsALAJIO9aIAAIOaAJYPOj7IpjrPaqfYT8FohNKjSZ5IZw%2BCYEzZxAeBOeMxCnvNGDzvK7ifUHRJOflCcwnBdEfgA%2BzeYBWVE05zAoIlUJIfC5hgM272cBb6PNRv4DBD5PyJ0ECgTtVO9PCddMeAOAE3Xeas0bHfbiT3irAwb4dlHdQQQId6yanGkQzAoAOTUM5hsF2FwL7P%2FD6WuBW77HWyH6B41kyIUE294NgBfNAJx%2FNvRqfUro4YLhw5EJexHu8K2Hrjq9e4Y5IT%2BA2kSFiJs5IB8ACKoE%2By8FsGkve43TX4fhdhWsJ7jkfM9nIXCJ8OZ7tSRE1RqeLtC%2FWDB8jKoPLxkzh3uO9yQz2ZLLBWDDX7A7Ms2CyCwqQhkAsn%2F%2FH013wJY9XOXV30GTDYf3KrQSRIcc0HDCdAAuuMCEdoXNDk4WoW9Hhj%2BM4P%2Bz3cvTNZROH7x52XirUJgdgDAPQI6i6IWrqILo3%2F8n0wGEZIgYqx3T7TD4jIIhGTYBNMVfZP0pACKKQjhAH4smBeFLMfSRgtF9HvbZgd6rW%2B5E5QfgJyomK4lhp1BbbYxM74CwFvDo3%2F%2BF6QB6H2Isneiw5fo2ivw%2BBXdQtOSFUdb7Uw5o9nw2EhiFEUURiliIOIPBkzF0oGBYNcC3Hruh8vLcOyAAoGQAZjMVFvX9%2B3fNm14U3UXT24vILHW3iNHfUehdKliqoh3Tk17DDUF86P1ILohvQhiNwRMRWAX0a%2Ft61z47xwBGuqM6KkZDEpzNYkiqIu8CoHmVN%2ByprbUGH6Xo7Sq83gtXetFOb3wxG%2F6aDoBhJj7YvyH8vAOSInU8Eu6Dka8saoufQE9Psjvbl3j3R74Q%2BOOR7siiYiTuYwCQex4QJkLs3%2F%2FnlzigeW2bHx3uSuJ4tYu4XoHbvHCTt7zBi1%2BcOaF5GOFF4qe5QIuizgqejlT%2FITLcW25rG9696vLzgvwAFBVjoplujk7DzlASA%2FsH%2F%2FLdATQqRMfjUXSurNNspNWbvOF6b3SlE21T%2BHYK2wy0rai%2BHAsLcYEoRg0HxGiAiYABSz4QiYZQO%2FnwunXn5s4BigoQ9UG5E5JzHpDVBNE%2F%2BFfvDgDhJqzdMC8sPlNOyh3zPWoLVMwiH6XLU8PVUF5lvL%2FapLq6MOlWxhE7S51AsYQGgOAMMAyLByLBv5SsrwLxT3ZXKpetI%2BR3QD0AMH0Q7MyxOdroADZKYoNf7p7ZztBDtD09x2MZiVcAfgMT3iSp3mzqep3U3Sobs7PUBS11AeVOmGKREhvCGgxGog8W6KtpIXn1v6%2FZNDJ3DggA1PQx1APyLoaAKoQzB0AKdsOsO%2FHqKp2wt6nnViZ6m6a%2B4hPtpNHItLHethzovt4W25eIjSMishy0wgftnAO4v5EEVTiriZBAstXg4N%2F%2BdAds38UoLb9Z1rTWmSgWeMc1vobNPvUbXZ0bfKrL07oWvFfS%2BnpxqbD7RhN1XiW2vRs2LuM5K%2F7BmKzGheTVr8%2BZA%2B4f6aamFWujPs1qgrPJAb7%2F0D8u%2FqkhcOeXzsxTm670HuvocKum7HUpV2udS12iXa6uZVdX8amH96q2na60DEnnGsjiG1BqXySHrOiD9mcFAGzkgLzDYFgLhBC4FMCuXTRPLxgq6LIl7ZPj9YVa8yvppKJ13eBTs0VTrWjCLpew5BPCJwpXV7hEs9cU70ybTnZVgJ47UJ7XI89Z6gM2ctU4KZ785zkbBYID6hMVmEI2E8y7OyxZDkD%2Foa9Nd8BHvvKjYrRo6bwxN1GBM1t9gpvoUGHKlS7hAk3QrgkLLmG2%2BA2iA4gpAN6rJ1zauYa4%2BpdR6Lqazwj410XUqx2YN%2FrVtWsve%2BturlFg%2FWdfWxAhutap2Q7iUwRuajXVvLg95AAP33%2Fk68uzELj9odfKHcVSN%2BpcYhmtcM73%2BoS3M5VeTblSU87TBPApoFnPN48MwkUAnKpPvZ%2B32rtr7tV691o8RuJv0vLI4%2Bg5nuyWT8zNTHDz751c5GN7vatxu0%2FwG1TcmAcAggPA%2FiPfaAC495tnVkSmuFkTvxHO3ahOrtGUyzTFfE1QVsfoAgBkorUpPjghc0DDEfTOs2O5H73qHvfagl7uNcZ%2FvbbmxQO7seOnFktzOWDTF88ttolbnwwn291Z3RGSU1bAnGEtVgweL3aZL63c0XnAUheixrVe%2FVakuFlTv45el2giBXUwocc16%2FkpB4RnNt8TPm2EQfa3NABQlhe6kz197odLNvo9avHtf6%2F0%2FqhVB%2BUCcM8DY0tTg5snf1zbXnst%2BbircZ0PFfwZArCxPNt5bfzA0rvaz6jXO8VxPT1X0usipjpPUy15B2ECycS%2FG4Ds7w3h5wE4qjrvCx3uyPKt6TdXbKvv9REO%2FseaDafmFMCHHuICmsm14y%2FV7qqdqH8yHdcN9Zpa70LtpnET0LSHNG5FFQOaSLQ43x7tvqnte%2FNviJ063kmvFTq20WmBqUJdw%2BJBOM%2BLl4tANF3RBDAFgp4JxY9HRd0%2F%2Fzr3jas%2FNvlEvY43dq9f33LjJJcDdjzEeBTomBwa2abjyefqY3r72BlXTCZ8dDkTiABRLL7cYettKwrjnTeW3y4ujQyVC%2Bm0gymtOjVMw16QNsRe1PuN1w0IDbtPtU%2FZP2yi6DlT8idtyT9e6vL%2F2vNrEwNnTp%2BuVe%2B%2Bu%2BXWWS4AU717z5ff3CJi76%2Bfc33nTiaLk1FfdnVPdVk%2BMKHbjYXaWBAVrYk7rJYX2LRtWQHFVXEx6jA2DFz0Gu4ezISH54sdcEFo0wEXg0lBn5LqOK6pviWGx21HejRq02fUFh8Z%2BMLSo62sP9U%2BKwD3PVJfJ8DH62%2FV75o8Ue%2Btv5kurL2VuuScFzoUxAKFdpvE3RalRXGhuKgQxfMjieYZY0piRCDnATiehzBl%2F%2FMhcF70RRBclgPUp0jV8VWf8ElSny20pS%2BaBdErk%2F7NU4d3tbb%2BewKw4yWuVGCLP5V%2BIDlV%2B2DydnpN%2FS2nadjBS5kBiNptUpxvUVxUKBS6ooLtiCwsDMMN9V4xDUAGIdi%2FafHgpEvEN96L05R1dRjRBK%2BrxyHvsTd1GIxLeGXwy92XXfXNyWpw6kt2vMAOAMt8zW%2BTuv42HX%2FJJRrRZwJN%2BFwIAYkEEomRSASh30nJA6Ap%2BnwOoMO4dzjDBC86hz1MZdA7eUUK%2FrSdmD8%2B8E%2F5b6CYVQiEH0%2FVBlAsl7BJDD4FwZ1UrgLQFZI%2BlEISVIDKcJMsgvCp44IDsk3wZg6YGgUavZ%2BJd0KfgHQyqamc9Slfp5cfacpBer9PXeHls8mpc0NfvfxUt1UumBWArHITOvkQVqhgIwy2CfhhEteHqhRIkx9AIwlmyTADkMW9qpNUHV7XhM%2F7FAeg9odJPRmyiM8Mj50aG1p4bYpdoq2EzmkITH3ZffvZVipjkQk%2FnhLcR%2FIWACuh7AqVKVWG4W6GDrgIgIPTFJNMZVhTyXrd1%2FU5JnLQRdHBp%2F%2B0o%2BUEZ6ZAZueA5rdPhUJbF5b7BDcaYCvBe6C8HmQbFYX8ABDC4pymOKFenmfKqkvlBUmj03Unw%2BX0zNnqrmvm7MdX7wnApU5QwY2i%2BkGhbAC5lIpuKjugLNGjEPZypyfB8znAMdVJdRhjylF18rqmOArlgTTB3vG4%2B%2BiabvxMfn84JwCmnFAoYEGhgB7n%2FbWi0iuU61R9hR7LRdGlXkuXAXCOKU%2Bo02Oa4gWoeUnrPOqS9HgURWe6u7vHZrrdPVPrv6d5wOVOMgWiVMBSwF3vvVkL6hqoLIf6%2BVQphtkfQrLTEPOajQLq9BwdT9DpMZ%2FiBUn0WEl54uHPLr5sPT%2Bv0J9JEnzHlzZHh9JBlGoR5qGGjtSnHcaiZJwUnDqLMDvPDhf%2BZa%2B9MlWnk%2BLTcdYxWkwwNrpm0eRc3AbXCtSchECrk7yf2%2F8Xd73M5lbyVXcAAAAASUVORK5CYII%3D",
+          "width": 1003,
+          "windowId": 5223
+        },
+        "5261": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAD///8AAAAAAABeXl4AAADf398cHBz8/Pw9PT0CAgKEhISTk5MAAAAJCQn5+flKSkoyMjLu7u7R0dFRUVEDAwMZGRlnZ2fq6uqurq7W1tZZWVnExMR/f3/39/c6OjoEBAR0dHSnp6fi4uIhISHc3NwLCwuYmJgEBARiYmKpqakDAwMTExOKioqfn59bW1sGBgZCQkIWFhYQEBA/Pz+NjY0pKSkUFBQICAi1tbXOzs4DAwPx8fGHh4cFBQUWFhYHBwcZGRlOTk68vLx4eHhFRUUKCgoPDw8FBQXl5eUWFhYuLi729vbJycmPj48NDQ0bGxsKCgqxsbHo6Oh7e3sNDQ0GBgaRkZEFBQUHBwerq6sDAwMJCQmbm5sNDQ0ODg4GBgYPDw8XFxcLCwsWFhYYGBgNDQ0DAwNsbGwHBwcLCwsMDAwPDw83NzceHh4GBgbAwMAREREaGhoGBgYNDQ0KCgpwcHAMDAwGBgbZ2dm4uLhISEgJCQlNTU0rKysHBwdhivdbAAAAgHRSTlOmpgBQpiampqampaamAqampqampqampqampqampqampnempqampqamY6amoqampqaOpgympqamDYqmpp2mpmymgEempqammyKTpiSmpqamUDCfpqamplGmppGmWDumJhKgUzdIFxU7UKYmXW5EphF5pi0ehz2Fpiyepqamdqamb9Y1ZqsAAAHBSURBVHicfdNle8IwEADga8dWVlZchrsNZ+7uPhgbzN3d/a8vSYtD71NyeZ/k2ucOaD647uPpldPRTGDI8ZJdZff/ToQDoOcCjpH4VIiFfGy2e1R66H8WQHc/SvmY+YTWMNEZXbOYUgtSipLmhuEqScAFgHIApSrDnYCZBwwa0aWShWpASQdZ9pLjAai8fNLW6u0bN0aXrK9BbUKlA3i65QHIJ79uuvRyXbFUITICKITOF/aoOsZi5+mI32VkoCEPJiM7bZ+LptkBRWkdsSL4qFEmRUmKoKn8C9TevvvWSqCIypxBbRs6V/yiTFhTCfxkEZ5FF4xLwI5/XsUNKT1eafFJCzTXqoEhS/xIXeBDy2FUXV3gxK+YRYAshzdrIoAaQxtGLQLc62gXFAHodgD2RwRI7SRRH1AaeRmYrgKUtQxw8VJgxf/Z1lUK6DfSZgiol3zAeiwov4geURYAvSwAY8wwMegiE6DZ6CWdxQPuu6ph8qEkgE7OAJiK3WRTuzWWXpc/kjbr4IwM71wIOjplToNZaZ9n2uWlvX/IT/d1ee/jYENT8Z67I04Y/4N3djUbH3EMBbaWR7dXdh/3khx/8g83sTly2CzoRAAAAABJRU5ErkJggg==",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 5261,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Backup to Google Drive or locally to any cloud provider",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Backup%20to%20Google%20Drive%20or%20locally%20to%20any%20cloud%20provider&url=https%3A%2F%2Fwww.notion.so%2FBackup-to-Google-Drive-or-locally-to-any-cloud-provider-7dacad9e95b44c5db681033fc264fb59&tabId=4910&sessionId=1625515773073&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAKG0lEQVR4Xu1beWhU6xU%2FczMz985MMjNZJplM4jOKuEBdqrjgH%2BKKW9UK7n%2BpPGor%2BhQNdS%2BvoE9aF6zU%2FWmhiLhVcSkU1yo0KLiioJZnSUxmMptJJrPe2VJ%2Bt95wM5nlJpPEJPTAx83kfsv5%2Fb7tfOc7V0E9L0xFRYXe6%2FWaI5GInmEYrUajKed5vigUCuUWFhYWhMNhi9%2FvN6rVai3HceWhUKjY7%2FfrwuEwcRwXy83N%2FRSNRm%2FHYrGjzc3NP2UDQZFNYZPJlMswTLHP59OzLMsBCJQNBALaoqKigkgkUh4IBIxEpM3Ly7N8AaINh8NKImJaWlpyWlpaOq0Cy7LB4uLiH2pra%2F9IROHOVJRIAKPX6wfrdLoh0WjU4vP5cg0Gg7GlpQXAjOgtrVZr4XkeoHNjsZi6paVFGY%2FHVfF4vDPtd0kZk8n0r1AotNbr9f67oxW2EmA2myuI6MfPnz9PiUQiqo5W1FX5VSoV6XQ6ys3NFVJ%2Bfj4VFhZSQUEBqdVqcjgc9OLFC7JarW2a5DjOYzAYKh0Oxzkikt0bIgFcfn5%2BVWNj48%2B7CohSqSStViskABKBiGCSPfG%2FvLw8YllWSADMMEw7lQKBAN28eZO2b99ONTU1re8VCgWVlJT8zev1bvD7%2FXY5WAQCTCbTPLfb%2Ffdk8xFAOI4TEsCgJ5DkANFoNIQEMMmAyFEwXR673U4bNmyga9eukVR3o9FYq1Kpfu1yuf6RaTQIBGg0mspgMHhA2lhOTg6dOnWKZsyYIfQgEkjoDiDZEBGNRun06dPCaPB6va1V5eTkxEpKSo5HIpGdLpfLl6oNcQr8loj%2BIM2E4bR3717atm0bgYzeLq9fv6bVq1fTq1ev2qhqNBrfKJXKtW63%2B0Wy0ZCSALGWlStX0smTJ0mv1%2Fd2Dsjv99OOHTvo2LFjJN2VOI4LFhUVfV9XV3ckcbvMSABQjx49mq5cuUJDhgwhjIzeLFgLsECuWLGCQqFQG1VNJtPDcDj8rcfj%2BY%2F4QhYByIxV%2FPz58zR37tyvRgIAeTyelKmpqUl4h%2BeNGzeEZ6LodLpGo9H4K6vVehXvZBOAzFgLdu3aRTt37hRWdrmCXoHyzc3NwkKFhL9FZaWgRBDJ3ok9mo31CJ0ZhomZzebvbDbb8Q4RIAIeNmwYLVmyhAYMGCDMNQBqbGxsB0gKhud5YatCfqRsQcglP1U%2Bg8Hw2ePxFHWKgGwb7yXleSLi%2BjwBsBZFgwtPGGsGg6E1YfdqaGgQ1oRIJCLl%2FusSAIMK6wiMK%2FEJM1iqfLK%2FAUj6f5QHCaLpjHUqcafCdKusrKTDhw93LQFoFMrASsQzUblEANL3os0vEtBd5rKI%2BPbt27RgwYKuI2DChAnCtjhw4EDCCa632wf379%2BnmTNndh0BFy5cIFiJfUW6nIAHDx7QtGnT%2Bgp%2B6nICHj58SFOnTv0%2FAT3JACxBeIRgRYop0TSeOHEiLVy4sJ1aX3UEwAqUKgwLEZYjEhbRWbNmpeUR2xhOpDia48SH36ksyS1bttChQ4e%2BLgH19fXCvvvs2TPBCIHSsVhMSIlmMLbGly9f0uDBg1OSgF4uKSkhEJlK4KUaNWoUnThxgoYPH%2F71CEDPLFq0iG7duiV7dsyZM0fID%2FdbMgGBR44codraWiFh%2FQkGg61ZN27cSPv37xeswFTbcY9NAfQwDkk2m002Ach49uxZWrt2rawy6OEPHz605sUJFd6rdNJjBGAEuN1u4WTocrkEUO%2Ffv88IrKioiJ4%2Ff07ffPNNxry9moBE7SdNmkRPnz7NCAoZFi9eLHieMvkg%2By0BmL8wr1etWpWWsH5LAFCXlpYKUwHPVNKvCQBonDEwElLdQfRpAuC0sFgs9PHjx5Q9DOBXr14V1oRk0qcJMBqNdPHiRZo3b14b330i0PLycsFAwu6QKH2eANjz69evF%2Fb%2BdIKbnnPnzrUzbvo8AU6nU7ATYLrCbE4l2A5xyYHRIpV%2BQQC8SJcuXRJucNLJoEGDhHgATB1R%2Bg0BMJtxboC%2FLp1guuC%2Br98RAEDV1dU0ZswYYUqkmwp3795t9UD1mxEgAj569Cht2rQp7SgYOnSoYCAhbKbfEYALC7jXqqqq0pKwdetWOnDgAI0YMaL3ngYTESQehrCYYRfAIigV7PmTJ09ud6UtzYMyjx49ojVr1vQ%2FAgB09%2B7dtG%2FfvrSjYOTIkcJ68enTp9Z8vcof0NkRgHI%2Bn49w4fLu3bu0JCS%2B7DcEABjuG2bPnk0IfpIr%2FYoAeJTWrVtHZ86ckYtfCNroNS6xbKaAWBautHHjxgkOUDmSNQEsy1byPN8mTjBTw3JvhuTuAontXb58WTCT5USSZE2AxWL5pc1mu54JtPR9dxOAO4SlS5fS9euZ1cqaAKPRaIzFYj95vd5CuSR0NwGimTx27FjhBimdZE0AKrdYLL%2Bz2Wy%2F724CEBjx9u1bwSuU6iJEqgMOQYgH7nYCiAjfBlR5PJ6RckjINAIwd2GwTJkyhd68edOmSgBH0OX48eNp%2Fvz5tGzZspQ3OjCT4Q%2B4d%2B9eSrW6ZASgdqPROCYYDD7meT4vEwmpCADwO3fu0MGDB%2BnJkyeCcZNONm%2FeLMTupIswgekMIqW3QWKduFvExWmmYI1MN0OtOpaVla2ur6%2F%2FS6YvQFIRgHK48a2rq2uDWwSIgCYobTKZBF%2FAnj17hCivTILQeARoPn78WPAlIlYRI2P58uVUXFycqXjGAAlpBUxZWdlxq9W6Ll2t6UYAwmcASgycEoOj8MT%2Fv0Y8kewR8AU0Pnp64Ha7J6YiIdMakLFLejhDpiixduro9foh8Xi8yufzmZLp2tcISHLSbBMombQ%2FysrKfuFwOK5Fo9F2H1FhSE2fPr2H%2BzFzc1iE8X0h4gfwbRGiUbCDYKdIWJAzE4DAaovF8r3NZtuT2HRH7vMzq%2F2%2FHDgBIg4ICQCQEIgtjQMSo8zxP%2Bnf0t8oj%2B0TCVElyRZ0lmV5nudbY4XT6ag2m8037Xb7bGkm%2BOVgr%2BMJ%2Fz0aAvN4QgGwnahkKoXFfIgEkdaD%2BrpLiouLPzidzuGyPv%2FQ6XRmlmWfNDQ0DJQqBBeV2WxuJUDsvVSsdxeYztRbWlq6q76%2B%2FgdZBKCBgoKCyX6%2F%2FwHP8%2FK%2FlOiMZt1cRqlURvLz8%2F%2FqcrlgX4dkEwC9ysvLv7NarX%2BSc0TtZhxC9bhFVigUMYVCEVcoFOGcnJyoVqsNsSzbpFQqnQ6Ho0mn04XUanUzwzD2QCDwKR6P%2F1P6iW2HCECbFRUVf66pqflNtiSIxhAA4HM2tVod12g0AZZlm1Uqld3lcjWp1eqQVqvFb3dDQ4OTYZgwy7I%2BjuPcgUDAHgqFwhzHBYioWa%2FXu6urq9t%2BJSWjFzpKgEB8aWnpt9FodL3P5%2FtZKBTKQai7RqMJfmHebrfbBeY5jvOpVCpnU1OTEz305beb53lnIBAAWORpYhjGabPZAKTH5b%2Fru%2BSbFKWQngAAAABJRU5ErkJggg%3D%3D",
+          "width": 0,
+          "windowId": 5223
+        },
+        "5268": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 5268,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Actions YAML - Bing",
+          "url": "https://www.bing.com/search?q=Actions+YAML&cvid=162e1c267eea411ba168a0c86b29d1a0&aqs=edge..69i57j0l6.856j0j1&FORM=ANAB01&PC=U531",
+          "width": 1003,
+          "windowId": 5223
+        },
+        "5269": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 5269,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "YAML - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/YAML",
+          "width": 1003,
+          "windowId": 5223
+        },
+        "5270": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 5270,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Serialization - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Serialization",
+          "width": 1003,
+          "windowId": 5223
+        },
+        "5271": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAA6rvg3ovknX+Ywce5Kr/A0y/8iVeAA//8bz+k2lfozmf8wwfo5rPlRxfg0ifc2g/ElxvQtaelAk+46uPcyefM2fulOvPU6uPZFoe4v0uA3vvc6vfg4oPszjfhS2tYxjfMpuf9Vqv9Uz/stZuk0o/g2kfoAAP9EsvE9te5OxvxV0f0xwPw1hfU+tfYtaOs+lO4xc/Amedswv/ooXOUbzO1O0dk4u/gzZv9Pv/Y4gOsyeOs2vfuA//8xqvMg0OcqZOkxnvNFn+47fvdFouw/uv8iZNovc/Q4vfgvb/Ezvv0+ydwxgOcfw+0v3t5V0/tLtfYhzuhA1twuwO46jOoyffQpj+Irv/hBmutL0/8/kuskYedW2P8azewzzMyAgIAhrt5V1aoAgIAAqv8qVdUcxvEqqtVV1f8vduIAgP9JkttLuvUbz+QzZuZV//9Epe9OwthA2eYkbdtIrdkct+NUz/wu0f9mzMwA1f87v/Y1091V3cwxcO5HrO4+kPJAn//NfLHVAAAAgHRSTlMApqampqQGpQGlpQWkkqWmpqSlpTWho6WlpaMWm5Q2LRUMBKKXNpMBFQ8RgJSVkzsUFZpqmZqTVAWTeSB5AxUgkRUtD5QKoTaHk0GkVFQIIFVxiRY8kQkwagiUFTSHBQKhBgIDBhIGBmgCB30wCgNPaBQHNX9PCwUGcFIPhmyHCP+S9P8AAAHDSURBVHichdNnV9pQGMDxa4MhNNBCwBAISBKG7D0K1TKUIdWqdWvtcu+911f33sAxiSb6f5Vznt+54yQBnYTpEE50n9XaZq9bBRbXBqQtzriubSHNRXCbi2GYeIHVEjhcQRRau0DQA2Na394GPSZtYHoH+N8BpN/0AWWqArz+qHIV0u8WgbuK2zJtln9FJMAPuqKDbXZjQANw9YzRaIxm5tdXlaDf/RHl5vh2FApLbqp8pQQBEQQ4gm0hYMmt7P1Qgs+oAAcuCmhuMBimyrKjkv0xEcQ4IMxHLSJw3siWIJsxM2o2BQCf6cydP48l8KU524dCQJgeX8mJwHMgA6M61CgEgODL42d/nd/znt/qYGDu61i6kYbgUgIJH4WqLANQr86U0lRDn857hp7BWiKLoSrLRKi2sETTFKZv5D1/nsFJF2RTwckRh9VM6yiscXQr3WJnxqdHZQ93e3sdVqsZgsrpPwkQyRIG5xhdtHcArfNtJeUvoz655KNoh93eBX13idR/ORiaiHwS64BYqbn/4otY/BXxer1d8DA2PKwcw8JIiGBkoTan9odtTpxHisVi/L6WFFTG6ByL4XA4GAwKit2fAP7rS9AfqqamAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 5271,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Memex Data - Bing",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Memex%20Data%20-%20Bing&url=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3DMemex%2BData%26aqs%3Dedge..69i57j69i60l3%26FORM%3DANCMS9%26PC%3DU531&tabId=4899&sessionId=1625515773073&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQAUlEQVR4XuWbe4xU133Hv79z7tyZ2V12Wd6PBduMsfFibCjG%2BEG8uI6VR%2BNWkUrUKKJNmraS1UZK%2F6jUqorEVlXaSJWaJn2pjtq4Sh8yf7SxolSO8xjA77BmjTHGzoKdGLABe70s%2B5i595zftzp3ZoHFJrN3vUlMO%2BJqZvYMc%2B%2F3c76%2F3znnd%2B4I%2Fp8%2FJJd%2BUnYA5vXHznY6tcsibzuNhXUp06hgR1wtPdvlO87%2Bz0elnut7f4EfzgVgB2mPDaBYmJhYZzw%2BIpAbRNAO5dskDxL2IJw79MSH5p3%2BBWrKdepcALb%2F4JXSpF%2FcZY3eZsR%2BmsAWAdohMgzyoAKDQhwA9KhTedNNjp5bM7m8vvsT4nNd1c%2Fxw7kAbP32W51xHPeoNR8Q4jcBbAIQgUggGAFxipAfQ%2Fg8lI%2FZgjkyPjry1sB9KyZ%2BjppynSoXgG372M3JiYoY6YNwJ4ibp59NagBHCHkZ4GMiMgjHY0KctMW2t6t3h%2Fb312N2AGD7aPQdAATwBFIQ50TkTZJDgOynyID1%2Ftl9H25%2F%2Ff0lH8gH4FvspkxUpGD7SN0JXOqAS%2BQJToF8nsTTEPN9S33x%2FeaE2QGwto%2FAToCXhMA7%2BjdY%2FizJl0HuhbFPWry%2FnDB7AMROsCWAKSJvEPIcyT2IzH89%2BaHikfdLKOQH4Ccq0nQAWztgSmcYBc6QugeQv3vyvrZnrmgAtLZPiJ2cqQMkzAOYklI1hl98%2FGPlfVc2ANg%2BEckBAASgIPdQ8GdP%2Fmp5zxUPAJA8OSDTS6BKsv%2Bpj5erVyyApDZRiaztA2UnWw2D71ApVXrf%2F9SOKxyAiO0TyE55x0ywVb9Klfy%2FAICNHDArALiSAfwbuxMzUZHI9onKTskbAtIMgU9eqSEwBcCEYXAWANAMgSsewHsJgZAEdzYcsOMh2uM9iGsOHdZhgVVYR4zFHmNnRzF2%2BBOStMoq77U930wwOCDMBIMDwjCYNwQgVYQk2ARw%2BxMsYxILnOBaAW4VRZkGQ0oMFVIMPflhGX6vAlv9%2F9kBQNwnWT1gxmuBxnWIVBGSYBPAlh9wGYCNUNwixG0QtFEwBNGXBTwC2tdoMawJRtGNiYFbJG0lKG97fgC1tCIF6RMyvwMEVYQQ%2BEwjBLb8gBuN4tMAtlGwFERMwRiEw4SegshLSj6TGn84TuKfDNwrZ%2FMKbPX52QHI1gKhHpDTASEEgP6nPlPIAGx9lKHXPw%2FBdgJdBEoQhhljIsJxFbwSAHjRgzD%2BZUbmhK%2BnI8DE2BIsrlXvFtdKYKv22QGA7YPMoCDyzrNXxaP%2Fqd9tANjyHW40Bp9mACC4CuD8sGgI6waCjgbjBIe96Ek1fEWBFwXpIKwfYr3%2BxuG7l4y1EtiqPR%2BAvw%2FzgDRbDs8aAC8AuPW7vM4AH1NhALAZwIoAIPOAABrcIAoVjKnoKQWHvPGDCj2SGv%2BqE3MijvzpY8e6x7ADCpEmv1ayL7TPDoDYPmAWDhA0HHB%2FwwF3focrfIRbFLqdkF8BcB0bIZBBCAAaEOhUWFPRMW90xBu%2B4UV%2FrKIH1PD7SMaHjh%2FvSTCL8vvsALAJIO9aIAAIOaAJYPOj7IpjrPaqfYT8FohNKjSZ5IZw%2BCYEzZxAeBOeMxCnvNGDzvK7ifUHRJOflCcwnBdEfgA%2BzeYBWVE05zAoIlUJIfC5hgM272cBb6PNRv4DBD5PyJ0ECgTtVO9PCddMeAOAE3Xeas0bHfbiT3irAwb4dlHdQQQId6yanGkQzAoAOTUM5hsF2FwL7P%2FD6WuBW77HWyH6B41kyIUE294NgBfNAJx%2FNvRqfUro4YLhw5EJexHu8K2Hrjq9e4Y5IT%2BA2kSFiJs5IB8ACKoE%2By8FsGkve43TX4fhdhWsJ7jkfM9nIXCJ8OZ7tSRE1RqeLtC%2FWDB8jKoPLxkzh3uO9yQz2ZLLBWDDX7A7Ms2CyCwqQhkAsn%2F%2FH013wJY9XOXV30GTDYf3KrQSRIcc0HDCdAAuuMCEdoXNDk4WoW9Hhj%2BM4P%2Bz3cvTNZROH7x52XirUJgdgDAPQI6i6IWrqILo3%2F8n0wGEZIgYqx3T7TD4jIIhGTYBNMVfZP0pACKKQjhAH4smBeFLMfSRgtF9HvbZgd6rW%2B5E5QfgJyomK4lhp1BbbYxM74CwFvDo3%2F%2BF6QB6H2Isneiw5fo2ivw%2BBXdQtOSFUdb7Uw5o9nw2EhiFEUURiliIOIPBkzF0oGBYNcC3Hruh8vLcOyAAoGQAZjMVFvX9%2B3fNm14U3UXT24vILHW3iNHfUehdKliqoh3Tk17DDUF86P1ILohvQhiNwRMRWAX0a%2Ft61z47xwBGuqM6KkZDEpzNYkiqIu8CoHmVN%2ByprbUGH6Xo7Sq83gtXetFOb3wxG%2F6aDoBhJj7YvyH8vAOSInU8Eu6Dka8saoufQE9Psjvbl3j3R74Q%2BOOR7siiYiTuYwCQex4QJkLs3%2F%2FnlzigeW2bHx3uSuJ4tYu4XoHbvHCTt7zBi1%2BcOaF5GOFF4qe5QIuizgqejlT%2FITLcW25rG9696vLzgvwAFBVjoplujk7DzlASA%2FsH%2F%2FLdATQqRMfjUXSurNNspNWbvOF6b3SlE21T%2BHYK2wy0rai%2BHAsLcYEoRg0HxGiAiYABSz4QiYZQO%2FnwunXn5s4BigoQ9UG5E5JzHpDVBNE%2F%2BFfvDgDhJqzdMC8sPlNOyh3zPWoLVMwiH6XLU8PVUF5lvL%2FapLq6MOlWxhE7S51AsYQGgOAMMAyLByLBv5SsrwLxT3ZXKpetI%2BR3QD0AMH0Q7MyxOdroADZKYoNf7p7ZztBDtD09x2MZiVcAfgMT3iSp3mzqep3U3Sobs7PUBS11AeVOmGKREhvCGgxGog8W6KtpIXn1v6%2FZNDJ3DggA1PQx1APyLoaAKoQzB0AKdsOsO%2FHqKp2wt6nnViZ6m6a%2B4hPtpNHItLHethzovt4W25eIjSMishy0wgftnAO4v5EEVTiriZBAstXg4N%2F%2BdAds38UoLb9Z1rTWmSgWeMc1vobNPvUbXZ0bfKrL07oWvFfS%2BnpxqbD7RhN1XiW2vRs2LuM5K%2F7BmKzGheTVr8%2BZA%2B4f6aamFWujPs1qgrPJAb7%2F0D8u%2FqkhcOeXzsxTm670HuvocKum7HUpV2udS12iXa6uZVdX8amH96q2na60DEnnGsjiG1BqXySHrOiD9mcFAGzkgLzDYFgLhBC4FMCuXTRPLxgq6LIl7ZPj9YVa8yvppKJ13eBTs0VTrWjCLpew5BPCJwpXV7hEs9cU70ybTnZVgJ47UJ7XI89Z6gM2ctU4KZ785zkbBYID6hMVmEI2E8y7OyxZDkD%2Foa9Nd8BHvvKjYrRo6bwxN1GBM1t9gpvoUGHKlS7hAk3QrgkLLmG2%2BA2iA4gpAN6rJ1zauYa4%2BpdR6Lqazwj410XUqx2YN%2FrVtWsve%2BturlFg%2FWdfWxAhutap2Q7iUwRuajXVvLg95AAP33%2Fk68uzELj9odfKHcVSN%2BpcYhmtcM73%2BoS3M5VeTblSU87TBPApoFnPN48MwkUAnKpPvZ%2B32rtr7tV691o8RuJv0vLI4%2Bg5nuyWT8zNTHDz751c5GN7vatxu0%2FwG1TcmAcAggPA%2FiPfaAC495tnVkSmuFkTvxHO3ahOrtGUyzTFfE1QVsfoAgBkorUpPjghc0DDEfTOs2O5H73qHvfagl7uNcZ%2FvbbmxQO7seOnFktzOWDTF88ttolbnwwn291Z3RGSU1bAnGEtVgweL3aZL63c0XnAUheixrVe%2FVakuFlTv45el2giBXUwocc16%2FkpB4RnNt8TPm2EQfa3NABQlhe6kz197odLNvo9avHtf6%2F0%2FqhVB%2BUCcM8DY0tTg5snf1zbXnst%2BbircZ0PFfwZArCxPNt5bfzA0rvaz6jXO8VxPT1X0usipjpPUy15B2ECycS%2FG4Ds7w3h5wE4qjrvCx3uyPKt6TdXbKvv9REO%2FseaDafmFMCHHuICmsm14y%2FV7qqdqH8yHdcN9Zpa70LtpnET0LSHNG5FFQOaSLQ43x7tvqnte%2FNviJ063kmvFTq20WmBqUJdw%2BJBOM%2BLl4tANF3RBDAFgp4JxY9HRd0%2F%2Fzr3jas%2FNvlEvY43dq9f33LjJJcDdjzEeBTomBwa2abjyefqY3r72BlXTCZ8dDkTiABRLL7cYettKwrjnTeW3y4ujQyVC%2Bm0gymtOjVMw16QNsRe1PuN1w0IDbtPtU%2FZP2yi6DlT8idtyT9e6vL%2F2vNrEwNnTp%2BuVe%2B%2Bu%2BXWWS4AU717z5ff3CJi76%2Bfc33nTiaLk1FfdnVPdVk%2BMKHbjYXaWBAVrYk7rJYX2LRtWQHFVXEx6jA2DFz0Gu4ezISH54sdcEFo0wEXg0lBn5LqOK6pviWGx21HejRq02fUFh8Z%2BMLSo62sP9U%2BKwD3PVJfJ8DH62%2FV75o8Ue%2Btv5kurL2VuuScFzoUxAKFdpvE3RalRXGhuKgQxfMjieYZY0piRCDnATiehzBl%2F%2FMhcF70RRBclgPUp0jV8VWf8ElSny20pS%2BaBdErk%2F7NU4d3tbb%2BewKw4yWuVGCLP5V%2BIDlV%2B2DydnpN%2FS2nadjBS5kBiNptUpxvUVxUKBS6ooLtiCwsDMMN9V4xDUAGIdi%2FafHgpEvEN96L05R1dRjRBK%2BrxyHvsTd1GIxLeGXwy92XXfXNyWpw6kt2vMAOAMt8zW%2BTuv42HX%2FJJRrRZwJN%2BFwIAYkEEomRSASh30nJA6Ap%2BnwOoMO4dzjDBC86hz1MZdA7eUUK%2FrSdmD8%2B8E%2F5b6CYVQiEH0%2FVBlAsl7BJDD4FwZ1UrgLQFZI%2BlEISVIDKcJMsgvCp44IDsk3wZg6YGgUavZ%2BJd0KfgHQyqamc9Slfp5cfacpBer9PXeHls8mpc0NfvfxUt1UumBWArHITOvkQVqhgIwy2CfhhEteHqhRIkx9AIwlmyTADkMW9qpNUHV7XhM%2F7FAeg9odJPRmyiM8Mj50aG1p4bYpdoq2EzmkITH3ZffvZVipjkQk%2FnhLcR%2FIWACuh7AqVKVWG4W6GDrgIgIPTFJNMZVhTyXrd1%2FU5JnLQRdHBp%2F%2B0o%2BUEZ6ZAZueA5rdPhUJbF5b7BDcaYCvBe6C8HmQbFYX8ABDC4pymOKFenmfKqkvlBUmj03Unw%2BX0zNnqrmvm7MdX7wnApU5QwY2i%2BkGhbAC5lIpuKjugLNGjEPZypyfB8znAMdVJdRhjylF18rqmOArlgTTB3vG4%2B%2BiabvxMfn84JwCmnFAoYEGhgB7n%2FbWi0iuU61R9hR7LRdGlXkuXAXCOKU%2Bo02Oa4gWoeUnrPOqS9HgURWe6u7vHZrrdPVPrv6d5wOVOMgWiVMBSwF3vvVkL6hqoLIf6%2BVQphtkfQrLTEPOajQLq9BwdT9DpMZ%2FiBUn0WEl54uHPLr5sPT%2Bv0J9JEnzHlzZHh9JBlGoR5qGGjtSnHcaiZJwUnDqLMDvPDhf%2BZa%2B9MlWnk%2BLTcdYxWkwwNrpm0eRc3AbXCtSchECrk7yf2%2F8Xd73M5lbyVXcAAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 5223
+        },
+        "5276": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 5276,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "github - Bing",
+          "url": "https://www.bing.com/search?q=github&cvid=40871f9a1f484fe496707b44b0d20167&aqs=edge.0.69i59j0j69i60l3j69i65l2.1721j0j1&FORM=ANAB01&PC=U531",
+          "width": 1003,
+          "windowId": 5223
+        },
+        "5277": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": true,
+          "id": 5277,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 5276,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "yaml · GitHub Topics",
+          "url": "https://github.com/topics/yaml",
+          "width": 1003,
+          "windowId": 5223
+        },
+        "5278": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 5278,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 5277,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "dbohdan/structured-text-tools: A list of command line tools for manipulating structured text data",
+          "url": "https://github.com/dbohdan/structured-text-tools",
+          "width": 1003,
+          "windowId": 5223
+        },
+        "5280": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 5280,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 5277,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "TomWright/dasel: Query, update and convert data structures from the command line. Comparable to jq/yq but supports JSON, TOML, YAML, XML and CSV with zero runtime dependencies.",
+          "url": "https://github.com/TomWright/dasel",
+          "width": 1003,
+          "windowId": 5223
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5223": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 911,
+        "id": 5223,
+        "incognito": false,
+        "left": 621,
+        "state": "minimized",
+        "top": 75,
+        "type": "normal",
+        "width": 1067
+      }
+    },
+    "tabsNumber": 11,
+    "name": "yaml · GitHub Topics",
+    "date": 1625863138107,
+    "lastEditedTime": 1625862601333,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "263aba7d-6b48-4c54-8397-2037fcf87c42"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "872": {
+        "873": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 539,
+          "highlighted": true,
+          "id": 873,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "perXautomatik/mxpf: An xEdit scripting library that provides a variety of functions for the generation of patches",
+          "url": "https://github.com/perXautomatik/mxpf",
+          "width": 1531,
+          "windowId": 872
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "872": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 626,
+        "id": 872,
+        "incognito": false,
+        "left": 349,
+        "state": "normal",
+        "top": 276,
+        "type": "normal",
+        "width": 1595
+      }
+    },
+    "tabsNumber": 1,
+    "name": "perXautomatik/mxpf: An xEdit scripting library that provides a variety of functions for the generation of patches",
+    "date": 1628330246593,
+    "lastEditedTime": 1628330221933,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628267657392,
+    "id": "d9fcb228-26c3-424b-97ee-23f500d58fbe"
+  }
+]

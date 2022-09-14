@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10295": {
+        "10296": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10296,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Fallout 4 Texture Compressor (with BA2 support) at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/25691?tab=files&file_id=159086",
+          "width": 1154,
+          "windowId": 10295
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10295": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10295,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Fallout 4 Texture Compressor (with BA2 support) at Fallout 4 Nexus - Mods and community",
+    "date": 1622643259737,
+    "lastEditedTime": 1622643256236,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "dbe0c947-241f-4e41-bd6c-e843f4216173"
+  }
+]

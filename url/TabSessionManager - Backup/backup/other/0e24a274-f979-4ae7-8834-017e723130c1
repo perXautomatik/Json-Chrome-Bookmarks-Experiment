@@ -1,0 +1,218 @@
+[
+  {
+    "windows": {
+      "8219": {
+        "8218": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 603,
+          "highlighted": false,
+          "id": 8218,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "merge plugins - Bing",
+          "url": "https://www.bing.com/search?q=merge+plugins&cvid=dba5c0010f364f74afb12150dd31569a&aqs=edge..69i57j0l4j69i60j69i65.3872j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8219
+        },
+        "8436": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 603,
+          "highlighted": false,
+          "id": 8436,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "fallout 4 manual set load order - Bing",
+          "url": "https://www.bing.com/search?q=fallout+4+manual+set+load+order&cvid=bb1129e321724117a543c73a6b07330a&aqs=edge..69i57.7124j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8219
+        },
+        "8437": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://forums.nexusmods.com/favicon.ico",
+          "groupId": -1,
+          "height": 603,
+          "highlighted": false,
+          "id": 8437,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How do I change the load order in FO4edit? - Fallout 4 Mod Talk - The Nexus Forums",
+          "url": "https://forums.nexusmods.com/index.php?/topic/4117210-how-do-i-change-the-load-order-in-fo4edit/",
+          "width": 1135,
+          "windowId": 8219
+        },
+        "9035": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEUAAAD////////////////////////////////////////////////////////////////////xY8b8AAAAEnRSTlMAppwKh1NoFX00kh8+Xip8SXMwR7/9AAABHElEQVR4nHVT7QKDIAhUUkyba3v/lx0CMrW6PxWcx0enG5DxDN6HE/MY7UgI3gC4rfk4pJkSp/RG0ivCIHIsx1XksPO3eWKoBusHLGOu4N6C2l+LvJx7EWUngAf6yi3KnSYu8G5SWjQ16cOKIGs2wrwXDiO9SYckOoNLeLCXy+Y2aTprhYsA9cyJ6to43l8ECJzYHS+ZSl3BR4PwyiPBC8HfEaRLfTz2UFToZgqZf3eVn+dTC1WJ/rPmZQ20qG6G2WLyi2XDtMqYaRul2g97f7o5Kn3Rb4NDTKkG+f6Nk1QNErtC7wNbYaxLp9FtMdqsPa+K3Kc5eCD8PdBsjzHaIKvt7eJMhPHi9LlHwrIXmraCuQIAeb4FmwXZ94ofl2AF4l+HyF8AAAAASUVORK5CYII=",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 9035,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Releases · matortheeternal/merge-plugins",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Releases%20%C2%B7%20matortheeternal%2Fmerge-plugins&url=https%3A%2F%2Fgithub.com%2Fmatortheeternal%2Fmerge-plugins%2Freleases&tabId=8220&sessionId=1624310210490&icon=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon-dark.svg",
+          "width": 0,
+          "windowId": 8219
+        },
+        "9104": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 603,
+          "highlighted": false,
+          "id": 9104,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sqlite fastet way to get last entry in table - Bing",
+          "url": "https://www.bing.com/search?q=sqlite+fastet+way+to+get+last+entry+in+table&cvid=ab3c33b0aac940d09760121bf7ca8c60&aqs=edge..69i57.18283j0j4&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8219
+        },
+        "9167": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 603,
+          "highlighted": false,
+          "id": 9167,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "xedit record id - Bing",
+          "url": "https://www.bing.com/search?q=xedit+record+id&cvid=8c1c8c09150342c68eb3ca117138a9f9&aqs=edge..69i57.10128j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8219
+        },
+        "10376": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 603,
+          "highlighted": true,
+          "id": 10376,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 9104,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "android - How to get Last record from Sqlite? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/9902394/how-to-get-last-record-from-sqlite",
+          "width": 1135,
+          "windowId": 8219
+        },
+        "10377": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABVlBMVEUAAAD///8wMDB7e3sAAAAAAABqampCQkIAAAAAAACkpKQAAAAAAAD39/cAAAAAAAAAAAD9/f0AAAAAAADc3NwAAAAAAAAxMTHOzs5FRUUAAAAAAAAAAAAAAADp6eliYmIAAAAAAAAAAAD6+voAAAAAAAAtLS3MzMwAAACbm5slJSXn5+cAAAAAAAACAgJUVFRwcHAcHByEhISenp4AAAApKSnx8fEAAAC/v7/a2tpbW1vFxcUDAwMPDw+0tLQAAACurq4AAADj4+MFBQUAAAAAAAAKCgoAAAAAAAAWFha7u7tfX18AAACJiYk2NjZ4eHhLS0sAAADr6+sAAACsrKwNDQ3W1tZ+fn4AAABYWFgJCQmSkpIAAADCwsIUFBQLCwuxsbHg4OCrq6s8PDxRUVGXl5cVFRUZGRmNjY0MDAzR0dGhoaEeHh6dnZ0NDQ0zMzOGhoYqKiof9NmZAAAAcnRSTlMApqamO2impgcPpgErpjF2C6Z/WqYiP6amplYTHGumplMEh6aENqamRaalplAWj6amo6amYaamSqampqaSnKYlpnOmkUxImEE5pqamV6ampqakpm+mmaamoaaVpnmmpqWmpqampqaeoaaZpqajpp6mpqUiVzsbAAABY0lEQVR4nH3S1XbCQBQF0EwpGoIEL+7uDsWL1N3d3f7/pbmEQoidlyRz9loZw9hZ4YzMx36iEQcbIadorzvsZu1ioCxDEo9Ij6eOkHHZKwwW0wih9EgYkGsUuNEK9up7qkeo6BAC+6ox2DQI9I6YvwvA9argB4UXwlIC4R7y9sqnUnT3EcD7Ei/wbOst5S0AKl6gOLttazGyIggibmTTYEM3ANLDnSbuC9d9OKYYuBAy5otKDgjuoJqZehp+YBZyLrho0qfkiOl5Qcuiz9C3rdMGoO2zgPPT1dCN30YPFIg3pfN98oPITU4AT1UpYWUBQ47IJifvCQkX6Bp70emI/ZlA6O2r12KARAaFTNMvaR5WKlPPem+vesC4Rmo5G5hrsMuz+MIAgvSqIIHLeoA5pb6MAue2wf+BaOTo1LnISOQ6Dj9Zh62HdO78x5L5WAFUSLo3/cLu8+WbXpn0akEgqwUM+wPGqCd+BEG2zAAAAABJRU5ErkJggg==",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 10377,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Guide:XEdit - Step Modifications | Change The Game",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Guide%3AXEdit%20-%20Step%20Modifications%20%7C%20Change%20The%20Game&url=https%3A%2F%2Fstepmodifications.org%2Fwiki%2FGuide%3AXEdit&tabId=9168&sessionId=1624310210490&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAKtUlEQVR4XuVbCVBU2RU9vxe6XRCVGJCIgmBEGVEcDeMgrkSjaBA1KrHcomXKuGLU0YrruEzKfa0iJW7BuOMKoihgqGiZYZC44cIY0LgARgUTFJUldZ6fTM%2FY3b9be4GZW2UJ9d%2Fvfu%2B89%2B4999yLBCebTqdrXV5e3q6iouKQM6YiOeNLv%2FOdMwDMBNDcGXNxNgD1AFwD4ANgLIBdjgbB2QBw99fJiz4HIALAC0eC4EwAGgJI1%2Bv1HSRJwsuXL%2F8NoBeAqz8UAHoDSAoJCdGFhIRg48aNXPcSAIt%2FCACoAJyQJKn%2F3r170bNnT%2Fj4%2BPAUPAPQAsB%2FHAWCs65AVx7%2FoKAgTWZmJlxcXDB%2B%2FHhs376d654EIPb7DIAWwD61Wj04Li4OY8fS%2BQMXLlxA7969UVZW9hWAngD%2B6wgQnHECArj7%2Fv7%2Bnunp6WjWrJlYZ0lJibgK2dnZpbIz%2FPL7CsBCOrupU6dWO77%2Fr3P16tWYPXs2f98AgCHS7uboE%2BAK4K5er2907949NGnS5FsLLC4uhq%2BvL4qLi58D8APA0GhXcyQA%2FK5FkiQtiomJwZo1a4wubNasWdXP%2FgBghV1XD8CRAHgASHV3dw9MSUlBx44dja7t0qVLCA8Px7Nnz0iI6Ayf2BMERwIQCeBAeHi4y%2FHjx1GnTh2j63rx4gX69OmD8%2BfPvwTQHwApst3MkQD8HcDPEhMTERFBym%2FaYmNjMWkS6QB2APiN3VbvwCvQD8DJLl26iHivZJWVlWjatCmKiooqZWZ4X%2Bmd933uiBPAs35Mo9H8%2FNChQ4iM5E1QNoOQuAnANOU33m%2BEIwCgt0sJDAx0T01NhYcHfaGyXb9%2BXRCjx48f35CdYaHyW9aPcAQAzPdnLFq0CPzH1NcSe%2F36Nfr374%2FU1NQ3AH4J4JQl71k7xrLZWPup34xvCuBrd3f3urdu3YK7uzsqKirEU7Varfiphw8fxpAhQzguCcBAAFWKL1k5wN4AMMmf%2Bvnnn2PBggViateuXWOMR1hYmOJUeQqCg4ORk5PDU9AZwGXFl6wcYE8AvJn0eHh4%2BDHpadOmjZja9OnTwdOQnJxs0XXYvHmzeKeysjIOwG8BMDLYzOwJwGgA26OiotT79%2B%2BHVqsF%2BX%2Fbtm2Z8uLixYvo1KmT4kJu374tnOHDhw%2B%2Flp2hTUOivQDQAfhKo9F8lJaWJo47Y%2FuMGTOwaROjGjBq1Cjs2LFD0RfQZ5AZpqWlPZAByFVEzYoB9gJgJID4iIgIibRXpVLh7t27Yifz8vJec36%2Bvr4uvBotWlABM28DBgxAUlJSrQGAWn%2BKTqf7NCkpSag8NMpdEyZMQFVVVQIAjUqlityzZw%2BGDx%2ButH7UNgDordPbt29f79y5c2jYsCHozXn379y5Qwf2MQCywwv08Mz%2BlKy2AbATwJh169aJO0%2Fbtm2b2H0AhwGIwA7gPIBPT58%2BLe64OatNALQD8KWPj4%2F%2B6tWrqF%2B%2FPtUdscDMzEyKnAMA%2FFVe7FCKo5GRkeqEhASzzrC2AEBqF6dSqcauX78e1PxodHQDBw5EaWnpRQC%2FoP4pAyB4gpeXlx%2BvSqtWrUweAhmAAgC%2FBpAnD6RTJEH6ILNlFGjJBXl7ezdn6PP39xcTY%2FbHSMBrAeDPBrNlcWSTJEm%2F43Uh2TFlMgDk0AShXB7He3P7g1ZvYz1gIgsa0dHR0u7du0Xoy8rKqiY7jN1tDSZfPe%2BPAFwKCAjQXrlyRZAlYzZ37lxBnGgkU3l54hDw3es1BQASHzK1ZmRuPM7l5eUYMWIEEhIS6Pmp6hgrffME0jEOolYgJz7vrKmq6pscaMWKFZg%2Ff36NA2AygM0jR44Ed59248YN9OrVCwUFBXdkBvcvE7tFonAyLCzM5ezZs6JMZs6WL19e4wBoTOLj6ur6MROc0NBQMf9ly5Zh4cKFJD4scrADxFQS82P6jsaNG7elwwwKCqp1AISz0hsaGqonAK6uriL0sdpbUlLC0BfIq6twV9cCiFm6dGn17pocXhNPwFE6%2B127dmH0aCaAwOLFi7FkCUv9Fpe4PAE8omDy4MED6HR0KcatpgEQDCDLz89PYo5PlaewsBA9evTAzZs3n8pFTktFjD8BmLhhwwZMm2ZaAzUAgAoLuQAtWQ6RVgeFD%2BEBGhY6JEmK4u4zvaUdPXoUw4YNw5s3b1J4MgCUWTgr9gwkh4SE1D9z5oy4SsbMAADDx6wgvVcB5UMAEGXuli1bepLJeXt7c9Ho1q0bYzYdHjW8kxYunsPoTM%2B6ubkFE4DOnZlTvWv5%2BflMqsQDlthWrlzJH50CAHt5RKGTGj6Jz7FjxxAVFUXPz92gc3yrgFpu81gQZRJFdqhkO3fuxLhx45wCADu8%2FlmvXr1GjPfcfcpcffv2RUZGBgWPKCt3v3qtTJMf6XQ6NzpDOkVz5kwASMWWTp48GRQtadnZ2cL5PX%2F%2BnI2PPJLvW9vnmZ7NGgKjSU0E4Ed0OA0aNAgkcakuc0%2BcOBFbt27lfAnOcqXja%2BY5IwsFFTd%2BfqNGjUwOddYJYJXmUPfu3bUUMxizyf87dOjANreHctJTnfK%2BDw68Bml6vf4TOsOuXRkcjJszAGAKmw6g24kTJ4RWR7WXVyE2NpYZy1wAwi1%2FoJFR7aJeuG%2FfPksA%2BAeAYnlgPCVIS7%2Ff2jBIQSOZMjdDHz0%2FwxLV3vz8%2FEcy8blp6ZebGcdTkKvX63%2BSk5Mj%2BoaMGesN1bIbQ%2FDTp08ZgZYBeFuGssCsAYD8NFGr1YYfOHAAgwYNEh%2FPXj%2Fe%2F6qqqgMAom1YufkMwBcxMTES%2B4mUiqpsuORGlJaW2g0ApmlpAQEB7nROnp6e4vizz%2B%2FRI26%2BEDxYyraVCaLVunVr0U%2FIhglz5ggA%2Fgjgs3nz5oGiBG3Lli2YMmUKf9wDgMUQWxpP3HGNRtPnyJEjwt84EwC2c153c3NrwDtPrf%2FJkyeC%2BGRlZbGnj81MlLltbYMBJLCniL1FzgKAfmIVgN9T4JDTXFC9odpbVlb2NxkAe3V4U2rzu3z5slmxxJ5XgLvPMre%2FYZmbTpDc3wF%2F6kI9MW7MmDESy2uMPMbMAACysbf09G26bLbP0JIoQC0%2BPjIyUnXw4EGh3BqovUzLKOjbvHPDYJFsmWXW6c0NaN7c%2BN9WGQBgiM8RALxGJk0JAMJNbt8mIyNDlLmp9g4ePBgkQnLYM81UbOMRqDvsUavVv4qPj0d0NCPtu1ZQUCBIE%2FkAjbQ8NzdXsbNECQDu%2Fl%2FYukpaSmOLCyu%2BRUVFLEow6SH9tbf1YJttu3btVDx9puoHhpNYu3Yt2Hcsi7Ixpk6pOQDqM6XV6%2FVhVHno8Wlz5szBqlX0iaDkxZ5%2Bm7asmECSZTfqC2pew6FDWVY0b2SQlOULCwtvyRslyMp3zRwAn7A1LTg42I27z9y8tLRUZH%2F831nG08hqs1KXGTtL6KgTExO5QfQDwmNbA8A2VnQMy9wUPe7ft2mLjtU4snBC9mkqGhh%2B4KlTp9CvH7t0hV7I62oxAKxs3vDy8tLk5uaibt26Vk%2B0JrzAkhoLLfRbANixmm3JCeC12CpJ0nhqfTNnsqhTe42RQ65X7Jej1rdCtjEf8FMAZ7RabXM6PiVdrqZDwyoVr8KrV69YnWI0qe4vEFM3BgBzaYpxxilXTV%2Bx6flRoWbxYq%2FhkP8BODoFfc2xbSwAAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 8219
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "8219": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 690,
+        "id": 8219,
+        "incognito": false,
+        "left": 345,
+        "state": "normal",
+        "top": 240,
+        "type": "normal",
+        "width": 1199
+      }
+    },
+    "tabsNumber": 8,
+    "name": "android - How to get Last record from Sqlite? - Stack Overflow",
+    "date": 1624555035088,
+    "lastEditedTime": 1624548127979,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1624310197137,
+    "id": "1204525d-31e3-44fc-86cd-d28161e62426"
+  }
+]

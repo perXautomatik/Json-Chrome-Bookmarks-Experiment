@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1230": {
+        "1228": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": true,
+          "id": 1228,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Window Manager",
+          "url": "chrome-extension://aadahadfdmiibmdhfmpbeeebejmjnkef/manager.html#settings",
+          "width": 1481,
+          "windowId": 1230
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1230": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 858,
+        "id": 1230,
+        "incognito": false,
+        "left": 277,
+        "state": "normal",
+        "top": 217,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Window Manager",
+    "date": 1630348177078,
+    "lastEditedTime": 1630331057182,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "e76110d1-2746-4f85-888c-2c55be45b21d"
+  }
+]

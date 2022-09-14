@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "8039": {
+        "8040": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "http://enbdev.com/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 8040,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "ENBSeries graphic modification for games",
+          "url": "http://enbdev.com/",
+          "width": 1872,
+          "windowId": 8039
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "8039": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 8039,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "ENBSeries graphic modification for games",
+    "date": 1624378078399,
+    "lastEditedTime": 1624378070206,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1624310197137,
+    "id": "04b3fef8-6cc0-47c2-8604-f6678199c046"
+  }
+]

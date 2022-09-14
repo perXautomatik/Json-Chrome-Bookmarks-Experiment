@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "2673": {
+        "2298": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://clusterwm.com/res/icons/icon16.png",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": true,
+          "id": 2298,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Cluster: Manage your tabs with simplicity",
+          "url": "https://clusterwm.com/",
+          "width": 1064,
+          "windowId": 2673
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2673": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 831,
+        "id": 2673,
+        "incognito": false,
+        "left": 41,
+        "state": "normal",
+        "top": 209,
+        "type": "normal",
+        "width": 1128
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Cluster: Manage your tabs with simplicity",
+    "date": 1629103199545,
+    "lastEditedTime": 1629103198352,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "bfba0dcf-161d-4b0b-a929-041eb62457bd"
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "windows": {
+      "930": {
+        "931": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 931,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Files - Attribute Tools - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=82",
+          "width": 1175,
+          "windowId": 930
+        },
+        "932": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 932,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Files - Catalogers - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=148",
+          "width": 1175,
+          "windowId": 930
+        },
+        "933": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 933,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Files - Change Detection - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=65",
+          "width": 1175,
+          "windowId": 930
+        },
+        "934": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 934,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Files - Comparison - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=91",
+          "width": 1175,
+          "windowId": 930
+        },
+        "935": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 935,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Files - Disk Space Tools - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=83",
+          "width": 1175,
+          "windowId": 930
+        },
+        "936": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 936,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Files - Synchronization - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=137",
+          "width": 1175,
+          "windowId": 930
+        },
+        "937": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 937,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Files - Search - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=155",
+          "width": 1175,
+          "windowId": 930
+        },
+        "938": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 938,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Files - Renamers - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=45",
+          "width": 1175,
+          "windowId": 930
+        },
+        "939": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 939,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Files - Miscellaneous - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=218",
+          "width": 1175,
+          "windowId": 930
+        },
+        "940": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 940,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Files - Unlocking Tools - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=194",
+          "width": 1175,
+          "windowId": 930
+        },
+        "941": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": true,
+          "id": 941,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "unloaded",
+          "title": "Files - Managers - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=9",
+          "width": 1175,
+          "windowId": 930
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "930": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 631,
+        "id": 930,
+        "incognito": false,
+        "left": 219,
+        "state": "minimized",
+        "top": 298,
+        "type": "normal",
+        "width": 1175
+      }
+    },
+    "tabsNumber": 11,
+    "name": "Files - Managers - The Portable Freeware Collection",
+    "date": 1629102991660,
+    "lastEditedTime": 1629102888611,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "866ab629-7b35-4c37-9d62-cf66bf4bc1a8"
+  }
+]

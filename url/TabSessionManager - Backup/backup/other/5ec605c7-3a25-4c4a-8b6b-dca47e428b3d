@@ -1,0 +1,103 @@
+[
+  {
+    "windows": {
+      "1372": {
+        "1582": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://git-scm.com/favicon.ico",
+          "groupId": -1,
+          "height": 544,
+          "highlighted": false,
+          "id": 1582,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Git - Git in PowerShell",
+          "url": "https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-PowerShell",
+          "width": 1111,
+          "windowId": 1372
+        },
+        "1583": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://git-scm.com/favicon.ico",
+          "groupId": -1,
+          "height": 544,
+          "highlighted": false,
+          "id": 1583,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Git - Git Hooks",
+          "url": "https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks",
+          "width": 1111,
+          "windowId": 1372
+        },
+        "1584": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://devconnected.com/wp-content/uploads/2019/04/1_20ejjBnUDvsHi2SGNwpEwQ.png",
+          "groupId": -1,
+          "height": 544,
+          "highlighted": true,
+          "id": 1584,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1582,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How To Git Commit With Message – devconnected",
+          "url": "https://devconnected.com/how-to-git-commit-with-message/",
+          "width": 1126,
+          "windowId": 1372
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1372": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 631,
+        "id": 1372,
+        "incognito": false,
+        "left": -7,
+        "state": "minimized",
+        "top": 0,
+        "type": "normal",
+        "width": 1190
+      }
+    },
+    "tabsNumber": 3,
+    "name": "How To Git Commit With Message – devconnected",
+    "date": 1628757385923,
+    "lastEditedTime": 1628757337803,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "3d896249-7ed5-4d0a-8e1f-4112df309cf9"
+  }
+]

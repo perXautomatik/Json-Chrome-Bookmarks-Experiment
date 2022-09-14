@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10289": {
+        "10290": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10290,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "FallrimTools -- Script cleaning and more at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/22633?tab=files&file_id=167041&nmm=1",
+          "width": 1154,
+          "windowId": 10289
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10289": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10289,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "FallrimTools -- Script cleaning and more at Fallout 4 Nexus - Mods and community",
+    "date": 1622643255045,
+    "lastEditedTime": 1622643252086,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "3bacb01a-aa0c-440a-b7ac-eb5ab48d1d84"
+  }
+]

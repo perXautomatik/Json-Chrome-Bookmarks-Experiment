@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 808,
+          "highlighted": false,
+          "id": 2,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1133,
+          "windowId": 1
+        },
+        "428": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 840,
+          "highlighted": true,
+          "id": 428,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "AutoBookmarks",
+          "url": "chrome-extension://lcchihcbfbaedlagdpaemgbpjapiihpo/options.html",
+          "width": 769,
+          "windowId": 1
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 927,
+        "id": 1,
+        "incognito": false,
+        "left": 548,
+        "state": "minimized",
+        "top": 219,
+        "type": "normal",
+        "width": 1197
+      }
+    },
+    "tabsNumber": 2,
+    "name": "AutoBookmarks",
+    "date": 1624962631480,
+    "lastEditedTime": 1624962631480,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1624961591940,
+    "id": "ee13201d-7080-4e1f-be70-19e2effc32b8"
+  }
+]

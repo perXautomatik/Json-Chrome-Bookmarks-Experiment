@@ -1,0 +1,352 @@
+[
+  {
+    "windows": {
+      "236": {
+        "216": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "groupId": -1,
+          "height": 482,
+          "highlighted": false,
+          "id": 216,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "INI editor/tool for SSE? : skyrimmods",
+          "url": "https://www.reddit.com/r/skyrimmods/comments/75xnio/ini_editortool_for_sse/",
+          "width": 783,
+          "windowId": 236
+        },
+        "217": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinBlue/favicon.ico",
+          "groupId": -1,
+          "height": 481,
+          "highlighted": false,
+          "id": 217,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Ini File Editor at Skyrim Nexus - Mods and Community",
+          "url": "https://www.nexusmods.com/skyrim/mods/514?tab=files",
+          "width": 783,
+          "windowId": 236
+        },
+        "235": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 235,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to Unpack a .esm : Fallout 3",
+          "url": "http://gamesas.com/how-unpack-esm-t41161.html",
+          "width": 1152,
+          "windowId": 236
+        },
+        "348": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 482,
+          "highlighted": false,
+          "id": 348,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "ugn lax - Bing",
+          "url": "https://www.bing.com/search?q=ugn+lax&cvid=d8ea98cc92d8436e90aeaed064edd805&aqs=edge..69i57j0l8.2024j0j1&FORM=ANAB01&PC=U531",
+          "width": 783,
+          "windowId": 236
+        },
+        "413": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 725,
+          "highlighted": true,
+          "id": 413,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tablist - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tablist/eagbohciligljbgpbdbflaloangiodhe",
+          "width": 1110,
+          "windowId": 236
+        },
+        "414": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 482,
+          "highlighted": false,
+          "id": 414,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "perXautomatik/tablist: a browser extension to copy and paste lists of open tabs",
+          "url": "https://github.com/perXautomatik/tablist",
+          "width": 783,
+          "windowId": 236
+        },
+        "434": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://forums.nexusmods.com/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 434,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "LUMENARIUM - Sunglasses That Work and Reasons to Wear Em - Page 16 - File topics - The Nexus Forums",
+          "url": "https://forums.nexusmods.com/index.php?/topic/262704-lumenarium-endorsements/page-16",
+          "width": 1105,
+          "windowId": 236
+        },
+        "562": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.gamebanana.com/static/img/favicon/32x32.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 562,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download : Misc Item Icons - New Vegas v0.9 [Fallout: New Vegas] [Mods]",
+          "url": "https://gamebanana.com/mods/download/296447",
+          "width": 1545,
+          "windowId": 236
+        },
+        "569": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 569,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Where is frequency.esm : Fallout: New Vegas",
+          "url": "http://www.gamesas.com/where-frequency-esm-t126287.html",
+          "width": 1545,
+          "windowId": 236
+        },
+        "638": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://users.nexusmods.com/favicon.ico",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 638,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Nexus Mods - Users",
+          "url": "https://users.nexusmods.com/user/memberships",
+          "width": 1110,
+          "windowId": 236
+        },
+        "643": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 643,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Nexus mods and community",
+          "url": "https://newvegas.nexusmods.com/mods/44573",
+          "width": 1545,
+          "windowId": 236
+        },
+        "644": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 644,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Nexus mods and community",
+          "url": "https://newvegas.nexusmods.com/mods/46568",
+          "width": 1545,
+          "windowId": 236
+        },
+        "1028": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 1028,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Using Git with PowerShell on Windows 10",
+          "url": "https://www.develves.net/blogs/asd/articles/using-git-with-powershell-on-windows-10/#:~:text=%20Using%20Git%20with%20PowerShell%20on%20Windows%2010,the%20file%20explorer%20to%20navigate%20to...%20More%20",
+          "width": 1110,
+          "windowId": 236
+        },
+        "1083": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 1083,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "web applications - Parsing binary data in JavaScript - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/6648762/parsing-binary-data-in-javascript",
+          "width": 1110,
+          "windowId": 236
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "236": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 857,
+        "id": 236,
+        "incognito": false,
+        "left": 306,
+        "state": "normal",
+        "top": 152,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 14,
+    "name": "Tablist - Chrome Web Store",
+    "date": 1627468195006,
+    "lastEditedTime": 1627468180837,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "38ec3feb-4200-4dda-ac94-b18fc067a5fe"
+  }
+]

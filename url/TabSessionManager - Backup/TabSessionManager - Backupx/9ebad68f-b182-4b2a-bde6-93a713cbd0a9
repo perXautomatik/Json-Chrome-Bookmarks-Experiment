@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10126": {
+        "10127": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10127,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "No Place is Safe - Hunted Encounters at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/23358?tab=files&file_id=97973&nmm=1",
+          "width": 1154,
+          "windowId": 10126
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10126": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10126,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "No Place is Safe - Hunted Encounters at Fallout 4 Nexus - Mods and community",
+    "date": 1622643048642,
+    "lastEditedTime": 1622643045808,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "d0073aad-fde3-4d07-975c-ba2aa6c72fc8"
+  }
+]

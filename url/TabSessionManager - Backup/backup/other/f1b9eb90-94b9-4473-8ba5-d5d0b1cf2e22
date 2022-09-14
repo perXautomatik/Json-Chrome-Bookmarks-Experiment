@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "2609": {
+        "2610": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 221,
+          "highlighted": true,
+          "id": 2610,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Open Window",
+          "url": "chrome-extension://aadahadfdmiibmdhfmpbeeebejmjnkef/menu-open-popup.html",
+          "width": 444,
+          "windowId": 2609
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2609": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 260,
+        "id": 2609,
+        "incognito": false,
+        "left": 730,
+        "state": "normal",
+        "top": 410,
+        "type": "popup",
+        "width": 460
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Open Window",
+    "date": 1628757049683,
+    "lastEditedTime": 1628757047566,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "848f8ce8-3bdc-4c2d-993c-c7fbfe24ee56"
+  }
+]

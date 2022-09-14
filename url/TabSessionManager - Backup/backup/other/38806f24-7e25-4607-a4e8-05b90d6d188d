@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1809": {
+        "1810": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://vanilla.futurecdn.net/techradar/326405/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 1810,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Verdict - Asus P8Z68-V LX review | TechRadar",
+          "url": "https://www.techradar.com/reviews/pc-mac/pc-components/motherboards/asus-p8z68-v-lx-1072516/review/3",
+          "width": 1872,
+          "windowId": 1809
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1809": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1809,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Verdict - Asus P8Z68-V LX review | TechRadar",
+    "date": 1630397575150,
+    "lastEditedTime": 1630397453862,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1630245328865,
+    "id": "e8c9a8d9-a0b0-4334-aa9b-788cec17bcf6"
+  }
+]

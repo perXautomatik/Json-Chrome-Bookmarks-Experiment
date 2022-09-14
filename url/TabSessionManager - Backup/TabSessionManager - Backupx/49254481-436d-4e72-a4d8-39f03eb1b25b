@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/bb401db8/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1919,
+          "highlighted": true,
+          "id": 2,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(14) PC Hi-Fi build in GMC tower case - YouTube",
+          "url": "https://www.youtube.com/watch?v=daD2S_suJx0&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=26",
+          "width": 1200,
+          "windowId": 1
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1919,
+        "id": 1,
+        "incognito": false,
+        "left": 1920,
+        "state": "fullscreen",
+        "top": -620,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(14) PC Hi-Fi build in GMC tower case - YouTube",
+    "date": 1622761330796,
+    "lastEditedTime": 1622761330796,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622741471669,
+    "id": "295937f9-b87c-4e86-9a94-b9b215d399bb"
+  }
+]

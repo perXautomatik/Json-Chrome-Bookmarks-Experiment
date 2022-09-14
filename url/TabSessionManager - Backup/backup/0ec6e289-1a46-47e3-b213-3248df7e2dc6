@@ -1,0 +1,355 @@
+[
+  {
+    "windows": {
+      "726": {
+        "727": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 858,
+          "highlighted": false,
+          "id": 727,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1497,
+          "windowId": 726
+        },
+        "728": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 858,
+          "highlighted": false,
+          "id": 728,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AutoBookmarks",
+          "url": "chrome-extension://lcchihcbfbaedlagdpaemgbpjapiihpo/options.html#",
+          "width": 1497,
+          "windowId": 726
+        },
+        "729": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "groupId": -1,
+          "height": 858,
+          "highlighted": false,
+          "id": 729,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Floating Head/Invisible Body/T-Pose glitch : skyrimmods",
+          "url": "https://www.reddit.com/r/skyrimmods/comments/35tfcl/floating_headinvisible_bodytpose_glitch/",
+          "width": 1497,
+          "windowId": 726
+        },
+        "730": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.zoomsearchengine.com/favicon.ico",
+          "groupId": -1,
+          "height": 858,
+          "highlighted": false,
+          "id": 730,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Zoom Search Engine - Support - Custom Meta Fields",
+          "url": "https://www.zoomsearchengine.com/zoom/support/tutorial_custom_meta_fields.html#:~:text=Custom%20meta%20tags%20can%20be%20used%20to%20allow,price%2C%20size%2C%20color%2C%20location%20or%20other%20defining%20features.",
+          "width": 1497,
+          "windowId": 726
+        },
+        "731": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.thesharedweb.com/wp-content/uploads/2020/01/cropped-Webp.net-resizeimage-9-1-32x32.png",
+          "groupId": -1,
+          "height": 858,
+          "highlighted": false,
+          "id": 731,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "What Is GPU Throttling And How To Fix It - The Shared Web",
+          "url": "https://www.thesharedweb.com/gpu-throttling-and-how-to-fix-it/",
+          "width": 1497,
+          "windowId": 726
+        },
+        "732": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://tpucdn.com/favicon-v1630009776698.ico",
+          "groupId": -1,
+          "height": 858,
+          "highlighted": false,
+          "id": 732,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Download TechPowerUp GPU-Z v2.41.0 | TechPowerUp",
+          "url": "https://www.techpowerup.com/download/techpowerup-gpu-z/",
+          "width": 1497,
+          "windowId": 726
+        },
+        "733": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gatherer.wizards.com/Images/favicon.ico",
+          "groupId": -1,
+          "height": 858,
+          "highlighted": false,
+          "id": 733,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Yawgmoth, Thran Physician (Modern Horizons) - Gatherer - Magic: The Gathering",
+          "url": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464065",
+          "width": 1497,
+          "windowId": 726
+        },
+        "734": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 858,
+          "highlighted": false,
+          "id": 734,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Factual feminist - Bing",
+          "url": "https://www.bing.com/search?q=Factual+feminist&aqs=edge..69i57&FORM=ANCMS9&PC=U531",
+          "width": 1497,
+          "windowId": 726
+        },
+        "735": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 858,
+          "highlighted": false,
+          "id": 735,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "My Map Free - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/my-map-free/pklnbjkiadglpemlgdaheegaehhlehlp/related",
+          "width": 1497,
+          "windowId": 726
+        },
+        "736": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 858,
+          "highlighted": false,
+          "id": 736,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "History Master",
+          "url": "chrome-extension://mkfgjjeggnmkbobjmelbjhdchcoadnin/option/index.html",
+          "width": 1497,
+          "windowId": 726
+        },
+        "737": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 858,
+          "highlighted": false,
+          "id": 737,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "My Map Free",
+          "url": "chrome-extension://pklnbjkiadglpemlgdaheegaehhlehlp/ex/ex.html",
+          "width": 1497,
+          "windowId": 726
+        },
+        "738": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 858,
+          "highlighted": false,
+          "id": 738,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "History Master",
+          "url": "chrome-extension://mkfgjjeggnmkbobjmelbjhdchcoadnin/option/index.html",
+          "width": 1497,
+          "windowId": 726
+        },
+        "739": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 858,
+          "highlighted": false,
+          "id": 739,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "chrome-extension://idfbjjfgccflicphjlpbomcklaehplha/newtab.html#111610",
+          "width": 1497,
+          "windowId": 726
+        },
+        "740": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://sidebar.li/assets/static/fav.png",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": true,
+          "id": 740,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Sidebar - Apps and Bookmark Manager",
+          "url": "https://sidebar.li/how-it-work#pin-extension-to-the-dashboard",
+          "width": 1433,
+          "windowId": 726
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "726": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 858,
+        "id": 726,
+        "incognito": false,
+        "left": 213,
+        "state": "normal",
+        "top": 22,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 14,
+    "name": "Sidebar - Apps and Bookmark Manager",
+    "date": 1630270162102,
+    "lastEditedTime": 1630270149327,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1630245328865,
+    "id": "f638fe99-a4bc-4c56-94a5-0ec81ac8d26c"
+  }
+]

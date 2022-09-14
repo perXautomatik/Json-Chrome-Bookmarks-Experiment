@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "3031": {
+        "3032": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3032,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "FNV Occlusion Overhaul at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/68098",
+          "width": 1154,
+          "windowId": 3031
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3031": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3031,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "FNV Occlusion Overhaul at Fallout New Vegas - mods and community",
+    "date": 1627976510991,
+    "lastEditedTime": 1627976509604,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "96b92771-4d3a-4d59-ad7c-92777f9261bb"
+  }
+]

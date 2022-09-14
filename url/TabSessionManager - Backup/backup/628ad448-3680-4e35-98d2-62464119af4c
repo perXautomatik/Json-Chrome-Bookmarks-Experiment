@@ -1,0 +1,211 @@
+[
+  {
+    "windows": {
+      "2334": {
+        "2336": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 837,
+          "highlighted": false,
+          "id": 2336,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "xedit error hs lower load order than - Bing",
+          "url": "https://www.bing.com/search?q=xedit+error+hs+lower+load+order+than&cvid=779a2b3129fd4846b593a71e6c6abbc3&aqs=edge..69i57.8054j0j1&FORM=ANAB01&PC=U531",
+          "width": 1133,
+          "windowId": 2334
+        },
+        "2338": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "groupId": -1,
+          "height": 837,
+          "highlighted": false,
+          "id": 2338,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Load order management with xEdit - am I doing it right or am I breaking my game? : skyrimmods",
+          "url": "https://www.reddit.com/r/skyrimmods/comments/a7h374/load_order_management_with_xedit_am_i_doing_it/",
+          "width": 1133,
+          "windowId": 2334
+        },
+        "2339": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 837,
+          "highlighted": false,
+          "id": 2339,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "bethesda smash patch - Bing",
+          "url": "https://www.bing.com/search?q=bethesda+smash+patch&FORM=AWRE",
+          "width": 1133,
+          "windowId": 2334
+        },
+        "2341": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico",
+          "groupId": -1,
+          "height": 837,
+          "highlighted": false,
+          "id": 2341,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2339,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Modding Tools",
+          "url": "https://discord.com/invite/GUfRdpT",
+          "width": 1133,
+          "windowId": 2334
+        },
+        "2342": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinBlue/favicon.ico",
+          "groupId": -1,
+          "height": 837,
+          "highlighted": true,
+          "id": 2342,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2339,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Mator Smash at Skyrim Nexus - Mods and Community",
+          "url": "https://www.nexusmods.com/skyrim/mods/90987?tab=files&file_id=1000272456",
+          "width": 1133,
+          "windowId": 2334
+        },
+        "2343": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEUAAAD////////////////////////////////////////////////////////////////////xY8b8AAAAEnRSTlMAppwKh1NoFX00kh8+Xip8SXMwR7/9AAABHElEQVR4nHVT7QKDIAhUUkyba3v/lx0CMrW6PxWcx0enG5DxDN6HE/MY7UgI3gC4rfk4pJkSp/RG0ivCIHIsx1XksPO3eWKoBusHLGOu4N6C2l+LvJx7EWUngAf6yi3KnSYu8G5SWjQ16cOKIGs2wrwXDiO9SYckOoNLeLCXy+Y2aTprhYsA9cyJ6to43l8ECJzYHS+ZSl3BR4PwyiPBC8HfEaRLfTz2UFToZgqZf3eVn+dTC1WJ/rPmZQ20qG6G2WLyi2XDtMqYaRul2g97f7o5Kn3Rb4NDTKkG+f6Nk1QNErtC7wNbYaxLp9FtMdqsPa+K3Kc5eCD8PdBsjzHaIKvt7eJMhPHi9LlHwrIXmraCuQIAeb4FmwXZ94ofl2AF4l+HyF8AAAAASUVORK5CYII=",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 2343,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2339,
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "matortheeternal/smash: An application that provides a means of performing automatic conflict resolution between multiple Bethesda Plugin Files for TES and Fallout games.",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=matortheeternal%2Fsmash%3A%20An%20application%20that%20provides%20a%20means%20of%20performing%20automatic%20conflict%20resolution%20between%20multiple%20Bethesda%20Plugin%20Files%20for%20TES%20and%20Fallout%20games.&url=https%3A%2F%2Fgithub.com%2Fmatortheeternal%2Fsmash&tabId=2340&sessionId=1624961600533&icon=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon-dark.svg",
+          "width": 0,
+          "windowId": 2334
+        }
+      },
+      "2337": {
+        "2335": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 837,
+          "highlighted": true,
+          "id": 2335,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Six and a Half Minutes of It-Clings Talking About His Fucking Cock (Iszoloscope Censored Watered Down Radio Mix) · It-Clings, Iszoloscope",
+          "url": "https://open.spotify.com/playlist/6DvTTQtb5dOxkqQjIDNUR9",
+          "width": 1133,
+          "windowId": 2337
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "2334": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 924,
+        "id": 2334,
+        "incognito": false,
+        "left": 533,
+        "state": "normal",
+        "top": 97,
+        "type": "normal",
+        "width": 1197
+      },
+      "2337": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 924,
+        "id": 2337,
+        "incognito": false,
+        "left": 1980,
+        "state": "normal",
+        "top": -488,
+        "type": "normal",
+        "width": 1197
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Six and a Half Minutes of It-Clings Talking About His Fucking Cock (Iszoloscope Censored Watered Down Radio Mix) · It-Clings, Iszoloscope",
+    "date": 1625047231278,
+    "lastEditedTime": 1625047231278,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1624961591940,
+    "id": "c830d77b-984d-430f-bc33-cd3ebea90b97"
+  }
+]

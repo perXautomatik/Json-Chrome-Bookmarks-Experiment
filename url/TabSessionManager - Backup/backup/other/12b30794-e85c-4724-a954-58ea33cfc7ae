@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "460": {
+        "461": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://mail.voidtools.com/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": true,
+          "id": 461,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How do I search for files within folders that match certain characteristics? - voidtools forum",
+          "url": "https://mail.voidtools.com/forum/viewtopic.php?p=35700",
+          "width": 1136,
+          "windowId": 460
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "460": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 831,
+        "id": 460,
+        "incognito": false,
+        "left": 389,
+        "state": "normal",
+        "top": 191,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 1,
+    "name": "How do I search for files within folders that match certain characteristics? - voidtools forum",
+    "date": 1629493561608,
+    "lastEditedTime": 1629493561608,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629461144148,
+    "id": "93a813fb-8f79-4b31-bdc3-907876d3f3dc"
+  }
+]

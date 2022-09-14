@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2957": {
+        "2958": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2958,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "The Ezekiel Project - Interactive Animations and Combat Realism at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/69441",
+          "width": 1154,
+          "windowId": 2957
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2957": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2957,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "The Ezekiel Project - Interactive Animations and Combat Realism at Fallout New Vegas - mods and community",
+    "date": 1627976468408,
+    "lastEditedTime": 1627976461877,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "3691ae6e-25ae-4e41-a5ee-50456b3ed804"
+  }
+]

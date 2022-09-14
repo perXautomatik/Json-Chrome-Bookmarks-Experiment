@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2680": {
+        "2681": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2681,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "GECK Extender at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/64888",
+          "width": 1154,
+          "windowId": 2680
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2680": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2680,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "GECK Extender at Fallout New Vegas - mods and community",
+    "date": 1627156772407,
+    "lastEditedTime": 1627156770717,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "534865f5-3773-4b8e-be1e-f3d9a196efef"
+  }
+]

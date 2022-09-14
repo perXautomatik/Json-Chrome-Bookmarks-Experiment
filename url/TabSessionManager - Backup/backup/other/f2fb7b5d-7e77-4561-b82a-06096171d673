@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "7631": {
+        "7632": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 7632,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Search results - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?q=json+&ft=on&fd=on&fk=on&so=r&s=5&rt=r&m=Search",
+          "width": 1872,
+          "windowId": 7631
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7631": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 7631,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Search results - The Portable Freeware Collection",
+    "date": 1631369310687,
+    "lastEditedTime": 1631369310687,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "f73da1e1-c0a9-4151-a23c-c2e828bf83ba"
+  }
+]

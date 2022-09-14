@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "237": {
+        "238": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/df22805b/img/favicon_32.png",
+          "groupId": -1,
+          "height": 1485,
+          "highlighted": true,
+          "id": 238,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(12) Social Media Mistakes that Destroyed People's Lives - YouTube",
+          "url": "https://www.youtube.com/watch?v=IPEsf0HMEUo&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=4",
+          "width": 1094,
+          "windowId": 237
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "237": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1527,
+        "id": 237,
+        "incognito": false,
+        "left": 1941,
+        "state": "normal",
+        "top": 91,
+        "type": "popup",
+        "width": 1110
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(12) Social Media Mistakes that Destroyed People's Lives - YouTube",
+    "date": 1621887189471,
+    "lastEditedTime": 1621887189471,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1621883588884,
+    "id": "b93f09d6-10e0-4b4f-ba97-03739aae3acd"
+  }
+]

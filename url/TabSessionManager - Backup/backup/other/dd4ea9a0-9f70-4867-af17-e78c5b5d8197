@@ -1,0 +1,353 @@
+[
+  {
+    "windows": {
+      "3": {
+        "4": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 4,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Page not found · GitHub Pages",
+          "url": "https://wiki.dendron.so/notes/e86ac3ab-dbe1-47a1-bcd7-9df0d0490b40.html",
+          "width": 1110,
+          "windowId": 3
+        },
+        "623": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://foambubble.github.io/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 623,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Foam | A personal knowledge management and sharing system for VSCode",
+          "url": "https://foambubble.github.io/foam/#getting-started",
+          "width": 1872,
+          "windowId": 3
+        },
+        "624": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 624,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "jeff-hykin/macro-commander: Automate everything in VS code",
+          "url": "https://github.com/jeff-hykin/macro-commander",
+          "width": 1110,
+          "windowId": 3
+        },
+        "625": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://roamresearch.com/favicon.ico",
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 625,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Roam Research – A note taking tool for networked thought.",
+          "url": "https://roamresearch.com/",
+          "width": 1110,
+          "windowId": 3
+        },
+        "626": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 626,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "foambubble/foam-template: Foam workpace template",
+          "url": "https://github.com/foambubble/foam-template",
+          "width": 1110,
+          "windowId": 3
+        },
+        "630": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 630,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "perXautomatik/Notebook-Foam",
+          "url": "https://github.com/perXautomatik/Notebook-Foam",
+          "width": 1110,
+          "windowId": 3
+        },
+        "631": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 631,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "store and fetch gists as bubbles · Issue #731 · foambubble/foam",
+          "url": "https://github.com/foambubble/foam/issues/731",
+          "width": 1110,
+          "windowId": 3
+        },
+        "632": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://foambubble.github.io/favicon.ico",
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 632,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Foam | A personal knowledge management and sharing system for VSCode",
+          "url": "https://foambubble.github.io/foam/recipes/recipes#take-smart-notes",
+          "width": 1110,
+          "windowId": 3
+        },
+        "633": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://foambubble.github.io/favicon.ico",
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 633,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Todo | Foam",
+          "url": "https://foambubble.github.io/foam/dev/todo",
+          "width": 1110,
+          "windowId": 3
+        },
+        "634": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://foambubble.github.io/favicon.ico",
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 634,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Web Clipper | Foam",
+          "url": "https://foambubble.github.io/foam/recipes/web-clipper",
+          "width": 1110,
+          "windowId": 3
+        },
+        "635": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://foambubble.github.io/favicon.ico",
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 635,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Graph Visualisation | Foam",
+          "url": "https://foambubble.github.io/foam/features/graph-visualisation",
+          "width": 1110,
+          "windowId": 3
+        },
+        "636": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://foambubble.github.io/favicon.ico",
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 636,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Backlinking | Foam",
+          "url": "https://foambubble.github.io/foam/features/backlinking",
+          "width": 1110,
+          "windowId": 3
+        },
+        "637": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://foambubble.github.io/favicon.ico",
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 637,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Unlinked references (stub) | Foam",
+          "url": "https://foambubble.github.io/foam/dev/unlinked-references",
+          "width": 1110,
+          "windowId": 3
+        },
+        "638": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 535,
+          "highlighted": true,
+          "id": 638,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "GitHub for VS Code",
+          "url": "https://vscode-auth.github.com/?browser_session_id=73901cc366321bc5b22d27bfd42eccdf9c5cc3834dff2afd7f83335fa3098f35&code=3df36798557137d32fbe&state=eGs-FS-LvoRODjxTg50HPTx1S_I%2FeyJhdXRoU2VydmVyIjoiaHR0cHM6Ly9naXRodWIuY29tIiwiY2FsbGJhY2tVcmkiOiJ2c2NvZGU6Ly92c2NvZGUuZ2l0aHViLWF1dGhlbnRpY2F0aW9uL2RpZC1hdXRoZW50aWNhdGU_d2luZG93aWQ9MSIsInJlc3BvbnNlVHlwZSI6ImNvZGUiLCJzdGF0ZSI6IjRhY2EwODZkLTk2ZGYtNGE3OS04OWY3LTJlZjM3MGVkZDAyNCIsImlkIjoiOjpmZmZmOjEwLjEuOTEuMjI3In0",
+          "width": 1110,
+          "windowId": 3
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 622,
+        "id": 3,
+        "incognito": false,
+        "left": 457,
+        "state": "normal",
+        "top": 125,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 14,
+    "name": "GitHub for VS Code",
+    "date": 1627112905754,
+    "lastEditedTime": 1627112836442,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627109953109,
+    "id": "67be684c-e4f7-4d65-b4c6-462d64ab4f93"
+  }
+]

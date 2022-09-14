@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2361": {
+        "2362": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2362,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Sit to Wait (NVSE) at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/66760",
+          "width": 1154,
+          "windowId": 2361
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2361": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2361,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Sit to Wait (NVSE) at Fallout New Vegas - mods and community",
+    "date": 1627156325881,
+    "lastEditedTime": 1627156324204,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "cd2350bc-69f5-46d4-a9aa-910137bba1a8"
+  }
+]

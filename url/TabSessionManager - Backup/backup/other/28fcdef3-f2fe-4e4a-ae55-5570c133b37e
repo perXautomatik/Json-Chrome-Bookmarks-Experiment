@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "3064": {
+        "3065": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3065,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Combat Lag Fix (NVSE) at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/71973",
+          "width": 1154,
+          "windowId": 3064
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3064": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3064,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Combat Lag Fix (NVSE) at Fallout New Vegas - mods and community",
+    "date": 1627976524958,
+    "lastEditedTime": 1627976520219,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "8cdeec5b-495b-4f75-a7cb-c464c13b259a"
+  }
+]

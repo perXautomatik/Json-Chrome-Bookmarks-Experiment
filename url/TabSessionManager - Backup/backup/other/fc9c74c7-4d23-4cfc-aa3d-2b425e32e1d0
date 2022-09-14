@@ -1,0 +1,103 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 1734,
+          "highlighted": false,
+          "id": 2,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1152,
+          "windowId": 1
+        },
+        "301": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 301,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Ordinal 43 Not Found? :: Fallout 3 General Discussions",
+          "url": "https://steamcommunity.com/app/22300/discussions/0/541907867765222316/",
+          "width": 1152,
+          "windowId": 1
+        },
+        "372": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 372,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 301,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Steam Community :: Discussions",
+          "url": "https://steamcommunity.com/discussions/",
+          "width": 1152,
+          "windowId": 1
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 1,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Ordinal 43 Not Found? :: Fallout 3 General Discussions",
+    "date": 1629623628344,
+    "lastEditedTime": 1629623628344,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629620904497,
+    "id": "f5ffb224-0ba0-4d6b-9d8b-9f7876522eef"
+  }
+]

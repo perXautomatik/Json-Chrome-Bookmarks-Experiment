@@ -1,0 +1,379 @@
+[
+  {
+    "windows": {
+      "2": {
+        "3": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 895,
+          "highlighted": false,
+          "id": 3,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "fallui inventory - Bing",
+          "url": "https://www.bing.com/search?q=fallui+inventory&cvid=e6a80c21c5014ef8b8ab91af8c9f5741&aqs=edge..69i57.6296j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 2
+        },
+        "5993": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAACSqyD///8AAAAAAAD9/f0AAAADAwEAAAAAAAAAAACTrCOkwh2Yry0AAAAAAACVrx+it0EAAAD8/PkAAAAAAAAAAADX4K6UrSYAAADg57+lukabsjIAAAAAAACXryoAAAC7y3YyOgwHCQP4+vK/zn3y9eUAAAAAAACJohoAAAD5+/YOEQP29+s7RA0AAAAZHQWivx1bahJpehVCTQ22x2ni6cNLWA/C0IKsv1VOXBAlLAeZtB2Hnh3c5Lfu8tvL15eyxWMAAAARERAAAACQqSCfuh3p8NHf57oVFRMJCQgAAAD3+e9xgxjR0dDm7MmwsLCTlI3P2p5cbBQjJhRISj2owzOqvlGftDmFhoHR2bKmwieho5XZ3cu+v7WtxzwrMQzG04kODgvN2ZEjIx14e2pTYRIAAAAdIwZ1hxl1dXM3OiXCw7hFUQ4oKSPa2tpWWFRBQT+yw2G3zk00Ny3I2na60VYaHRK3uKnW19ZISjouMRzGxsLS3abf48ng4tznWZs2AAAAgHRSTlOmpqYAo6YEpnpoVaamphtOpqZfpphuiqamPaampoGfpgempqampqaSc6YRpqampi+mpqampqampqampqampqampqYNpiGmpqampqYnpqampqampqampqampqampqampqampqampqamNaampqampqampqampqampqampqampqamppiJ1yIAAAKbSURBVHicbZR1e+JAEMbfTbBAcIdiBYpTKHB1p0rdXa5+7i5f/WY36fW5ezp/ZLM7v82+M7MTyI9YMZyPedom8a4BpqkkHzpWjz+vOK05AwCfR6xxoKjQQk7xBGhZN7OZHhaHBhRjDw7d/XbtZJuQABGQTX7g6W2tbEa6dtYcGmqebe2XJKm0v0BEkgAr+Y9GXIVGc3l0hpElDowSmfHkM3Ajw+EDrrzv1foId3JLebm/5+K0CjhleIBvGWn+0HXvd2e4P3Kqqt0CyGHxhSR5U7rbZgsKf5erPjsM9MrwYeErrWSyGpAdqNBsrouxkUIZBhKpwLzO95QG7CxqYy3+vrTL2QZFQWF24ph+LVSvtub2WIIrDNo4sJyGj4CkBdju4QQxk4w9obFCI2OjNaCt5aE7GtGICImQliZ2SQJjMxSFlQAF6GeJi3GeHaObubP2+4D7AT8BdEQfzfZ+UrARoY6FBlMhGvqA/ANg2whOir17qfmSNMFl6gDVqp8DfA9z29k7LqYSdIsjFAKcJFIUyeZurXoHmU0LKZO1a6mWO0BtlAPnPaRzgrEBPeaDLcDD70Mc6TtRZp6CccailbElgaybkXPQjcoBDQ5EeRUo0FAqFF3lgPcNnQE5GUe5QMVO8GRl5lsi0K4xTvxYRAByGBierbsSosxjIT1Ndj5dmUZcpPqlqu5s8EyWovdZdO2MS8YrutlaqtVPc0L4+V9/Xf0ofUkj3iu+8PyXXitRJFa4axRm1cPjS/pAEnLbAPOHY75/7Xv1enPzunqbRnm42nxF3eXgjeOMAwtHv1eeLf7fQL5e0VmmMBHmy+kHh8HHmxOGG+pf0bztmFiIWxRLLBbzh4vU3x7FyltT7+6pcACGfMckm8j+/RX8AYQwUafgZq4UAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 895,
+          "highlighted": false,
+          "id": 5993,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FallUI - Inventory at Fallout 4 Nexus - Mods and community",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=FallUI%20-%20Inventory%20at%20Fallout%204%20Nexus%20-%20Mods%20and%20community&url=https%3A%2F%2Fwww.nexusmods.com%2Ffallout4%2Fmods%2F48758%3Ftab%3Dfiles%26file_id%3D210547%26nmm%3D1&tabId=5993&sessionId=1624310210490&icon=https%3A%2F%2Fimages.nexusmods.com%2Ffavicons%2FFallout%2Ffavicon.ico",
+          "width": 1135,
+          "windowId": 2
+        },
+        "6123": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 851,
+          "highlighted": false,
+          "id": 6123,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Fast Tab Switch - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/fast-tab-switch/nahgoobilmipjlggkihbjjfkajalacje",
+          "width": 1135,
+          "windowId": 2
+        },
+        "6264": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 895,
+          "highlighted": false,
+          "id": 6264,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "fallout 4 exp sound oldschool - Bing",
+          "url": "https://www.bing.com/search?q=fallout+4+exp+sound+oldschool&qs=n&form=QBRE&sp=-1&pq=fallout+4+exp+sound&sc=0-19&sk=&cvid=BE73D3404511403BA58AFBF35FC43983",
+          "width": 1135,
+          "windowId": 2
+        },
+        "6294": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 895,
+          "highlighted": false,
+          "id": 6294,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Classic Old School XP Gain Sound - Fallout 4 at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/10635?tab=files&file_id=41575&nmm=1",
+          "width": 1135,
+          "windowId": 2
+        },
+        "6295": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 895,
+          "highlighted": false,
+          "id": 6295,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "void tools - Bing",
+          "url": "https://www.bing.com/search?q=void+tools&cvid=6d8f041484bf4217a6bf28916fce8c87&aqs=edge..69i57j0l6.5623j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 2
+        },
+        "6296": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.voidtools.com/favicon.ico?v=2",
+          "groupId": -1,
+          "height": 895,
+          "highlighted": false,
+          "id": 6296,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "voidtools",
+          "url": "https://www.voidtools.com/",
+          "width": 771,
+          "windowId": 2
+        },
+        "7271": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7271,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "fallout 4 inventory icons - Bing",
+          "url": "https://www.bing.com/search?q=fallout+4+inventory+icons&qs=n&form=QBRE&sp=-1&pq=fallout+4+inventory+icon&sc=0-24&sk=&cvid=CCA337076D484DCCADAEFE569D691367",
+          "width": 1508,
+          "windowId": 2
+        },
+        "7272": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABF1BMVEX/AAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AwP/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/BQX/AAD/AAD/AAD/ERH/AAD/AAD/AAD/////AAD/AAD/AAD/AAD/AAD/AAD/AAD/GRn/PT3/AAD/LCz/AAD/AAD/lpb/JCT/urr/ODj/AAD/DQ3/AAD/7u7/AAD/AAD/rq7/CQn/AAD/MzP/aGj/Dw//AAD/KSn/vr7/CAj/zMz/Pz//AAD/kJD/gYH/wsL/6+v/WFj/cnL/2dn/QkL/jY3/oaH/ycn/R0f/fHz/ICD/iYn/X1//TU3/xsb/Njb/AAD/3Nz/RUX9BxlfAAAAXXRSTlOmAJFoFD6GAlNDSQgYph9rCwSTCg2PN1GJI6YnRBKmoCmBpjRMHG8GihmmpmKmjTympqamL6ZgpmU2pqZWpqamXKampqamTqampqampqampqampqampqampqZapqbcd42yAAABRUlEQVR4nLWT11rCQBCFF9CEFNITeu899CZEFMHeG+r7P4fJF8yymhgv5NzN7P/t7M6cAR4X/Q+A4zwlilJ8z1JcEkWKx/EvoCiVGSY62rc0ijJMWSqaAM/RKYUgyWDfZ6kfJElCSdEcrwNcmGDTGIaFZK8lOaQn0iwR5jyAysdYAdhKYGN5CtDZgpC0B5JCIUuDcAyzPzaEkVHQzYWcgZJfAc2DEkxo83qlF4Fx45AAuZoME/OHp5dWD8bycAn8Pi9MdMZ3N8/VViISMGOvz48C1fbgqq3OpolNmR/AyVEmc/66+qgc/wIMFuq9I6CXeD+7vVw7luiMF+rsGn0k8s366eqirqHfRBqVmK4ftW+NQlodmEw2l5syWo0MK6BrGzCG5TpuV8NAyzWg57YtZ5l2+VYb2prWsn1Xadra/g+Ls+Pl/QQG5CwwEs7tCgAAAABJRU5ErkJggg==",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 7272,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Old School XP Gain Sound - Fallout 4 - YouTube",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Old%20School%20XP%20Gain%20Sound%20-%20Fallout%204%20-%20YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4KrxX-shLXA&tabId=6293&sessionId=1624310210490&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAGAUlEQVR4Xu2b31JcRRDGvwUSTAIqERJQAihQllqWJnqTiqnkwkuvfQAfwAfwyhc0amlpCEFBIxAgBAh%2FEgKs9duZ3tOsrOzZc9iwu3TVV81wzv7pb7p7emb7FNTmUmhz%2B3VGwJkHtDkDZyHwfw5QVDlHQJShw%2F3tX851rhnyJrco6cCBsRfGdo%2F9XbqnEP5%2FpFT9ktF4MwrdKemcpK6oMdQL1887MM5T9iXtOjD2AjkvJe1FzfUyIdVIOI4AjMBQM75b0muS0BDhBXIuOjDOUzBu24GxFwx%2FIel51FyHBIjZr4cAMxxDIQCjL0UD0ZUGcv11B8Z5CsZtODD2gsFbkSA01yEAYiAAIv4jZQ%2BILo%2BhBtz5QpxxNGgmAnYkATwCTfhASAnmEZ4AZtoMxZV7JfVJuhx1j3N%2FwuA0hoC5P3pT0lNJq1E%2Fi95RIqYQPCOpBIvBxd9wGJD0tqR3on7TJUCMP41J0BIgek3SvKR%2Fol6WtG4ohBA5RACzfkVSvySMvyZp3OGteH%2BzLINPJM04%2FC0JElYkLRVCQlWhGJYuhATGbA9HPVpBAOHQTIL7ewLmojc8ipqEWiKAGEcwkBl%2FL2JE0pADOaCZhByw4PCXpD8iIAaCSgRgKILbfxDxYfQEnxPyXtZOmkxivBzzkpj53yT9HkE4lAjAWGRQ0qeSrkdNOLDWGyqT3kkbkPX9rTKkPgAkw58k%2FRj1ohHwefwk3P0zB8atJITDPUk%2FRM245AFfOA9g9g14RCsJM%2F6zQ9kDvoxWXpX0iQPjVpIlSb9K%2BiVqxiUP%2BCpaSQ3wsQPjVhKSniVAdDkJfh2tZBUgIX4UNeP8pLNT6u5OUChIL19Ke3vS7q60vy8dHCQoVt3C1%2FudKIymHBiXPOCb%2BI5UgO87MM5PLl6UrlyR%2BvulgQEJQtbXAzY2pK2tQIQBQvIV9gTTDoxLBHwbP4eCaELSZNRWIOXzNfr6pPHxBOfOSQsLCZ4%2Blba3E%2BAd%2BUplZVguhL6Ln0Ml%2BK5DvqXv4KB0%2FXoCwmFmJsHiYvAEw4vK7X5mNtgc%2FenAuOQB38e3Zrc3Jok9AJpxfjI8LN28meDSpcME4A14wdpa0HiD5Qg0IUFeMKT%2FZhg8K4k9AbrBBFy7Jt26lYCQ8CGwvBwMX11NiHj2LHgEemcnkGBInyRfMQEjI9Lt2wmuXk2SIInQjH%2FyJJCwsiI9fiwtLQUNEXiCgRUjnbxiAkZHpTt3EuAR3iBmGeMN8%2FPS3Jw0Oxs0hJAXDOlXiVdMwNiYdPduIADN2Asx7wl49EianpYePgwaT3j%2BPAH1Qzo55QQQ47i%2BhYAR8OBBIIAwaHkCyAMGCJiakiAA3fIEMLu2BKKNgPv3AwHUCU3tAdWSILFMMiQHeAJIgr5QYpls6iRYuQxSGdoaj2YptBqAMCDp%2BTqB6029DFYWQpcvJ2s8xjLDEGCJEBJss4Ru%2BkKoshTu7T28zuPyrACs92jqAj%2FjJ1gKN2YzNDQUNkI3bgR94UIocgy2F7AwYMbzlaqbocZsh3H5yUlpYiLo8%2BdDZjdgOLO%2BuRk05wL5StXtcGMORHp6JOp%2Fkh%2B6qytkfQOGk%2BVZ6tDpK73j6Kp6INKYIzEOQNgCczKE5kjMr%2Bu25WWTY%2FF%2BnEnprlc9EmvMoWhHRzgGY%2BbRCIYy03YemM6gtHdXPRRtzLE4M47hRoQRcHIzXklQ1WPxxvwwAgEAAtAIhxoQUP8pTxovqPrDSON%2BGjPDPQFGRBpT6ru36k9jbf%2FjaNv%2FPN72DRLt3SJj%2BaQYujyzNkn51lrrLeYj8ugbTtsrXFuTlCMgjzY56yO27lLrKMuju6SWXuFMbXJZGyUp76yPGE1rjbXbWgd5fQtYeFUtvcKZGiWtI7zeVlkM9q20eBTv5b0hCwFpe4XTtcpWfrNiMnu1NkufNgLSNUsfQYB5RK3t8hDl2%2BkhxLfbZ02EtYRAru3ylU%2BIHPfABET5Byq4v3JVyBICtSTB%2FB6YKJXo6R%2BZOU3LoD02U98jM1mmqplemzUum8nWI7%2FrGQFNP4UZDTjzgIwENv3L%2FwUFGRDZ%2BVR3awAAAABJRU5ErkJggg%3D%3D",
+          "width": 0,
+          "windowId": 2
+        },
+        "7273": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://static.loverslab.com/resources/monthly_2018_05/favicon.ico.fdb95e006d7661d1ecedf05f36f49bca.ico",
+          "groupId": -1,
+          "height": 895,
+          "highlighted": false,
+          "id": 7273,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "ImmersiveSWF - Downloads - Fallout 4 Non Adult Mods - LoversLab",
+          "url": "https://www.loverslab.com/topic/79668-immersiveswf/",
+          "width": 771,
+          "windowId": 2
+        },
+        "7274": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAACSqyD///8AAAAAAAD9/f0AAAADAwEAAAAAAAAAAACTrCOkwh2Yry0AAAAAAACVrx+it0EAAAD8/PkAAAAAAAAAAADX4K6UrSYAAADg57+lukabsjIAAAAAAACXryoAAAC7y3aJohoyOgwHCQP4+vK/zn3y9eUAAAAAAAAAAAD5+/YOEQP29+s7RA0AAAAZHQWivx1bahJpehVCTQ22x2ni6cNLWA/C0IKsv1VOXBCZtB3c5Lfu8tslLAeyxWMAAAARERAAAACQqSCfuh3p8NHL15eHnh3f57oVFRMJCQgAAAD3+e9xgxh4e2rR0dAjJhSwsLCTlI3P2p5cbBRISj2owzOqvlGmwyfN2pGFhoHm7MnR2bKftDmho5XZ3cu+v7WtxzwrMQzG04kODgsjIx1TYRIAAAAdIwZ1hxna2to3OiXCw7hFUQ4oKSNWWFRBQT+60Va3zk00Ny3I2nayw2EaHRK3uKnW19Z1dXNISjouMRzGxsLS3abf48ng4twC9AVTAAAAgHRSTlOmpqYAo6YEpnpoVaamphtOpqZfpphuiqamPaampoGfpgempqampqamknMRpqampi+mpqampqampqampqampqamDaYhpqampqampqYnpqampqampqampqampqampqampqampqampqamNaampqampqampqampqampqampqampqampqYhhRMAAAKbSURBVHicbZR1e+JAEMbfTbBAcIeiBYoXClzdqJe6u17t3F2++s1u0utz93T+yGZ3fpt9Z2YnkB+xYrgQ87RN4l0DTBNJPnSsHn9BcVrzBgA+j1jjQFGhhbziCdCybmYzPSwODSjGHhy6+8362TYhASIgm/zA09ta2YxM7aI5NNS8WDsoSVLpYIGIJAFW8p8Mu9KN5vLcFCNLHBklMuPZJ+BGhsMHrHjfqfVh7uSW8nJ/z/55FXDK8ADfstL8nuve785yf+RcVbsFkMfiC0nypnS3zRYU/i5XfXoM6JXhw8IXWsnmNCA3UKHZTBdjw+kyDCRSgXmD7ykN2FnUxlr8fWmXsw2KgsLsxDH5TKg+bM0cswRXGLRxYDkDHwFJC7Ddwwlixhl7QmOFRsbmakBby0N3NKIRERIhLc3ukgTGpigKKwEK0M8S+6M8O0Y3c+fs9wH3A34C6Ig+mh3/pGAjQh0LDaZCNPQBhQfAthkcF3uPU/MlaZbL1AGqVT8H+B7mtrOPXEwl6BZHKAQ4SaQoks3dOvQOMpsWUjZn11Itd4DaHAcue0jnLGMDesxHa4CH34c4MneizDwFo4xFKyNLAtkwI++gG5UHGhyI8ipQoKFUKHrIAe9rOgNyMo5ymoqd4MnKzrdEoF0jnPixiADkMDA2XXclRJlHQnqa7Hy6Oom4SPVLVd3Z5JksRe+z6NoZlYwrdLO1VKtvZ4Twy7/+uvpB+pxBvFd84fkvvVaiSCx910hPq3unV/SBJOS2Aeb3p3z/+vfq9dbWdfU2g/JYtfmKusvBG8cZBxZOfq9+Xfy/gXy9orNMYSLMV5MPDoOPNycMN9S/onnbMbEQtyiWWCzmDxepvz2Klbem3t0T4QAMhY5JNpH9+yv4A6PnUbf1H9raAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 7274,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "No more cash register sound when XP gain at Fallout 4 Nexus - Mods and community",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=No%20more%20cash%20register%20sound%20when%20XP%20gain%20at%20Fallout%204%20Nexus%20-%20Mods%20and%20community&url=https%3A%2F%2Fwww.nexusmods.com%2Ffallout4%2Fmods%2F100&tabId=6292&sessionId=1624310210490&icon=https%3A%2F%2Fimages.nexusmods.com%2Ffavicons%2FFallout%2Ffavicon.ico",
+          "width": 0,
+          "windowId": 2
+        },
+        "7275": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7275,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FallUI - Confirm Boxes (incl. Yes Im Sure) at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/48958?tab=description",
+          "width": 1508,
+          "windowId": 2
+        },
+        "7280": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7280,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "DEF_UI at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/10654/",
+          "width": 1508,
+          "windowId": 2
+        },
+        "7281": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 7281,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "fallout 4please install itemlibs or disable icons - Bing",
+          "url": "https://www.bing.com/search?q=fallout+4please+install+itemlibs+or+disable+icons&qs=n&form=QBRE&sp=-1&pq=fallout+please+install+itemlibs+or+disable+icons&sc=0-48&sk=&cvid=A63D230F2C414CCEA260230556E0A374",
+          "width": 1508,
+          "windowId": 2
+        },
+        "7282": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7282,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7281,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Updated ICONLIBS2 for DEF_UI at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/13957/",
+          "width": 1508,
+          "windowId": 2
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1056,
+        "id": 2,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 15,
+    "name": "fallout 4please install itemlibs or disable icons - Bing",
+    "date": 1624343702035,
+    "lastEditedTime": 1624343702035,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1624310197137,
+    "id": "1dcd41f8-13ba-4135-92f6-0bbb3eaf6ecb"
+  }
+]

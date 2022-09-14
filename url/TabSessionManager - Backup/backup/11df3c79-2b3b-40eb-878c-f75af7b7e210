@@ -1,0 +1,352 @@
+[
+  {
+    "windows": {
+      "3563": {
+        "3568": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA/FBMVEUAAADc6ffW5vbz9/zr8/r09/3w9Pp/mbbl8PnZ6Pfw9vzg7fnd6/fp8/rj7vng7fft9Prm8Pro8frX5vb5+v0AAAD3+v38/f2hu9T6/P39/f/0+f23y91PbohNZICdt9DJ2ObA0uOuw9m7zeCswti1yNzO3Onu8vc5TGixxdo9VW3G1uW9z+DK2eg7UmlCWnFyjq06TWRCXnbc5fCyxtzD1OVJW3ZCXnFJZHtJYHZEW3LD0uNMY3s7Um3l7fOSsc5JZIBAVWqjvNPp8Pbi6fNAV21CVW1JYHs9UGjW4u09UG1AW3KYs888T2ZAV3I5UGg7TWk7V21MXnvR3enTP0TIAAAAVHRSTlMApqampqampaampqampqampqampqYBpqampqampjo4pKampqampqamNqY2pqamODalNzampqY4Njg4OKY2OKamOCSkpqY4Njg2pjY4pDc4Njg4NqYWW2Z7AAAA1klEQVR4nKXK1XLCQBiG4bbUXain2wgJkgR3d3fu/17gaP/dnW8GZnhP3+fksN6V1M8aX1LTPxVsfqTq/4pgzqdUR1MEc76lwroimBOUCmQUwfwPqWBYEU3/V2onuiO/3eKgqF+A9CoBNwByCQzcW1BuzUEpdwmqpAlUnkEGgbxxDjIKAngAeQTK3ivISxCwXkAWgYl1DRLAXHsEaX0OetodyI5xsLKfQAKo2fegrACyp6DomIN4FIIhAfMGZC4E8AYyIxwsQ2egEIHUPjBLXoGSKQ6OagsBTDERzkkcWgAAAABJRU5ErkJggg==",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 3568,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Authorize application",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Authorize%20application&url=https%3A%2F%2Fgithub.com%2Flogin%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapi.software.com%252Fauth%252Fgithub%252Fcallback%26scope%3Dread%253Auser%252Cuser%253Aemail%26client_id%3D134e7b2861db06806fb9&tabId=3565&sessionId=1625515773073&icon=undefined",
+          "width": 0,
+          "windowId": 3563
+        },
+        "4314": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 4314,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "DWService - christoffer.broback@gmail.com",
+          "url": "https://www.dwservice.net/session.dw#s",
+          "width": 1872,
+          "windowId": 3563
+        },
+        "4321": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 4321,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "alternative to adge web apps - Bing",
+          "url": "https://www.bing.com/search?q=alternative+to+adge+web+apps&cvid=44d8188ec83f4edfbe1f52b8c54aa948&aqs=edge..69i57.18006j0j1&FORM=ANAB01&PC=U531",
+          "width": 1872,
+          "windowId": 3563
+        },
+        "4322": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.slant.co/images/favicon.png",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": false,
+          "id": 4322,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "20 best alternatives to Azure Web Apps as of 2021 - Slant",
+          "url": "https://www.slant.co/options/808/alternatives/~azure-web-apps-alternatives",
+          "width": 1006,
+          "windowId": 3563
+        },
+        "4323": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": false,
+          "id": 4323,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "windows media creation tool - Bing",
+          "url": "https://www.bing.com/search?q=windows+media+creation+tool&cvid=f9980e6d8d184d5b83ffa3c235bf84a8&aqs=edge.0.0l7.4335j0j1&FORM=ANAB01&PC=U531",
+          "width": 1006,
+          "windowId": 3563
+        },
+        "4324": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA/FBMVEUAAADc6ffW5vbz9/zr8/r09/3j7vnw9Pp/mbbl8PnZ6Pfw9vzg7fnd6/fp8/rg7fft9Prm8Pro8frX5vb5+v0AAAD3+v38/f2hu9T6/P39/f/0+f23y91PbohNZICdt9DJ2ObA0uOuw9m7zeCswti1yNzO3Ok9VW3u8vc5TGixxdrG1uW9z+DK2eg7UmlCWnFyjq1CXnbc5fCyxtzD1OVJW3ZCXnFJZHtJYHZEW3LD0uNMY3s8TmU7Um05TGOSsc5JZIBAVWqjvNPp8Pbi6fNAV21MXns9UGjW4u3l7fM9UG1CVW1AW3KYs89AV3I5UGg7TWk7V21JYHvR3em76z+qAAAAVHRSTlMApqampqampqWmpqampqampqampqYBpqampqampjo4pKampqampqY2pjampqamODalNqampjg2ODg4pjY4ODamOCSkpqY4NjampjY2OKQ4Njg4OKYtFWwrAAAA1UlEQVR4nKXK1XLCQBiG4bbUXain2wgJkgR3d3fu/17gaP/dnW8GZnhP3+fksN6V1M8aX1KzPxVsfqRG/4pgzqdUR1MEc76lIroimBOUCqQVwfwPqWBEEU3/V2onukO/3eKgoF+A9AoBNwByCazdO1C2z0ExewUqpwiUn0EGgZxxDjLyAngEeQRK3ivISxCwXkAWgal1AxLAXLsEaRMOeto9yA5zsLKfQAKo2Q+gjAAyp6DYmIN4DIIBAfMWZC4E8AYyoxwsQ2egEIHqXpC8BiXrHBzVFgHuMREiLbzmAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 4324,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Sign in - Google Accounts",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Sign%20in%20-%20Google%20Accounts&url=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%2Foauthchooseaccount%3Faccess_type%3Doffline%26prompt%3Dconsent%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapi.software.com%252Fauth%252Fgoogle%252Fcallback%26scope%3Dprofile%2520email%2520openid%26client_id%3D693108335854-h2i4b317eehmfr60tplekdjt6j1e8ku8.apps.googleusercontent.com%26flowName%3DGeneralOAuthFlow&tabId=3564&sessionId=1625515773073&icon=undefined",
+          "width": 0,
+          "windowId": 3563
+        },
+        "4325": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.microsoft.com/favicon.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": false,
+          "id": 4325,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Ladda ned Windows 10",
+          "url": "https://www.microsoft.com/sv-se/software-download/windows10",
+          "width": 1006,
+          "windowId": 3563
+        },
+        "4328": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": false,
+          "id": 4328,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "drivers from current windows installation - Bing",
+          "url": "https://www.bing.com/search?q=drivers+from+current+windows+installation&cvid=f03fad50aad64415bfd97498eb601ec9&aqs=edge..69i57.15272j0j1&FORM=ANAB01&PC=U531",
+          "width": 1006,
+          "windowId": 3563
+        },
+        "4329": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.techspot.com/images/favicon30.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": true,
+          "id": 4329,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 4328,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How to Export Old Device Drivers to a New Windows Installation | TechSpot",
+          "url": "https://www.techspot.com/guides/1714-export-old-device-windows-drivers/",
+          "width": 1006,
+          "windowId": 3563
+        }
+      },
+      "4317": {
+        "3562": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/35e75ccf/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": true,
+          "id": 3562,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "What Really Happened at the Oroville Dam Spillway? - YouTube",
+          "url": "https://www.youtube.com/watch?v=jxNM4DGBRMU&list=TLPQMDYwNzIwMjGtzIY43W9k-w&index=25",
+          "width": 1006,
+          "windowId": 4317
+        }
+      },
+      "4318": {
+        "4316": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.microsoft.com/favicon.ico?v2",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": true,
+          "id": 4316,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Upgrade to the New Windows 11 OS | Microsoft",
+          "url": "https://www.microsoft.com/en-us/windows/windows-11?ocid=prod_sv_cons_win_awr_LearnMore%C2%A0%E2%80%8B",
+          "width": 1006,
+          "windowId": 4318
+        }
+      },
+      "4320": {
+        "4319": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": true,
+          "id": 4319,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Work2",
+          "url": "https://www.dwservice.net/session.dw?parent=mng#s",
+          "width": 1006,
+          "windowId": 4320
+        }
+      }
+    },
+    "windowsNumber": 4,
+    "windowsInfo": {
+      "3563": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 913,
+        "id": 3563,
+        "incognito": false,
+        "left": 898,
+        "state": "normal",
+        "top": 124,
+        "type": "normal",
+        "width": 1070
+      },
+      "4317": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 913,
+        "id": 4317,
+        "incognito": false,
+        "left": 2007,
+        "state": "normal",
+        "top": -539,
+        "type": "normal",
+        "width": 1070
+      },
+      "4318": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 913,
+        "id": 4318,
+        "incognito": false,
+        "left": 2018,
+        "state": "normal",
+        "top": 347,
+        "type": "normal",
+        "width": 1070
+      },
+      "4320": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 913,
+        "id": 4320,
+        "incognito": false,
+        "left": 482,
+        "state": "normal",
+        "top": 222,
+        "type": "normal",
+        "width": 1070
+      }
+    },
+    "tabsNumber": 12,
+    "name": "Work2",
+    "date": 1625739043778,
+    "lastEditedTime": 1625739043778,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "a0504841-3131-4d70-810a-72e5c5a7bbbb"
+  }
+]

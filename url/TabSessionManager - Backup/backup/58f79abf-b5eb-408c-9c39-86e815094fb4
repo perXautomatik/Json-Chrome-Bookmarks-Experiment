@@ -1,0 +1,103 @@
+[
+  {
+    "windows": {
+      "240": {
+        "241": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 241,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sisong/HDiffPatch: a C\\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; run fast; create small delta/differential; support large files and limit memory requires when diff & patch.",
+          "url": "https://github.com/sisong/HDiffPatch",
+          "width": 1196,
+          "windowId": 240
+        },
+        "370": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://xdelta.org/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 370,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 241,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "xdelta",
+          "url": "http://xdelta.org/",
+          "width": 1196,
+          "windowId": 240
+        },
+        "375": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://wiki.nexusmods.com/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": true,
+          "id": 375,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Creating a game extension for Vortex - Nexus Mods Wiki",
+          "url": "https://wiki.nexusmods.com/index.php/Creating_a_game_extension_for_Vortex",
+          "width": 1196,
+          "windowId": 240
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "240": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 831,
+        "id": 240,
+        "incognito": false,
+        "left": 432,
+        "state": "normal",
+        "top": 133,
+        "type": "normal",
+        "width": 1576
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Creating a game extension for Vortex - Nexus Mods Wiki",
+    "date": 1629300256235,
+    "lastEditedTime": 1629300256235,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629294844519,
+    "id": "8482b5b9-5564-44ad-b56c-9c154b7e930d"
+  }
+]

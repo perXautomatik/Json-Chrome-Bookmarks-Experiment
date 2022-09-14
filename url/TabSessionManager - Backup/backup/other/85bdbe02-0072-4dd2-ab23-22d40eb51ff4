@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "2177": {
+        "2178": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 2178,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "chrome-extension://idfbjjfgccflicphjlpbomcklaehplha/newtab.html",
+          "width": 1433,
+          "windowId": 2177
+        },
+        "2179": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/381c4a68/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": true,
+          "id": 2179,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(2) How to Use xEdit - YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLlN8weLk86XiGXJI4DaRa1QIq1zhDpD8V",
+          "width": 1433,
+          "windowId": 2177
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2177": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 858,
+        "id": 2177,
+        "incognito": false,
+        "left": 59,
+        "state": "normal",
+        "top": 173,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 2,
+    "name": "(2) How to Use xEdit - YouTube",
+    "date": 1630399910859,
+    "lastEditedTime": 1630399282069,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1630245328865,
+    "id": "5b58f389-8342-4a18-a56b-de1fe55d5acf"
+  }
+]

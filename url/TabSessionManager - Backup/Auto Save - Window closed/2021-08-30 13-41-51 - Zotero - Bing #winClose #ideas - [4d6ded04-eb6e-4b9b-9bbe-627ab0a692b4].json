@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "1151": {
+        "1155": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": true,
+          "id": 1155,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Zotero - Bing",
+          "url": "https://www.bing.com/search?q=Zotero&aqs=edge..69i57j69i60&FORM=ANCMS9&PC=U531",
+          "width": 1481,
+          "windowId": 1151
+        },
+        "1156": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.zotero.org/favicon.ico",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 1156,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "plugins:unmaintained [Zotero Documentation]",
+          "url": "https://www.zotero.org/support/plugins/unmaintained",
+          "width": 1481,
+          "windowId": 1151
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1151": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 858,
+        "id": 1151,
+        "incognito": false,
+        "left": 136,
+        "state": "normal",
+        "top": 611,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Zotero - Bing",
+    "date": 1630323711404,
+    "lastEditedTime": 1630323709427,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "4d6ded04-eb6e-4b9b-9bbe-627ab0a692b4"
+  }
+]

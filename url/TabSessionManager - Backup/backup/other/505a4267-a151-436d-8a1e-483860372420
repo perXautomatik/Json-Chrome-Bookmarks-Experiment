@@ -1,0 +1,139 @@
+[
+  {
+    "windows": {
+      "2": {
+        "3": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.copyhandler.com/sites/default/files/ch16.png",
+          "groupId": -1,
+          "height": 709,
+          "highlighted": false,
+          "id": 3,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download | Copy Handler",
+          "url": "https://www.copyhandler.com/download",
+          "width": 996,
+          "windowId": 2
+        },
+        "1549": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://magic.wizards.com/sites/all/themes/wiz_mtg/icons/favicon.ico",
+          "groupId": -1,
+          "height": 709,
+          "highlighted": true,
+          "id": 1549,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Jumpstart Decklists | MAGIC: THE GATHERING",
+          "url": "https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18",
+          "width": 996,
+          "windowId": 2
+        }
+      },
+      "1548": {
+        "1550": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 683,
+          "highlighted": false,
+          "id": 1550,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "mtg tribe colour combo names - Bing images",
+          "url": "https://www.bing.com/images/search?view=detailV2&ccid=7%2Fbh57km&id=234457CC9A65E7789B16AD72483426E76B4DC0E2&thid=OIP.7_bh57km-Opkri0U4AtehAHaJ8&mediaurl=https%3A%2F%2Fqph.fs.quoracdn.net%2Fmain-qimg-eff6e1e7b926f8ea64ae2d14e00b5e84&exph=808&expw=602&q=mtg+tribe+colour+combo+names&simid=608030441365584968&ck=708772A308833FDD803DF188776BCE1B&selectedindex=61&form=IRPRST&ajaxhist=0&ajaxserp=0&vt=0&sim=11&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FReff6e1e7b926f8ea64ae2d14e00b5e84%3Frik%3D4sBNa%252bcmNEhyrQ%26pid%3DImgRaw",
+          "width": 996,
+          "windowId": 1548
+        },
+        "1553": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210604153606",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 1553,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sacred Sword Princesses - Action RPG | Nutaku",
+          "url": "https://www.nutaku.net/games/sacred-sword-princesses/play/",
+          "width": 1300,
+          "windowId": 1548
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "2": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 796,
+        "id": 2,
+        "incognito": false,
+        "left": 327,
+        "state": "normal",
+        "top": 331,
+        "type": "normal",
+        "width": 1091
+      },
+      "1548": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 921,
+        "id": 1548,
+        "incognito": false,
+        "left": 521,
+        "state": "normal",
+        "top": 116,
+        "type": "normal",
+        "width": 1395
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Sacred Sword Princesses - Action RPG | Nutaku",
+    "date": 1622900231315,
+    "lastEditedTime": 1622900231315,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "b42d5a6a-43e0-4705-95c2-567c41a0f046"
+  }
+]

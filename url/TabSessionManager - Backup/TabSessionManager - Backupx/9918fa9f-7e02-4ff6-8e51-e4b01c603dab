@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10331": {
+        "10332": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinBlue/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10332,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "MXPF - Mator's xEdit Patching Framework at Skyrim Nexus - Mods and Community",
+          "url": "https://www.nexusmods.com/skyrim/mods/68617?tab=files&file_id=1000194968",
+          "width": 1154,
+          "windowId": 10331
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10331": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10331,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "MXPF - Mator's xEdit Patching Framework at Skyrim Nexus - Mods and Community",
+    "date": 1622643287973,
+    "lastEditedTime": 1622643286162,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "9399f317-78b3-4574-9458-95c73817d55d"
+  }
+]

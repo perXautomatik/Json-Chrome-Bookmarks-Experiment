@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10649": {
+        "10650": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10650,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Soylent Green - Add-on for Manufacturing Extended at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/15776?tab=files&file_id=71589&nmm=1",
+          "width": 1154,
+          "windowId": 10649
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10649": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10649,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Soylent Green - Add-on for Manufacturing Extended at Fallout 4 Nexus - Mods and community",
+    "date": 1622643536573,
+    "lastEditedTime": 1622643534056,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "6da0cc80-206a-4641-b1bb-15a70b33a7f9"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "windows": {
+      "193": {
+        "191": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 191,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "html - DIFF utility works for 2 files. How to compare more than 2 files at a time? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/1075708/diff-utility-works-for-2-files-how-to-compare-more-than-2-files-at-a-time",
+          "width": 1110,
+          "windowId": 193
+        },
+        "192": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 192,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "diff more than 3 files - Bing",
+          "url": "https://www.bing.com/search?q=diff+more+than+3+files&cvid=3e41791a87b744c4b641cc2acde357f7&aqs=edge..69i57.5878j0j1&FORM=ANAB01&PC=U531",
+          "width": 1110,
+          "windowId": 193
+        },
+        "301": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://diffuse.sourceforge.net/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 301,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 191,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Diffuse",
+          "url": "http://diffuse.sourceforge.net/download.html",
+          "width": 1872,
+          "windowId": 193
+        },
+        "302": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.fsdn.com/con/img/sandiego/svg/originals/sf-icon-orange-no_sf.svg",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 302,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 301,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Diffuse download | SourceForge.net",
+          "url": "https://sourceforge.net/projects/diffuse/",
+          "width": 746,
+          "windowId": 193
+        },
+        "1192": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 1192,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Window Manager",
+          "url": "chrome-extension://aadahadfdmiibmdhfmpbeeebejmjnkef/manager.html",
+          "width": 1508,
+          "windowId": 193
+        },
+        "1214": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 1214,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Comfort - Sveriges största VVS-kedja | Comfort",
+          "url": "https://www.comfort.se/privat/?gclid=CjwKCAjwo4mIBhBsEiwAKgzXOM_aDBwldWVJExbJmfq463F9ZOERMpNAaI7cGw0ifZatIxZV4VyWMhoCraQQAvD_BwE",
+          "width": 1508,
+          "windowId": 193
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "193": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1056,
+        "id": 193,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Comfort - Sveriges största VVS-kedja | Comfort",
+    "date": 1627552981031,
+    "lastEditedTime": 1627552969147,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "dbbd54f6-adff-472d-8031-264fdaff3897"
+  }
+]

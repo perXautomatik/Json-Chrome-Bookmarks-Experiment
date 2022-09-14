@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "4862": {
+        "4863": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/a910c60b/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 4863,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Hillary Clinton goes off the deep end | THAT DIDN'T AGE WELL #68 - YouTube",
+          "url": "https://www.youtube.com/watch?v=5k2jdT8IKbo&list=TLPQMTgwNzIwMjE_jRdnhaS2Xw&index=16",
+          "width": 1152,
+          "windowId": 4862
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4862": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 679,
+        "id": 4862,
+        "incognito": false,
+        "left": 840,
+        "state": "minimized",
+        "top": 82,
+        "type": "normal",
+        "width": 1088
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Hillary Clinton goes off the deep end | THAT DIDN'T AGE WELL #68 - YouTube",
+    "date": 1626627591738,
+    "lastEditedTime": 1626627508302,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1625991790805,
+    "id": "96ba8e90-b7e1-4e95-97a0-5ba6237fac24"
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "windows": {
+      "195": {
+        "180": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": true,
+          "id": 180,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "windows generate user altered paths - Google Search",
+          "url": "https://www.google.com/search?q=windows+generate+user+altered+paths&cvid=d9e4d327e3374ac1a2051d7861c8c937&aqs=edge..69i57.10130j0j1&FORM=ANAB01&PC=U531",
+          "width": 1110,
+          "windowId": 195
+        },
+        "182": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://c.s-microsoft.com/favicon.ico?v2",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 182,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 180,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Automatic creation of user folders for home, roaming profile and redirected folders. - Microsoft Tech Community",
+          "url": "https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/automatic-creation-of-user-folders-for-home-roaming-profile-and/ba-p/395527",
+          "width": 1110,
+          "windowId": 195
+        },
+        "185": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/serverfault/Img/favicon.ico?v=18e9cc4f2aea",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 185,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 180,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "windows registry - Variable path in *.reg file - Server Fault",
+          "url": "https://serverfault.com/questions/858132/variable-path-in-reg-file",
+          "width": 1110,
+          "windowId": 195
+        },
+        "303": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 303,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 180,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Roaming user profile - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Roaming_user_profile",
+          "width": 1110,
+          "windowId": 195
+        },
+        "304": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 486,
+          "highlighted": false,
+          "id": 304,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 180,
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Complete Guide to Windows File System Auditing - Varonis",
+          "url": "https://www.varonis.com/blog/windows-file-system-auditing/",
+          "width": 1110,
+          "windowId": 195
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "195": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 573,
+        "id": 195,
+        "incognito": false,
+        "left": 146,
+        "state": "normal",
+        "top": 284,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 5,
+    "name": "windows generate user altered paths - Google Search",
+    "date": 1627223313285,
+    "lastEditedTime": 1627223309895,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "60e7983b-b5ea-48c0-b7f4-d307af6ab920"
+  }
+]

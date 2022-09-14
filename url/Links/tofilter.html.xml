@@ -1,0 +1,114 @@
+[
+    {
+        "windows": {
+            "402": {
+                "428": {
+                    "active": true,
+                    "audible": false,
+                    "autoDiscardable": true,
+                    "discarded": false,
+                    "groupId": -1,
+                    "height": 797,
+                    "highlighted": true,
+                    "id": 428,
+                    "incognito": false,
+                    "index": 0,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "pinned": false,
+                    "selected": true,
+                    "status": "loading",
+                    "title": "New Tab",
+                    "url": "chrome://newtab/",
+                    "width": 784,
+                    "windowId": 402
+                }
+            },
+            "1627": {
+                "1626": {
+                    "active": false,
+                    "audible": false,
+                    "autoDiscardable": true,
+                    "discarded": false,
+                    "groupId": -1,
+                    "height": 797,
+                    "highlighted": false,
+                    "id": 1626,
+                    "incognito": false,
+                    "index": 0,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "pinned": false,
+                    "selected": false,
+                    "status": "complete",
+                    "title": "New Tab",
+                    "url": "chrome://newtab/",
+                    "width": 784,
+                    "windowId": 1627
+                },
+                "1630": {
+                    "active": true,
+                    "audible": false,
+                    "autoDiscardable": true,
+                    "discarded": false,
+                    "favIconUrl": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/icons/icon_min.svg",
+                    "groupId": -1,
+                    "height": 837,
+                    "highlighted": true,
+                    "id": 1630,
+                    "incognito": false,
+                    "index": 1,
+                    "mutedInfo": {
+                        "muted": false
+                    },
+                    "pinned": false,
+                    "selected": true,
+                    "status": "complete",
+                    "title": "Tab Session Manager - Session list",
+                    "url": "chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/popup/index.html#inTab",
+                    "width": 1568,
+                    "windowId": 1627
+                }
+            }
+        },
+        "windowsNumber": 2,
+        "windowsInfo": {
+            "402": {
+                "alwaysOnTop": false,
+                "focused": true,
+                "height": 909,
+                "id": 402,
+                "incognito": false,
+                "left": 486,
+                "state": "normal",
+                "top": 171,
+                "type": "normal",
+                "width": 784
+            },
+            "1627": {
+                "alwaysOnTop": false,
+                "focused": true,
+                "height": 909,
+                "id": 1627,
+                "incognito": false,
+                "left": 0,
+                "state": "maximized",
+                "top": 0,
+                "type": "normal",
+                "width": 1568
+            }
+        },
+        "tabsNumber": 3,
+        "name": "New Tab",
+        "date": 1619167791855,
+        "lastEditedTime": 1619196398782,
+        "tag": [
+            "winClose",
+            "Loppy"
+        ],
+        "sessionStartTime": 1619162069315,
+        "id": "4920f02d-9470-408d-a248-07104c531b2f"
+    }
+]

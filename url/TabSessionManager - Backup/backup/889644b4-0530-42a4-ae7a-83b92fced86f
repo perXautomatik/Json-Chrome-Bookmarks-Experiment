@@ -1,0 +1,194 @@
+[
+  {
+    "windows": {
+      "223": {
+        "224": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 763,
+          "highlighted": false,
+          "id": 224,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Add contextmenu items to a Chrome extension's browser action button - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/19468429/add-contextmenu-items-to-a-chrome-extensions-browser-action-button",
+          "width": 1110,
+          "windowId": 223
+        },
+        "226": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://files.supersidecdn.com/sfavicon/favicon.ico",
+          "groupId": -1,
+          "height": 763,
+          "highlighted": true,
+          "id": 226,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How to Edit and Customize Chrome Extensions? Instructions & Examples - Superside",
+          "url": "https://www.superside.com/blog/how-to-edit-and-customize-chrome-extensions",
+          "width": 1110,
+          "windowId": 223
+        },
+        "227": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 437,
+          "highlighted": false,
+          "id": 227,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Chrome extension source viewer - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin/related?hl=en",
+          "width": 1110,
+          "windowId": 223
+        },
+        "228": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 228,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/",
+          "width": 1872,
+          "windowId": 223
+        },
+        "229": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 437,
+          "highlighted": false,
+          "id": 229,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Save as Gist - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/save-as-gist/bkdmkcpliolodfhpndnocfpglldmeeop/related",
+          "width": 1110,
+          "windowId": 223
+        },
+        "231": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 482,
+          "highlighted": false,
+          "id": 231,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "\"Save as Gist\" nick.vanexan - Bing",
+          "url": "https://www.bing.com/search?q=%22Save+as+Gist%22++nick.vanexan&qs=n&sp=-1&pq=%22save+as+gist%22+nick.vanexan&sc=0-27&sk=&cvid=51E3FC3941BA47578BCF5F785601EACF&first=1&FORM=PQRE",
+          "width": 746,
+          "windowId": 223
+        },
+        "234": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 450,
+          "highlighted": false,
+          "id": 234,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1110,
+          "windowId": 223
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "223": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 850,
+        "id": 223,
+        "incognito": false,
+        "left": 43,
+        "state": "normal",
+        "top": 59,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 7,
+    "name": "How to Edit and Customize Chrome Extensions? Instructions & Examples - Superside",
+    "date": 1627223338585,
+    "lastEditedTime": 1627223309895,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "2f282554-3450-443a-ad68-0c267800a01e"
+  }
+]

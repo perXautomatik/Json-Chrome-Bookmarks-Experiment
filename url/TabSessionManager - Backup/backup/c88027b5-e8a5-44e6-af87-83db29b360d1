@@ -1,0 +1,264 @@
+[
+  {
+    "windows": {
+      "2639": {
+        "2638": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2638,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JavaScript/jQuery - Get text and translate it - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/5388127/javascript-jquery-get-text-and-translate-it",
+          "width": 1232,
+          "windowId": 2639
+        },
+        "2640": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 2640,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "javascript - Google Custom Search on submit - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/5845094/google-custom-search-on-submit",
+          "width": 1872,
+          "windowId": 2639
+        },
+        "2641": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 924,
+          "highlighted": false,
+          "id": 2641,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sync Tab Groups - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/sync-tab-groups/gbkddinkjahdfhaiifploahejhmaaeoa",
+          "width": 1872,
+          "windowId": 2639
+        },
+        "2642": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 636,
+          "highlighted": false,
+          "id": 2642,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Related Search - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/related-search/ngfibjjjgckccbpbppikkgipcpknbglf/related",
+          "width": 1232,
+          "windowId": 2639
+        },
+        "2643": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 2643,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "chrome-extension://kelahdmegihhooaelnaahkeggodajdjf/options.html",
+          "url": "chrome-extension://kelahdmegihhooaelnaahkeggodajdjf/options.html",
+          "width": 1872,
+          "windowId": 2639
+        },
+        "2644": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 924,
+          "highlighted": false,
+          "id": 2644,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tag Cloud Search + Translate - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tag-cloud-search-%2B-transl/chffjcnjklkbamfkpmjmggckeglnbkio/related",
+          "width": 1872,
+          "windowId": 2639
+        },
+        "2645": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 924,
+          "highlighted": false,
+          "id": 2645,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Chrome Web Store - translate and then search",
+          "url": "https://chrome.google.com/webstore/search/translate%20and%20then%20search?_category=extensions",
+          "width": 1872,
+          "windowId": 2639
+        },
+        "2646": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 2646,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "keyword - Google Search",
+          "url": "https://www.google.com/search?q=keyword",
+          "width": 1872,
+          "windowId": 2639
+        },
+        "2648": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.similarsites.com/static/favicon.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 2648,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SimilarSites - Uninstall",
+          "url": "https://www.similarsites.com/uninstall",
+          "width": 1872,
+          "windowId": 2639
+        },
+        "3082": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3082,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2642,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "regex exluding some words - Bing",
+          "url": "https://www.bing.com/search?q=regex+exluding+some+words&cvid=46b3c543e8e246df8bf37eecfc7935e5&aqs=edge..69i57.27748j0j1&FORM=ANAB01&PC=U531",
+          "width": 1232,
+          "windowId": 2639
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2639": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 768,
+        "id": 2639,
+        "incognito": false,
+        "left": 429,
+        "state": "normal",
+        "top": 215,
+        "type": "normal",
+        "width": 1296
+      }
+    },
+    "tabsNumber": 10,
+    "name": "regex exluding some words - Bing",
+    "date": 1628788887572,
+    "lastEditedTime": 1628785724223,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "c1d1796b-c046-4f11-a289-7e7008aec140"
+  }
+]

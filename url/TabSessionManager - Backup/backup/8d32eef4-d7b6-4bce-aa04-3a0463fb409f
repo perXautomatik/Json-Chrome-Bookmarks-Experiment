@@ -1,0 +1,171 @@
+[
+  {
+    "windows": {
+      "1064": {
+        "1065": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://devconnected.com/wp-content/uploads/2019/04/1_20ejjBnUDvsHi2SGNwpEwQ.png",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 1065,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How To Add and Update Git Submodules – devconnected",
+          "url": "https://devconnected.com/how-to-add-and-update-git-submodules/",
+          "width": 1136,
+          "windowId": 1064
+        },
+        "1066": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 1066,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Making commits simpler in Git using PowerShell - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/41086814/making-commits-simpler-in-git-using-powershell",
+          "width": 1136,
+          "windowId": 1064
+        },
+        "1067": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.cyotek.com/assets/images/favicon/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 1067,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Committing to a Git repository using custom dates - Articles and information on C# and .NET development topics • Cyotek",
+          "url": "https://www.cyotek.com/blog/committing-to-a-git-repository-using-custom-dates",
+          "width": 1136,
+          "windowId": 1064
+        },
+        "1068": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://git-scm.com/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 1068,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Git - Git in PowerShell",
+          "url": "https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-PowerShell",
+          "width": 1136,
+          "windowId": 1064
+        },
+        "1069": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://git-scm.com/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 1069,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Git - Git Hooks",
+          "url": "https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks",
+          "width": 1136,
+          "windowId": 1064
+        },
+        "1070": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://devconnected.com/wp-content/uploads/2019/04/1_20ejjBnUDvsHi2SGNwpEwQ.png",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 1070,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How To Git Commit With Message – devconnected",
+          "url": "https://devconnected.com/how-to-git-commit-with-message/",
+          "width": 1136,
+          "windowId": 1064
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1064": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 768,
+        "id": 1064,
+        "incognito": false,
+        "left": 1920,
+        "state": "normal",
+        "top": 228,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 6,
+    "name": "How To Add and Update Git Submodules – devconnected",
+    "date": 1628868114551,
+    "lastEditedTime": 1628867119292,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "2d9b733f-5f61-4f6c-9f48-247bb8a5360a"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "460": {
+        "461": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://mail.voidtools.com/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 461,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How do I search for files within folders that match certain characteristics? - voidtools forum",
+          "url": "https://mail.voidtools.com/forum/viewtopic.php?p=35700",
+          "width": 1136,
+          "windowId": 460
+        },
+        "464": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/b0971059/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 464,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(71) Metal Refining & Recovery, Episode 22: 15,500$ in Gold? - YouTube - Cody'sLab Cody'sLab Verified",
+          "url": "https://www.youtube.com/watch?v=wuwbwYNnAKA&list=TLPQMjAwODIwMjHatgY36gz9fg&index=9",
+          "width": 1152,
+          "windowId": 460
+        },
+        "465": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 465,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The Mod Configuration Menu at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/42507",
+          "width": 1152,
+          "windowId": 460
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "460": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 460,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 3,
+    "name": "(71) Metal Refining & Recovery, Episode 22: 15,500$ in Gold? - YouTube - Cody'sLab Cody'sLab Verified",
+    "date": 1629505261608,
+    "lastEditedTime": 1629505261608,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629461144148,
+    "id": "18d96f02-4bcc-40f4-aba2-ce04763291b0"
+  }
+]

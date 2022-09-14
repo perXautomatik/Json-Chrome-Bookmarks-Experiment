@@ -1,0 +1,217 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 1734,
+          "highlighted": false,
+          "id": 2,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1152,
+          "windowId": 1
+        },
+        "301": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": true,
+          "id": 301,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Ordinal 43 Not Found? :: Fallout 3 General Discussions",
+          "url": "https://steamcommunity.com/app/22300/discussions/0/541907867765222316/",
+          "width": 1136,
+          "windowId": 1
+        },
+        "372": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 372,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Steam Community :: Discussions",
+          "url": "https://steamcommunity.com/discussions/",
+          "width": 1152,
+          "windowId": 1
+        },
+        "373": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://account.jetbrains.com/static/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 373,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JetBrains Account",
+          "url": "https://account.jetbrains.com/licenses?json=000269E45E18FA5C89DA792D30DEB77BC1F2A79136D7FD71E1E3CF7DD0FEC3B8919D226DB52DAF87B85A1DC392F035AF1BAC7DB1202B4C3A2E44231F6A19081ED8",
+          "width": 1136,
+          "windowId": 1
+        },
+        "374": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 374,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "site:https://www.xbox.com/en-US/LIVE/ - Google Search",
+          "url": "https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.xbox.com%2Fen-US%2FLIVE%2F&sxsrf=ALeKk00PB0a1LvF0-vJFfAwtSTjxaEh3fw%3A1629627662049&ei=DiUiYdSxAsiNxc8PurK10AU&oq=site%3Ahttps%3A%2F%2Fwww.xbox.com%2Fen-US%2FLIVE%2F&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGABQiy9Yiy9gtDFoAHAAeACAAVSIAcIBkgEBM5gBAKABAcABAQ&sclient=gws-wiz&ved=0ahUKEwjU8KWPtMTyAhXIRvEDHTpZDVoQ4dUDCA4&uact=5",
+          "width": 1136,
+          "windowId": 1
+        },
+        "375": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 375,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Fallout3 WinXP-7-8-10 Multicore Threading 4GB LAA with 4GB FOSE Setup at Fallout 3 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout3/mods/21888/?",
+          "width": 772,
+          "windowId": 1
+        },
+        "376": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 376,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "404 - File or directory not found.",
+          "url": "https://download.microsoft.com/download/E/6/1/E61EE391-8B89-425D-A80A-614A44FD3345/gfwlivesetup.exe",
+          "width": 772,
+          "windowId": 1
+        },
+        "377": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.dll-files.com/assets/img/favicons/favicon-32x32.png",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 377,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 301,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "xlive.dll free download | DLL‑files.com",
+          "url": "https://www.dll-files.com/download/6b78ebb4ddba9000bdbd2973f0e6cd85/xlive.dll.html?c=ZG1rNllLR0RqQUFROEhmdjJIbVVpUT09",
+          "width": 772,
+          "windowId": 1
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 831,
+        "id": 1,
+        "incognito": false,
+        "left": 1198,
+        "state": "normal",
+        "top": 70,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Ordinal 43 Not Found? :: Fallout 3 General Discussions",
+    "date": 1629628128343,
+    "lastEditedTime": 1629628128343,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629620904497,
+    "id": "44f6179f-ccac-4c5d-99ef-14351a1cf3fa"
+  }
+]

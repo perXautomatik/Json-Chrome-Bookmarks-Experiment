@@ -1,0 +1,248 @@
+[
+  {
+    "windows": {
+      "256": {
+        "255": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 437,
+          "highlighted": false,
+          "id": 255,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MoveTab - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/movetab/jokbmfhbamgbbjglhcphlpkcklpbceid",
+          "width": 1587,
+          "windowId": 256
+        },
+        "257": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 437,
+          "highlighted": false,
+          "id": 257,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 255,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "New Window With Tabs To Right - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/new-window-with-tabs-to-r/ldahcfljppchbfgdokomobmfdfplaman",
+          "width": 1587,
+          "windowId": 256
+        },
+        "258": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 437,
+          "highlighted": false,
+          "id": 258,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 255,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Open in specific window - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/open-in-specific-window/nkgphogbgnehgdfkpiknbdnjaamlbgmo",
+          "width": 1587,
+          "windowId": 256
+        },
+        "259": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 437,
+          "highlighted": false,
+          "id": 259,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 255,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tabbo - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tabbo/hedbkonckghacebehjebpfknhdbobiko/related",
+          "width": 1587,
+          "windowId": 256
+        },
+        "260": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 437,
+          "highlighted": false,
+          "id": 260,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 255,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "MoTa - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/mota/fbbmbjbjagakiioegcimkfjepkamhpph",
+          "width": 1587,
+          "windowId": 256
+        },
+        "261": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 437,
+          "highlighted": false,
+          "id": 261,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 255,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab to Window/Popup - Keyboard Shortcut - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tab-to-windowpopup-keyboa/adbkphmimfcaeonicpmamfddbbnphikh",
+          "width": 1587,
+          "windowId": 256
+        },
+        "262": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 437,
+          "highlighted": false,
+          "id": 262,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 255,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Move tab to new window - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/move-tab-to-new-window/hkbhbanfnjfblfjocdcbgjpfjbaghela",
+          "width": 1587,
+          "windowId": 256
+        },
+        "263": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 437,
+          "highlighted": false,
+          "id": 263,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 255,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab Knight - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tab-knight/mabkhheaeaegggfmcdabmhfnppnmcbhk",
+          "width": 1587,
+          "windowId": 256
+        },
+        "264": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 437,
+          "highlighted": true,
+          "id": 264,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 255,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Button: Open in new Window - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/button-open-in-new-window/jalepliekfbfmbckeiloniladgoldfid",
+          "width": 1587,
+          "windowId": 256
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "256": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 569,
+        "id": 256,
+        "incognito": false,
+        "left": 53,
+        "state": "normal",
+        "top": 69,
+        "type": "normal",
+        "width": 1651
+      }
+    },
+    "tabsNumber": 9,
+    "name": "Button: Open in new Window - Chrome Web Store",
+    "date": 1627209574538,
+    "lastEditedTime": 1627209563248,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "78205ab8-18ce-480d-afd7-da0dc576314f"
+  }
+]

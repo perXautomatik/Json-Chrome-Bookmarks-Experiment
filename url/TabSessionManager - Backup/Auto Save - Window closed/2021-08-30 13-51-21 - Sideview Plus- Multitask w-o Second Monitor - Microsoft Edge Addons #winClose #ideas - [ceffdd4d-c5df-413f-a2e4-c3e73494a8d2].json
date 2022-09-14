@@ -1,0 +1,80 @@
+[
+  {
+    "windows": {
+      "1178": {
+        "1166": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://assets.msn.com/statics/icons/favicon_newtabpage.png",
+          "groupId": -1,
+          "height": 738,
+          "highlighted": false,
+          "id": 1166,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "New tab",
+          "url": "edge://newtab/",
+          "width": 1481,
+          "windowId": 1178
+        },
+        "1216": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://microsoftedge.microsoft.com/favicon.ico",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": true,
+          "id": 1216,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1166,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sideview Plus: Multitask w/o Second Monitor - Microsoft Edge Addons",
+          "url": "https://microsoftedge.microsoft.com/addons/detail/sideview-plus-multitask-/ngocckbdkjpgidpachimbiaphcgjgoaa",
+          "width": 1481,
+          "windowId": 1178
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1178": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 858,
+        "id": 1178,
+        "incognito": false,
+        "left": 165,
+        "state": "normal",
+        "top": 172,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Sideview Plus: Multitask w/o Second Monitor - Microsoft Edge Addons",
+    "date": 1630324281531,
+    "lastEditedTime": 1630324273006,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "ceffdd4d-c5df-413f-a2e4-c3e73494a8d2"
+  }
+]

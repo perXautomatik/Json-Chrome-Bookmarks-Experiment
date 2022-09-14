@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "7698": {
+        "7699": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7699,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=121951",
+          "width": 1319,
+          "windowId": 7698
+        },
+        "7700": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7700,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "TesvCheckEspFiles Implementation List v0.5.1.pdf",
+          "url": "file:///E:/Vortex%20Mods/falloutnv/TesvCheckEspFiles%20v0.5.1-71112-0-5-1/TesvCheckEspFiles/TesvCheckEspFiles%20Implementation%20List%20v0.5.1.pdf",
+          "width": 1319,
+          "windowId": 7698
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7698": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1040,
+        "id": 7698,
+        "incognito": false,
+        "left": 250,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 2,
+    "name": "TesvCheckEspFiles Implementation List v0.5.1.pdf",
+    "date": 1631382082807,
+    "lastEditedTime": 1631382069589,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "2e85a862-acbc-47db-94f7-fade7baa3a55"
+  }
+]

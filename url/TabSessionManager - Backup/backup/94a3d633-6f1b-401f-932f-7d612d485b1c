@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1527": {
+        "1528": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://assets.msn.com/statics/icons/favicon_newtabpage.png",
+          "groupId": -1,
+          "height": 828,
+          "highlighted": true,
+          "id": 1528,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "New tab",
+          "url": "edge://newtab/",
+          "width": 1148,
+          "windowId": 1527
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1527": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 948,
+        "id": 1527,
+        "incognito": false,
+        "left": 334,
+        "state": "normal",
+        "top": 75,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 1,
+    "name": "New tab",
+    "date": 1630577106294,
+    "lastEditedTime": 1630577106294,
+    "tag": [
+      "browserExit",
+      "ideas"
+    ],
+    "sessionStartTime": 1630484833118,
+    "id": "9e744851-896c-4157-86ac-b1f3d3911af8"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "2653": {
+        "2654": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2654,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "javascript - JS: Most optimized way to remove a filename from a path in a string? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/2187256/js-most-optimized-way-to-remove-a-filename-from-a-path-in-a-string",
+          "width": 1232,
+          "windowId": 2653
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2653": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 768,
+        "id": 2653,
+        "incognito": false,
+        "left": 1511,
+        "state": "normal",
+        "top": 397,
+        "type": "normal",
+        "width": 1296
+      }
+    },
+    "tabsNumber": 1,
+    "name": "javascript - JS: Most optimized way to remove a filename from a path in a string? - Stack Overflow",
+    "date": 1628791075837,
+    "lastEditedTime": 1628790803129,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "aaa20313-00e0-4113-9387-4fe9c6f2a8ae"
+  }
+]

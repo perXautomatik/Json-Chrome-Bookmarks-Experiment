@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "1559": {
+        "1557": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/79946f8f/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 1557,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(42) Can You Beat Skyrim With Only Restoration Spells? - YouTube",
+          "url": "https://www.youtube.com/watch?v=Kg7irHJk7CE",
+          "width": 1121,
+          "windowId": 1559
+        },
+        "31183": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://magic.wizards.com/sites/all/themes/wiz_mtg/icons/favicon.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 31183,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Jumpstart Decklists | MAGIC: THE GATHERING",
+          "url": "https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18",
+          "width": 1121,
+          "windowId": 1559
+        },
+        "31184": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://p.sfx.ms/images/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 31184,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "All Photos - OneDrive",
+          "url": "https://onedrive.live.com/?v=photos&id=6DA6DE33539410C3%21338934&cid=6DA6DE33539410C3&qt=allmyphotos",
+          "width": 1121,
+          "windowId": 1559
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1559": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 1559,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 3,
+    "name": "(42) Can You Beat Skyrim With Only Restoration Spells? - YouTube",
+    "date": 1623093731395,
+    "lastEditedTime": 1623093731395,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "df2aa05e-6d99-4778-ab42-78228b9b70d7"
+  }
+]

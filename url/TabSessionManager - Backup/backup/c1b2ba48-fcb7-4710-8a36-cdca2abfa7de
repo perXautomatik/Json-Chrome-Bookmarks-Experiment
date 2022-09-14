@@ -1,0 +1,115 @@
+[
+  {
+    "windows": {
+      "4637": {
+        "4625": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 404,
+          "highlighted": true,
+          "id": 4625,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Create a new Gist",
+          "url": "https://gist.github.com/",
+          "width": 988,
+          "windowId": 4637
+        }
+      },
+      "4847": {
+        "4627": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 497,
+          "highlighted": false,
+          "id": 4627,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windowed Mode Fallout New Vegas 1440P Windowed Mode, Windowed Mode",
+          "url": "https://vivaworldcup.info/windowed-mode-fallout-new-vegas/",
+          "width": 1081,
+          "windowId": 4847
+        },
+        "4638": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/a910c60b/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 4638,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Mid '70s party in a box - YouTube",
+          "url": "https://www.youtube.com/watch?v=nJq30FR2GN8",
+          "width": 1152,
+          "windowId": 4847
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "4637": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 491,
+        "id": 4637,
+        "incognito": false,
+        "left": 2066,
+        "state": "normal",
+        "top": 489,
+        "type": "normal",
+        "width": 1052
+      },
+      "4847": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 4847,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Mid '70s party in a box - YouTube",
+    "date": 1626540241017,
+    "lastEditedTime": 1626540241017,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625991790805,
+    "id": "42b395be-67de-4025-b634-f17600da15d7"
+  }
+]

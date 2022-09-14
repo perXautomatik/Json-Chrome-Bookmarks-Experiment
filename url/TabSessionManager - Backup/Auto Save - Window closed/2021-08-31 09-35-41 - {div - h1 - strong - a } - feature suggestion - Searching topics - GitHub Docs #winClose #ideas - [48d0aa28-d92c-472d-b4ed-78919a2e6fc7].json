@@ -1,0 +1,80 @@
+[
+  {
+    "windows": {
+      "1834": {
+        "1743": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 1743,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "githuv advanced search topic release file type - Bing",
+          "url": "https://www.bing.com/search?q=githuv+advanced+search+topic+release+file+type&cvid=69bf871f84ce478f9b37b19af998fa53&aqs=edge..69i57.18525j0j1&pglt=2083&FORM=ANNTA1&PC=U531",
+          "width": 1200,
+          "windowId": 1834
+        },
+        "1836": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.github.com/assets/images/site/favicon.svg",
+          "groupId": -1,
+          "height": 808,
+          "highlighted": true,
+          "id": 1836,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1743,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "{div > h1 > strong > a } - feature suggestion - Searching topics - GitHub Docs",
+          "url": "https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-topics",
+          "width": 1481,
+          "windowId": 1834
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1834": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 896,
+        "id": 1834,
+        "incognito": false,
+        "left": 1649,
+        "state": "normal",
+        "top": -218,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 2,
+    "name": "{div > h1 > strong > a } - feature suggestion - Searching topics - GitHub Docs",
+    "date": 1630395341393,
+    "lastEditedTime": 1630393185426,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "48d0aa28-d92c-472d-b4ed-78919a2e6fc7"
+  }
+]

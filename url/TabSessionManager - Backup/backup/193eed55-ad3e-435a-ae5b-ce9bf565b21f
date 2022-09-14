@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1190": {
+        "1191": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 587,
+          "highlighted": true,
+          "id": 1191,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Spotify – Raise the Skies",
+          "url": "https://open.spotify.com/playlist/3QjcQLy3Sb76Vf7ySQF5aC",
+          "width": 1172,
+          "windowId": 1190
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1190": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 629,
+        "id": 1190,
+        "incognito": false,
+        "left": 2534,
+        "state": "normal",
+        "top": 278,
+        "type": "popup",
+        "width": 1188
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Spotify – Raise the Skies",
+    "date": 1628623828475,
+    "lastEditedTime": 1628623792349,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "0d0e0ca4-8c13-4d2b-a83e-f4de3cf797fa"
+  }
+]

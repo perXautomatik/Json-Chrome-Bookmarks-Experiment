@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10589": {
+        "10590": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10590,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Raider Overhaul WIP at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/9103",
+          "width": 1154,
+          "windowId": 10589
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10589": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10589,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Raider Overhaul WIP at Fallout 4 Nexus - Mods and community",
+    "date": 1622643482975,
+    "lastEditedTime": 1622643477574,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "46dbec82-224f-40f9-85b3-7ca7c78d6663"
+  }
+]

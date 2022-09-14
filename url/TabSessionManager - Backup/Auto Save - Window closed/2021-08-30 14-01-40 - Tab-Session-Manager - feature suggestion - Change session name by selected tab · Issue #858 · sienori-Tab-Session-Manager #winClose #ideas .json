@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1242": {
+        "1241": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 1241,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tab-Session-Manager - feature suggestion - Change session name by selected tab · Issue #858 · sienori/Tab-Session-Manager",
+          "url": "https://github.com/sienori/Tab-Session-Manager/issues/858",
+          "width": 1920,
+          "windowId": 1242
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1242": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1242,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Tab-Session-Manager - feature suggestion - Change session name by selected tab · Issue #858 · sienori/Tab-Session-Manager",
+    "date": 1630324900149,
+    "lastEditedTime": 1630324897887,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "3ec3686d-c086-4c66-aebc-701e53431aba"
+  }
+]

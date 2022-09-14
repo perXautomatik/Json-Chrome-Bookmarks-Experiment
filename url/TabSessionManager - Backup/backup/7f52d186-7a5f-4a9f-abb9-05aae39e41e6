@@ -1,0 +1,125 @@
+[
+  {
+    "windows": {
+      "2655": {
+        "2656": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.freecodecamp.org/news/favicon.png",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2656,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to Make Your Own VS Code Extension",
+          "url": "https://www.freecodecamp.org/news/making-vscode-extension/",
+          "width": 1232,
+          "windowId": 2655
+        },
+        "2657": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2657,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "pramonow/vscode-extension-ut",
+          "url": "https://github.com/pramonow/vscode-extension-ut",
+          "width": 1232,
+          "windowId": 2655
+        },
+        "2658": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2658,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "refresh source of vscode extension - Bing",
+          "url": "https://www.bing.com/search?q=refresh+source+of+vscode+extension&cvid=33d81e05ac7149889a2ab988491e4ab7&aqs=edge..69i57.7533j0j1&FORM=ANAB01&PC=U531",
+          "width": 1232,
+          "windowId": 2655
+        },
+        "2659": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2659,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "javascript - VS Code extension - get full path - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/39569993/vs-code-extension-get-full-path",
+          "width": 1232,
+          "windowId": 2655
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2655": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 768,
+        "id": 2655,
+        "incognito": false,
+        "left": 393,
+        "state": "normal",
+        "top": 91,
+        "type": "normal",
+        "width": 1296
+      }
+    },
+    "tabsNumber": 4,
+    "name": "javascript - VS Code extension - get full path - Stack Overflow",
+    "date": 1628790723243,
+    "lastEditedTime": 1628790700636,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "98a55fb8-e906-4717-9a2a-0fc0d8e0870f"
+  }
+]

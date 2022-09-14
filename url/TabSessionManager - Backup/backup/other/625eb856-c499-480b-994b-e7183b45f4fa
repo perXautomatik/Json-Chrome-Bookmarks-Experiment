@@ -1,0 +1,125 @@
+[
+  {
+    "windows": {
+      "460": {
+        "461": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://mail.voidtools.com/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 461,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How do I search for files within folders that match certain characteristics? - voidtools forum",
+          "url": "https://mail.voidtools.com/forum/viewtopic.php?p=35700",
+          "width": 1136,
+          "windowId": 460
+        },
+        "464": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/b0971059/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 464,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "test - YouTube - Techmoan Techmoan",
+          "url": "https://www.youtube.com/playlist?list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE",
+          "width": 1152,
+          "windowId": 460
+        },
+        "465": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 465,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "The Mod Configuration Menu at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/42507",
+          "width": 1152,
+          "windowId": 460
+        },
+        "466": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://store.steampowered.com/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 466,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Steam Interactive Recommender",
+          "url": "https://store.steampowered.com/recommender/76561198070792349?snr=1_239_4__12",
+          "width": 1152,
+          "windowId": 460
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "460": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1896,
+        "id": 460,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 4,
+    "name": "test - YouTube - Techmoan Techmoan",
+    "date": 1629591177766,
+    "lastEditedTime": 1629591140983,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1629461144148,
+    "id": "cff8f39d-afde-4352-aea9-242788c463b0"
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "windows": {
+      "640": {
+        "641": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 480,
+          "highlighted": false,
+          "id": 641,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "unix document word typed and when correcting - Google Search",
+          "url": "https://www.google.com/search?q=unix+document+word+typed+and+when+correcting&sxsrf=ALeKk03RX0Hz7cyA-ZhHnwepdWMHOkjn3Q%3A1627290057719&ei=yXn-YOqEK7GvrgSI-ZmwBQ&oq=unix+document+word+typed+and+when+correcting&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BwgjELACECdKBQg8EgExSgQIQRgAUJhmWIptYO9waAFwAngAgAFeiAGpA5IBATaYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=gws-wiz&ved=0ahUKEwiqjdjur4DyAhWxl4sKHYh8BlYQ4dUDCA8&uact=5",
+          "width": 781,
+          "windowId": 640
+        },
+        "1029": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 480,
+          "highlighted": false,
+          "id": 1029,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell call git with variable - Bing",
+          "url": "https://www.bing.com/search?q=powershell+call+git+with+variable&cvid=b4c7c2810a4548a0ab325f5529ce8fa5&aqs=edge..69i57.6846j0j1&FORM=ANAB01&PC=U531",
+          "width": 781,
+          "windowId": 640
+        },
+        "1030": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://learnaholic.me/favicon.png",
+          "groupId": -1,
+          "height": 480,
+          "highlighted": false,
+          "id": 1030,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Make Powershell, SSH Github and git suck less on Windows - Learn-a-holic Geek Notes",
+          "url": "http://learnaholic.me/2012/10/12/make-powershell-and-git-suck-less-on-windows/",
+          "width": 781,
+          "windowId": 640
+        },
+        "1031": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 480,
+          "highlighted": false,
+          "id": 1031,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Using Git with PowerShell on Windows 10",
+          "url": "https://www.develves.net/blogs/asd/articles/using-git-with-powershell-on-windows-10/",
+          "width": 781,
+          "windowId": 640
+        },
+        "1032": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 480,
+          "highlighted": false,
+          "id": 1032,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to call an executable with parameters from powershell script - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/21437019/how-to-call-an-executable-with-parameters-from-powershell-script",
+          "width": 781,
+          "windowId": 640
+        },
+        "1033": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://forums.nexusmods.com/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 1033,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Vortex/LOOT: METADATA and RULE HELP, Load Order - Vortex Support - The Nexus Forums",
+          "url": "https://forums.nexusmods.com/index.php?/topic/8021698-vortexloot-metadata-and-rule-help-load-order/",
+          "width": 1545,
+          "windowId": 640
+        },
+        "1079": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://beatvortex.dev/favicons/favicon-32x32.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 1079,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Metadata and Meta Servers | BeatVortex",
+          "url": "https://beatvortex.dev/docs/developer/meta/",
+          "width": 1545,
+          "windowId": 640
+        },
+        "1081": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://relay.vortex.support/favicons/favicon-32x32.png",
+          "groupId": -1,
+          "height": 480,
+          "highlighted": true,
+          "id": 1081,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1079,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Configuring Metaserver Clients | ModMeta Relay",
+          "url": "https://relay.vortex.support/docs/usage/vortex/",
+          "width": 781,
+          "windowId": 640
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "640": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 567,
+        "id": 640,
+        "incognito": false,
+        "left": 2112,
+        "state": "normal",
+        "top": 1118,
+        "type": "normal",
+        "width": 1172
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Configuring Metaserver Clients | ModMeta Relay",
+    "date": 1627639084997,
+    "lastEditedTime": 1627637106529,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "01daa947-d9c2-472f-b8e7-f24b4d408cbc"
+  }
+]

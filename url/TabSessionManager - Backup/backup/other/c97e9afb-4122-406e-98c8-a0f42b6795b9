@@ -1,0 +1,93 @@
+[
+  {
+    "windows": {
+      "4317": {
+        "3562": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/35e75ccf/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": true,
+          "id": 3562,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "China's ISS Competitor Begins Construction In Orbit - YouTube",
+          "url": "https://www.youtube.com/watch?v=06GUEkc4EEA&list=TLPQMDYwNzIwMjGtzIY43W9k-w&index=105",
+          "width": 1004,
+          "windowId": 4317
+        }
+      },
+      "4408": {
+        "4402": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210706180444",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": true,
+          "id": 4402,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Crush Crush Moist & Uncensored Sex Game | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1004,
+          "windowId": 4408
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "4317": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 911,
+        "id": 4317,
+        "incognito": false,
+        "left": 859,
+        "state": "normal",
+        "top": 136,
+        "type": "normal",
+        "width": 1068
+      },
+      "4408": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 911,
+        "id": 4408,
+        "incognito": false,
+        "left": 869,
+        "state": "minimized",
+        "top": 146,
+        "type": "normal",
+        "width": 1068
+      }
+    },
+    "tabsNumber": 2,
+    "name": "China's ISS Competitor Begins Construction In Orbit - YouTube",
+    "date": 1625808343777,
+    "lastEditedTime": 1625808343777,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "7357d898-fa30-480d-b133-c94e4122cb77"
+  }
+]

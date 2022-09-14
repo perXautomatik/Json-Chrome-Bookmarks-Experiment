@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "2337": {
+        "2335": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 837,
+          "highlighted": true,
+          "id": 2335,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Spotify – Search",
+          "url": "https://open.spotify.com/search",
+          "width": 1133,
+          "windowId": 2337
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2337": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 924,
+        "id": 2337,
+        "incognito": false,
+        "left": 1923,
+        "state": "normal",
+        "top": -2,
+        "type": "normal",
+        "width": 1197
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Spotify – Search",
+    "date": 1625068831277,
+    "lastEditedTime": 1625068831277,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1624961591940,
+    "id": "ef059ddb-3e7d-4470-b791-7df2ab6970b6"
+  }
+]

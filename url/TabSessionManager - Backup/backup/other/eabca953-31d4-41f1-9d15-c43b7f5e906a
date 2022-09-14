@@ -1,0 +1,148 @@
+[
+  {
+    "windows": {
+      "266": {
+        "265": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 482,
+          "highlighted": false,
+          "id": 265,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/",
+          "width": 1587,
+          "windowId": 266
+        },
+        "279": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 450,
+          "highlighted": false,
+          "id": 279,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1587,
+          "windowId": 266
+        },
+        "280": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 482,
+          "highlighted": false,
+          "id": 280,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "www.restaurangvisborg.se",
+          "url": "http://www.restaurangvisborg.se/veckans-lunch/",
+          "width": 1587,
+          "windowId": 266
+        },
+        "281": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://portalen.gotland.se/favicon.ico",
+          "groupId": -1,
+          "height": 482,
+          "highlighted": false,
+          "id": 281,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 279,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Portalen",
+          "url": "https://portalen.gotland.se/wa/chooseAuthmech?authmechs=Anv%c3%a4ndarnamn%20och%20L%c3%b6senord%3aAnv%c3%a4ndarnamn%20och%20L%c3%b6senord;b1tio2757gu8%3aForeign%20eID;Windows%20integrerad%3aWindows%20integrerad;3rymk8hva0xs%3ae-legitimation#map",
+          "width": 1587,
+          "windowId": 266
+        },
+        "294": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://theme.zdassets.com/theme_assets/471373/d94764657d0d75c8dc3b4c65d15a3a10d3418817.png",
+          "groupId": -1,
+          "height": 482,
+          "highlighted": true,
+          "id": 294,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Terms of Service – VirusTotal",
+          "url": "https://support.virustotal.com/hc/en-us/articles/115002145529-Terms-of-Service",
+          "width": 1587,
+          "windowId": 266
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "266": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 569,
+        "id": 266,
+        "incognito": false,
+        "left": 1531,
+        "state": "normal",
+        "top": -181,
+        "type": "normal",
+        "width": 1651
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Terms of Service – VirusTotal",
+    "date": 1627223328804,
+    "lastEditedTime": 1627223309895,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "0da739ba-b809-4d69-b083-22cafba0223b"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10535": {
+        "10536": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10536,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "AWKCR - Armorsmith Extended - CTD FIX - at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/22402",
+          "width": 1154,
+          "windowId": 10535
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10535": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10535,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "AWKCR - Armorsmith Extended - CTD FIX - at Fallout 4 Nexus - Mods and community",
+    "date": 1622643440818,
+    "lastEditedTime": 1622643437464,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "2dec4ffb-8d47-4043-91e3-87f74efb498d"
+  }
+]

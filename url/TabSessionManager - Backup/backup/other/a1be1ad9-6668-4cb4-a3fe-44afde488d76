@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2666": {
+        "2667": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2667,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Take All Button R at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/64027",
+          "width": 1154,
+          "windowId": 2666
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2666": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2666,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Take All Button R at Fallout New Vegas - mods and community",
+    "date": 1627976299426,
+    "lastEditedTime": 1627976297680,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "555ab340-5a32-45a2-b8c7-2dae63614dac"
+  }
+]

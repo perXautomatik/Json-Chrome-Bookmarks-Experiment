@@ -1,0 +1,124 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "90": {
+        "width": 1858,
+        "type": "normal",
+        "top": -8,
+        "state": "maximized",
+        "left": 70,
+        "incognito": false,
+        "height": 1096,
+        "focused": true,
+        "alwaysOnTop": false,
+        "id": 90
+      }
+    },
+    "windows": {
+      "90": {
+        "93": {
+          "title": "Miljö",
+          "windowId": 90,
+          "width": 1801,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1010,
+          "favIconUrl": "https://gis.gotland.se/map/Content/images/favicon.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://gis.gotland.se/map/?app=Milj%C3%B6&lang=sv#map",
+          "id": 93,
+          "index": 2
+        },
+        "99": {
+          "title": "Your Repositories",
+          "windowId": 90,
+          "width": 1801,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1000,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://github.com/perXautomatik?tab=repositories",
+          "id": 99,
+          "index": 1
+        },
+        "100": {
+          "title": "Page not found · GitHub · GitHub",
+          "windowId": 90,
+          "width": 1801,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1010,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://github.com/perXautomatik/mapinfo-Uts-kning-f-r-utskick/branches",
+          "id": 100,
+          "index": 0
+        },
+        "112": {
+          "title": "Innehåll i kartan",
+          "windowId": 90,
+          "width": 1801,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "openerTabId": 93,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 1010,
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://help.sgroup-solutions.se/19.3/sv/Webapplication/karta/map_content.htm",
+          "id": 112,
+          "index": 3
+        }
+      }
+    },
+    "tag": [
+      "browserExit",
+      "Work",
+      "Loppy",
+      "Home",
+      "Edge"
+    ],
+    "tabsNumber": 4,
+    "sessionStartTime": 1600797215234,
+    "name": "Innehåll i kartan",
+    "lastEditedTime": 1623010775731,
+    "date": 1600797464130,
+    "id": "e320e944-27af-4811-87d3-e0dbd5d80855"
+  }
+]

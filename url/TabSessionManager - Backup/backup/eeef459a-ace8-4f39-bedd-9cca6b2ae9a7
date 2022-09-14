@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2187": {
+        "2188": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2188,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Megaton Walkway - TTW at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/69913",
+          "width": 1154,
+          "windowId": 2187
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2187": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2187,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Megaton Walkway - TTW at Fallout New Vegas - mods and community",
+    "date": 1627156232288,
+    "lastEditedTime": 1627156230686,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "5bd540ce-ccdf-4653-8fa9-6e29ee8fc406"
+  }
+]

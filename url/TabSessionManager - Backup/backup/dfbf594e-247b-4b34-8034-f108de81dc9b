@@ -1,0 +1,379 @@
+[
+  {
+    "windows": {
+      "240": {
+        "241": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 241,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sisong/HDiffPatch: a C\\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; run fast; create small delta/differential; support large files and limit memory requires when diff & patch.",
+          "url": "https://github.com/sisong/HDiffPatch",
+          "width": 1196,
+          "windowId": 240
+        },
+        "370": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://xdelta.org/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 370,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "xdelta",
+          "url": "http://xdelta.org/",
+          "width": 1196,
+          "windowId": 240
+        },
+        "375": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://wiki.nexusmods.com/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 375,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Creating a game extension for Vortex - Nexus Mods Wiki",
+          "url": "https://wiki.nexusmods.com/index.php/Creating_a_game_extension_for_Vortex",
+          "width": 1560,
+          "windowId": 240
+        },
+        "376": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 376,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Age of Empires II: Definitive Edition Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/ageofempires2definitiveedition",
+          "width": 1560,
+          "windowId": 240
+        },
+        "377": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 377,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "fallout new vegas windowmode - Bing",
+          "url": "https://www.bing.com/search?q=fallout+new+vegas+windowmode&cvid=36cd295fb0314f4599bb16f775e7d929&aqs=edge.0.69i59j69i57j0l3j69i60l3j69i65.3584j0j1&FORM=ANAB01&PC=U531",
+          "width": 1560,
+          "windowId": 240
+        },
+        "378": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gamefaqs.gamespot.com/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 378,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windowed Mode? - Fallout: New Vegas",
+          "url": "https://gamefaqs.gamespot.com/boards/959559-fallout-new-vegas/59729457",
+          "width": 1560,
+          "windowId": 240
+        },
+        "379": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 379,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FullScreenWindowedMode at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/57843",
+          "width": 1560,
+          "windowId": 240
+        },
+        "380": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 380,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Fake Fullscreen Mode Windowed - Alt Tab Fix at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/41381",
+          "width": 1560,
+          "windowId": 240
+        },
+        "381": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gamefaqs.gamespot.com/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 381,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Fallout in windowed mode? - Fallout: New Vegas",
+          "url": "https://gamefaqs.gamespot.com/boards/959559-fallout-new-vegas/56829109",
+          "width": 1560,
+          "windowId": 240
+        },
+        "382": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 382,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windowed Resolutions??? :: Fallout: New Vegas General Discussions",
+          "url": "https://steamcommunity.com/app/22380/discussions/0/535150948606793685/",
+          "width": 1560,
+          "windowId": 240
+        },
+        "383": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://gamefaqs.gamespot.com/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 383,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windowed Mode - Fallout: New Vegas",
+          "url": "https://gamefaqs.gamespot.com/boards/959559-fallout-new-vegas/59733500",
+          "width": 1560,
+          "windowId": 240
+        },
+        "384": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 384,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Full Screen Window Mode at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/35817",
+          "width": 1560,
+          "windowId": 240
+        },
+        "385": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://answers.microsoft.com/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 385,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Fallout 3 New Vegas Windows 10 Compatibility - Microsoft Community",
+          "url": "https://answers.microsoft.com/en-us/windows/forum/all/fallout-3-new-vegas-windows-10-compatibility/45192a49-b584-4d0b-a1aa-a09472bba4bb",
+          "width": 1560,
+          "windowId": 240
+        },
+        "390": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://tortoisegit.org/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 390,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "TortoiseGit's Settings – TortoiseGit – Documentation – TortoiseGit – Windows Shell Interface to Git",
+          "url": "https://tortoisegit.org/docs/tortoisegit/tgit-dug-settings.html#tgit-dug-settings-progs",
+          "width": 1481,
+          "windowId": 240
+        },
+        "391": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/4a848258/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1920,
+          "highlighted": true,
+          "id": 391,
+          "incognito": false,
+          "index": 14,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 390,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(32) I broke Moonpig and printed 99 Todd Howard Cards for Free... - YouTube - The Spiffing Brit The Spiffing Brit Verified",
+          "url": "https://www.youtube.com/watch?v=1QKdwQdUFL8&list=TLPQMTgwODIwMjELqtnYijwjwg&index=2",
+          "width": 1200,
+          "windowId": 240
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "240": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1920,
+        "id": 240,
+        "incognito": false,
+        "left": 1920,
+        "state": "fullscreen",
+        "top": -620,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 15,
+    "name": "(32) I broke Moonpig and printed 99 Todd Howard Cards for Free... - YouTube - The Spiffing Brit The Spiffing Brit Verified",
+    "date": 1629319156227,
+    "lastEditedTime": 1629319156227,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629294844519,
+    "id": "79cd3ca7-ab08-4b8b-b1fe-2b7e21a38255"
+  }
+]

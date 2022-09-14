@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "4860": {
+        "4861": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://store.steampowered.com/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 4861,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Shopping Cart",
+          "url": "https://store.steampowered.com/cart/",
+          "width": 1872,
+          "windowId": 4860
+        },
+        "4911": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 4911,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "perXautomatik’s gists",
+          "url": "https://gist.github.com/perXautomatik?page=3",
+          "width": 1872,
+          "windowId": 4860
+        },
+        "5188": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://store.steampowered.com/favicon.ico",
+          "groupId": -1,
+          "height": 581,
+          "highlighted": true,
+          "id": 5188,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "per_automatik's wishlist",
+          "url": "https://store.steampowered.com/wishlist/profiles/76561198070792349/#sort=reviewscore&price_1=1&discount_any=1",
+          "width": 1013,
+          "windowId": 4860
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4860": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 668,
+        "id": 4860,
+        "incognito": false,
+        "left": 195,
+        "state": "normal",
+        "top": 252,
+        "type": "normal",
+        "width": 1077
+      }
+    },
+    "tabsNumber": 3,
+    "name": "per_automatik's wishlist",
+    "date": 1626627471115,
+    "lastEditedTime": 1626627420313,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1625991790805,
+    "id": "748a44ab-5ad5-4ed6-9f0e-d1e0b5542221"
+  }
+]

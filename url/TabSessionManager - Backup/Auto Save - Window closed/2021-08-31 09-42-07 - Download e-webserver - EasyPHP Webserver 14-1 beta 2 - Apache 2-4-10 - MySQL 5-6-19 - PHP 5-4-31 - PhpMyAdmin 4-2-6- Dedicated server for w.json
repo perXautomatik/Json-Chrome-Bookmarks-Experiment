@@ -1,0 +1,103 @@
+[
+  {
+    "windows": {
+      "1857": {
+        "1854": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 1854,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "portable php - Bing",
+          "url": "https://www.bing.com/search?q=portable+php&qs=n&form=QBRE&sp=-1&ghc=1&pq=portable+php&sc=8-12&sk=&cvid=9E2D04016E3546828599454307C8B958",
+          "width": 1200,
+          "windowId": 1857
+        },
+        "1858": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pendriveapps.com/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 1858,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "EasyPHP - Portable WAMP Web Server | USB Apps",
+          "url": "https://pendriveapps.com/easyphp-portable-wamp-web-server/",
+          "width": 1200,
+          "windowId": 1857
+        },
+        "1859": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.easyphp.org/images_easyphp/favicon.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 1859,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1858,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Download e-webserver | EasyPHP Webserver 14.1 beta 2 : Apache 2.4.10 | MySQL 5.6.19 | PHP 5.4.31 | PhpMyAdmin 4.2.6. Dedicated server for website hosting.",
+          "url": "https://www.easyphp.org/save-easyphp-webserver-latest.php",
+          "width": 1200,
+          "windowId": 1857
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1857": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 1857,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Download e-webserver | EasyPHP Webserver 14.1 beta 2 : Apache 2.4.10 | MySQL 5.6.19 | PHP 5.4.31 | PhpMyAdmin 4.2.6. Dedicated server for website hosting.",
+    "date": 1630395727878,
+    "lastEditedTime": 1630395442512,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "8993bd15-f7ad-46e3-92ca-0f03a64b45e4"
+  }
+]

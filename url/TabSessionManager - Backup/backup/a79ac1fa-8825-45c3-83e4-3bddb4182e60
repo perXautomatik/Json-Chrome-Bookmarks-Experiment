@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "269": {
+        "270": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 561,
+          "highlighted": true,
+          "id": 270,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "[L] Tablerone bookmarks [R] /",
+          "url": "chrome-extension://knfpajocfeohpaipkfpdbfhgibajfmcf/data/commander/index.html?mode=window",
+          "width": 734,
+          "windowId": 269
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "269": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 600,
+        "id": 269,
+        "incognito": false,
+        "left": 618,
+        "state": "normal",
+        "top": 156,
+        "type": "popup",
+        "width": 750
+      }
+    },
+    "tabsNumber": 1,
+    "name": "[L] Tablerone bookmarks [R] /",
+    "date": 1631214831540,
+    "lastEditedTime": 1631214447723,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1631199486672,
+    "id": "0fd5233a-43e1-408a-b1d9-2d6d1037a594"
+  }
+]

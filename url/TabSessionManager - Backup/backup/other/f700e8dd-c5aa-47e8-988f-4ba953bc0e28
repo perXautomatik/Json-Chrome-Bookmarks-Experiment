@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2642": {
+        "2643": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2643,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Home On The Wastes at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/66918",
+          "width": 1154,
+          "windowId": 2642
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2642": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2642,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Home On The Wastes at Fallout New Vegas - mods and community",
+    "date": 1627976286705,
+    "lastEditedTime": 1627976284900,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "c1886b72-b5f7-4745-9e00-c15bb089d9fc"
+  }
+]

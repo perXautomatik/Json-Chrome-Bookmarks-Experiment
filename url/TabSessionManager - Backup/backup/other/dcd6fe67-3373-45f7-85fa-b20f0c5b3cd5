@@ -1,0 +1,145 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "67": {
+        "width": 1381,
+        "type": "normal",
+        "top": 135,
+        "state": "normal",
+        "left": 308,
+        "incognito": false,
+        "height": 810,
+        "focused": false,
+        "alwaysOnTop": false,
+        "id": 67
+      }
+    },
+    "windows": {
+      "67": {
+        "74": {
+          "title": "Page not found · GitHub · GitHub",
+          "windowId": 67,
+          "width": 1801,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 998,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://github.com/perXautomatik/mapinfo-Uts-kning-f-r-utskick/branches",
+          "id": 74,
+          "index": 3
+        },
+        "75": {
+          "title": "Your Repositories",
+          "windowId": 67,
+          "width": 1324,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 721,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "https://github.com/perXautomatik?tab=repositories",
+          "id": 75,
+          "index": 0
+        },
+        "79": {
+          "title": "Miljö",
+          "windowId": 67,
+          "width": 1324,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 721,
+          "favIconUrl": "https://gis.gotland.se/map/Content/images/favicon.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://gis.gotland.se/map/?app=Milj%C3%B6&lang=sv#map",
+          "id": 79,
+          "index": 1
+        },
+        "82": {
+          "title": "Innehåll i kartan",
+          "windowId": 67,
+          "width": 1324,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 721,
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://help.sgroup-solutions.se/19.3/sv/Webapplication/karta/map_content.htm",
+          "id": 82,
+          "index": 2
+        },
+        "89": {
+          "title": "Managing and filtering database objects, data sources groups, diagrams - Features | DataGrip",
+          "windowId": 67,
+          "width": 1324,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 721,
+          "favIconUrl": "https://www.jetbrains.com/favicon-32x32.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.jetbrains.com/datagrip/features/dbobjects.html",
+          "id": 89,
+          "index": 4
+        }
+      }
+    },
+    "tag": [
+      "browserExit",
+      "Work",
+      "Loppy",
+      "Home",
+      "Edge"
+    ],
+    "tabsNumber": 5,
+    "sessionStartTime": 1600802085758,
+    "name": "GX Corner",
+    "lastEditedTime": 1623010774337,
+    "date": 1600805547501,
+    "id": "de5221aa-3828-4203-ad34-166f0dc3c44b"
+  }
+]

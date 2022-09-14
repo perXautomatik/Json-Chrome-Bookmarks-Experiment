@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "15844": {
+        "15818": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210604153606",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 15818,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sacred Sword Princesses - Action RPG | Nutaku",
+          "url": "https://www.nutaku.net/games/sacred-sword-princesses/play/",
+          "width": 1300,
+          "windowId": 15844
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "15844": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 15844,
+        "incognito": false,
+        "left": 668,
+        "state": "normal",
+        "top": 20,
+        "type": "normal",
+        "width": 1395
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Sacred Sword Princesses - Action RPG | Nutaku",
+    "date": 1623083959346,
+    "lastEditedTime": 1623060536894,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "d1c8963e-6079-4949-ac82-05c6021f1618"
+  }
+]

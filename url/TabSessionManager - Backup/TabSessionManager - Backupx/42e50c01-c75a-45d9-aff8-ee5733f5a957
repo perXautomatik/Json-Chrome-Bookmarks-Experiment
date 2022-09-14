@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10415": {
+        "10416": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10416,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Subway Runner at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/18639",
+          "width": 1154,
+          "windowId": 10415
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10415": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10415,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Subway Runner at Fallout 4 Nexus - Mods and community",
+    "date": 1622643350262,
+    "lastEditedTime": 1622643347794,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "506cbc47-7cb8-426c-a5f9-4fc5a82faee9"
+  }
+]

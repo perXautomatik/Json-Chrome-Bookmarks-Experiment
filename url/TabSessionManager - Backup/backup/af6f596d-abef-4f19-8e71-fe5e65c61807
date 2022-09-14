@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2914": {
+        "2915": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2915,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Hand Loader - Vigilant Recycler at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/67457",
+          "width": 1154,
+          "windowId": 2914
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2914": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2914,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Hand Loader - Vigilant Recycler at Fallout New Vegas - mods and community",
+    "date": 1627976441839,
+    "lastEditedTime": 1627976440116,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "b81caf9a-abde-4833-969c-abde4f9aa1ea"
+  }
+]

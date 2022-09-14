@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10102": {
+        "10103": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10103,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Advanced AI Tweaks (Combat - Stealth - Detection - Sandbox - AI Behavior Upgrade) at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/27763?tab=files&file_id=119043&nmm=1",
+          "width": 1154,
+          "windowId": 10102
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10102": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10102,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Advanced AI Tweaks (Combat - Stealth - Detection - Sandbox - AI Behavior Upgrade) at Fallout 4 Nexus - Mods and community",
+    "date": 1622643024042,
+    "lastEditedTime": 1622643020790,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "a03136cf-e5f7-4d32-b365-b387a57eefce"
+  }
+]

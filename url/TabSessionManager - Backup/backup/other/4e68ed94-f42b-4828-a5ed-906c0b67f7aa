@@ -1,0 +1,103 @@
+[
+  {
+    "windows": {
+      "1479": {
+        "1480": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/unreadcountfavicon/3/20+.png",
+          "groupId": -1,
+          "height": 861,
+          "highlighted": false,
+          "id": 1480,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "jobb - christoffer.broback@gmail.com - Gmail",
+          "url": "https://mail.google.com/mail/u/0/?hl=sv#inbox/FMfcgzGkbDVqjDswjkmzMDQvPGpFjHhV",
+          "width": 1100,
+          "windowId": 1479
+        },
+        "1525": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.gotland.se/images_gui/_/icons/favicon.ico",
+          "groupId": -1,
+          "height": 861,
+          "highlighted": false,
+          "id": 1525,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Systemförvaltare - Region Gotland",
+          "url": "https://www.gotland.se/ledigt_jobb/C675049A-30D5-465B-A557-8B28BF731B89",
+          "width": 1100,
+          "windowId": 1479
+        },
+        "1598": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://recruit.visma.com/favicon.ico",
+          "groupId": -1,
+          "height": 861,
+          "highlighted": true,
+          "id": 1598,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1525,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Logga in till befintligt användarkonto - Rekrytering",
+          "url": "https://recruit.visma.com/Public/Login/Applicant.aspx?ReturnUrl=%2Fspa%2Fsv%2Fapplicant%2Fapply%3FguidAssignment%3Dc675049a-30d5-465b-a557-8b28bf731b89%26frameablegui%3D",
+          "width": 1100,
+          "windowId": 1479
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1479": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 948,
+        "id": 1479,
+        "incognito": false,
+        "left": 234,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Logga in till befintligt användarkonto - Rekrytering",
+    "date": 1630586250819,
+    "lastEditedTime": 1630586250819,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1630426906378,
+    "id": "9dd414c7-d5dc-4f0f-af9f-b405e254b8cd"
+  }
+]

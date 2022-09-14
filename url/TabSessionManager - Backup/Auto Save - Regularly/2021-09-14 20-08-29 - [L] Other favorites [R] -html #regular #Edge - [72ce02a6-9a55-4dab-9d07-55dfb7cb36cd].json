@@ -1,0 +1,116 @@
+[
+  {
+    "windows": {
+      "391": {
+        "393": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 393,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/profiles",
+          "width": 1319,
+          "windowId": 391
+        },
+        "413": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 413,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=123176",
+          "width": 1872,
+          "windowId": 391
+        }
+      },
+      "562": {
+        "563": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 581,
+          "highlighted": true,
+          "id": 563,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "[L] Other favorites [R] .html",
+          "url": "chrome-extension://knfpajocfeohpaipkfpdbfhgibajfmcf/data/commander/index.html?mode=window",
+          "width": 1256,
+          "windowId": 562
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "391": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1056,
+        "id": 391,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      },
+      "562": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 620,
+        "id": 562,
+        "incognito": false,
+        "left": 526,
+        "state": "normal",
+        "top": 219,
+        "type": "popup",
+        "width": 1272
+      }
+    },
+    "tabsNumber": 3,
+    "name": "[L] Other favorites [R] .html",
+    "date": 1631642909771,
+    "lastEditedTime": 1631642909771,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1631557337412,
+    "id": "72ce02a6-9a55-4dab-9d07-55dfb7cb36cd"
+  }
+]

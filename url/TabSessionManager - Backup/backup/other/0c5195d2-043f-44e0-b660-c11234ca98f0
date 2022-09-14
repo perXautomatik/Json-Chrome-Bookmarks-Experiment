@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2277": {
+        "2278": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2278,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "TTW Economy optimised at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/66753",
+          "width": 1154,
+          "windowId": 2277
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2277": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2277,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "TTW Economy optimised at Fallout New Vegas - mods and community",
+    "date": 1627156278880,
+    "lastEditedTime": 1627156277068,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "edee823d-a13f-4783-813a-e9c9fd4de86c"
+  }
+]

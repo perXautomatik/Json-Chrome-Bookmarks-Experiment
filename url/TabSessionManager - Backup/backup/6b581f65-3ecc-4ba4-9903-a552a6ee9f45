@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2607": {
+        "2608": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2608,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Old World Hues - Basic Real Authentic 1950s Pre-War (Less Bugeyed and more Bugfixed) All Sunglasses Aviators Authority Glasses and Glasses Replacer at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/72056",
+          "width": 1154,
+          "windowId": 2607
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2607": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2607,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Old World Hues - Basic Real Authentic 1950s Pre-War (Less Bugeyed and more Bugfixed) All Sunglasses Aviators Authority Glasses and Glasses Replacer at Fallout New Vegas - mods and community",
+    "date": 1627156454750,
+    "lastEditedTime": 1627156453041,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "8c6ef893-a0f3-4034-ae84-079bdaf7e5e7"
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "windows": {
+      "1": {
+        "552": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/1802aa0e/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 552,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Prove Stupid Idea Wrong WIN $10,000! (Mudfossil University) - YouTube",
+          "url": "https://www.youtube.com/watch?v=jbRFLhsnIi4",
+          "width": 1152,
+          "windowId": 1
+        }
+      },
+      "554": {
+        "555": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 555,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=94653",
+          "width": 1508,
+          "windowId": 554
+        },
+        "559": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://support.microsoft.com/favicon-32x32.png",
+          "groupId": -1,
+          "height": 525,
+          "highlighted": false,
+          "id": 559,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Why does Microsoft Edge turn off extensions I've installed?",
+          "url": "https://support.microsoft.com/en-us/microsoft-edge/why-does-microsoft-edge-turn-off-extensions-i-ve-installed-56664742-3979-e938-4f2e-8ddb2eac8453",
+          "width": 1110,
+          "windowId": 554
+        },
+        "560": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 560,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/?id=kpogandfndblomniegfaeakkjchmiedi",
+          "width": 1508,
+          "windowId": 554
+        },
+        "561": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 561,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FNVEdit at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/34703",
+          "width": 1508,
+          "windowId": 554
+        },
+        "828": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://enbdev.com/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 828,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Fallout 3 / Fallout New Vegas",
+          "url": "http://enbdev.com/download_patch_falloutnv.htm",
+          "width": 1872,
+          "windowId": 554
+        },
+        "830": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 830,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pendingUrl": "chrome-extension://idfbjjfgccflicphjlpbomcklaehplha/newtab.html#94653",
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Visual bookmarks",
+          "url": "chrome-extension://idfbjjfgccflicphjlpbomcklaehplha/newtab.html#94653",
+          "width": 1508,
+          "windowId": 554
+        },
+        "2631": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 2631,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FNV Mod Limit Fix at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/68714?tab=description&BH=2",
+          "width": 1508,
+          "windowId": 554
+        },
+        "2716": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 2716,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Changelog at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/articles/55602",
+          "width": 1508,
+          "windowId": 554
+        },
+        "2717": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 2717,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Changelog at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/articles/55602",
+          "width": 1508,
+          "windowId": 554
+        },
+        "2767": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 2767,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Unofficial Patch NVSE Plus at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/71239",
+          "width": 1508,
+          "windowId": 554
+        },
+        "2768": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 924,
+          "highlighted": false,
+          "id": 2768,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Nukem - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/nukem/kpogandfndblomniegfaeakkjchmiedi",
+          "width": 1508,
+          "windowId": 554
+        },
+        "2770": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 2770,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Pin-up Loading Screens 1920x1080 at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/63663?tab=files&file_id=1000043002&nmm=1",
+          "width": 1508,
+          "windowId": 554
+        },
+        "2771": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 2771,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 830,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "SuperSorter options",
+          "url": "chrome-extension://hjebfgojnlefhdgmomncgjglmdckngij/options.html",
+          "width": 1508,
+          "windowId": 554
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 1,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      },
+      "554": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 554,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 14,
+    "name": "SuperSorter options",
+    "date": 1627157156630,
+    "lastEditedTime": 1627157156630,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "909c6b19-ac3f-40e5-ab80-664cddbcce59"
+  }
+]

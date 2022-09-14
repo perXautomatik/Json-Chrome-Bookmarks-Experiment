@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "387": {
+        "386": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.appuals.com/wp-content/uploads/2021/06/cropped-cropped-512-1-32x32.png",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": true,
+          "id": 386,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Fix: Application Load Error 5:0000065434 - Appuals.com",
+          "url": "https://appuals.com/fix-application-load-error-50000065434/",
+          "width": 1560,
+          "windowId": 387
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "387": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 831,
+        "id": 387,
+        "incognito": false,
+        "left": 221,
+        "state": "normal",
+        "top": 340,
+        "type": "normal",
+        "width": 1576
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Fix: Application Load Error 5:0000065434 - Appuals.com",
+    "date": 1629303992198,
+    "lastEditedTime": 1629302667812,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1629294844519,
+    "id": "2a18f242-7d02-4f79-b379-f13ba4dbdc62"
+  }
+]

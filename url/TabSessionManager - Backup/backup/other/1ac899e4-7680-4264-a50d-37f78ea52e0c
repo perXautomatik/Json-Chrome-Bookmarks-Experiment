@@ -1,0 +1,126 @@
+[
+  {
+    "windows": {
+      "5458": {
+        "5459": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 5459,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "rePOPULATED WASTELAND at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/40176",
+          "width": 1003,
+          "windowId": 5458
+        },
+        "5460": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 5460,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Window Manager",
+          "url": "chrome-extension://aadahadfdmiibmdhfmpbeeebejmjnkef/manager.html",
+          "width": 1872,
+          "windowId": 5458
+        },
+        "5603": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 5603,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "ahk sendkeys - Bing",
+          "url": "https://www.bing.com/search?q=ahk+sendkeys&cvid=0a4bcc6a2acf417986125a43ed69a222&aqs=edge.2.0l7.5894j0j1&FORM=ANAB01&PC=U531",
+          "width": 1872,
+          "windowId": 5458
+        },
+        "5604": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.autohotkey.com/favicon.ico",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": true,
+          "id": 5604,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 5603,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "MouseClick - Syntax & Usage | AutoHotkey",
+          "url": "https://www.autohotkey.com/docs/commands/MouseClick.htm",
+          "width": 1003,
+          "windowId": 5458
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5458": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 911,
+        "id": 5458,
+        "incognito": false,
+        "left": 1998,
+        "state": "normal",
+        "top": 628,
+        "type": "normal",
+        "width": 1067
+      }
+    },
+    "tabsNumber": 4,
+    "name": "MouseClick - Syntax & Usage | AutoHotkey",
+    "date": 1625930164416,
+    "lastEditedTime": 1625921061231,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "aa833bbb-1ab3-479c-ab83-84cc753f5656"
+  }
+]

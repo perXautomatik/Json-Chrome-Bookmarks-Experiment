@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10355": {
+        "10356": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10356,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Pra's zEdit Scripts - Automated Patch Generation RELOADED at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/33858?tab=files",
+          "width": 1154,
+          "windowId": 10355
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10355": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10355,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Pra's zEdit Scripts - Automated Patch Generation RELOADED at Fallout 4 Nexus - Mods and community",
+    "date": 1622643304438,
+    "lastEditedTime": 1622643300707,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "5b93a8ae-f815-479e-95c5-46b3ee026388"
+  }
+]

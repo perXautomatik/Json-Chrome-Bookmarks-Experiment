@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1479": {
+        "1480": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/unreadcountfavicon/3/20+.png",
+          "groupId": -1,
+          "height": 861,
+          "highlighted": true,
+          "id": 1480,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "jobb - christoffer.broback@gmail.com - Gmail",
+          "url": "https://mail.google.com/mail/u/0/?hl=sv#inbox/FMfcgzGkbDVqjDswjkmzMDQvPGpFjHhV",
+          "width": 1100,
+          "windowId": 1479
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1479": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 948,
+        "id": 1479,
+        "incognito": false,
+        "left": 399,
+        "state": "normal",
+        "top": 92,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 1,
+    "name": "jobb - christoffer.broback@gmail.com - Gmail",
+    "date": 1630568250827,
+    "lastEditedTime": 1630568250827,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1630426906378,
+    "id": "18bdf751-61c0-4d4c-af60-02ecd5d4453f"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "1386": {
+        "1385": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.advancedrenamer.com/favicon.ico",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1385,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Advanced Renamer - Forum - Add A Word To Random Position Between Words In FileName",
+          "url": "https://www.advancedrenamer.com/forum_thread?forum_id=10511",
+          "width": 1111,
+          "windowId": 1386
+        },
+        "1567": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": true,
+          "id": 1567,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Comparison to foam · Issue #9 · svsool/vscode-memo",
+          "url": "https://github.com/svsool/vscode-memo/issues/9#issuecomment-658346216",
+          "width": 1111,
+          "windowId": 1386
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1386": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 817,
+        "id": 1386,
+        "incognito": false,
+        "left": 494,
+        "state": "normal",
+        "top": 320,
+        "type": "normal",
+        "width": 1175
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Comparison to foam · Issue #9 · svsool/vscode-memo",
+    "date": 1628520172829,
+    "lastEditedTime": 1628520105264,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "1cbd4298-c91d-42f7-a2c8-836fc2b4e26b"
+  }
+]

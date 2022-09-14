@@ -1,0 +1,80 @@
+[
+  {
+    "windows": {
+      "1402": {
+        "1373": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 860,
+          "highlighted": false,
+          "id": 1373,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "git dealing with lists - Bing",
+          "url": "https://www.bing.com/search?q=git+dealing+with+lists&cvid=569bce23af2940a69ab1a2145012e5a5&aqs=edge..69i57.10520j0j1&pglt=2083&FORM=ANNTA1&PC=U531",
+          "width": 1148,
+          "windowId": 1402
+        },
+        "1403": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://assets.msn.com/statics/icons/favicon_newtabpage.png",
+          "groupId": -1,
+          "height": 828,
+          "highlighted": true,
+          "id": 1403,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1373,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "New tab",
+          "url": "edge://newtab/",
+          "width": 1148,
+          "windowId": 1402
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1402": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 948,
+        "id": 1402,
+        "incognito": false,
+        "left": 1072,
+        "state": "normal",
+        "top": 217,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 2,
+    "name": "New tab",
+    "date": 1630509965276,
+    "lastEditedTime": 1630509946360,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630484833118,
+    "id": "451ee516-ba80-49ea-8400-ce28e5efe945"
+  }
+]

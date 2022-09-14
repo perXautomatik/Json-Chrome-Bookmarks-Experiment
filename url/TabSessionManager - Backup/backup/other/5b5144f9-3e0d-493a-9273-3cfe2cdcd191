@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "3590": {
+        "3591": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/a910c60b/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3591,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "VORTEX - Beginner's Guide #1 : Getting Started - YouTube",
+          "url": "https://www.youtube.com/watch?v=sD9xKao_u30&feature=emb_title",
+          "width": 1154,
+          "windowId": 3590
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3590": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3590,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "VORTEX - Beginner's Guide #1 : Getting Started - YouTube",
+    "date": 1628835470593,
+    "lastEditedTime": 1628835463223,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "d8f27e6e-64fb-40d7-b100-2d5f46be375b"
+  }
+]

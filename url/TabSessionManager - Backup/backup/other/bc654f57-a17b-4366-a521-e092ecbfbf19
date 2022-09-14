@@ -1,0 +1,278 @@
+[
+  {
+    "windows": {
+      "836": {
+        "782": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 252,
+          "highlighted": true,
+          "id": 782,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "UI extension for Windows File Manager. - Google Search",
+          "url": "https://www.google.com/search?q=UI+extension+for+Windows+File+Manager.&rlz=1CAZBMY_enSE834&oq=UI+extension+for+Windows+File+Manager.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8",
+          "width": 1133,
+          "windowId": 836
+        },
+        "785": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.hongkiat.com/blog/wp-content/uploads/cropped-hkdc-avatar-32x32.png",
+          "groupId": -1,
+          "height": 592,
+          "highlighted": false,
+          "id": 785,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "10 Best Extensions for Windows 10 File Explorer - Hongkiat",
+          "url": "https://www.hongkiat.com/blog/extensions-for-file-explorer/",
+          "width": 1133,
+          "windowId": 836
+        },
+        "788": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 592,
+          "highlighted": false,
+          "id": 788,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "qttabbar.wikidot.com",
+          "url": "http://qttabbar.wikidot.com/",
+          "width": 1133,
+          "windowId": 836
+        },
+        "791": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 592,
+          "highlighted": false,
+          "id": 791,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "www.airexplorer.net",
+          "url": "https://www.airexplorer.net/en/",
+          "width": 1133,
+          "windowId": 836
+        },
+        "794": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 592,
+          "highlighted": false,
+          "id": 794,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "www.dropitproject.com",
+          "url": "http://www.dropitproject.com/",
+          "width": 1133,
+          "windowId": 836
+        },
+        "797": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 592,
+          "highlighted": false,
+          "id": 797,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "www.listary.com",
+          "url": "https://www.listary.com/",
+          "width": 1133,
+          "windowId": 836
+        },
+        "800": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 592,
+          "highlighted": false,
+          "id": 800,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "file-converter.org",
+          "url": "https://file-converter.org/",
+          "width": 1133,
+          "windowId": 836
+        },
+        "803": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 592,
+          "highlighted": false,
+          "id": 803,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "www.filerfrog.com",
+          "url": "http://www.filerfrog.com/download.html",
+          "width": 1133,
+          "windowId": 836
+        },
+        "806": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 592,
+          "highlighted": false,
+          "id": 806,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "github.com",
+          "url": "https://github.com/Dijji/FileMeta/releases",
+          "width": 1133,
+          "windowId": 836
+        },
+        "809": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 592,
+          "highlighted": false,
+          "id": 809,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "www.slant.co",
+          "url": "https://www.slant.co/topics/2404/~best-file-managers-for-windows",
+          "width": 1133,
+          "windowId": 836
+        },
+        "812": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 592,
+          "highlighted": false,
+          "id": 812,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "www.makeuseof.com",
+          "url": "https://www.makeuseof.com/tag/10-best-extensions-enhance-windows-file-explorer/",
+          "width": 1133,
+          "windowId": 836
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "836": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 332,
+        "id": 836,
+        "incognito": false,
+        "left": 0,
+        "state": "normal",
+        "top": 115,
+        "type": "normal",
+        "width": 1133
+      }
+    },
+    "tabsNumber": 11,
+    "name": "UI extension for Windows File Manager. - Google Search",
+    "date": 1623006234607,
+    "lastEditedTime": 1623006523742,
+    "tag": [
+      "winClose",
+      "Loppy",
+      "Edge"
+    ],
+    "sessionStartTime": 1622808593547,
+    "id": "6012c683-8ec4-4c42-bfcf-b7482fcd3d5d"
+  }
+]

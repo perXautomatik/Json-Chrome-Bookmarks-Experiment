@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "649": {
+        "650": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://aadcdn.msftauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico",
+          "groupId": -1,
+          "height": 708,
+          "highlighted": true,
+          "id": 650,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sign in to Outlook",
+          "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&msaredir=0&client-request-id=8a939512-98b8-21c8-9e66-d6a898a12d88&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&nonce=637628914318035585.0f92538f-e593-47b9-89a0-72099d0c09e1&state=DYuxCoMwFABj-y_drC-JMXmDdCi0DtrBCha3xERQKoqK0r9vhrvluIAQcvacPAF4EZlwmTCFNOZUARdCiSt0yARXXegE8jCWBkOFGkLJANFCC-ho4N86mg4d3dZNby6ll8XZfnHtVk2pzkposyLJf7jbT7kahks-4tiM36GpCvZ6i8Ew2E39mM0dfbez6cVkn3TNjz8",
+          "width": 806,
+          "windowId": 649
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "649": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 795,
+        "id": 649,
+        "incognito": false,
+        "left": 1920,
+        "state": "normal",
+        "top": 375,
+        "type": "normal",
+        "width": 1197
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Sign in to Outlook",
+    "date": 1627315595065,
+    "lastEditedTime": 1627315577970,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "a40054f1-f976-4cfd-ac70-81602297bb94"
+  }
+]

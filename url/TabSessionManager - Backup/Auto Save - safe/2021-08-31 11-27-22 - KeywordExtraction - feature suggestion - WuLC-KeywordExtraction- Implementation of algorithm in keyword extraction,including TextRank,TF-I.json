@@ -1,0 +1,238 @@
+[
+  {
+    "windows": {
+      "2214": {
+        "2215": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://assets.msn.com/statics/icons/favicon_newtabpage.png",
+          "groupId": -1,
+          "height": 738,
+          "highlighted": false,
+          "id": 2215,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "New tab",
+          "url": "edge://newtab/",
+          "width": 1481,
+          "windowId": 2214
+        },
+        "2217": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 2217,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "portable textrank - Bing",
+          "url": "https://www.bing.com/search?q=portable+textrank&cvid=4681bde407544dca9764853438fbaf60&aqs=edge..69i57.5384j0j4&PC=U531&first=11&FORM=PORE",
+          "width": 1481,
+          "windowId": 2214
+        },
+        "2225": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pypi.org/static/images/favicon.6a76275d.ico",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 2225,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "pytextrank · PyPI",
+          "url": "https://pypi.org/project/pytextrank/",
+          "width": 1481,
+          "windowId": 2214
+        },
+        "2226": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.rdocumentation.org/favicon.ico",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 2226,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "textrank package - RDocumentation",
+          "url": "https://www.rdocumentation.org/packages/textrank/versions/0.3.1",
+          "width": 1481,
+          "windowId": 2214
+        },
+        "2227": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 2227,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "503 Service Unavailable",
+          "url": "https://softston.com/app/textrank-for-pc-windows/",
+          "width": 1481,
+          "windowId": 2214
+        },
+        "2228": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 2228,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Keyword and Sentence Extraction with TextRank (pytextrank) - David Ten",
+          "url": "https://xang1234.github.io/textrank/",
+          "width": 1481,
+          "windowId": 2214
+        },
+        "2229": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": true,
+          "id": 2229,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "KeywordExtraction - feature suggestion - WuLC/KeywordExtraction: Implementation of algorithm in keyword extraction,including TextRank,TF-IDF and the combination of both",
+          "url": "https://github.com/WuLC/KeywordExtraction",
+          "width": 1481,
+          "windowId": 2214
+        },
+        "2230": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 2230,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Open Source Text Processing Project: TextRank | TextProcessing | A Text Processing Portal for Humans",
+          "url": "https://textprocessing.org/open-source-text-processing-project-textrank",
+          "width": 1481,
+          "windowId": 2214
+        },
+        "2349": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 2349,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 2229,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Text_Summerization - feature suggestion - AliMorty/Text_Summerization: In this project, we used the page rank algorithm to extract important sentences as an extractive summary. We used word2vec representation of words to calculate word similarities.",
+          "url": "https://github.com/AliMorty/Text_Summerization",
+          "width": 1481,
+          "windowId": 2214
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2214": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 858,
+        "id": 2214,
+        "incognito": false,
+        "left": 102,
+        "state": "normal",
+        "top": 319,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 9,
+    "name": "KeywordExtraction - feature suggestion - WuLC/KeywordExtraction: Implementation of algorithm in keyword extraction,including TextRank,TF-IDF and the combination of both",
+    "date": 1630402042953,
+    "lastEditedTime": 1630402042953,
+    "tag": [
+      "browserExit",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "8b0b21b1-39f9-4184-b947-2bc922db9ad2"
+  }
+]

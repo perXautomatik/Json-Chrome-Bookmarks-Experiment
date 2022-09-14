@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "690": {
+        "691": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://store.steampowered.com/favicon.ico",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": true,
+          "id": 691,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Steam, The Ultimate Online Game Platform",
+          "url": "https://store.steampowered.com/about/",
+          "width": 736,
+          "windowId": 690
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "690": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 896,
+        "id": 690,
+        "incognito": false,
+        "left": -220,
+        "state": "minimized",
+        "top": 122,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Steam, The Ultimate Online Game Platform",
+    "date": 1631042157204,
+    "lastEditedTime": 1631042157204,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1630969783792,
+    "id": "0b6fe5f6-c2ea-4929-a947-3ee6b007e6b2"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10553": {
+        "10554": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10554,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Mod categories at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/categories/6/?BH=4",
+          "width": 1154,
+          "windowId": 10553
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10553": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10553,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Mod categories at Fallout 4 Nexus - Mods and community",
+    "date": 1622643454290,
+    "lastEditedTime": 1622643450942,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "cf5a0d57-63b2-4dd9-9983-4384ef5621db"
+  }
+]

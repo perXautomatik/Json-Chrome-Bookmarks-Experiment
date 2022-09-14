@@ -1,0 +1,231 @@
+{
+    "version": "4.7",
+    "groups": [
+        {
+            "id": 1,
+            "title": "Group 1",
+            "iconColor": "hsla(229, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "main-squares",
+            "tabs": [
+                {
+                    "url": "https://addons.mozilla.org/en-GB/firefox/addon/simple-tab-groups/",
+                    "title": "Simple Tab Groups – Get this Extension for 🦊 Firefox (en-GB)",
+                    "id": 609,
+                    "favIconUrl": "data:image/x-icon;base64,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"
+                }
+            ],
+            "isArchive": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isMain": false,
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToMainIfNotInCatchTabRules": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false
+        },
+        {
+            "id": 2,
+            "title": "Group 2",
+            "iconColor": "hsla(271, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "main-squares",
+            "tabs": [
+                {
+                    "url": "about:newtab",
+                    "title": "New Tab",
+                    "id": 612
+                }
+            ],
+            "isArchive": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isMain": false,
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToMainIfNotInCatchTabRules": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false
+        },
+        {
+            "id": 3,
+            "title": "Group 3",
+            "iconColor": "hsla(359, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "main-squares",
+            "tabs": [
+                {
+                    "url": "about:newtab",
+                    "title": "New Tab",
+                    "id": 613
+                }
+            ],
+            "isArchive": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isMain": false,
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToMainIfNotInCatchTabRules": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false
+        },
+        {
+            "id": 4,
+            "title": "Group 4",
+            "iconColor": "hsla(255, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "main-squares",
+            "tabs": [
+                {
+                    "url": "about:newtab",
+                    "title": "New Tab",
+                    "id": 617
+                }
+            ],
+            "isArchive": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isMain": false,
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToMainIfNotInCatchTabRules": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false
+        },
+        {
+            "id": 5,
+            "title": "Group 5",
+            "iconColor": "hsla(198, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "main-squares",
+            "tabs": [
+                {
+                    "url": "about:addons",
+                    "title": "Add-ons Manager",
+                    "id": 26,
+                    "thumbnail": "data:image/jpeg;base64,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"
+                },
+                {
+                    "url": "about:newtab",
+                    "title": "New Tab",
+                    "id": 618
+                },
+                {
+                    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Content_scripts",
+                    "title": "Content scripts - Mozilla | MDN",
+                    "id": 619,
+                    "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAAMFBMVEWioqK8vLyAgIDQ0NDe3t7r6+tOTk49Pj309PT5+fkbGxv///8HBwf///////8AAAAB9kdWAAAADnRSTlPAwcPExs7Q1dbg5uvy9qwff/MAAADmSURBVHjaY/iPAzAMP4k/57FKfJO491IMi8Snee+A4MbczedRJf7EvYOCflSJFe9g4DmKxK95cImHKBIr38HBW32oBFQDAryWQkiceIcM3pqDJRBOQoAuqMTXd2jgMVSCo6MTVeIFwlU4JP704ZA4+g6HRAIDwz1kiQeIsPryDhnMQUjYvUMCV+rhEh/fQcHF9CLvJ+v/wyW+lxdDQqMeIwZ/Qm3FkMgDS7xClUDYfh+XxHxMic9giXhMif98IAl/LBLf5wEl5LFI/D8MlODHJvF/CS6J/8X39FEkEOBQ/eDLg5RKAADqoEn9Jf+X6gAAAABJRU5ErkJggg=="
+                }
+            ],
+            "isArchive": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isMain": false,
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToMainIfNotInCatchTabRules": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false
+        },
+        {
+            "id": 6,
+            "title": "Group 6",
+            "iconColor": "hsla(122, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "main-squares",
+            "tabs": [
+                {
+                    "url": "about:newtab",
+                    "title": "New Tab",
+                    "id": 621
+                }
+            ],
+            "isArchive": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isMain": false,
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToMainIfNotInCatchTabRules": false,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "dontDiscardTabsAfterHideThisGroup": false
+        }
+    ],
+    "lastCreatedGroupPosition": 6,
+    "discardTabsAfterHide": true,
+    "closePopupAfterChangeGroup": true,
+    "openGroupAfterChange": false,
+    "alwaysAskNewGroupName": true,
+    "prependGroupTitleToWindowTitle": true,
+    "createNewGroupWhenOpenNewWindow": true,
+    "showNotificationAfterMoveTab": true,
+    "openManageGroupsInTab": true,
+    "showConfirmDialogBeforeGroupArchiving": true,
+    "showConfirmDialogBeforeGroupDelete": true,
+    "showNotificationAfterGroupDelete": true,
+    "showContextMenuOnTabs": true,
+    "showContextMenuOnLinks": true,
+    "exportGroupToMainBookmarkFolder": true,
+    "defaultBookmarksParent": "unfiled_____",
+    "leaveBookmarksOfClosedTabs": true,
+    "showExtendGroupsPopupWithActiveTabs": false,
+    "showTabsWithThumbnailsInManageGroups": true,
+    "fullPopupWidth": false,
+    "temporaryContainerTitle": "⌚Temporary Container",
+    "defaultGroupIconViewType": "main-squares",
+    "defaultGroupIconColor": "",
+    "autoBackupEnable": true,
+    "autoBackupLastBackupTimeStamp": 1636149143,
+    "autoBackupIntervalKey": "days",
+    "autoBackupIntervalValue": 1,
+    "autoBackupIncludeTabThumbnails": true,
+    "autoBackupIncludeTabFavIcons": true,
+    "autoBackupGroupsToBookmarks": true,
+    "autoBackupGroupsToFile": true,
+    "autoBackupFolderName": "STG-backups-FF-78.15.0",
+    "autoBackupBookmarksFolderName": "STG bookmarks",
+    "enableDarkTheme": false,
+    "hotkeys": [
+        {
+            "ctrlKey": true,
+            "shiftKey": false,
+            "altKey": false,
+            "metaKey": false,
+            "key": "`",
+            "keyCode": 192,
+            "action": "load-next-group",
+            "groupId": 0
+        },
+        {
+            "ctrlKey": true,
+            "shiftKey": true,
+            "altKey": false,
+            "metaKey": false,
+            "key": "`",
+            "keyCode": 192,
+            "action": "load-prev-group",
+            "groupId": 0
+        }
+    ],
+    "containers": {}
+}

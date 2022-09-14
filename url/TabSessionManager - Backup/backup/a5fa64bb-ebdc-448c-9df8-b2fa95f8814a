@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "2615": {
+        "2616": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 2616,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "gist:222e4a0d848bdbe6f114",
+          "url": "https://gist.github.com/deathruun/222e4a0d848bdbe6f114",
+          "width": 512,
+          "windowId": 2615
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2615": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1040,
+        "id": 2615,
+        "incognito": false,
+        "left": 1344,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 576
+      }
+    },
+    "tabsNumber": 1,
+    "name": "gist:222e4a0d848bdbe6f114",
+    "date": 1628757124681,
+    "lastEditedTime": 1628757121067,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "07eb7ac0-0446-4fed-9690-f98074bc5734"
+  }
+]

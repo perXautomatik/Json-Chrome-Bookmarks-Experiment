@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10313": {
+        "10314": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10314,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "M8r98a4f2's Complex Item Sorter at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/48826?tab=files&file_id=199941",
+          "width": 1154,
+          "windowId": 10313
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10313": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10313,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "M8r98a4f2's Complex Item Sorter at Fallout 4 Nexus - Mods and community",
+    "date": 1622643273821,
+    "lastEditedTime": 1622643271360,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "f4efa3d0-f4ad-4fb8-ac8a-90c4c8e681b0"
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "windows": {
+      "4637": {
+        "4625": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 440,
+          "highlighted": true,
+          "id": 4625,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Create a new Gist",
+          "url": "https://gist.github.com/",
+          "width": 1024,
+          "windowId": 4637
+        }
+      },
+      "4847": {
+        "4627": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 497,
+          "highlighted": false,
+          "id": 4627,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windowed Mode Fallout New Vegas 1440P Windowed Mode, Windowed Mode",
+          "url": "https://vivaworldcup.info/windowed-mode-fallout-new-vegas/",
+          "width": 1081,
+          "windowId": 4847
+        },
+        "4638": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 439,
+          "highlighted": true,
+          "id": 4638,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 4627,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Manually changing size in Windowed mode. :: Fallout: New Vegas General Discussions",
+          "url": "https://steamcommunity.com/app/22380/discussions/0/864949037870363626/",
+          "width": 1023,
+          "windowId": 4847
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "4637": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 527,
+        "id": 4637,
+        "incognito": false,
+        "left": 1920,
+        "state": "normal",
+        "top": 489,
+        "type": "normal",
+        "width": 1088
+      },
+      "4847": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 526,
+        "id": 4847,
+        "incognito": false,
+        "left": 1920,
+        "state": "normal",
+        "top": 324,
+        "type": "normal",
+        "width": 1087
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Manually changing size in Windowed mode. :: Fallout: New Vegas General Discussions",
+    "date": 1626535741020,
+    "lastEditedTime": 1626535741020,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625991790805,
+    "id": "9b1b3370-a2c8-4836-91db-64b0c8a8e989"
+  }
+]

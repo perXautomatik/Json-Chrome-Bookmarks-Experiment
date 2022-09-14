@@ -1,0 +1,309 @@
+[
+  {
+    "windows": {
+      "1331": {
+        "1194": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1194,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audio - Identification - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=229",
+          "width": 1111,
+          "windowId": 1331
+        },
+        "1195": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1195,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audio - Miscellaneous - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=225",
+          "width": 1111,
+          "windowId": 1331
+        },
+        "1196": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1196,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audio - Synthesizers - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=305",
+          "width": 1111,
+          "windowId": 1331
+        },
+        "1197": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1197,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audio - Recording - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=317",
+          "width": 1111,
+          "windowId": 1331
+        },
+        "1198": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1198,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audio - Processing - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=247",
+          "width": 1111,
+          "windowId": 1331
+        },
+        "1199": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1199,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audio - Catalogers - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=255",
+          "width": 1111,
+          "windowId": 1331
+        },
+        "1200": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1200,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audio - Conversion - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=39",
+          "width": 1111,
+          "windowId": 1331
+        },
+        "1201": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1201,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audio - Editors - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=66",
+          "width": 1111,
+          "windowId": 1331
+        },
+        "1564": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1564,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "NVAC - New Vegas Anti Crash at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/53635?tab=files&file_id=1000039152&nmm=1",
+          "width": 1111,
+          "windowId": 1331
+        },
+        "1565": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://support.microsoft.com/favicon-32x32.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1565,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Help in File Explorer",
+          "url": "https://support.microsoft.com/en-us/windows/help-in-file-explorer-a2d33543-5242-788d-8994-b0be10ae5bca",
+          "width": 1111,
+          "windowId": 1331
+        },
+        "1566": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png",
+          "groupId": -1,
+          "height": 714,
+          "highlighted": false,
+          "id": 1566,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Documents - Google Drive",
+          "url": "https://drive.google.com/drive/folders/154WCEdtiZBMOC82YhzLhY7wLbFdFAZVc",
+          "width": 1095,
+          "windowId": 1331
+        },
+        "1984": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 534,
+          "highlighted": true,
+          "id": 1984,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "NPCs wear NSNS Type 3 NV at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/39820?tab=files",
+          "width": 1085,
+          "windowId": 1331
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1331": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 621,
+        "id": 1331,
+        "incognito": false,
+        "left": 282,
+        "state": "normal",
+        "top": 189,
+        "type": "normal",
+        "width": 1149
+      }
+    },
+    "tabsNumber": 12,
+    "name": "NPCs wear NSNS Type 3 NV at Fallout New Vegas - mods and community",
+    "date": 1628713509856,
+    "lastEditedTime": 1628712257541,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "f213a8ad-917d-47d7-a067-bc1de266dd1f"
+  }
+]

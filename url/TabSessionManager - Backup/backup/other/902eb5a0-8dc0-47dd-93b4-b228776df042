@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2385": {
+        "2386": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2386,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Lore Friendly Item Names at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/65488",
+          "width": 1154,
+          "windowId": 2385
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2385": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2385,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Lore Friendly Item Names at Fallout New Vegas - mods and community",
+    "date": 1627156338153,
+    "lastEditedTime": 1627156336455,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "a277a8c9-89e0-45c3-886d-d97138a84c83"
+  }
+]

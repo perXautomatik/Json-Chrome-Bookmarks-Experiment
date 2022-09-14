@@ -1,0 +1,248 @@
+[
+  {
+    "windows": {
+      "1": {
+        "552": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/1802aa0e/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 552,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Amazing Cultivation Simulator Review | CCP™ Edition™ - YouTube",
+          "url": "https://www.youtube.com/watch?v=wJxM3POU92w",
+          "width": 1152,
+          "windowId": 1
+        }
+      },
+      "554": {
+        "555": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 555,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=94653",
+          "width": 1508,
+          "windowId": 554
+        },
+        "559": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://support.microsoft.com/favicon-32x32.png",
+          "groupId": -1,
+          "height": 525,
+          "highlighted": false,
+          "id": 559,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Why does Microsoft Edge turn off extensions I've installed?",
+          "url": "https://support.microsoft.com/en-us/microsoft-edge/why-does-microsoft-edge-turn-off-extensions-i-ve-installed-56664742-3979-e938-4f2e-8ddb2eac8453",
+          "width": 1110,
+          "windowId": 554
+        },
+        "560": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 560,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/",
+          "width": 1508,
+          "windowId": 554
+        },
+        "561": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 561,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FNVEdit at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/34703",
+          "width": 1508,
+          "windowId": 554
+        },
+        "828": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://enbdev.com/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 828,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 561,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Fallout 3 / Fallout New Vegas",
+          "url": "http://enbdev.com/download_patch_falloutnv.htm",
+          "width": 1872,
+          "windowId": 554
+        },
+        "830": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": true,
+          "id": 830,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "chrome-extension://idfbjjfgccflicphjlpbomcklaehplha/newtab.html#94653",
+          "width": 746,
+          "windowId": 554
+        }
+      },
+      "2235": {
+        "2236": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2236,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Mods at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/?BH=90",
+          "width": 1154,
+          "windowId": 2235
+        }
+      }
+    },
+    "windowsNumber": 3,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 1,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      },
+      "554": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 573,
+        "id": 554,
+        "incognito": false,
+        "left": 2218,
+        "state": "normal",
+        "top": 411,
+        "type": "normal",
+        "width": 1174
+      },
+      "2235": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2235,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Visual bookmarks",
+    "date": 1627156254483,
+    "lastEditedTime": 1627156254483,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "ac55f4cd-bf20-47e5-ad21-b4e56fff7c0f"
+  }
+]

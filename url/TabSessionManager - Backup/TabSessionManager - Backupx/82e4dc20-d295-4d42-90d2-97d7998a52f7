@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10096": {
+        "10097": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10097,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "DLC Leveled List Integration and Rebalance at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/30367?tab=files&file_id=144041&nmm=1",
+          "width": 1154,
+          "windowId": 10096
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10096": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10096,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "DLC Leveled List Integration and Rebalance at Fallout 4 Nexus - Mods and community",
+    "date": 1622643020442,
+    "lastEditedTime": 1622643014363,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "05e59882-e53f-4155-a8f4-b868e150a1db"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "2301": {
+        "2302": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 840,
+          "highlighted": false,
+          "id": 2302,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1133,
+          "windowId": 2301
+        },
+        "2303": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 840,
+          "highlighted": true,
+          "id": 2303,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Addicted to You · Alec Empire",
+          "url": "https://open.spotify.com/playlist/37i9dQZF1E8S6HWey58uGJ",
+          "width": 1133,
+          "windowId": 2301
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2301": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 927,
+        "id": 2301,
+        "incognito": false,
+        "left": 2305,
+        "state": "normal",
+        "top": 4,
+        "type": "normal",
+        "width": 1197
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Addicted to You · Alec Empire",
+    "date": 1624977031268,
+    "lastEditedTime": 1624977031268,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1624961591940,
+    "id": "e7021684-462f-48b7-8611-f21c5e262bd4"
+  }
+]

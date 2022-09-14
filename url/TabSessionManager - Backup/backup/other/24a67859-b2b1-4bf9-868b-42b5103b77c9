@@ -1,0 +1,139 @@
+[
+  {
+    "windows": {
+      "1559": {
+        "1557": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/79946f8f/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 1557,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(42) Can You Beat Fallout 3 As Benjamin Button? - YouTube",
+          "url": "https://www.youtube.com/watch?v=jelPCGiQ09k&list=TLPQMDYwNjIwMjGRldRDJIUDaA&index=7",
+          "width": 1121,
+          "windowId": 1559
+        },
+        "31183": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://magic.wizards.com/sites/all/themes/wiz_mtg/icons/favicon.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 31183,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Jumpstart Decklists | MAGIC: THE GATHERING",
+          "url": "https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18",
+          "width": 1121,
+          "windowId": 1559
+        },
+        "31186": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAsVBMVEUAAAAop+kAeNQDZLgUkN8DYrgDZLcgnuYCc84Ad9YWkuAAedQdnOQTkN8Zl+IoqOomp+kAYbYkqucjpOgTkN8SkOAAZswAedsGYbYDe9YCY7oEZroIY70Ad9QCbMQjoeYCaL4FftcmpOkPitwSitoDZbkCZLccmuMnqeoameYzs/8oqeopqeoEZ7kOgM8Ad9MGbL4JhNoCcskCZbknp+oqqOoAdtIJdskcmuMXkd8Mh9w/s9OdAAAAO3RSTlMApqamplOcpqY+pnymkaaHphUVpodTChUqpmemH4empqampqamSYdJfAoKkT4+ppympqZ8nEmmpqaHptcrgZQAAADSSURBVHic1ZLZAkMwEEVHRXe0SlHdVPd93/7/w5oMQVr67ryem7lDAsXDUSi7do7tKmU55OJk+f480gwlw/PjIb2f+aKX5Vna1holSnUoJJJV7QHTGBlnldgH7ilnLw6UeSA+j9yxx3tMCSGqhf2Cx57jnlrEXAHgfmmCSqXOA8QEEK1PJpIktZpxwhICpye1SEeLAmoScIMR1wzewwO+xmaniXrCJd/NL5v00M90iTBb7FEBXnkWexYAxvVPQGf/0tDz/Tq8ju0yU29uOY+zeHwAUf4NEquz/+wAAAAASUVORK5CYII=",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 31186,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "All Photos - OneDrive",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=All%20Photos%20-%20OneDrive&url=https%3A%2F%2Fonedrive.live.com%2F%3Fv%3Dphotos%26id%3D6DA6DE33539410C3%2521338934%26cid%3D6DA6DE33539410C3%26qt%3Dallmyphotos&tabId=31184&sessionId=1622847893290&icon=https%3A%2F%2Fp.sfx.ms%2Fimages%2Ffavicon.ico",
+          "width": 1121,
+          "windowId": 1559
+        }
+      },
+      "31193": {
+        "31190": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210604153606",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 31190,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1190,
+          "windowId": 31193
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "1559": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 1559,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      },
+      "31193": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 921,
+        "id": 31193,
+        "incognito": false,
+        "left": 1839,
+        "state": "normal",
+        "top": -56,
+        "type": "normal",
+        "width": 1285
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+    "date": 1623145931318,
+    "lastEditedTime": 1623145931318,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "9d3d288e-752e-4e93-a242-b4066f50168b"
+  }
+]

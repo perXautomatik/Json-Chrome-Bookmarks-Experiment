@@ -1,0 +1,199 @@
+[
+  {
+    "windows": {
+      "1548": {
+        "1553": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210604153606",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 1553,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sacred Sword Princesses - Action RPG | Nutaku",
+          "url": "https://www.nutaku.net/games/sacred-sword-princesses/play/",
+          "width": 1300,
+          "windowId": 1548
+        },
+        "1565": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAADajTT///8AAAAAAADajjb//fzclEIAAAAAAAD9+/m0di0AAAAAAADckj4AAADgoFUAAAACAgIAAAAAAACKWiIAAADKhDIAAAATEhEAAABHLxEAAAAAAAAAAADckDkAAADXizQAAAAAAAD248303cMKBwPfnVANCwgnGgn89/EAAAD89e1VOBZwSBq3eC2XYyVAKxPdmEfouIEAAAD58eZ5ThzPhjOvcivpu4bz17fqwY/uzKSpbykRCwXpvorS0tDjqmgjGAnw0rEAAADe1cr4+PYAAADz2r4AAAD14MjipmH9+fUFBQSyr6ouIxZ3dXJDQj3uyp+WlJMAAACDViD26tzDvrkwKiNkQReIg4DmsXPho1v36dejnJSjayg3Miu5fjckIh7lr2747uLEiELmtHnCjErp1r3SrIB8dWq9h0dOSkEaGRbu4NHDk1jZuJJZVlTmtXvjzrTa2tqysrLi4N0cEQY3Jg9tSBzt3MjIxcDo1L27uLTFmGFLRT2TFLlKAAAAgHRSTlOmpqYABKampqR6pqZoVKZOpl+mPIGmGaaZppOmn3MIpm6moYumpqampqamEaampqampqamIKampqampqampqampqampg2mpiemM6ampqampqampqYtpqampqampqampqampqampqampqampqampqampqampqampqampqampqampv+olloAAAKgSURBVHicbZR3W+JAEMbf3dATekeKgjQRAUEERey9965nvd57/+o3u4HnnrvH+SObzPySfWdmJ1AesII35rPXDPJeBwxzcbEs2t2xmOZ0RiwAQm7pE0BBSwIRzZ0id8c863SxFnSg4Psb6IS3Px6+8ACpgAAMvUBu5nPGg8xM5bheP65snixwvnASJiJOgN2C3MXEZflr8TLIhDnec2Gmny8Br4JABNiyvVZLepSsahPx2zfPK4BTgduC7QX+42q0G3cNiHj6sap+kUAEmUPObVWjHjYax0R8xTxaauSBZQUhhKfIs9bUiebkID2dDzMWLLeRJJEaPLviHdu4mZ0Z2b24H1gV7D7gozT3kgh/kKr7T8+zzCwUjsmvTWQQIiBuBX6PyMS46ZSxFVoHpwUQnAFqog5Aj0u4hXbGJvlAa5UkkPUAdgKokEPMsXNrEkSWZZvmbsJDQC8BtMU+PQ3PktAVqY4lVpsJWvxATAf8ogCt2Rv57nA1vcZ3hMwOILcgwCHLaGY3YqvBMZfcQuuI1IuYve83TTPjrdS7NmkmkVRqZRHIy0aNj5DOFq2dnJ9sAm5xHqLITMg295P7wMhcI0uyX3zXg0iAThT1W6hkLtEFU5YlqokzwXLbW1icUOJRtMu0hyMtupB+J/WYlwTxPYcUFC9paJT6HFQHzpcSMhkiRNenwohCcVMWqnrXEpW0nXWr2Hd3wE3P6GRD0YCi+uuVFD7ejQdL6lO+sY7knqzDo3k9s296G0Yb/nJDvZq/pg/EodQs8OjExlGx7vfXi/k22vlKzxFNV0AMjjMKhC8+TW3l/h+g0LKcLIOXCM81zUnXLCExnEgu0/zK4a35pCNq1aw+n6/XW6D5dmt2GrzudM95U7DEFg2KgezfX8Ef+rBRBcv+4CQAAAAASUVORK5CYII=",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1565,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Nexus mods and community",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Nexus%20mods%20and%20community&url=https%3A%2F%2Fwww.nexusmods.com%2FSSOauthorised%3Fapplication%3Dmodorganizer2&tabId=1563&sessionId=1622847893290&icon=https%3A%2F%2Fimages.nexusmods.com%2Ffavicons%2FReskinOrange%2Ffavicon.ico",
+          "width": 0,
+          "windowId": 1548
+        },
+        "1567": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAA5qfk3oPowce4oX+cbzuo0y/8iVeAA//9MuPM4vfkzmf8wwfo3lfoyfPM0ivY6uPctaelRxPg6sfc5ofk6t/c5rfk7ie5TzftFoO01vPhJq+4v0uBBl+06jvMlxvQkYt4zjfg3vvoxjfNS2tY2ee1Vqv8yv/kzgvYtZuk0o/gAAP8pu/8taOs9te4oxfYnedtV0Pw+lO4xc/BEsvFO0dk4u/hNxvwzZv81gOlJsvGA//8xqvNFn+43l/syeOsg0OcqZOkoXOYYzuo6tvg7fvc5gvA/uv8vc/Qvb/ExnvMzvv0pj+I2gexA1txL0/86jOofw+0v3t5V0/tLtfYrv/ghzug+yNsuwO4xgOdBmuskYedOvvVW1/9MtfMazewhrt4AgP9mzMwAgIAqVdUA1f+AgIBV1f8vduJJkttIrdkAqv8zzMwzZuZV//9Epe9A2eYkbdtHrO4ct+NAn/8u0f9SzftV1aoqqtUcxvE1090bz+RUz/xV3cwxcO5OwtgkpvntAAAAgHRSTlMApqampqUGpQGlmAWkpqamNaWlppSlkaaipBalo6WUpqM2fRUtngRrlJc2AQs7D5eahRMVFpNUEQWlhgMVLZQgIJGWnZUPiQo2kxVBCXSJCTxUCCBVMHGkFlRqFZEzmYehAgUCBgYCBmgHNQMFCgNPFAdsfwgLegYGElIwTw+GaIoWt8gAAAG6SURBVHicndP5U6JgGMDxd1dFBLfVVstYFwkVtPDIc7Usj8rS7tPK7vu+7+tfj8cosGCa6fsTM89n3mMA9BpXCWK49KzWKsWzCQrTBqSl106wlqDmIpiFsNvtvQlKS2DiCjWhtYsI/kBNXd8HTT8gbdD2BSDfQAlhxQuVq5Bttp+QrYRZ+DIlfCIyEFiCYMuVm3YN4C7yZrOZ4Kdv9+tBa/cvqNstlAlRuEIz2U11gFMsAFdh+X6iDtC/IdqNLhMwNxgKM1nFUclWXw343IibDrkAGJx3iiXIAV8D5IsiJPCh2tw5ciKD/wrAVcaXCwUAniMFGNRBgyJAuJAdP19xzsY9B+qgfahnLsyERbAmg4DfCuUWECqWxoa9DGMMxz2d72AjkNdDuQU8mJmnUykrY2Tinq13cCqBfDQ2lW7515zSWfXM86N8i90xvxHKH6eX/kogt3ctAzzSrxfneu+SyQSguUHn34koX0ZxivZbvS2mRgl4nwLRdSXonOxwNEKvgB4eOPzwRYwudjgcoqkBeq6vr34slly8koBtPjOk9odtTz5cVavV9FkmwqmM4RyjyWQyFotxdbu/AFELTsmcL6g0AAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1567,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "mtg tribe colour combo names - Bing images",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=mtg%20tribe%20colour%20combo%20names%20-%20Bing%20images&url=https%3A%2F%2Fwww.bing.com%2Fimages%2Fsearch%3Fview%3DdetailV2%26ccid%3D7%252Fbh57km%26id%3D234457CC9A65E7789B16AD72483426E76B4DC0E2%26thid%3DOIP.7_bh57km-Opkri0U4AtehAHaJ8%26mediaurl%3Dhttps%253A%252F%252Fqph.fs.quoracdn.net%252Fmain-qimg-eff6e1e7b926f8ea64ae2d14e00b5e84%26exph%3D808%26expw%3D602%26q%3Dmtg%2Btribe%2Bcolour%2Bcombo%2Bnames%26simid%3D608030441365584968%26ck%3D708772A308833FDD803DF188776BCE1B%26selectedindex%3D61%26form%3DIRPRST%26ajaxhist%3D0%26ajaxserp%3D0%26vt%3D0%26sim%3D11%26cdnurl%3Dhttps%253A%252F%252Fth.bing.com%252Fth%252Fid%252FReff6e1e7b926f8ea64ae2d14e00b5e84%253Frik%253D4sBNa%25252bcmNEhyrQ%2526pid%253DImgRaw&tabId=1550&sessionId=1622847893290&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQAUlEQVR4XuWbe4xU133Hv79z7tyZ2V12Wd6PBduMsfFibCjG%2BEG8uI6VR%2BNWkUrUKKJNmraS1UZK%2F6jUqorEVlXaSJWaJn2pjtq4Sh8yf7SxolSO8xjA77BmjTHGzoKdGLABe70s%2B5i595zftzp3ZoHFJrN3vUlMO%2BJqZvYMc%2B%2F3c76%2F3znnd%2B4I%2Fp8%2FJJd%2BUnYA5vXHznY6tcsibzuNhXUp06hgR1wtPdvlO87%2Bz0elnut7f4EfzgVgB2mPDaBYmJhYZzw%2BIpAbRNAO5dskDxL2IJw79MSH5p3%2BBWrKdepcALb%2F4JXSpF%2FcZY3eZsR%2BmsAWAdohMgzyoAKDQhwA9KhTedNNjp5bM7m8vvsT4nNd1c%2Fxw7kAbP32W51xHPeoNR8Q4jcBbAIQgUggGAFxipAfQ%2Fg8lI%2FZgjkyPjry1sB9KyZ%2BjppynSoXgG372M3JiYoY6YNwJ4ibp59NagBHCHkZ4GMiMgjHY0KctMW2t6t3h%2Fb312N2AGD7aPQdAATwBFIQ50TkTZJDgOynyID1%2Ftl9H25%2F%2Ff0lH8gH4FvspkxUpGD7SN0JXOqAS%2BQJToF8nsTTEPN9S33x%2FeaE2QGwto%2FAToCXhMA7%2BjdY%2FizJl0HuhbFPWry%2FnDB7AMROsCWAKSJvEPIcyT2IzH89%2BaHikfdLKOQH4Ccq0nQAWztgSmcYBc6QugeQv3vyvrZnrmgAtLZPiJ2cqQMkzAOYklI1hl98%2FGPlfVc2ANg%2BEckBAASgIPdQ8GdP%2Fmp5zxUPAJA8OSDTS6BKsv%2Bpj5erVyyApDZRiaztA2UnWw2D71ApVXrf%2F9SOKxyAiO0TyE55x0ywVb9Klfy%2FAICNHDArALiSAfwbuxMzUZHI9onKTskbAtIMgU9eqSEwBcCEYXAWANAMgSsewHsJgZAEdzYcsOMh2uM9iGsOHdZhgVVYR4zFHmNnRzF2%2BBOStMoq77U930wwOCDMBIMDwjCYNwQgVYQk2ARw%2BxMsYxILnOBaAW4VRZkGQ0oMFVIMPflhGX6vAlv9%2F9kBQNwnWT1gxmuBxnWIVBGSYBPAlh9wGYCNUNwixG0QtFEwBNGXBTwC2tdoMawJRtGNiYFbJG0lKG97fgC1tCIF6RMyvwMEVYQQ%2BEwjBLb8gBuN4tMAtlGwFERMwRiEw4SegshLSj6TGn84TuKfDNwrZ%2FMKbPX52QHI1gKhHpDTASEEgP6nPlPIAGx9lKHXPw%2FBdgJdBEoQhhljIsJxFbwSAHjRgzD%2BZUbmhK%2BnI8DE2BIsrlXvFtdKYKv22QGA7YPMoCDyzrNXxaP%2Fqd9tANjyHW40Bp9mACC4CuD8sGgI6waCjgbjBIe96Ek1fEWBFwXpIKwfYr3%2BxuG7l4y1EtiqPR%2BAvw%2FzgDRbDs8aAC8AuPW7vM4AH1NhALAZwIoAIPOAABrcIAoVjKnoKQWHvPGDCj2SGv%2BqE3MijvzpY8e6x7ADCpEmv1ayL7TPDoDYPmAWDhA0HHB%2FwwF3focrfIRbFLqdkF8BcB0bIZBBCAAaEOhUWFPRMW90xBu%2B4UV%2FrKIH1PD7SMaHjh%2FvSTCL8vvsALAJIO9aIAAIOaAJYPOj7IpjrPaqfYT8FohNKjSZ5IZw%2BCYEzZxAeBOeMxCnvNGDzvK7ifUHRJOflCcwnBdEfgA%2BzeYBWVE05zAoIlUJIfC5hgM272cBb6PNRv4DBD5PyJ0ECgTtVO9PCddMeAOAE3Xeas0bHfbiT3irAwb4dlHdQQQId6yanGkQzAoAOTUM5hsF2FwL7P%2FD6WuBW77HWyH6B41kyIUE294NgBfNAJx%2FNvRqfUro4YLhw5EJexHu8K2Hrjq9e4Y5IT%2BA2kSFiJs5IB8ACKoE%2By8FsGkve43TX4fhdhWsJ7jkfM9nIXCJ8OZ7tSRE1RqeLtC%2FWDB8jKoPLxkzh3uO9yQz2ZLLBWDDX7A7Ms2CyCwqQhkAsn%2F%2FH013wJY9XOXV30GTDYf3KrQSRIcc0HDCdAAuuMCEdoXNDk4WoW9Hhj%2BM4P%2Bz3cvTNZROH7x52XirUJgdgDAPQI6i6IWrqILo3%2F8n0wGEZIgYqx3T7TD4jIIhGTYBNMVfZP0pACKKQjhAH4smBeFLMfSRgtF9HvbZgd6rW%2B5E5QfgJyomK4lhp1BbbYxM74CwFvDo3%2F%2BF6QB6H2Isneiw5fo2ivw%2BBXdQtOSFUdb7Uw5o9nw2EhiFEUURiliIOIPBkzF0oGBYNcC3Hruh8vLcOyAAoGQAZjMVFvX9%2B3fNm14U3UXT24vILHW3iNHfUehdKliqoh3Tk17DDUF86P1ILohvQhiNwRMRWAX0a%2Ft61z47xwBGuqM6KkZDEpzNYkiqIu8CoHmVN%2ByprbUGH6Xo7Sq83gtXetFOb3wxG%2F6aDoBhJj7YvyH8vAOSInU8Eu6Dka8saoufQE9Psjvbl3j3R74Q%2BOOR7siiYiTuYwCQex4QJkLs3%2F%2FnlzigeW2bHx3uSuJ4tYu4XoHbvHCTt7zBi1%2BcOaF5GOFF4qe5QIuizgqejlT%2FITLcW25rG9696vLzgvwAFBVjoplujk7DzlASA%2FsH%2F%2FLdATQqRMfjUXSurNNspNWbvOF6b3SlE21T%2BHYK2wy0rai%2BHAsLcYEoRg0HxGiAiYABSz4QiYZQO%2FnwunXn5s4BigoQ9UG5E5JzHpDVBNE%2F%2BFfvDgDhJqzdMC8sPlNOyh3zPWoLVMwiH6XLU8PVUF5lvL%2FapLq6MOlWxhE7S51AsYQGgOAMMAyLByLBv5SsrwLxT3ZXKpetI%2BR3QD0AMH0Q7MyxOdroADZKYoNf7p7ZztBDtD09x2MZiVcAfgMT3iSp3mzqep3U3Sobs7PUBS11AeVOmGKREhvCGgxGog8W6KtpIXn1v6%2FZNDJ3DggA1PQx1APyLoaAKoQzB0AKdsOsO%2FHqKp2wt6nnViZ6m6a%2B4hPtpNHItLHethzovt4W25eIjSMishy0wgftnAO4v5EEVTiriZBAstXg4N%2F%2BdAds38UoLb9Z1rTWmSgWeMc1vobNPvUbXZ0bfKrL07oWvFfS%2BnpxqbD7RhN1XiW2vRs2LuM5K%2F7BmKzGheTVr8%2BZA%2B4f6aamFWujPs1qgrPJAb7%2F0D8u%2FqkhcOeXzsxTm670HuvocKum7HUpV2udS12iXa6uZVdX8amH96q2na60DEnnGsjiG1BqXySHrOiD9mcFAGzkgLzDYFgLhBC4FMCuXTRPLxgq6LIl7ZPj9YVa8yvppKJ13eBTs0VTrWjCLpew5BPCJwpXV7hEs9cU70ybTnZVgJ47UJ7XI89Z6gM2ctU4KZ785zkbBYID6hMVmEI2E8y7OyxZDkD%2Foa9Nd8BHvvKjYrRo6bwxN1GBM1t9gpvoUGHKlS7hAk3QrgkLLmG2%2BA2iA4gpAN6rJ1zauYa4%2BpdR6Lqazwj410XUqx2YN%2FrVtWsve%2BturlFg%2FWdfWxAhutap2Q7iUwRuajXVvLg95AAP33%2Fk68uzELj9odfKHcVSN%2BpcYhmtcM73%2BoS3M5VeTblSU87TBPApoFnPN48MwkUAnKpPvZ%2B32rtr7tV691o8RuJv0vLI4%2Bg5nuyWT8zNTHDz751c5GN7vatxu0%2FwG1TcmAcAggPA%2FiPfaAC495tnVkSmuFkTvxHO3ahOrtGUyzTFfE1QVsfoAgBkorUpPjghc0DDEfTOs2O5H73qHvfagl7uNcZ%2FvbbmxQO7seOnFktzOWDTF88ttolbnwwn291Z3RGSU1bAnGEtVgweL3aZL63c0XnAUheixrVe%2FVakuFlTv45el2giBXUwocc16%2FkpB4RnNt8TPm2EQfa3NABQlhe6kz197odLNvo9avHtf6%2F0%2FqhVB%2BUCcM8DY0tTg5snf1zbXnst%2BbircZ0PFfwZArCxPNt5bfzA0rvaz6jXO8VxPT1X0usipjpPUy15B2ECycS%2FG4Ds7w3h5wE4qjrvCx3uyPKt6TdXbKvv9REO%2FseaDafmFMCHHuICmsm14y%2FV7qqdqH8yHdcN9Zpa70LtpnET0LSHNG5FFQOaSLQ43x7tvqnte%2FNviJ063kmvFTq20WmBqUJdw%2BJBOM%2BLl4tANF3RBDAFgp4JxY9HRd0%2F%2Fzr3jas%2FNvlEvY43dq9f33LjJJcDdjzEeBTomBwa2abjyefqY3r72BlXTCZ8dDkTiABRLL7cYettKwrjnTeW3y4ujQyVC%2Bm0gymtOjVMw16QNsRe1PuN1w0IDbtPtU%2FZP2yi6DlT8idtyT9e6vL%2F2vNrEwNnTp%2BuVe%2B%2Bu%2BXWWS4AU717z5ff3CJi76%2Bfc33nTiaLk1FfdnVPdVk%2BMKHbjYXaWBAVrYk7rJYX2LRtWQHFVXEx6jA2DFz0Gu4ezISH54sdcEFo0wEXg0lBn5LqOK6pviWGx21HejRq02fUFh8Z%2BMLSo62sP9U%2BKwD3PVJfJ8DH62%2FV75o8Ue%2Btv5kurL2VuuScFzoUxAKFdpvE3RalRXGhuKgQxfMjieYZY0piRCDnATiehzBl%2F%2FMhcF70RRBclgPUp0jV8VWf8ElSny20pS%2BaBdErk%2F7NU4d3tbb%2BewKw4yWuVGCLP5V%2BIDlV%2B2DydnpN%2FS2nadjBS5kBiNptUpxvUVxUKBS6ooLtiCwsDMMN9V4xDUAGIdi%2FafHgpEvEN96L05R1dRjRBK%2BrxyHvsTd1GIxLeGXwy92XXfXNyWpw6kt2vMAOAMt8zW%2BTuv42HX%2FJJRrRZwJN%2BFwIAYkEEomRSASh30nJA6Ap%2BnwOoMO4dzjDBC86hz1MZdA7eUUK%2FrSdmD8%2B8E%2F5b6CYVQiEH0%2FVBlAsl7BJDD4FwZ1UrgLQFZI%2BlEISVIDKcJMsgvCp44IDsk3wZg6YGgUavZ%2BJd0KfgHQyqamc9Slfp5cfacpBer9PXeHls8mpc0NfvfxUt1UumBWArHITOvkQVqhgIwy2CfhhEteHqhRIkx9AIwlmyTADkMW9qpNUHV7XhM%2F7FAeg9odJPRmyiM8Mj50aG1p4bYpdoq2EzmkITH3ZffvZVipjkQk%2FnhLcR%2FIWACuh7AqVKVWG4W6GDrgIgIPTFJNMZVhTyXrd1%2FU5JnLQRdHBp%2F%2B0o%2BUEZ6ZAZueA5rdPhUJbF5b7BDcaYCvBe6C8HmQbFYX8ABDC4pymOKFenmfKqkvlBUmj03Unw%2BX0zNnqrmvm7MdX7wnApU5QwY2i%2BkGhbAC5lIpuKjugLNGjEPZypyfB8znAMdVJdRhjylF18rqmOArlgTTB3vG4%2B%2BiabvxMfn84JwCmnFAoYEGhgB7n%2FbWi0iuU61R9hR7LRdGlXkuXAXCOKU%2Bo02Oa4gWoeUnrPOqS9HgURWe6u7vHZrrdPVPrv6d5wOVOMgWiVMBSwF3vvVkL6hqoLIf6%2BVQphtkfQrLTEPOajQLq9BwdT9DpMZ%2FiBUn0WEl54uHPLr5sPT%2Bv0J9JEnzHlzZHh9JBlGoR5qGGjtSnHcaiZJwUnDqLMDvPDhf%2BZa%2B9MlWnk%2BLTcdYxWkwwNrpm0eRc3AbXCtSchECrk7yf2%2F8Xd73M5lbyVXcAAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 1548
+        }
+      },
+      "1559": {
+        "1557": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/79946f8f/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1920,
+          "highlighted": true,
+          "id": 1557,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(42) A Village Filled with Retro Treasure | GBR Thrifts Returns! | Nostalgia Nerd - YouTube",
+          "url": "https://www.youtube.com/watch?v=Pbf3HDnRN0s&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=1",
+          "width": 1200,
+          "windowId": 1559
+        },
+        "1581": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEXlMVQAAADlMVXlMlT/AADkMVT/AIDmMVTkMFTlMVTkMVXkMFWqAFXlMVTlMVXmMVXkMVX/KlXlMVTkMVXlMVXmM1PmM1XlMVXlMVblMlbVKlXmMFXmM03fMFDlL1XmMFXkMVXlMFTlMVTmMFXmMVTlMlXkMFT/VVXlMFX/M2bkMVblL1XmMVHlL1XoLlTkMlTkMFTmMVTmMFXmMlblMVTkMVWAAADkMFTMMzPfKlXjMVT/JEnYJ07jMVT/QEDrJ07MM2a/QEDhMVLqKlXbJEnkLlLjLlPpLFngM1LkMVTmKlXlLlXlMVTrMVjhMVbrKVPiLFDlMVXgL1LlMVThLVLmMlboM1XmMVfmMFTfIGDMGk3fMFDiMFbjMVX/Ll3pLE7kNlHkKFHbN1vmM2bhMFHuM1XjK1XpM1fvMFDhLUvkMVfdM1XoLl3mM1nmM03wLVrfNVXoLlPjL1XdM1XoLlHtN1viMVjqNVXiMU7jMVHoM1vjMFPjOVXoMVTnMFfjMVMIqLZFAAAAgHRSTlOmAKWkAaMCoZaHop8DdpuFfwadk5koPJGWpAZaChBNenOCfI5Hn28DiwVeVx9EIWdVWGtbbY0CMQUYSgcNYgQNBQQqDAccNxcZaR4nTho6GCM6OmEicU0+ZggKIFA/CxcTEw4KRQ8kIxARLw8LFBQRGDcbHhYOGhgaPy0lEkM1U24L73EAAAIiSURBVHicbVNlY9swED0ZEjucOHGYk4apSYrbujKlvLUdMzPz9tenk6lxqy+y9J5Pd+/dATGXJ72/m2k0bv+IPLhi3ZqERLsbiIacfFwsS/nks6s2guNTP+oEc4nR4y9jhKDqFy0Yl/vo0hnCzVGYG8cBfHccJiE48tlhuiaCBsGjhi/AIZAyCLdkLX5cjF8YYf4yj2eX3El2ZJeJO0tGDksxlnV9pzZV+3jkNgjFJiHp/dcEZuoYgD9dZvwnAxaOvrd5g9wdhPvz8NmPZ2Vb1+XaUNfhgJAlHwxX4SWWwE1oKRNSKWmP5H8Txz8RQgcwQoXLJ4Kh/Qsv1sR3K2QhywGfhFM8++9b9v2U6IUUoa9F6UcOriO/sUgRYWMbS0/0XMB5l4mjhTUHGAH5hLzyKqqH7rN5ztkSyMok0xPoxnmZcxEJqk/pPnUoyd8I2WP1ZKHHA/KpJRkR+Nw7+rUy/YuquFvG8jqghqC6gQFSXhS4m9BzrTEHnHPQrLr6rL/aTHLpg2YBecMEjEVgZvrxW7wQSswozt9kkgh/sUe4QhqIoP3yKKeZzufeI/6VqkRfOHaYXb1V1G0Us2t7O2qB9ai8bra9cIJJa0aGFMXNwoX+eExCYvNc24I4uWANznP5HM4Xvp+ZrHvojA1vYz0G4WHehrsHq6xeg+Bpjc2GOMykbcObmvP79H7kfXJvq6LfW+O/OLuWzBZjYSVQP1y35v8/a6M7Sg69XLIAAAAASUVORK5CYII=",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1581,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Crush%20Crush%20Moist%20%26%20Uncensored%20-%20Dating%20Sim%20%7C%20Nutaku&url=https%3A%2F%2Fwww.nutaku.net%2Fgames%2Fcrush-crush%2Fplay%2F&tabId=1577&sessionId=1622847893290&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAR%2F0lEQVR4Xs1beXTV1Z3%2FfO7v914SSEjCmrCLoSgIJETroK3FdtxmilXgwWDdOlOt3aa209r22NPDnJ7Wbi5zehxbuwp4EFLFg7aU2ipVAVEDAYXKKksSwpqQkPW93%2F3Mue8lGEPy3stSxvtXznkvd%2Fnc7%2Fb5fO8j%2FsFDACtnRzJDjZk5jWzLC8PmWcMhPpFFIWxljRFjAW2rT9PYIpwWg9o849XlT8IZlpUF%2F8gtcqAnF2D2l0ZysmGGBwpGS2asoEICI6w0zNDkAMoiEJbggyDAQFIMRCuARkJ1gjkuBTUgK0OBd7jBs0eLcqfVcv0SB4gGat8DAoAQ8fYWnRmcnZ071KJtDOFNsNQkghMBjgU1EkI%2BwGxSGQJ8CZ4B6CwEgBUgAoGAKIAmAqchnABRBeBdSPvkmX0h8JDv%2B8f%2FurmtcSH6bx39AkBYYipn78jIrAvy2jLMBQCKAXMFqEskjCeQC8L087bcbTcCqIawg0Yve%2BJmC%2BwtMPl1KH88xn5YRJ8BWBWJeKX7kZ0FTFegTwi8kuRFgHIBZEAIDcDhO7BzFhIYokVCPYAtgF6w5NqxzD%2FI8sed1fRp9AmAU6WR3MYYpnierrDilQSmQBgDwh3e69NO0v8nFwNOAdgjabOANQwHb419ffXJ9Kd475u9AuDN0rtDo2K1I41nZ8Gaj4qYEz88MPg8HPx95xPQAqGahn%2BC1bM2ivJxO8ocML0aaQOwp%2BiGjPwR2cPb2vAxCQsgXAFgVK9WG%2BAvu6BphdMAlsWgVRMquJm9DIxpAfAS5vhTZo2abGVvMMBiARcCGHK%2Bb707%2FBwIIP8uqawJeKxoK071BoSUALjDX1gyrNiA1xP8FBj3d2fy%2FY3uA2cPRAOAv4j8mcJ6bdymsuZ0J08KgDP7cE72hR40D8InDTnL5XAkcvcHaUhUhaTfZStYml%2FxbF26m%2BvxICq9O1TlnxjFVvNvJBcBmCkglO7E5%2F17wruWej4cDX1%2F5NsrjqVbG%2FQIQOWMeWON510t4F4SkyVkfwBvvjPOVQJepO%2Fdv2FiUL0wTQ7RLQB102%2FJb%2FJiHxP1GQFXMRHwPjg%2B3415Cagy0F9sOOM7YzZPriaW2HSs8BwAFIl4x%2Fbiw1FxIalPAxj6QYj2qQ5DYT8MnvPa%2FAf67AKutj89fXduYyj6WUCLIZakWrjL565ud5VaZ8ZGAp4gD3B%2F%2FkOGW3e7AZdlqu3XfQ6C1aVzBynIvBLElwB8HIj7fbrDmVwbAFeSnlSC1rqNZQMcDjg2iKx0J%2BvN9xyDNOCLYPAw2PbK6PLnmtL9%2F7M34src0agtlPAlWNwIYHJaZEawIo4C2GXEisBonwGOA7ZJgWO7ZpBMUGDgFQmaQeASOJaYSKcDNWoErA5iwU%2BPh4cfvrQX5OgsAIenRYaaEEph8F0K05XYZLLhKHwbxIMw2GgtN3pGW7yQX6nmk2dOxnKjzVn5Go0joTaEcr0ox3vGmyHiakGXEhgHIHMgECDwRiA86Xktvywsf665cwp0rPUTh8KDTzfaLFe9teXE6sdumtbaESTjADhR4kjp%2FClWZr4RvgxghLu6FJtz5l5D6WmIzxhlbi3Yvszx9m6HW%2BPojNsGBeHWYga4TdK1ICYMQHaxFlrp0TwxesuqdZ0XdwH9yH4%2FPxoEUzyq0H1mA%2FNOdsgezi8vq3dAxQHYMTUSzg%2BZOdbYewlc1c7uUhnAQZLrPNhH2WL2%2F%2B%2FOsqYlQNLUE1d%2F5tyZUVXbNNsYLBR0K4BB%2FQDBAjwt4OEwtWLklrK9HZt2a9UV35TbxNB8STcBnEqDKMXXDLXUsuU1FyviABwonVcYCszNIL9OYGwaFd8ZCn8zhr9opF5eVj6tYUmaedetV126eLhV8HFKnwVwZTsIvfYGAa0E3gqgBwc3NP5x2N61TiyJj8OzI1mhNhQFgb4D0jHXApedCB4R8HOr4JlxFU%2FviQNQPStSasFbKX0OUGbKdCXsIlnmt%2BrREdNwvLfKrbudqg8vmoxoMJfgPUjEg4xeIuBSTD2hp0Xvlxu32Dc6a4Q1M24eaelfKYPvA5oEsGN%2BJ8CuILh0TEXZC3FRsnLWgpuNeAcQj%2F6phjPz50k9Ubjl96vTrbm7TupSrrWDJkPB%2FSA%2BQtDdUG%2FqhABgtYEegLy1hRVPHei8RuXMRR8Cg%2FkkvwrApeH35hZedQDsqjj2WzpTYSvvoeL%2BOCvF6d3hmyT%2BzJP3ZOG2FTtSoZUsKB4ovik3zPANhO62wBVOKk97PqFBxFvG4JuNfnj75M1PnjV%2Fd6nVxQtmg%2FwiqLkQczrPS3AfpKfQ5D%2FCEzMjY1oMv0ooAmB8sg0IaCOwS%2BKDiuq5vkhQned3tcdwr3ZsOMq7JM2Law3pjwOC%2FmRgf1iYe6qK69fHOv61ZsZtg2Neyw0A7iMxHeqSbumKNa7x4T3CuP9b3UvykwDykq1Pol7C8wH4i3G5Uzdy%2FZKzi6a%2F7%2Fd9k5qzxKtp2HGdFRdDuolAVhopOADxBqhfZ%2FoZq4Z1un03u2Oy8LyFBL7hUvo5XIZoSQgo%2BDlrZs2fGxM%2FT9CVvskCkTP%2FGpI%2F9cg1o8pX7uvjoc%2F5N5eFPHlzjfAVAUVpuMIZkWuNgh8XNjS9xb1rXUfp7DhUPO8yj%2F5tgu5hNwJOvAEjvEba5awsmX8PZG4l8U%2FJWB%2BBMwB20gTfagns1gt6obqkAsoVLNX7zUxa3WKhO5lgoD2LNcA%2BCE8pCw9t2oTTXTtE1SUL5wtyQd1ZdbfzCNgGaA2riyP3i5gHwDG%2FHhclcEjAC34s%2BMHI8MHDLC%2FvczOiO0AqP3z7MBNrudRK97m9MEGeuh%2FEnwmztJq5q0o7dYY6GrGmOR78HJUvTgL%2BO5D%2ByqqSyAMA%2FhXA9J7XQ2CBLR7w2xZFV6Rz%2By67ZMSQq5ZgUBDOqG88XdcwuYupdl7vpTlz%2FKLaEaM88g4ZLZBwCc%2BV4By7bAH4K2O1vHBb2eud59CcOX71iYJChAIH4oL24qfbYxHYZ4GNrJq14CcEr3cLJkGrkcCfTGB%2F0lyfs%2B2CA79zQaTH4fTEStVO8KmSIMAYj94uIbqzcOuMw8mUGifC5mZnXxw1%2BAoUvxQXwDoP1weskvRjPxZ6etTbKxwLPTvenXNnZriuZRYYfBPAtcnIFsEDLpCmBYCc2gI%2BhXD0oY2v%2B3WpurL7pkbGZ4Y5F0afg8VIEG9DXJ3laXl%2B%2BbSGnkCIc4WJd2ZU5TUtInEroH%2FuAoDj%2BS%2FT6OFCDH2pa0%2Fw5OWfHtLS1haRcDeJy1IUVgcFlLOqOPJjAjeISS3gBZJLq5m3srPP9WQC1SULr5LsrSBdceUo7ykQr5B8otFveLFo89qGnipIB8KhmfOn%2BsbMF3AXEzW8j7i4whMSHveteWrU9pU7Os%2Fh1KzDJVsKjMJfB3kjE82bZOMAxNdZXbLwewLmAprZzbfbfQ6%2FtoFdPm7705uTmn6c7c3xqupG3GqA2x33b%2F%2B%2Bm%2BeQy70kHqtvbN190a41rpnR7aiZce1gyyFXWs98FtI17aKsS3V7SP231xba0NX8O8hPTHiAwuXt5W%2FPbgrsM%2BAGHileeJ9lvAosPddkFCPYo891nd3dwoHiiiEZ9L8mcDGAoo7vMPHwoVrCo%2FT85wonxfYkI1HtxczVZDweOLJUB2IjYvjh6KYzB7rm%2FsqLbh7mZYYuD6AfkfF1U4gtegfCX10M%2BAzFOwR8pGsdQKDRQi8bi0cK%2FXN9risATlcYmoGiQPq2Ied2UZU6rGmHiEf9WOYfC7YvO9bTFbm5hoQwwkDXkrxQwOmYsClDmVtHbV%2FmePz7nskcLV10YRDTjfB0nxRv2iYjVs6ftpF61pXCLgN8AcQ1nWtmJsSNExb6hWe1smDb0ztTMT9Xg1vTeo2F%2FpPER7vR%2FdycZwD9AfJWtuVlrZu4%2FneO05%2Fz5sc5%2FM6pkVDeYG%2BUaeOQADYaZeuxiRXF9V2DqCudK0vnX2asuQuAs2bXx0g2AkAbLbWMlSWLZhoEXxXoqPB7xQfRrLif4LsmFttQsH11j7flVkrIaouHWcU%2BR2kxwGk97cBlFUM%2Bb8HfNDfUv5OsPkhxkPjHzv9Ns64l%2BHUx7sqp1GfXPH3BEo%2FxwMXzCkNZ5msQF3Zhg8dIbADM%2FYX19fu7%2BlzXjTlmN86cGRfEot%2Bz0NUE4xpct0OwILaDWhGmXfZ2zqnjV3dic%2BkcuvN3jl6yeJQNty2wMt9uf7OQQnGWY4PPxqz%2FMN%2BdeGdmKO%2FMPSRv66wHkHjbgisMvccLy1ecTGX%2BLge3tjUXQ95PRLjbdyJsj4NAvRX%2BboQfeYG%2FsWtU7w0IlcWRYhNPufqiEoQulbCyB8CK7Ez8D5dgibmrZPvHAbMIoOMErhlyQuBfDO2vggy%2BmU6%2Fvbo0Mh6BvU403yEwur2NnsIPUQtqnW%2F5BNuwaeTOMke4ej2qihd8CuAdJD6VBpV26KwntbSAQ5fHkYqnHPpXkLge1HCQh6HgVYXsn9Op%2FOIKzKXzi2m9263ibC6prtDphDES1YCWQ1pdmHuyguvXp%2F0Q0l3eF6buGBQN8x4a3SLFCV2y4WTwmMjlYmzZ2PJnXjrbF9hfGhmSSRQgpmEWOt6S0XR08ub3VNaksyZq%2F094wtfUJ5VXb0Jc5cf8pSOHHznZWd1Jtm78AcfgQUU%2Bvf%2BKS18J7S%2BZ27mHmHWUHoyG7MoJbzyz%2F6yvuCJm59Qd%2FqCmwWbisHCA8tFBui1mR2UVa5lH2G8ZcVwasnqXTaqJ4BsQn7Qt0WfGvDOzNtXabr%2F7ZmwbnmW822FwC8QZaXSxHYnbSpqfmlh4nWvkpAoWafnjkZmLpwUm%2BDSlL4N9aXQk6nwA2wSzLPCjr%2B4ffOpQT5nBFUm5ITORDK5CIng7JutElCRDInjSAktp7fIN28x2R%2Br6DUA8%2F8%2BKXCcnq0sL02qodrfNRJO1nsKrMFgnBG%2FSC6piLbEzzW1ebBhcF8QLx8L%2BEM9ogoG5FNA1JC6XkJPGuo0kdgWyPwhHw692ZJ1%2BAZB46LzEqynZcZcFbgfislp%2FhiBEQeyU8DppN0PmMKBGwNCQQyzthRBmA7iUiYaH1%2F7gOun1Azgo4c9BEPxofHj44Q4q3U8AIl5NCYZa8T5QXQupvgLhymLXeHX1foMFThvEq1LXrB0kII9AtoAs416dp875bh8tkF4G%2BWhDU%2BtLU3atOdNR1%2FQPgKIbMo7kDJpu6d1HyenwvXlQkQogB4TjDo5Fdvxowm9%2FhO323Zu9b5NroVn%2BZm%2F%2B8aOdY0tvJjlnw8en3JjTkhW%2B0ZCfd6qy%2Bw1AqlOd588dcLUEyiiteqWCr3RVs%2FoMgDO9vSWR4VnUvQTnQ73q6pwPHKyT8gVspsVjmT5eHFpe5t4Vv2%2F0GYD4y3HVTqDFAwQ%2BCv7%2FPpzuBlFXVu8i9bA8%2F%2BXRb1xU1V1t0WcA4g%2BqooMukmcfMkBxGk9qzsetd6zRCLBCsKsD3662x09VX3BgfbdKdp8BcP5vs8LTA%2FIRAVNTsb%2FzcXon4ghwXN8FvbXGhH5f2xzbP21nmcsq3Y5%2BAdCW5c8gvYc%2FEAAkNIYmJ%2BKQeDIm%2FGHC1rKdqYDvMwCuCeHXN3zIyDzYLqj23MpKtYuB%2BbwW4FuG%2Bm0MeLW%2BBYeS3XzHkn0GwD0%2Fm70bBfTwDVjMJTFpYM7Rq1kS9DbxTHYTpHVG%2FmsFeZk1XJ%2B8e9VvANwEx6ZGsttC%2FBca%2FDsg99hpIAuhHpFIKKhqJVgLYS%2BoDQb4WxAKXk9Hv%2Bg8cZ8twE3S0dA0Bv8B4GYBF7f39vs1b882IAl0%2FUFXGtcAeMuD1sTIjX39%2BVy%2FNxoHoWHExUa4HsKidhCcKtvvubvclIvwrjtUSWlzIL4Ci03ZXvRwnjeysa8%2FoByQTTpXCEJ2gjyvRMJlhKYo8d7IdXedW7hfmvSuTHZRHYqKdMTlKAHXy9st2B2k2Q3EDgaZ3rGxm8paUgm2yaLKgADgFnCV4eRwbU59E4pATSbNJMKOl1hAxsUK9%2FbYgeGsI0zCgxK%2FHW4%2FgLvhmPs9oCth3W%2BHlXh5XiXoAIG9JPeA%2FsHa5lh9OhE%2BnXA6YAB0Xsy5xaSTo3NCYY2ijV5gXWvLapIhE4BATjTNkgMh4SpOEorGn%2BFQxyDXSDV7LbXbD%2BzuWMwc2TvieH1%2Fegc9gfF%2FD%2FQLzWBF0j0AAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 1559
+        }
+      },
+      "1579": {
+        "1580": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 802,
+          "highlighted": true,
+          "id": 1580,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1300,
+          "windowId": 1579
+        }
+      }
+    },
+    "windowsNumber": 3,
+    "windowsInfo": {
+      "1548": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 1548,
+        "incognito": false,
+        "left": 517,
+        "state": "normal",
+        "top": 57,
+        "type": "normal",
+        "width": 1395
+      },
+      "1559": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1920,
+        "id": 1559,
+        "incognito": false,
+        "left": 1920,
+        "state": "fullscreen",
+        "top": -620,
+        "type": "normal",
+        "width": 1200
+      },
+      "1579": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 1579,
+        "incognito": false,
+        "left": 741,
+        "state": "normal",
+        "top": 58,
+        "type": "normal",
+        "width": 1395
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Sacred Sword Princesses - Action RPG | Nutaku",
+    "date": 1622993831316,
+    "lastEditedTime": 1622993831316,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "bcaceac2-ef60-41c1-86c4-4e1f9ffca051"
+  }
+]

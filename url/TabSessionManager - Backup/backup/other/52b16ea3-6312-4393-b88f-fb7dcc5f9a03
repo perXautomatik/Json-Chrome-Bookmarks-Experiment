@@ -1,0 +1,148 @@
+[
+  {
+    "windows": {
+      "293": {
+        "294": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://windows-cdn.softpedia.com/favicon.ico",
+          "groupId": -1,
+          "height": 923,
+          "highlighted": false,
+          "id": 294,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "C-Command-Prompt_1.png (700×543)",
+          "url": "https://windows-cdn.softpedia.com/screenshots/C-Command-Prompt_1.png",
+          "width": 1186,
+          "windowId": 293
+        },
+        "295": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 923,
+          "highlighted": false,
+          "id": 295,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "easymod/getting-started.md at master · focustense/easymod",
+          "url": "https://github.com/focustense/easymod/blob/master/Focus.Apps.EasyNpc/Docs/getting-started.md#installation",
+          "width": 1186,
+          "windowId": 293
+        },
+        "296": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.scdn.co/i/_global/favicon.png",
+          "groupId": -1,
+          "height": 923,
+          "highlighted": false,
+          "id": 296,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Perfectionism: How do you organize your music? - The Spotify Community",
+          "url": "https://community.spotify.com/t5/Chat/Perfectionism-How-do-you-organize-your-music/m-p/1201032",
+          "width": 1186,
+          "windowId": 293
+        },
+        "297": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://newsroom.spotify.com/wp-content/themes/spotify-newsroom/assets/images/favicon/favicon.ico",
+          "groupId": -1,
+          "height": 923,
+          "highlighted": false,
+          "id": 297,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Celebrate Your Unique Listening Style With Spotify’s Only You In-App Experience — Spotify",
+          "url": "https://newsroom.spotify.com/2021-06-02/celebrate-your-unique-listening-style-with-spotifys-only-you-in-app-experience/",
+          "width": 1186,
+          "windowId": 293
+        },
+        "298": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.statsforspotify.com/favicon.ico",
+          "groupId": -1,
+          "height": 923,
+          "highlighted": true,
+          "id": 298,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "unloaded",
+          "title": "View your personal spotify statistics - Stats for Spotify",
+          "url": "https://www.statsforspotify.com/",
+          "width": 1186,
+          "windowId": 293
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "293": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 923,
+        "id": 293,
+        "incognito": false,
+        "left": 1920,
+        "state": "minimized",
+        "top": 48,
+        "type": "normal",
+        "width": 1186
+      }
+    },
+    "tabsNumber": 5,
+    "name": "View your personal spotify statistics - Stats for Spotify",
+    "date": 1627984750233,
+    "lastEditedTime": 1627984740296,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "5339b0fd-e9a5-4cc9-a2ff-15b01c2668eb"
+  }
+]

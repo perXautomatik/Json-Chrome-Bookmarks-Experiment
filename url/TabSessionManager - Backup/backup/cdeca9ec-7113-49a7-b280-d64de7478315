@@ -1,0 +1,263 @@
+[
+  {
+    "windows": {
+      "996": {
+        "997": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": true,
+          "id": 997,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "System - Administration - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=245",
+          "width": 1175,
+          "windowId": 996
+        },
+        "998": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 998,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "System - Display - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=54",
+          "width": 1175,
+          "windowId": 996
+        },
+        "999": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 999,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "System - Installation/Configuration - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=26",
+          "width": 1175,
+          "windowId": 996
+        },
+        "1000": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 1000,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "System - Keyboard/Mouse - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=107",
+          "width": 1175,
+          "windowId": 996
+        },
+        "1001": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 1001,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "System - Registry - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=160",
+          "width": 1175,
+          "windowId": 996
+        },
+        "1002": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 1002,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "System - Monitoring - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=214",
+          "width": 1175,
+          "windowId": 996
+        },
+        "1003": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 1003,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "System - Miscellaneous - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=219",
+          "width": 1175,
+          "windowId": 996
+        },
+        "1004": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 1004,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "System - Storage - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=86",
+          "width": 1175,
+          "windowId": 996
+        },
+        "1005": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 1005,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "System - Task Managers - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=25",
+          "width": 1175,
+          "windowId": 996
+        },
+        "1006": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 1006,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "System - Temperature/Fans - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=347",
+          "width": 1175,
+          "windowId": 996
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "996": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 631,
+        "id": 996,
+        "incognito": false,
+        "left": 8,
+        "state": "minimized",
+        "top": 0,
+        "type": "normal",
+        "width": 1175
+      }
+    },
+    "tabsNumber": 10,
+    "name": "System - Administration - The Portable Freeware Collection",
+    "date": 1629103129043,
+    "lastEditedTime": 1629102888611,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "a520c45c-5d7e-4467-93a2-67b973e0661f"
+  }
+]

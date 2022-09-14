@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2205": {
+        "2206": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2206,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "GRA Vanilla Weapons patch at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/65804",
+          "width": 1154,
+          "windowId": 2205
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2205": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2205,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "GRA Vanilla Weapons patch at Fallout New Vegas - mods and community",
+    "date": 1627156242494,
+    "lastEditedTime": 1627156239731,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "ba230228-b5a5-4cdc-92e5-7b1823278ab4"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1296": {
+        "1297": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.gotlandshem.se/wp-content/uploads/cropped-gotlandshem-favicon-512-270x270.png",
+          "groupId": -1,
+          "height": 967,
+          "highlighted": true,
+          "id": 1297,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Logga in - GotlandsHem",
+          "url": "https://www.gotlandshem.se/login/?err=inactivity",
+          "width": 929,
+          "windowId": 1296
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1296": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1009,
+        "id": 1296,
+        "incognito": false,
+        "left": 2182,
+        "state": "normal",
+        "top": 258,
+        "type": "popup",
+        "width": 945
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Logga in - GotlandsHem",
+    "date": 1628496377847,
+    "lastEditedTime": 1628495903194,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "f2561d08-c7ff-4814-8ede-400716d22774"
+  }
+]

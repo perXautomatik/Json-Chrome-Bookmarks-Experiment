@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10379": {
+        "10380": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepBlue/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10380,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Mod Organizer 2 at Skyrim Special Edition Nexus - Mods and Community",
+          "url": "https://www.nexusmods.com/skyrimspecialedition/mods/6194",
+          "width": 1154,
+          "windowId": 10379
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10379": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10379,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Mod Organizer 2 at Skyrim Special Edition Nexus - Mods and Community",
+    "date": 1622643324537,
+    "lastEditedTime": 1622643321016,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "66bc781e-8980-4978-9e24-c1731c4c0770"
+  }
+]

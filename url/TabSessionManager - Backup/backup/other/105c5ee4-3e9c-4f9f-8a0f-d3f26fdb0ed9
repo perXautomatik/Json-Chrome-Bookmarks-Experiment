@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2319": {
+        "2320": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2320,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "(TTW) Moveable Statics Turned Into Junk Items at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/68534",
+          "width": 1154,
+          "windowId": 2319
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2319": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2319,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(TTW) Moveable Statics Turned Into Junk Items at Fallout New Vegas - mods and community",
+    "date": 1627156305517,
+    "lastEditedTime": 1627156303937,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "568240bb-a7a7-4612-8f0f-3e1709a7a7a8"
+  }
+]

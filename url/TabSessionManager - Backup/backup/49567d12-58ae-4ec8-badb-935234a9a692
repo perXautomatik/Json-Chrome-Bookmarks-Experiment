@@ -1,0 +1,148 @@
+[
+  {
+    "windows": {
+      "43": {
+        "44": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210702122703",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 44,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Crush Crush Moist & Uncensored Sex Game | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1131,
+          "windowId": 43
+        },
+        "940": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 940,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "how republicans totalitarianism - Bing",
+          "url": "https://www.bing.com/search?q=how+republicans+totalitarianism&cvid=a8b7938517bb4e22a8bc91abf8d62c9b&aqs=edge..69i57.16783j0j1&PC=U531&first=7&FORM=PORE",
+          "width": 1131,
+          "windowId": 43
+        },
+        "941": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.theamericanconservative.com/wp-content/themes/dod/src/static/images/favicon/touch-icon-32.png",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 941,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Trump, Truth, And Totalitarianism | The American Conservative",
+          "url": "https://www.theamericanconservative.com/dreher/donald-trump-truth-totalitarianism/",
+          "width": 1131,
+          "windowId": 43
+        },
+        "943": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 943,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "tbbmalloc.dll' couldn't be loaded - Bing",
+          "url": "https://www.bing.com/search?q=tbbmalloc.dll%27+couldn%27t+be+loaded&cvid=9eb47d32d96b46ad9b9af63e072431a4&aqs=edge.0.69i59.800j0j1&FORM=ANAB01&PC=U531",
+          "width": 1131,
+          "windowId": 43
+        },
+        "944": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "groupId": -1,
+          "height": 824,
+          "highlighted": true,
+          "id": 944,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 943,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "https://raw.githubusercontent.com/LudoKickas/tbbmalloc_arma/master/README.md",
+          "url": "https://raw.githubusercontent.com/LudoKickas/tbbmalloc_arma/master/README.md",
+          "width": 1131,
+          "windowId": 43
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "43": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 911,
+        "id": 43,
+        "incognito": false,
+        "left": 1982,
+        "state": "normal",
+        "top": 360,
+        "type": "normal",
+        "width": 1195
+      }
+    },
+    "tabsNumber": 5,
+    "name": "https://raw.githubusercontent.com/LudoKickas/tbbmalloc_arma/master/README.md",
+    "date": 1625498501510,
+    "lastEditedTime": 1625498501510,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625478469522,
+    "id": "439703b9-9e24-4715-a418-5eddd69ba916"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "307": {
+        "306": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.business-sweden.com/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 306,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Så hjälper vi små och medelstora företag - Business Sweden",
+          "url": "https://www.business-sweden.com/sv/tjanster/sa-hjalper-vi-sma-och-medelstora-foretag/?utm_campaign=889&utm_medium=display&utm_source=googleads&utm_content=natek&gclid=Cj0KCQjwwLKFBhDPARIsAPzPi-JJIHu0l32woF1hn3q3oB8bHABW-pJjZpqkMBM6q3Nrk3wrUGdZ--QaAl7SEALw_wcB",
+          "width": 1512,
+          "windowId": 307
+        },
+        "309": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": false,
+          "id": 309,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "outlook 365 - Bing",
+          "url": "https://www.bing.com/search?q=outlook+365&cvid=3039584ffc0f427eaebc23e0419c67a1&aqs=edge.0.69i59j69i57j0l5.1429j0j1&FORM=ANAB01&PC=U531",
+          "width": 1512,
+          "windowId": 307
+        },
+        "310": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 743,
+          "highlighted": true,
+          "id": 310,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 309,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Köp Outlook - Microsoft Store sv-SE",
+          "url": "https://www.microsoft.com/sv-se/microsoft-365/p/outlook/cfq7ttc0k7c4?OCID=AID2100139_SEM_6c1053141519181edbde33b8e06970bb%3aG%3as&lnkd=Bing_O365SMB_App&ef_id=6c1053141519181edbde33b8e06970bb%3aG%3as&msclkid=6c1053141519181edbde33b8e06970bb&activetab=pivot%3aoverviewtab",
+          "width": 1512,
+          "windowId": 307
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "307": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 830,
+        "id": 307,
+        "incognito": false,
+        "left": 232,
+        "state": "normal",
+        "top": 37,
+        "type": "normal",
+        "width": 1576
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Köp Outlook - Microsoft Store sv-SE",
+    "date": 1621947784024,
+    "lastEditedTime": 1621947772622,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1621883588884,
+    "id": "95ae27cf-b302-4fab-b359-193e0530c422"
+  }
+]

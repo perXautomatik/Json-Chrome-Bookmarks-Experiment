@@ -1,0 +1,149 @@
+[
+  {
+    "windows": {
+      "7631": {
+        "7632": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7632,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "json portable transform - Bing",
+          "url": "https://www.bing.com/search?q=json+portable+transform&cvid=1de125eec20b4da8abf3dc7c69ae3663&aqs=edge..69i57j69i60.3336j0j4&FORM=ANAB01&PC=U531",
+          "width": 1872,
+          "windowId": 7631
+        },
+        "7652": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7652,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "streamich/portable-transform-manifest-prune: portable.js transform to reduce package.json file sizes",
+          "url": "https://github.com/streamich/portable-transform-manifest-prune",
+          "width": 1872,
+          "windowId": 7631
+        },
+        "7655": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7655,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "XSLT equivalent for JSON - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/1618038/xslt-equivalent-for-json",
+          "width": 1319,
+          "windowId": 7631
+        },
+        "7658": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://medium.com/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7658,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JSON transformation with Liquid. Introduction Hi, I’m working on a… | by Ferry Jongmans | Medium",
+          "url": "https://medium.com/@ferryjongmans/json-transformation-with-liquid-e607be9094c0",
+          "width": 1872,
+          "windowId": 7631
+        },
+        "7661": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://a.fsdn.com/con/img/sandiego/svg/originals/sf-icon-orange-no_sf.svg",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7661,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7655,
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "BeeBEEP (Free Office Messenger) download | SourceForge.net",
+          "url": "https://sourceforge.net/projects/beebeep/",
+          "width": 955,
+          "windowId": 7631
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7631": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1040,
+        "id": 7631,
+        "incognito": false,
+        "left": 240,
+        "state": "normal",
+        "top": 67,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 5,
+    "name": "BeeBEEP (Free Office Messenger) download | SourceForge.net",
+    "date": 1631373516209,
+    "lastEditedTime": 1631369844670,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "73efe424-bf3e-4447-af73-ed682acd3383"
+  }
+]

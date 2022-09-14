@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "3082": {
+        "3083": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3083,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Any glasses with any mask at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/66321",
+          "width": 1154,
+          "windowId": 3082
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3082": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3082,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Any glasses with any mask at Fallout New Vegas - mods and community",
+    "date": 1627976534305,
+    "lastEditedTime": 1627976532571,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "736c5f67-281a-4314-ad37-805f58d75174"
+  }
+]

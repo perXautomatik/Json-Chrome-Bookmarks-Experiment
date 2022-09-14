@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10445": {
+        "10446": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10446,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Workshop Plus at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/35005?tab=posts",
+          "width": 1154,
+          "windowId": 10445
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10445": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10445,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Workshop Plus at Fallout 4 Nexus - Mods and community",
+    "date": 1622643374018,
+    "lastEditedTime": 1622643368636,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "6c364241-fcd3-4b8a-8234-9fc52f513244"
+  }
+]

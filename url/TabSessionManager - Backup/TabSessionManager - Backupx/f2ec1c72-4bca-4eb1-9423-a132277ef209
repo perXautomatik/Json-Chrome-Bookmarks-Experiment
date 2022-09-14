@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10373": {
+        "10374": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10374,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Mod Organizer 2 at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/28715",
+          "width": 1154,
+          "windowId": 10373
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10373": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10373,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Mod Organizer 2 at Fallout 4 Nexus - Mods and community",
+    "date": 1622643319640,
+    "lastEditedTime": 1622643315617,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "97fbea40-a6ab-4fab-9758-3fea155a5455"
+  }
+]

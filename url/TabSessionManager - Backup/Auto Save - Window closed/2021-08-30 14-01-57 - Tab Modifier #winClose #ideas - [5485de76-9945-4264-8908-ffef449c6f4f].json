@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "1229": {
+        "1223": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 1223,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sylouuu/chrome-tab-modifier: Take control of your tabs",
+          "url": "https://github.com/sylouuu/chrome-tab-modifier",
+          "width": 1481,
+          "windowId": 1229
+        },
+        "1225": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 725,
+          "highlighted": false,
+          "id": 1225,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab Modifier - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai/related",
+          "width": 1481,
+          "windowId": 1229
+        },
+        "1226": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": true,
+          "id": 1226,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tab Modifier",
+          "url": "chrome-extension://hcbgadmbdkiilgpifjgcakjehmafcjai/html/options.html#/install",
+          "width": 1481,
+          "windowId": 1229
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1229": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 858,
+        "id": 1229,
+        "incognito": false,
+        "left": 1722,
+        "state": "normal",
+        "top": 212,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Tab Modifier",
+    "date": 1630324917863,
+    "lastEditedTime": 1630324897887,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "5485de76-9945-4264-8908-ffef449c6f4f"
+  }
+]

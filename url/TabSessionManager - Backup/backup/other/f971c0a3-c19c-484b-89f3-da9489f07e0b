@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2331": {
+        "2332": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2332,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Big MT Disharmony - Factions Fight Each Other at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/70182",
+          "width": 1154,
+          "windowId": 2331
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2331": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2331,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Big MT Disharmony - Factions Fight Each Other at Fallout New Vegas - mods and community",
+    "date": 1627156311064,
+    "lastEditedTime": 1627156309477,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "11eb69c0-f7c6-4fe7-9b5d-5a3d5fc9c024"
+  }
+]

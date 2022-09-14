@@ -1,0 +1,80 @@
+[
+  {
+    "windows": {
+      "2": {
+        "3": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 895,
+          "highlighted": false,
+          "id": 3,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "fallui inventory - Bing",
+          "url": "https://www.bing.com/search?q=fallui+inventory&cvid=e6a80c21c5014ef8b8ab91af8c9f5741&aqs=edge..69i57.6296j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 2
+        },
+        "5993": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 895,
+          "highlighted": true,
+          "id": 5993,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 3,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "FallUI - Inventory at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/48758?tab=files&file_id=210547&nmm=1",
+          "width": 1135,
+          "windowId": 2
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 982,
+        "id": 2,
+        "incognito": false,
+        "left": 594,
+        "state": "normal",
+        "top": 49,
+        "type": "normal",
+        "width": 1199
+      }
+    },
+    "tabsNumber": 2,
+    "name": "FallUI - Inventory at Fallout 4 Nexus - Mods and community",
+    "date": 1624339202036,
+    "lastEditedTime": 1624339202036,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1624310197137,
+    "id": "18733791-d859-4f86-a2a7-f43c24405812"
+  }
+]

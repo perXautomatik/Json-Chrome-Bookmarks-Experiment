@@ -1,0 +1,116 @@
+[
+  {
+    "windows": {
+      "2": {
+        "3": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.copyhandler.com/sites/default/files/ch16.png",
+          "groupId": -1,
+          "height": 709,
+          "highlighted": false,
+          "id": 3,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Download | Copy Handler",
+          "url": "https://www.copyhandler.com/download",
+          "width": 996,
+          "windowId": 2
+        },
+        "1549": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 677,
+          "highlighted": true,
+          "id": 1549,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 996,
+          "windowId": 2
+        }
+      },
+      "1548": {
+        "1545": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210604153606",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 1545,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1841,
+          "windowId": 1548
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "2": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 796,
+        "id": 2,
+        "incognito": false,
+        "left": 296,
+        "state": "normal",
+        "top": 147,
+        "type": "normal",
+        "width": 1091
+      },
+      "1548": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1056,
+        "id": 1548,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Visual bookmarks",
+    "date": 1622893031318,
+    "lastEditedTime": 1622893031318,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "31674b41-9c30-4ca6-b903-49cd8b36b8b3"
+  }
+]

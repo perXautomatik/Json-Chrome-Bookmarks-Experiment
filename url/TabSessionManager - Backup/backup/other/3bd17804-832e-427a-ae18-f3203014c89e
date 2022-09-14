@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "2289": {
+        "2287": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 413,
+          "highlighted": true,
+          "id": 2287,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "SelectorsHub - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh/related",
+          "width": 1111,
+          "windowId": 2289
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2289": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 545,
+        "id": 2289,
+        "incognito": false,
+        "left": 752,
+        "state": "minimized",
+        "top": 154,
+        "type": "normal",
+        "width": 1175
+      }
+    },
+    "tabsNumber": 1,
+    "name": "SelectorsHub - Chrome Web Store",
+    "date": 1628757357773,
+    "lastEditedTime": 1628757337803,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "a69b8ff0-679c-4b9b-b82b-a67290467cab"
+  }
+]

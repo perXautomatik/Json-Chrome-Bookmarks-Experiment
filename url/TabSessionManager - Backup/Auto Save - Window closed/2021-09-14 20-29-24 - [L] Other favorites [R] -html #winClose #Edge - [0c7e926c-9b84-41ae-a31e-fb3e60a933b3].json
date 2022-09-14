@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "586": {
+        "587": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 581,
+          "highlighted": true,
+          "id": 587,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "[L] Other favorites [R] .html",
+          "url": "chrome-extension://knfpajocfeohpaipkfpdbfhgibajfmcf/data/commander/index.html?mode=window",
+          "width": 1256,
+          "windowId": 586
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "586": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 620,
+        "id": 586,
+        "incognito": false,
+        "left": 526,
+        "state": "normal",
+        "top": 219,
+        "type": "popup",
+        "width": 1272
+      }
+    },
+    "tabsNumber": 1,
+    "name": "[L] Other favorites [R] .html",
+    "date": 1631644164777,
+    "lastEditedTime": 1631643823450,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1631557337412,
+    "id": "0c7e926c-9b84-41ae-a31e-fb3e60a933b3"
+  }
+]

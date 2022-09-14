@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2890": {
+        "2891": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2891,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "NVMMP - New Vegas Map Marker Project at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/69868",
+          "width": 1154,
+          "windowId": 2890
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2890": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2890,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "NVMMP - New Vegas Map Marker Project at Fallout New Vegas - mods and community",
+    "date": 1627976420674,
+    "lastEditedTime": 1627976419216,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "b027279c-c50c-4f6d-84a6-d7e96d4f1abe"
+  }
+]

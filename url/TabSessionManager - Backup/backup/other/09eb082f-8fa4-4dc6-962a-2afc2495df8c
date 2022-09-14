@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "916": {
+        "917": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 538,
+          "highlighted": true,
+          "id": 917,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "perXautomatik/xedit-tesv-scripts: Scripts for TES5Edit, written in its weird non-standard subset of Delphi.",
+          "url": "https://github.com/perXautomatik/xedit-tesv-scripts",
+          "width": 2089,
+          "windowId": 916
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "916": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 625,
+        "id": 916,
+        "incognito": false,
+        "left": -127,
+        "state": "normal",
+        "top": 366,
+        "type": "normal",
+        "width": 2153
+      }
+    },
+    "tabsNumber": 1,
+    "name": "perXautomatik/xedit-tesv-scripts: Scripts for TES5Edit, written in its weird non-standard subset of Delphi.",
+    "date": 1628330642711,
+    "lastEditedTime": 1628330592379,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628267657392,
+    "id": "57254f3a-e861-4121-aa58-ec418ae95187"
+  }
+]

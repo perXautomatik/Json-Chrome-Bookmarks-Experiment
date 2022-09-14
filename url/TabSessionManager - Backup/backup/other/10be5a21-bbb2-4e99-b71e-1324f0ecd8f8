@@ -1,0 +1,236 @@
+[
+  {
+    "windows": {
+      "4637": {
+        "4625": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 380,
+          "highlighted": true,
+          "id": 4625,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Create a new Gist",
+          "url": "https://gist.github.com/",
+          "width": 964,
+          "windowId": 4637
+        }
+      },
+      "4847": {
+        "4627": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 497,
+          "highlighted": false,
+          "id": 4627,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Windowed Mode Fallout New Vegas 1440P Windowed Mode, Windowed Mode",
+          "url": "https://vivaworldcup.info/windowed-mode-fallout-new-vegas/",
+          "width": 1081,
+          "windowId": 4847
+        },
+        "4638": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/a910c60b/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 4638,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "CE 5 Simplified | How to talk to aliens - YouTube",
+          "url": "https://www.youtube.com/watch?v=pbn-2O-vkzg&list=TLPQMTcwNzIwMjEAzF_OVKBQUw&index=12",
+          "width": 1872,
+          "windowId": 4847
+        },
+        "4856": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://dofreality.com/wp-content/uploads/2018/02/cropped-DOF_logo1_square-32x32.png",
+          "groupId": -1,
+          "height": 617,
+          "highlighted": false,
+          "id": 4856,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 4638,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Flight Motion Simulator - Affordable Motion Simulator Platform DOF Reality",
+          "url": "https://dofreality.com/flight-motion-simulator/?gclid=Cj0KCQjw_8mHBhClARIsABfFgphRF9JOqY0vFDPXwMAMafddlzN3dchc8wJxqlXPxm_fqjo0wh64P0oaAsNYEALw_wcB",
+          "width": 1049,
+          "windowId": 4847
+        },
+        "4857": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 592,
+          "highlighted": false,
+          "id": 4857,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "JIP LN NVSE Plugin at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/58277",
+          "width": 1024,
+          "windowId": 4847
+        }
+      },
+      "4860": {
+        "4861": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/a910c60b/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 592,
+          "highlighted": true,
+          "id": 4861,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(8) RULING THE SEAS AS THE PIRATE KING! BUILDING A PIRATE FORTRESS! - Don't Sink Preview Gameplay - YouTube",
+          "url": "https://www.youtube.com/watch?v=wNhYlyqyIYc&t=1126s",
+          "width": 1024,
+          "windowId": 4860
+        }
+      },
+      "4862": {
+        "4863": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/a910c60b/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 4863,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(8) when you break 2,065,369 bones with sawblades - YouTube",
+          "url": "https://www.youtube.com/watch?v=YgPWizlGjuA",
+          "width": 1152,
+          "windowId": 4862
+        }
+      }
+    },
+    "windowsNumber": 4,
+    "windowsInfo": {
+      "4637": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 467,
+        "id": 4637,
+        "incognito": false,
+        "left": 2091,
+        "state": "normal",
+        "top": 489,
+        "type": "normal",
+        "width": 1028
+      },
+      "4847": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 679,
+        "id": 4847,
+        "incognito": false,
+        "left": 687,
+        "state": "minimized",
+        "top": 161,
+        "type": "normal",
+        "width": 1088
+      },
+      "4860": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 679,
+        "id": 4860,
+        "incognito": false,
+        "left": 2047,
+        "state": "normal",
+        "top": 309,
+        "type": "normal",
+        "width": 1088
+      },
+      "4862": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 4862,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 7,
+    "name": "(8) when you break 2,065,369 bones with sawblades - YouTube",
+    "date": 1626599641013,
+    "lastEditedTime": 1626599641013,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625991790805,
+    "id": "c491c870-1372-4a0a-bb23-3a24fe0ec0d2"
+  }
+]

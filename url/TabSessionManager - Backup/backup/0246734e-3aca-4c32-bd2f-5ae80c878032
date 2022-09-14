@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2685": {
+        "2686": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2686,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Cowgirl Cass Outfit at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/68022",
+          "width": 1154,
+          "windowId": 2685
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2685": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2685,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Cowgirl Cass Outfit at Fallout New Vegas - mods and community",
+    "date": 1627976308826,
+    "lastEditedTime": 1627976307505,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "ebf1d9ea-2010-4c10-aa5e-3308989a35ba"
+  }
+]

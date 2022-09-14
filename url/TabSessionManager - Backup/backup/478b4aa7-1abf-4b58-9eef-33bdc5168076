@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2349": {
+        "2350": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2350,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Brandy's Economy Overhaul at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/68351",
+          "width": 1154,
+          "windowId": 2349
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2349": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2349,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Brandy's Economy Overhaul at Fallout New Vegas - mods and community",
+    "date": 1627156319744,
+    "lastEditedTime": 1627156318199,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "0137b52b-76d8-475b-887a-e9131b2aa944"
+  }
+]

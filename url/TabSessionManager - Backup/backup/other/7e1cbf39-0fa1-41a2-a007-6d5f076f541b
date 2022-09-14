@@ -1,0 +1,116 @@
+[
+  {
+    "windows": {
+      "7738": {
+        "7739": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7739,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=121951",
+          "width": 1319,
+          "windowId": 7738
+        },
+        "7740": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7740,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "json orm - Bing",
+          "url": "https://www.bing.com/search?q=json+orm&cvid=f91ecd65854245abaeb9ae87d1bee306&aqs=edge..69i57j0l5j69i60j69i65l2.3928j0j4&FORM=ANAB01&PC=U531",
+          "width": 1319,
+          "windowId": 7738
+        }
+      },
+      "7876": {
+        "7828": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7828,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/searchEngines?search=search",
+          "width": 1319,
+          "windowId": 7876
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "7738": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1040,
+        "id": 7738,
+        "incognito": false,
+        "left": 517,
+        "state": "normal",
+        "top": 103,
+        "type": "normal",
+        "width": 1383
+      },
+      "7876": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1040,
+        "id": 7876,
+        "incognito": false,
+        "left": 527,
+        "state": "minimized",
+        "top": 113,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 3,
+    "name": "json orm - Bing",
+    "date": 1631532209657,
+    "lastEditedTime": 1631532209657,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "a18f938f-afc2-4347-a17f-e5668f274ebc"
+  }
+]

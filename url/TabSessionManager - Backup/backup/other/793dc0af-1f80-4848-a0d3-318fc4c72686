@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "4646": {
+        "4523": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://store.steampowered.com/favicon.ico",
+          "groupId": -1,
+          "height": 960,
+          "highlighted": true,
+          "id": 4523,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "per_automatik's wishlist",
+          "url": "https://store.steampowered.com/wishlist/profiles/76561198070792349/#sort=order&price_1=1&discount_any=1",
+          "width": 910,
+          "windowId": 4646
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4646": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1047,
+        "id": 4646,
+        "incognito": false,
+        "left": -7,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 974
+      }
+    },
+    "tabsNumber": 1,
+    "name": "per_automatik's wishlist",
+    "date": 1626523597687,
+    "lastEditedTime": 1626523573666,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1625991790805,
+    "id": "6ce8a837-39ca-434d-8dee-6d9022c7230f"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "531": {
+        "532": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 532,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=121386",
+          "width": 1353,
+          "windowId": 531
+        },
+        "552": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 552,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab Modifier",
+          "url": "chrome-extension://hcbgadmbdkiilgpifjgcakjehmafcjai/html/options.html",
+          "width": 1353,
+          "windowId": 531
+        },
+        "553": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://ombpkjoelcapenbepmgifadkgpokfgfd/data/icons/48.svg",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 553,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Bookmark Dupes",
+          "url": "chrome-extension://ombpkjoelcapenbepmgifadkgpokfgfd/data/tab/index.html",
+          "width": 1353,
+          "windowId": 531
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "531": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1040,
+        "id": 531,
+        "incognito": false,
+        "left": 503,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1417
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Bookmark Dupes",
+    "date": 1630492204531,
+    "lastEditedTime": 1630487001204,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1630426906378,
+    "id": "1bbe597f-caaf-48ca-baa3-9866a8d89982"
+  }
+]

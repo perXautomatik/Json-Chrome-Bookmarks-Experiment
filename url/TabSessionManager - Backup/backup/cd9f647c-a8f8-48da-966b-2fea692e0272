@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "2284": {
+        "2282": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "groupId": -1,
+          "height": 544,
+          "highlighted": true,
+          "id": 2282,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "replace filetype:pas - Google Search",
+          "url": "https://www.google.com/search?q=replace+filetype%3Apas&hl=en",
+          "width": 1111,
+          "windowId": 2284
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2284": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 631,
+        "id": 2284,
+        "incognito": false,
+        "left": 179,
+        "state": "normal",
+        "top": 385,
+        "type": "normal",
+        "width": 1175
+      }
+    },
+    "tabsNumber": 1,
+    "name": "replace filetype:pas - Google Search",
+    "date": 1629028841810,
+    "lastEditedTime": 1629028816643,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "e1675703-ee82-442e-9467-e5147a4f235e"
+  }
+]

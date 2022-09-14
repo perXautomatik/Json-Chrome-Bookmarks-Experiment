@@ -1,0 +1,103 @@
+[
+  {
+    "windows": {
+      "8067": {
+        "8066": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8066,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "run windows program from other windows computer on local network - Bing",
+          "url": "https://www.bing.com/search?q=run+windows+program+from+other+windows+computer+on+local+network&cvid=09ef83bb822b44a8a8869dd21095e38e&aqs=edge..69i57.12465j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8067
+        },
+        "10378": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 10378,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sqlite convert to unixtime - Bing",
+          "url": "https://www.bing.com/search?q=sqlite+convert+to+unixtime&cvid=05a303040d09489da1cb42052ba9db39&aqs=edge..69i57.4888j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8067
+        },
+        "10379": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://sqlite.org/favicon.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": true,
+          "id": 10379,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 10378,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Date And Time Functions",
+          "url": "https://sqlite.org/lang_datefunc.html",
+          "width": 1135,
+          "windowId": 8067
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "8067": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 980,
+        "id": 8067,
+        "incognito": false,
+        "left": 914,
+        "state": "normal",
+        "top": 290,
+        "type": "normal",
+        "width": 1199
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Date And Time Functions",
+    "date": 1624555035640,
+    "lastEditedTime": 1624548127979,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1624310197137,
+    "id": "9161d743-10cf-4270-91b8-6070e05984d1"
+  }
+]

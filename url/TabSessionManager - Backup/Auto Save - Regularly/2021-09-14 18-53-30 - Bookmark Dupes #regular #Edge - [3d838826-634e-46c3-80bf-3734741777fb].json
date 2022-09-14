@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "391": {
+        "393": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 393,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/profiles",
+          "width": 1319,
+          "windowId": 391
+        },
+        "413": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://ombpkjoelcapenbepmgifadkgpokfgfd/data/icons/48.svg",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 413,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Bookmark Dupes",
+          "url": "chrome-extension://ombpkjoelcapenbepmgifadkgpokfgfd/data/tab/index.html",
+          "width": 1319,
+          "windowId": 391
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "391": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1040,
+        "id": 391,
+        "incognito": false,
+        "left": -47,
+        "state": "normal",
+        "top": 507,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Bookmark Dupes",
+    "date": 1631638410304,
+    "lastEditedTime": 1631638410304,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1631557337412,
+    "id": "3d838826-634e-46c3-80bf-3734741777fb"
+  }
+]

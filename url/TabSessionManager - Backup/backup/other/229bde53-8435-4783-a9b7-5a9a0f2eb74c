@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2752": {
+        "2753": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2753,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Mods at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/?BH=32",
+          "width": 1154,
+          "windowId": 2752
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2752": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2752,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Mods at Fallout New Vegas - mods and community",
+    "date": 1627976343928,
+    "lastEditedTime": 1627976342082,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "de86b84d-4180-4e5a-9854-c0631e014bc8"
+  }
+]

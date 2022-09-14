@@ -1,0 +1,353 @@
+[
+  {
+    "windows": {
+      "306": {
+        "307": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://assets.msn.com/statics/icons/favicon_newtabpage.png",
+          "groupId": -1,
+          "height": 1777,
+          "highlighted": false,
+          "id": 307,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "New tab",
+          "url": "edge://newtab/",
+          "width": 1200,
+          "windowId": 306
+        },
+        "308": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 1764,
+          "highlighted": true,
+          "id": 308,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Folderwise Bookmarks: Search & Sessions - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/folderwise-bookmarks-sear/lcabfbidcbbfdfmonhonidjgcgdnfhle/related",
+          "width": 1200,
+          "windowId": 306
+        },
+        "470": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 470,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "autobookmarks - Bing",
+          "url": "https://www.bing.com/search?q=autobookmarks&cvid=fc0cd266922e4dbfb7d44a015317c782&aqs=edge..69i57j0l8.5926j0j1&pglt=2083&FORM=ANNTA1&PC=U531",
+          "width": 1200,
+          "windowId": 306
+        },
+        "472": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 1764,
+          "highlighted": false,
+          "id": 472,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AutoBookmarks - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/autobookmarks/lcchihcbfbaedlagdpaemgbpjapiihpo/related",
+          "width": 1200,
+          "windowId": 306
+        },
+        "493": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 493,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "portable textrank - Bing",
+          "url": "https://www.bing.com/search?q=portable+textrank&cvid=4681bde407544dca9764853438fbaf60&aqs=edge..69i57.5384j0j4&PC=U531&first=11&FORM=PORE",
+          "width": 1200,
+          "windowId": 306
+        },
+        "494": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pypi.org/static/images/favicon.6a76275d.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 494,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "pytextrank · PyPI",
+          "url": "https://pypi.org/project/pytextrank/",
+          "width": 1200,
+          "windowId": 306
+        },
+        "495": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.rdocumentation.org/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 495,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "textrank package - RDocumentation",
+          "url": "https://www.rdocumentation.org/packages/textrank/versions/0.3.1",
+          "width": 1200,
+          "windowId": 306
+        },
+        "496": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 496,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "503 Service Unavailable",
+          "url": "https://softston.com/app/textrank-for-pc-windows/",
+          "width": 1200,
+          "windowId": 306
+        },
+        "497": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 497,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Keyword and Sentence Extraction with TextRank (pytextrank) - David Ten",
+          "url": "https://xang1234.github.io/textrank/",
+          "width": 1200,
+          "windowId": 306
+        },
+        "498": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 498,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "KeywordExtraction - feature suggestion - WuLC/KeywordExtraction: Implementation of algorithm in keyword extraction,including TextRank,TF-IDF and the combination of both",
+          "url": "https://github.com/WuLC/KeywordExtraction",
+          "width": 1200,
+          "windowId": 306
+        },
+        "499": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon.svg",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 499,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Text_Summerization - feature suggestion - AliMorty/Text_Summerization: In this project, we used the page rank algorithm to extract important sentences as an extractive summary. We used word2vec representation of words to calculate word similarities.",
+          "url": "https://github.com/AliMorty/Text_Summerization",
+          "width": 1200,
+          "windowId": 306
+        },
+        "500": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 500,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Open Source Text Processing Project: TextRank | TextProcessing | A Text Processing Portal for Humans",
+          "url": "https://textprocessing.org/open-source-text-processing-project-textrank",
+          "width": 1200,
+          "windowId": 306
+        },
+        "501": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 501,
+          "incognito": false,
+          "index": 13,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "AutoBookmarks",
+          "url": "chrome-extension://lcchihcbfbaedlagdpaemgbpjapiihpo/options.html",
+          "width": 1200,
+          "windowId": 306
+        },
+        "504": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://hdplex.com/pub/media/favicon/default/favicon.png",
+          "groupId": -1,
+          "height": 1764,
+          "highlighted": false,
+          "id": 504,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 308,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "HDPLEX 800W DC-ATX with 16V-63VDC Input",
+          "url": "https://hdplex.com/hdplex-800w-dc-atx-with-16v-63vdc-input.html",
+          "width": 1200,
+          "windowId": 306
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "306": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 306,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 14,
+    "name": "Folderwise Bookmarks: Search & Sessions - Chrome Web Store",
+    "date": 1630485101855,
+    "lastEditedTime": 1630485089165,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630484833118,
+    "id": "47ef22bf-e422-46c7-a7cd-0f9f7af47d9c"
+  }
+]

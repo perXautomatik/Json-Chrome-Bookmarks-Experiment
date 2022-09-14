@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2920": {
+        "2921": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2921,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Vault Boy Style JIP CCC Avatars (WIP) at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/67270",
+          "width": 1154,
+          "windowId": 2920
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2920": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2920,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Vault Boy Style JIP CCC Avatars (WIP) at Fallout New Vegas - mods and community",
+    "date": 1627976445557,
+    "lastEditedTime": 1627976443210,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "49e0262f-49d4-42ca-adaa-08bd85531229"
+  }
+]

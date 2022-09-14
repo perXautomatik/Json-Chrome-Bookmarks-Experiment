@@ -1,0 +1,148 @@
+[
+  {
+    "windows": {
+      "2307": {
+        "942": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 1124,
+          "highlighted": true,
+          "id": 942,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "ABU (Automatic Bookmark Updater) - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/abu-automatic-bookmark-up/hgakmkcgcfanfhghebegpkbmopbikmkk/related?hl=en",
+          "width": 512,
+          "windowId": 2307
+        },
+        "943": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 943,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "BMStats - Stats for your bookmarks 1.1.3",
+          "url": "chrome-extension://ogdcicncikokgpojepfdikmpeghoepig/bmstats.html",
+          "width": 1175,
+          "windowId": 2307
+        },
+        "944": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 944,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Favorites",
+          "url": "edge://favorites/?q=mibmemlpefkkpbgcoicdfggnmjfajgpg",
+          "width": 1175,
+          "windowId": 2307
+        },
+        "945": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 945,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Favorites",
+          "url": "edge://favorites/#q=mibmemlpefkkpbgcoicdfggnmjfajgpg",
+          "width": 1175,
+          "windowId": 2307
+        },
+        "946": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 946,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "chrome-extension://idfbjjfgccflicphjlpbomcklaehplha/newtab.html",
+          "width": 1175,
+          "windowId": 2307
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2307": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1256,
+        "id": 2307,
+        "incognito": false,
+        "left": 1998,
+        "state": "normal",
+        "top": -542,
+        "type": "normal",
+        "width": 576
+      }
+    },
+    "tabsNumber": 5,
+    "name": "ABU (Automatic Bookmark Updater) - Chrome Web Store",
+    "date": 1629102729649,
+    "lastEditedTime": 1629102693581,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "1d8ae78d-3648-4556-8553-cb285bc9c144"
+  }
+]

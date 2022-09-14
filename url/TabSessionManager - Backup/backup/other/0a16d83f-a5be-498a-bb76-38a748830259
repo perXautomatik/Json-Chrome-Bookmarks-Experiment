@@ -1,0 +1,116 @@
+[
+  {
+    "windows": {
+      "1548": {
+        "1550": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 683,
+          "highlighted": false,
+          "id": 1550,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "mtg tribe colour combo names - Bing images",
+          "url": "https://www.bing.com/images/search?view=detailV2&ccid=7%2Fbh57km&id=234457CC9A65E7789B16AD72483426E76B4DC0E2&thid=OIP.7_bh57km-Opkri0U4AtehAHaJ8&mediaurl=https%3A%2F%2Fqph.fs.quoracdn.net%2Fmain-qimg-eff6e1e7b926f8ea64ae2d14e00b5e84&exph=808&expw=602&q=mtg+tribe+colour+combo+names&simid=608030441365584968&ck=708772A308833FDD803DF188776BCE1B&selectedindex=61&form=IRPRST&ajaxhist=0&ajaxserp=0&vt=0&sim=11&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FReff6e1e7b926f8ea64ae2d14e00b5e84%3Frik%3D4sBNa%252bcmNEhyrQ%26pid%3DImgRaw",
+          "width": 996,
+          "windowId": 1548
+        },
+        "1553": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210604153606",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 1553,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sacred Sword Princesses - Action RPG | Nutaku",
+          "url": "https://www.nutaku.net/games/sacred-sword-princesses/play/",
+          "width": 1300,
+          "windowId": 1548
+        }
+      },
+      "1559": {
+        "1557": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/79946f8f/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 1557,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(37) solve the puzzle = erase one thing - YouTube",
+          "url": "https://www.youtube.com/watch?v=YjEF5OtGgNc&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE",
+          "width": 1121,
+          "windowId": 1559
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "1548": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 921,
+        "id": 1548,
+        "incognito": false,
+        "left": 477,
+        "state": "normal",
+        "top": 5,
+        "type": "normal",
+        "width": 1395
+      },
+      "1559": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 1559,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Sacred Sword Princesses - Action RPG | Nutaku",
+    "date": 1622901131310,
+    "lastEditedTime": 1622901131310,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "ca8aaf7a-b4bc-4d04-a91d-484705d034a1"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "240": {
+        "241": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": true,
+          "id": 241,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Release 1.0 · ChrisAnd1998/Binary-Compare",
+          "url": "https://github.com/ChrisAnd1998/Binary-Compare/releases/tag/1.0",
+          "width": 1196,
+          "windowId": 240
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "240": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 831,
+        "id": 240,
+        "incognito": false,
+        "left": -15,
+        "state": "minimized",
+        "top": 255,
+        "type": "normal",
+        "width": 1576
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Release 1.0 · ChrisAnd1998/Binary-Compare",
+    "date": 1629299356230,
+    "lastEditedTime": 1629299356230,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629294844519,
+    "id": "42625123-82b9-44d3-b777-dd71245b4869"
+  }
+]

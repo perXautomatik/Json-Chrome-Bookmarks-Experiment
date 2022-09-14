@@ -1,0 +1,232 @@
+[
+  {
+    "windows": {
+      "7133": {
+        "7091": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7091,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=121615",
+          "width": 1872,
+          "windowId": 7133
+        },
+        "7092": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7092,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Steam Community :: Guide :: How to play New Vegas Multiplayer Beta (2021!)",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2455503440",
+          "width": 1872,
+          "windowId": 7133
+        },
+        "7096": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7096,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "date organized folders into git - Bing",
+          "url": "https://www.bing.com/search?q=date+organized+folders+into+git&cvid=5ca8a4429d3c4e5ea8dd7ac8094ddc03&aqs=edge..69i57.10608j0j4&PC=U531&first=7&FORM=PORE",
+          "width": 1872,
+          "windowId": 7133
+        },
+        "7100": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://imgs.developpaper.com/guest/2019/06/ICON.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7100,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Git uses commands to organize | Develop Paper",
+          "url": "https://developpaper.com/git-uses-commands-to-organize/",
+          "width": 1872,
+          "windowId": 7133
+        },
+        "7130": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7130,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Window Manager",
+          "url": "chrome-extension://aadahadfdmiibmdhfmpbeeebejmjnkef/manager.html",
+          "width": 1319,
+          "windowId": 7133
+        },
+        "7135": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7135,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell rename replace backup - Bing",
+          "url": "https://www.bing.com/search?q=powershell+rename+replace+backup&qs=n&form=QBRE&sp=-1&pq=powershell+rename+replace+b&sc=0-27&sk=&cvid=A1D7C9CF054E4CCCB289F74464209A07",
+          "width": 1319,
+          "windowId": 7133
+        },
+        "7151": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7151,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7135,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Powershell script to backup and replace files - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/16514126/powershell-script-to-backup-and-replace-files",
+          "width": 1319,
+          "windowId": 7133
+        }
+      },
+      "7136": {
+        "7137": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7137,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=121653",
+          "width": 1319,
+          "windowId": 7136
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "7133": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1040,
+        "id": 7133,
+        "incognito": false,
+        "left": 346,
+        "state": "normal",
+        "top": 252,
+        "type": "normal",
+        "width": 1383
+      },
+      "7136": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1040,
+        "id": 7136,
+        "incognito": false,
+        "left": 1772,
+        "state": "normal",
+        "top": 857,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Powershell script to backup and replace files - Stack Overflow",
+    "date": 1631292360970,
+    "lastEditedTime": 1631292360970,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1631199486672,
+    "id": "54e6ea56-e4d2-4164-be88-27eebd36e4d3"
+  }
+]

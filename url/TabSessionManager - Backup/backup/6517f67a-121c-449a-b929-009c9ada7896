@@ -1,0 +1,887 @@
+[
+  {
+    "windows": {
+      "8067": {
+        "8066": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": true,
+          "id": 8066,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "run windows program from other windows computer on local network - Bing",
+          "url": "https://www.bing.com/search?q=run+windows+program+from+other+windows+computer+on+local+network&cvid=09ef83bb822b44a8a8869dd21095e38e&aqs=edge..69i57.12465j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8067
+        }
+      },
+      "8069": {
+        "8068": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 889,
+          "highlighted": true,
+          "id": 8068,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "keep text to voice on always - Bing",
+          "url": "https://www.bing.com/search?q=keep+text+to+voice+on+always&cvid=60b850627342414eae93f13e1488e120&aqs=edge..69i57.11760j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8069
+        }
+      },
+      "8071": {
+        "8070": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": true,
+          "id": 8070,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "extract and restore drivers from old windows installation - Bing",
+          "url": "https://www.bing.com/search?q=extract+and+restore+drivers+from+old+windows+installation&cvid=7f35c5f152e1481180a48b62b5da09b7&aqs=edge..69i57.12768j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8071
+        }
+      },
+      "8073": {
+        "8072": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 747,
+          "highlighted": true,
+          "id": 8072,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Window Manager",
+          "url": "chrome-extension://aadahadfdmiibmdhfmpbeeebejmjnkef/manager.html#active",
+          "width": 1198,
+          "windowId": 8073
+        }
+      },
+      "8104": {
+        "8103": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8103,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell select each json property - Bing",
+          "url": "https://www.bing.com/search?q=powershell+select+each+json+property&cvid=d60f52e9af5841e98c03d330c8791a0a&aqs=edge..69i57.25436j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8104
+        },
+        "8105": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": true,
+          "id": 8105,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PowerShell : retrieve JSON object by field value - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/16575419/powershell-retrieve-json-object-by-field-value",
+          "width": 1135,
+          "windowId": 8104
+        },
+        "8106": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8106,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "powershell dictionary - Bing",
+          "url": "https://www.bing.com/search?q=powershell+dictionary&cvid=c36ae5af67b34d51ac9191306fedf277&aqs=edge.1.69i57j0l6.8535j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8104
+        },
+        "8184": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAADuLiXhK0jxVCLwPSPxTiPzWSLwRiPwNiPtLCncKVfeKVDlKzv/MzPxWCLtKyXtLSf/AADpKzPvUCTuPyTtMyPpKzDvSCXuLCbuLCPvNCSAAAC/QEDjKj+qAADrLyXXKSnuMyXjKz7gKknwSCXbKE3wWiLnLSTvUCXuNCTiK0LoK0buPyGqAFXZKVzxTSbtViPwTSLkLD7uPSfdKEzfKk6qVQDyXCPyTiHtLifrQibMMzPVKlvlKj7vUSHhK0LaKlrwNSHWKlTcKlPyWyTlKjrmKTHuLCj/QCDwPyXaLUC/QADnPSTeKkvfIULqLjX/VQDkJSXxWCzmKznpMzPvMDDwPCP/KirvOyXZKVryRirsKy/kK0LyXSTfKk3wWCbfSCDuNyn/TRrhKkjrKjjbbUnjHFXtSTfqMDXVFUD/VVX/ICD/AFXbWzeqVVX/ZmbrThT1Zj3vaEjbbW3rLy3ZKVvMM030YCrxTyTaKlr/VSrsQz/ya1HrLSnvOjTeKE0Ir4RnAAAAgHRSTlMApaWlpaalpaalpaWmBZVzYgGlmph0mEubP4gCBDcDJAabeJOOJUoVeEifDj0DfUEdWGRYL2IDhRp9IQUimjVFUBISlzmPNzoIeA4EFU0QTAMKI4EcEDMGZjwoGCFXbGcNHwpyEwcJDjAMBggDDgMFDRkgB2eUChhrbgY1E45PRt1YkDgAAAIgSURBVHicjZJ3W9pQFMYTkhDCDEkaICwlbFC2DBlSEUfdW+vC7r1oa4ftV++5GYIWnsfzR3Jy3989977nBLt/pE78xfXZsfJEN9RIJuVSZAwSY0Wr1WowGOZLkalRuoNhOE4hLPNzD//T9xw4zjBiPt9AhGX66PltfYvFIaovD9b9oSQQZvOP+tthwDMJumP3A6QrLVkhvg6fsyqZQG/P/vn1GsOcJ3kZEebpuq47E6TJJAUxm8Pd3/VimK34RCX0Gi+WSdJUCACA49dBpWUtGRFHGnAskKTQg50A4IvK0jelxpwGZGiaXJ7QAA8seB/nkRdLUQNcNE274G17oAJbGwtKx85eaUCOoun0DRAIOlBLrclSSneRoygNALdV9hp6ynE7fjgUWURHAJBRASBQMOLGU3XzVN2HYU2ConLgf/MQ+oF0d7/3XqseWYPRVuwEFf8IX/uCQlQXl/TTU2d/4XkZJwi+CclSQSAnpcTezQx8a3IE3SNqJIirS8ieHaf32+haani7jdAKSrJ2I8FHZ27/AhgW6C5YW0q2eWo0EvbmHeLAI3I7mplKGRGZiyHZGWPdjNjVPzt2IPjzrE2vHktI4JdVmwXxKIoIgr/K1CoXq7X0IZLxfntQ8adKUBQfDodh/NAPNzvwi2p00D2AgMnRJBBS4s0dV9nT8oAQCr1BP/SY+d45L9t5ng/HXTWY0ajwvfu0vf3595fR6pj4B6fESERK8RfoAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 8184,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "PowerShell Dictionary | How does the dictionary work in PowerShell?",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=PowerShell%20Dictionary%20%7C%20How%20does%20the%20dictionary%20work%20in%20PowerShell%3F&url=https%3A%2F%2Fwww.educba.com%2Fpowershell-dictionary%2F&tabId=8107&sessionId=1624310210490&icon=https%3A%2F%2Fcdn.educba.com%2Facademy%2Fwp-content%2Fuploads%2F2020%2F05%2Fcropped-apple-touch-icon-32x32.png.webp",
+          "width": 0,
+          "windowId": 8104
+        }
+      },
+      "8110": {
+        "8109": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": true,
+          "id": 8109,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "loop over every gist of profile - Bing",
+          "url": "https://www.bing.com/search?q=loop+over+every+gist+of+profile&cvid=edbb5e4f3d6741a68847efe044940d9c&aqs=edge..69i57.8144j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8110
+        }
+      },
+      "8112": {
+        "8111": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": true,
+          "id": 8111,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "github latest forks as rss feed - Bing",
+          "url": "https://www.bing.com/search?q=github+latest+forks+as+rss+feed&qs=n&form=QBRE&sp=-1&pq=github+latest+forks+as+rss+feed&sc=0-31&sk=&cvid=4AF7747504604E0A8AC164010250B71D",
+          "width": 1135,
+          "windowId": 8112
+        }
+      },
+      "8114": {
+        "8113": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8113,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "sqlite virtual table - Bing",
+          "url": "https://www.bing.com/search?q=sqlite+virtual+table&cvid=4ef9f1dc033f4518bb37af1c7ca64880&aqs=edge.0.0j69i57.4712j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8114
+        },
+        "8115": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://sqlite.org/favicon.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": true,
+          "id": 8115,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 8113,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "The Virtual Table Mechanism Of SQLite",
+          "url": "https://sqlite.org/vtab.html",
+          "width": 1135,
+          "windowId": 8114
+        }
+      },
+      "8123": {
+        "8021": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8021,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/appearance",
+          "width": 1135,
+          "windowId": 8123
+        },
+        "8124": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8124,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "edge profile switch on url - Bing",
+          "url": "https://www.bing.com/search?q=edge+profile+switch+on+url&cvid=10e4a4c877434536a6a5c44c35d1e19b&aqs=edge..69i57.7071j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8123
+        },
+        "8125": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.tenforums.com/fav.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8125,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to Switch Between Profiles in Microsoft Edge Chromium | Tutorials",
+          "url": "https://www.tenforums.com/tutorials/161799-how-switch-between-profiles-microsoft-edge-chromium.html#:~:text=1%20Open%20Microsoft%20Edge.%202%20Click%2Ftap%20on%20the,want%20to%20switch%20to%20in%20the%20drop%20menu.",
+          "width": 1135,
+          "windowId": 8123
+        },
+        "8126": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/u0939doeuioaqhspkjyc.png",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8126,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to Use Automatic Profile Switching in Microsoft Edge",
+          "url": "https://lifehacker.com/how-to-keep-your-work-and-personal-browsing-separate-on-1843571354",
+          "width": 1135,
+          "windowId": 8123
+        },
+        "8127": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 849,
+          "highlighted": false,
+          "id": 8127,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Easy Account Switcher for Google, Facebook. - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/easy-account-switcher-for/mnannclpojfocmcjfhoicjbkjllajfhg?hl=en",
+          "width": 1135,
+          "windowId": 8123
+        },
+        "8128": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8128,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "edge cant set page to switch profile to - Bing",
+          "url": "https://www.bing.com/search?q=edge+cant+set+page+to+switch+profile+to&cvid=7872f05f4c784c27bfc9042e0594afdc&aqs=edge..69i57.10720j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8123
+        },
+        "8129": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://answers.microsoft.com/favicon.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": true,
+          "id": 8129,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 8128,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How can you set the default profile in the new Chromium Edge? - Microsoft Community",
+          "url": "https://answers.microsoft.com/en-us/microsoftedge/forum/msedge_profile-msedge_win10/how-can-you-set-the-default-profile-in-the-new/ca600054-0c46-426e-92e2-2c071a13a623",
+          "width": 1135,
+          "windowId": 8123
+        }
+      },
+      "8180": {
+        "8063": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 894,
+          "highlighted": true,
+          "id": 8063,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Spotify – Dark Entries Radio",
+          "url": "https://open.spotify.com/playlist/37i9dQZF1E8PNsrsBbBLVa",
+          "width": 1135,
+          "windowId": 8180
+        },
+        "8193": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 894,
+          "highlighted": false,
+          "id": 8193,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 8063,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "options",
+          "url": "chrome-extension://fjccjnfkdkdmjohojoggodkigkjkkjhl/options.html",
+          "width": 1135,
+          "windowId": 8180
+        }
+      },
+      "8192": {
+        "8190": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 894,
+          "highlighted": true,
+          "id": 8190,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Editing Areadme.mb",
+          "url": "https://gist.github.com/perXautomatik/b3e173044d28f4dc9ba8b96fec4e2bcb/edit",
+          "width": 1135,
+          "windowId": 8192
+        }
+      },
+      "8215": {
+        "8214": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8214,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "fallout 4 merge mods - Bing",
+          "url": "https://www.bing.com/search?q=fallout+4+merge+mods&cvid=289074afab8d43bab3939bb3418bec51&aqs=edge.0.0j69i60j69i65.8031j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8215
+        },
+        "8216": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 8216,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to MERGE MODS in Fallout 4 & Skyrim - Merge Plugins Guide - Fallout 4 Best Mods - Part 9 - Bing video",
+          "url": "https://www.bing.com/videos/search?q=fallout+4+merge+mods&docid=607989664968572112&mid=8A6AFB7F93F2363E9C9B8A6AFB7F93F2363E9C9B&view=detail&FORM=VIRE",
+          "width": 1152,
+          "windowId": 8215
+        },
+        "8217": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 8217,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Fallout 4 Mod Help Guide - Infinite Load, Mods Not Loading, Crashing - Bing video",
+          "url": "https://www.bing.com/videos/search?q=fallout+4+merge+mods&&view=detail&mid=BEA7543D357D327355FEBEA7543D357D327355FE&rvsmid=8A6AFB7F93F2363E9C9B8A6AFB7F93F2363E9C9B&FORM=VDRVRV",
+          "width": 1152,
+          "windowId": 8215
+        },
+        "8225": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/f5194969/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": true,
+          "id": 8225,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 8217,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(15) Incredible FAKE FACTS from History That People Believed Were True - YouTube",
+          "url": "https://www.youtube.com/watch?v=gftsOxY7j5Y&list=TLPQMjMwNjIwMjFkVVR119Y_nw&index=3",
+          "width": 1135,
+          "windowId": 8215
+        }
+      },
+      "8219": {
+        "8218": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 603,
+          "highlighted": false,
+          "id": 8218,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "merge plugins - Bing",
+          "url": "https://www.bing.com/search?q=merge+plugins&cvid=dba5c0010f364f74afb12150dd31569a&aqs=edge..69i57j0l4j69i60j69i65.3872j0j1&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8219
+        },
+        "8220": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 603,
+          "highlighted": true,
+          "id": 8220,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 8218,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Releases · matortheeternal/merge-plugins",
+          "url": "https://github.com/matortheeternal/merge-plugins/releases",
+          "width": 1135,
+          "windowId": 8219
+        }
+      },
+      "8224": {
+        "8222": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210622142854",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": true,
+          "id": 8222,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Crush Crush Moist & Uncensored Sex Game | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1135,
+          "windowId": 8224
+        }
+      }
+    },
+    "windowsNumber": 14,
+    "windowsInfo": {
+      "8067": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 980,
+        "id": 8067,
+        "incognito": false,
+        "left": 358,
+        "state": "minimized",
+        "top": 157,
+        "type": "normal",
+        "width": 1199
+      },
+      "8069": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 976,
+        "id": 8069,
+        "incognito": false,
+        "left": 1928,
+        "state": "minimized",
+        "top": -293,
+        "type": "normal",
+        "width": 1199
+      },
+      "8071": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 980,
+        "id": 8071,
+        "incognito": false,
+        "left": 1928,
+        "state": "minimized",
+        "top": 10,
+        "type": "normal",
+        "width": 1199
+      },
+      "8073": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 837,
+        "id": 8073,
+        "incognito": false,
+        "left": 1913,
+        "state": "minimized",
+        "top": 430,
+        "type": "popup",
+        "width": 1214
+      },
+      "8104": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 980,
+        "id": 8104,
+        "incognito": false,
+        "left": 1928,
+        "state": "minimized",
+        "top": 88,
+        "type": "normal",
+        "width": 1199
+      },
+      "8110": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 980,
+        "id": 8110,
+        "incognito": false,
+        "left": 1928,
+        "state": "minimized",
+        "top": -26,
+        "type": "normal",
+        "width": 1199
+      },
+      "8112": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 980,
+        "id": 8112,
+        "incognito": false,
+        "left": 1928,
+        "state": "minimized",
+        "top": 287,
+        "type": "normal",
+        "width": 1199
+      },
+      "8114": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 980,
+        "id": 8114,
+        "incognito": false,
+        "left": 1928,
+        "state": "minimized",
+        "top": 122,
+        "type": "normal",
+        "width": 1199
+      },
+      "8123": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 980,
+        "id": 8123,
+        "incognito": false,
+        "left": 311,
+        "state": "minimized",
+        "top": 67,
+        "type": "normal",
+        "width": 1199
+      },
+      "8180": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 981,
+        "id": 8180,
+        "incognito": false,
+        "left": 2038,
+        "state": "minimized",
+        "top": -98,
+        "type": "normal",
+        "width": 1199
+      },
+      "8192": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 981,
+        "id": 8192,
+        "incognito": false,
+        "left": 1928,
+        "state": "minimized",
+        "top": 200,
+        "type": "normal",
+        "width": 1199
+      },
+      "8215": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 980,
+        "id": 8215,
+        "incognito": false,
+        "left": 1942,
+        "state": "normal",
+        "top": 164,
+        "type": "normal",
+        "width": 1199
+      },
+      "8219": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 690,
+        "id": 8219,
+        "incognito": false,
+        "left": 582,
+        "state": "minimized",
+        "top": 111,
+        "type": "normal",
+        "width": 1199
+      },
+      "8224": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 980,
+        "id": 8224,
+        "incognito": false,
+        "left": 544,
+        "state": "normal",
+        "top": 65,
+        "type": "normal",
+        "width": 1199
+      }
+    },
+    "tabsNumber": 29,
+    "name": "(15) Incredible FAKE FACTS from History That People Believed Were True - YouTube",
+    "date": 1624446302088,
+    "lastEditedTime": 1624446302088,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1624310197137,
+    "id": "2f59a6f2-d02f-4c43-9c22-3cd4f0f3fe21"
+  }
+]

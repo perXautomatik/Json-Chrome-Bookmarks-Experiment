@@ -1,0 +1,93 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/bb401db8/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1920,
+          "highlighted": true,
+          "id": 2,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(12) Do the Laws of Science Debunk Climate Change? - YouTube",
+          "url": "https://www.youtube.com/watch?v=_x6Ur0TFxyU&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=21",
+          "width": 1200,
+          "windowId": 1
+        }
+      },
+      "767": {
+        "768": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210602162038",
+          "groupId": -1,
+          "height": 951,
+          "highlighted": true,
+          "id": 768,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1406,
+          "windowId": 767
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1920,
+        "id": 1,
+        "incognito": false,
+        "left": 1920,
+        "state": "fullscreen",
+        "top": -620,
+        "type": "normal",
+        "width": 1200
+      },
+      "767": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 993,
+        "id": 767,
+        "incognito": false,
+        "left": 154,
+        "state": "normal",
+        "top": 29,
+        "type": "popup",
+        "width": 1422
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+    "date": 1622757730803,
+    "lastEditedTime": 1622757730803,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622741471669,
+    "id": "ff035a75-09df-4580-8d71-c56cc8b9fd12"
+  }
+]

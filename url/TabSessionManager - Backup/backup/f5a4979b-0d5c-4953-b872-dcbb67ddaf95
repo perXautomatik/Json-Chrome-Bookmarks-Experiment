@@ -1,0 +1,80 @@
+[
+  {
+    "windows": {
+      "690": {
+        "691": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://mtgarena.codes/favicon-32x32.png?v=33329007c03085f1ee1dc8277cb7b141",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": false,
+          "id": 691,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Free Magic The Gathering Arena Promo Codes | MTG Arena Codes",
+          "url": "https://mtgarena.codes/",
+          "width": 736,
+          "windowId": 690
+        },
+        "713": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": true,
+          "id": 713,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 691,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/",
+          "width": 1100,
+          "windowId": 690
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "690": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 896,
+        "id": 690,
+        "incognito": false,
+        "left": 447,
+        "state": "normal",
+        "top": 360,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Favorites",
+    "date": 1631194669957,
+    "lastEditedTime": 1631194669957,
+    "tag": [
+      "browserExit",
+      "Edge"
+    ],
+    "sessionStartTime": 1630969783792,
+    "id": "87c3bd75-ecbe-4562-ad94-835d041c773b"
+  }
+]

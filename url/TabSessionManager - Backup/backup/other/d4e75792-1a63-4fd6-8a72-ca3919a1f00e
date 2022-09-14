@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "1367": {
+        "1248": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": true,
+          "id": 1248,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PDF - Conversion - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=204",
+          "width": 1111,
+          "windowId": 1367
+        },
+        "1249": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1249,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "PDF - Processing - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=202",
+          "width": 1111,
+          "windowId": 1367
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1367": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 631,
+        "id": 1367,
+        "incognito": false,
+        "left": 8,
+        "state": "minimized",
+        "top": 0,
+        "type": "normal",
+        "width": 1175
+      }
+    },
+    "tabsNumber": 2,
+    "name": "PDF - Conversion - The Portable Freeware Collection",
+    "date": 1628757425693,
+    "lastEditedTime": 1628757337803,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "f1cb8f6f-7ec0-4dcb-a31f-9f2f857ed180"
+  }
+]

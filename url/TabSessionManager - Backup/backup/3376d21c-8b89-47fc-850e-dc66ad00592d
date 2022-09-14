@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "339": {
+        "340": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.tamriel-rebuilt.org/sites/all/themes/tamriel_rebuilt/favicon.ico",
+          "groupId": -1,
+          "height": 629,
+          "highlighted": false,
+          "id": 340,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Esp-QuickEditor | Tamriel Rebuilt",
+          "url": "https://www.tamriel-rebuilt.org/content/utility-esp-quickeditor",
+          "width": 1172,
+          "windowId": 339
+        },
+        "341": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 629,
+          "highlighted": true,
+          "id": 341,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Simple Translate - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/simple-translate/ibplnjkanclpjokhdolnendpplpjiace",
+          "width": 1172,
+          "windowId": 339
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "339": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 629,
+        "id": 339,
+        "incognito": false,
+        "left": 1920,
+        "state": "minimized",
+        "top": 411,
+        "type": "normal",
+        "width": 1172
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Simple Translate - Chrome Web Store",
+    "date": 1627984654645,
+    "lastEditedTime": 1627984644256,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "af980ae0-a3d7-4da5-b5c8-847c64a4ecdd"
+  }
+]

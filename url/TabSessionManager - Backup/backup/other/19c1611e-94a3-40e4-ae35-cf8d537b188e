@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1476": {
+        "1477": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/b0971059/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 1477,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(4) How To Fight The Woke | JP Sears - MP Podcast #90 - YouTube - Mikhaila Peterson Mikhaila Peterson",
+          "url": "https://www.youtube.com/watch?v=mr1tjwWTkzI",
+          "width": 1152,
+          "windowId": 1476
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1476": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 1476,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(4) How To Fight The Woke | JP Sears - MP Podcast #90 - YouTube - Mikhaila Peterson Mikhaila Peterson",
+    "date": 1629640460543,
+    "lastEditedTime": 1629640460543,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629628744839,
+    "id": "839f3ca3-16f1-4a95-bc6d-2c5aba2f505e"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1919": {
+        "1920": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": true,
+          "id": 1920,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "chrome-extension://idfbjjfgccflicphjlpbomcklaehplha/newtab.html",
+          "width": 1433,
+          "windowId": 1919
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1919": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 858,
+        "id": 1919,
+        "incognito": false,
+        "left": 139,
+        "state": "normal",
+        "top": 127,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Visual bookmarks",
+    "date": 1630398121061,
+    "lastEditedTime": 1630398074307,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1630245328865,
+    "id": "d433be8f-9fd1-42db-afd0-2f45465d02ed"
+  }
+]

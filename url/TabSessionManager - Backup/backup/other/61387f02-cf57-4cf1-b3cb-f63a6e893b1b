@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "4318": {
+        "4316": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.microsoft.com/favicon.ico?v2",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": true,
+          "id": 4316,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Upgrade to the New Windows 11 OS | Microsoft",
+          "url": "https://www.microsoft.com/en-us/windows/windows-11?ocid=prod_sv_cons_win_awr_LearnMore%C2%A0%E2%80%8B",
+          "width": 1006,
+          "windowId": 4318
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4318": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 913,
+        "id": 4318,
+        "incognito": false,
+        "left": 2018,
+        "state": "normal",
+        "top": 347,
+        "type": "normal",
+        "width": 1070
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Upgrade to the New Windows 11 OS | Microsoft",
+    "date": 1625755694534,
+    "lastEditedTime": 1625755615500,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "b9716f52-0c8b-4f94-a4fd-03fc8c2f779e"
+  }
+]

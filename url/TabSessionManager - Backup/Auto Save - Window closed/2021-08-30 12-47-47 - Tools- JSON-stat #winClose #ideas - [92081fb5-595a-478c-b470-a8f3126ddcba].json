@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "1034": {
+        "1045": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": true,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1045,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "json statistcs - Bing",
+          "url": "https://www.bing.com/search?q=json+statistcs&cvid=2fbc898aa9874c34b96c2ca062d0c51f&aqs=edge..69i57.31878j0j1&pglt=2083&FORM=ANNTA1&PC=U531",
+          "width": 0,
+          "windowId": 1034
+        },
+        "1046": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://json-stat.org/favicon.ico",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": true,
+          "id": 1046,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tools. JSON-stat",
+          "url": "https://json-stat.org/tools/",
+          "width": 1481,
+          "windowId": 1034
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1034": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 858,
+        "id": 1034,
+        "incognito": false,
+        "left": 217,
+        "state": "normal",
+        "top": 108,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Tools. JSON-stat",
+    "date": 1630320467816,
+    "lastEditedTime": 1630320419333,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "92081fb5-595a-478c-b470-a8f3126ddcba"
+  }
+]

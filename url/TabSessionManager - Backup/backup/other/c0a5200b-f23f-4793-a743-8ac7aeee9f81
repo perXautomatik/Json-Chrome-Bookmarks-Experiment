@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "2301": {
+        "2302": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 840,
+          "highlighted": false,
+          "id": 2302,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1133,
+          "windowId": 2301
+        },
+        "2303": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 840,
+          "highlighted": true,
+          "id": 2303,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "bottle of humans · Sole",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z",
+          "width": 1133,
+          "windowId": 2301
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2301": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 927,
+        "id": 2301,
+        "incognito": false,
+        "left": 1787,
+        "state": "normal",
+        "top": 218,
+        "type": "normal",
+        "width": 1197
+      }
+    },
+    "tabsNumber": 2,
+    "name": "bottle of humans · Sole",
+    "date": 1624980631265,
+    "lastEditedTime": 1624980631265,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1624961591940,
+    "id": "6b85791a-0815-4669-be65-a801ea8f37dc"
+  }
+]

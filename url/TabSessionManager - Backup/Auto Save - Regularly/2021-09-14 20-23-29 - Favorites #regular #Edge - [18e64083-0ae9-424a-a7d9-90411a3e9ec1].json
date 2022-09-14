@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "391": {
+        "393": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 393,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/profiles",
+          "width": 1319,
+          "windowId": 391
+        },
+        "413": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 413,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=92",
+          "width": 1319,
+          "windowId": 391
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "391": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1040,
+        "id": 391,
+        "incognito": false,
+        "left": 667,
+        "state": "normal",
+        "top": 97,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Favorites",
+    "date": 1631643809765,
+    "lastEditedTime": 1631643809765,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1631557337412,
+    "id": "18e64083-0ae9-424a-a7d9-90411a3e9ec1"
+  }
+]

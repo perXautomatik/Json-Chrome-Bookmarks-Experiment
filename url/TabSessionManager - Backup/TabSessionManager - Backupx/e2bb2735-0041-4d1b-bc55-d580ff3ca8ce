@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10565": {
+        "10566": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10566,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Previs Repair Pack at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/46403",
+          "width": 1154,
+          "windowId": 10565
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10565": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10565,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Previs Repair Pack at Fallout 4 Nexus - Mods and community",
+    "date": 1622643463559,
+    "lastEditedTime": 1622643459259,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "d69ed5af-a69d-4636-99e4-ef06143b2973"
+  }
+]

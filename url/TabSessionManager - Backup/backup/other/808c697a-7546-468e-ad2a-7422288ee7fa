@@ -1,0 +1,139 @@
+[
+  {
+    "windows": {
+      "1548": {
+        "1550": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 683,
+          "highlighted": false,
+          "id": 1550,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "mtg tribe colour combo names - Bing images",
+          "url": "https://www.bing.com/images/search?view=detailV2&ccid=7%2Fbh57km&id=234457CC9A65E7789B16AD72483426E76B4DC0E2&thid=OIP.7_bh57km-Opkri0U4AtehAHaJ8&mediaurl=https%3A%2F%2Fqph.fs.quoracdn.net%2Fmain-qimg-eff6e1e7b926f8ea64ae2d14e00b5e84&exph=808&expw=602&q=mtg+tribe+colour+combo+names&simid=608030441365584968&ck=708772A308833FDD803DF188776BCE1B&selectedindex=61&form=IRPRST&ajaxhist=0&ajaxserp=0&vt=0&sim=11&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FReff6e1e7b926f8ea64ae2d14e00b5e84%3Frik%3D4sBNa%252bcmNEhyrQ%26pid%3DImgRaw",
+          "width": 996,
+          "windowId": 1548
+        },
+        "1553": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210604153606",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 1553,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Sacred Sword Princesses - Action RPG | Nutaku",
+          "url": "https://www.nutaku.net/games/sacred-sword-princesses/play/",
+          "width": 1300,
+          "windowId": 1548
+        },
+        "1563": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAADajTT///8AAAAAAADajjb//fzclEIAAAAAAAD9+/m0di0AAAAAAADckj4AAADgoFUAAAACAgIAAAAAAACKWiIAAAAAAADKhDITEhEAAABHLxEAAAAAAAAAAADckDkAAADXizQAAAAAAAD248303cMKBwPfnVANCwgnGgn89/EAAACXYyX89e1VOBbz17dwSBpAKxO3eC3dmEfouIEAAAD58eZ5ThzPhjOvcivpu4bqwY/uzKQRCwWpbyne1crjqmgjGAnw0rEAAADS0tDpvor4+PYAAADz2r4AAAD14MjipmH9+fUFBQR3dXKyr6pDQj3uyp+WlJMAAACDViD26tzDiELDvrkwKiNkQReIhIDmsXPho1v36deknJSjayg3Miu5fjckIh7lr24tIhb47uLmtHnZuJLSrIDCjEp8dWo3Jg9OSkEaGRbu4NHDk1hZVlTmtXvjzrTa2tqysrLi4N0cEQbp1r1tSBzt3MjIxcDo1L27uLTFmGFLRT29h0eePfHkAAAAgHRSTlOmpqYABKampqR6pqZoVKZOpl+mPIGmGZmmppOmn3MIpm6moYumpqampqamEaampqampqampiCmpqampqampqampqamDaampiemM6ampqampqampi2mpqampqampqampqampqampqampqampqampqampqampqampqampqampqamps47qO0AAAKgSURBVHicbZTnduJADIXvjOk2vRNKAqEFQgKBEAik99572dTtvfdXX80Yzp7dE/3w2NJnz5U0MpQHrOCN+ew1g7zXAcNsXCyLdncspjmdEQuAoFv6BFDQkkBEc6fI3THPOl2sBR0o+P4GOuGtD4cvPEAqIABDL5Cb/pTxIDNdPq7Xj8u3JwucL5yEiYgTYLcgdzFxWfxSugwxYY53XJjpx0vAqyAQATZsr9WKHiWr2kT87vHvMuBU4LZga4F/vxrrxl0DIp5+qqrPJRBB5pBzW9Woh43GIRFfMY9VGnlgWUEQ4TnyrDV1ojk/SE/nI4yFim0kSaQGz454xzZuZmdGdi/uB1YFuwf4KM3dJMLvper+0/MsMwuFQ/JrExkECYhbgV+jMjFuOmVshdbBKQGEpoGaqAPQ4xJuoZ2xeT7QWiUJZD2AnQAq5DBzbN+ZBJFl2aa5m/Aw0EsAbbFHTyMzJHRFqmOJ1WaCFj8Q0wG/KEBr5ka+O1JNr/FtIbMDyC0IcMgymtmN2GpwyCW30Doi9SJm7/tNU8x4J/WuzZtJJJVaWQTyslHjo6SzRWsn58+3gFuchygyE7LN/eTeNzLX6JLsF9/xIBKgE0X9FiqZS3TBlGWJauJMsNz2BhYnlHgU7SLt4UiLLqTfSj3mJUF8yyEFxUsaGpU+B9WB86WETIYI0fW5MKJQ3JSFqh60RCVtZ90q9h3sc9MzOtlQNKCk/nwlhY9346GK+oRvriO5K+vwaFLP7KvehrGGv9hQryav6QNxKDULPDqxeVSq+/31Ur6Ndr7cc0TTFRCD44wC4YuPcxu5/wcouCwny+AlwnNNc9I1S1AMJ5LLNL9yeGs+6YhaNavP5+v1Fmi+3ZqdBq873bPeFCyxRYNiIPv3V/AHPy1RBo55fsEAAAAASUVORK5CYII=",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1563,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Nexus mods and community",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Nexus%20mods%20and%20community&url=https%3A%2F%2Fwww.nexusmods.com%2FSSOauthorised%3Fapplication%3Dmodorganizer2&tabId=1563&sessionId=1622847893290&icon=https%3A%2F%2Fimages.nexusmods.com%2Ffavicons%2FReskinOrange%2Ffavicon.ico",
+          "width": 1300,
+          "windowId": 1548
+        }
+      },
+      "1559": {
+        "1557": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/79946f8f/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1920,
+          "highlighted": true,
+          "id": 1557,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(37) Mental Illness Doesn't Exist (Matt Walsh) - YouTube",
+          "url": "https://www.youtube.com/watch?v=AF8Zzk4vQ8I&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=4",
+          "width": 1200,
+          "windowId": 1559
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "1548": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 1548,
+        "incognito": false,
+        "left": 1873,
+        "state": "normal",
+        "top": 193,
+        "type": "normal",
+        "width": 1395
+      },
+      "1559": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1920,
+        "id": 1559,
+        "incognito": false,
+        "left": 1920,
+        "state": "fullscreen",
+        "top": -620,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 4,
+    "name": "(37) Mental Illness Doesn't Exist (Matt Walsh) - YouTube",
+    "date": 1622903831319,
+    "lastEditedTime": 1622903831319,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "18766f7e-65a3-4805-ac90-12dbc3907b14"
+  }
+]

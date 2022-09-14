@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "460": {
+        "461": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://mail.voidtools.com/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": true,
+          "id": 461,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Everything 1.5 Alpha - voidtools forum",
+          "url": "https://mail.voidtools.com/forum/viewtopic.php?f=12&t=9787",
+          "width": 772,
+          "windowId": 460
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "460": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 831,
+        "id": 460,
+        "incognito": false,
+        "left": 819,
+        "state": "normal",
+        "top": 123,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Everything 1.5 Alpha - voidtools forum",
+    "date": 1629483661614,
+    "lastEditedTime": 1629483661614,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629461144148,
+    "id": "21d1bcef-78d8-4e24-ae36-3525380a7e94"
+  }
+]

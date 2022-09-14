@@ -1,0 +1,80 @@
+[
+  {
+    "windows": {
+      "460": {
+        "461": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://mail.voidtools.com/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 461,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How do I search for files within folders that match certain characteristics? - voidtools forum",
+          "url": "https://mail.voidtools.com/forum/viewtopic.php?p=35700",
+          "width": 1136,
+          "windowId": 460
+        },
+        "464": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/b0971059/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": true,
+          "id": 464,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 461,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(68) YouTube - {#upload-info}",
+          "url": "https://www.youtube.com/",
+          "width": 1136,
+          "windowId": 460
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "460": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 831,
+        "id": 460,
+        "incognito": false,
+        "left": 389,
+        "state": "normal",
+        "top": 191,
+        "type": "normal",
+        "width": 1200
+      }
+    },
+    "tabsNumber": 2,
+    "name": "(68) YouTube - {#upload-info}",
+    "date": 1629496261600,
+    "lastEditedTime": 1629496261600,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629461144148,
+    "id": "a0184e27-f6f4-4607-b9ba-28e0a034b495"
+  }
+]

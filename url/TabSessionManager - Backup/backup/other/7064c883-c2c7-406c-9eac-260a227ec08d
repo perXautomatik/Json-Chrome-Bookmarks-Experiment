@@ -1,0 +1,77 @@
+[
+  {
+    "windows": {
+      "5601": {
+        "5599": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "groupId": -1,
+          "height": 824,
+          "highlighted": false,
+          "id": 5599,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "GitHub for VS Code",
+          "url": "https://vscode-auth.github.com/?browser_session_id=73901cc366321bc5b22d27bfd42eccdf9c5cc3834dff2afd7f83335fa3098f35&code=9f0f8c2e772ab9bdc973&state=vJKXaF_CHrXtq3-Qir2AkYHeXQA%2FeyJhdXRoU2VydmVyIjoiaHR0cHM6Ly9naXRodWIuY29tIiwiY2FsbGJhY2tVcmkiOiJ2c2NvZGU6Ly92c2NvZGUuZ2l0aHViLWF1dGhlbnRpY2F0aW9uL2RpZC1hdXRoZW50aWNhdGU_d2luZG93aWQ9MSIsInJlc3BvbnNlVHlwZSI6ImNvZGUiLCJzdGF0ZSI6IjQ4ZjIzZjg2LWQ2YWQtNDY3OS05YzVmLTAwNmYwNzJmZThmZiIsImlkIjoiOjpmZmZmOjEwLjEuOS4zMCJ9",
+          "width": 1003,
+          "windowId": 5601
+        },
+        "5600": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "groupId": -1,
+          "height": 824,
+          "highlighted": true,
+          "id": 5600,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "GitHub for VS Code",
+          "url": "https://vscode-auth.github.com/?browser_session_id=73901cc366321bc5b22d27bfd42eccdf9c5cc3834dff2afd7f83335fa3098f35&code=fbeac959169b915c06c7&state=ONIMgnqaU8aXdZpksrrd_IAaf-M%2FeyJhdXRoU2VydmVyIjoiaHR0cHM6Ly9naXRodWIuY29tIiwiY2FsbGJhY2tVcmkiOiJ2c2NvZGU6Ly92c2NvZGUuZ2l0aHViLWF1dGhlbnRpY2F0aW9uL2RpZC1hdXRoZW50aWNhdGU_d2luZG93aWQ9MSIsInJlc3BvbnNlVHlwZSI6ImNvZGUiLCJzdGF0ZSI6ImNjMWQ0ZmU1LWE2NWYtNGVjZi04OWU3LTZkNzcwMjg0OWU1ZiIsImlkIjoiOjpmZmZmOjEwLjEuODIuMjUxIn0",
+          "width": 1003,
+          "windowId": 5601
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5601": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 911,
+        "id": 5601,
+        "incognito": false,
+        "left": 792,
+        "state": "normal",
+        "top": 113,
+        "type": "normal",
+        "width": 1067
+      }
+    },
+    "tabsNumber": 2,
+    "name": "GitHub for VS Code",
+    "date": 1625930142185,
+    "lastEditedTime": 1625921061231,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "e631096d-69f2-4a37-94ee-6c377460408c"
+  }
+]

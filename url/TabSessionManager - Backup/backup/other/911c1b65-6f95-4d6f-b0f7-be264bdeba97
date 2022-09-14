@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1365": {
+        "1239": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": true,
+          "id": 1239,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Math - Graphing Tools - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=157",
+          "width": 1111,
+          "windowId": 1365
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1365": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 631,
+        "id": 1365,
+        "incognito": false,
+        "left": 8,
+        "state": "minimized",
+        "top": 0,
+        "type": "normal",
+        "width": 1175
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Math - Graphing Tools - The Portable Freeware Collection",
+    "date": 1628757412630,
+    "lastEditedTime": 1628757337803,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "fe8b0442-e166-41e4-ab4b-fea747c0fa83"
+  }
+]

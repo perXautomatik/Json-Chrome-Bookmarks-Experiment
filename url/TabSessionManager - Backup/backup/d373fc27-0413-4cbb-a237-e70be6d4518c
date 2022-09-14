@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2743": {
+        "2744": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2744,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Weapon Mods Expanded - WMX at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/39651",
+          "width": 1154,
+          "windowId": 2743
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2743": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2743,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Weapon Mods Expanded - WMX at Fallout New Vegas - mods and community",
+    "date": 1627157002909,
+    "lastEditedTime": 1627157000729,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "83b83d07-a7d4-439b-a0ae-42f999594709"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10625": {
+        "10626": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10626,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Manufacturing Extended at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/15429?tab=files&file_id=66068&nmm=1",
+          "width": 1154,
+          "windowId": 10625
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10625": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10625,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Manufacturing Extended at Fallout 4 Nexus - Mods and community",
+    "date": 1622643515295,
+    "lastEditedTime": 1622643511244,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "6ec25054-758b-46ef-973a-8f5598279d9b"
+  }
+]

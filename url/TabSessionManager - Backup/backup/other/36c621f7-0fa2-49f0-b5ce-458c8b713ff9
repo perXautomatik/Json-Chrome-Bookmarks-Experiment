@@ -1,0 +1,125 @@
+[
+  {
+    "windows": {
+      "808": {
+        "778": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://archive.org/images/glogo.jpg",
+          "groupId": -1,
+          "height": 766,
+          "highlighted": true,
+          "id": 778,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Fallout: Post Nuclear Tunes from the Vault : Free Download, Borrow, and Streaming : Internet Archive",
+          "url": "https://archive.org/details/FalloutPostNuclearTunesFromTheVault",
+          "width": 1108,
+          "windowId": 808
+        },
+        "794": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://openlibrary.org/static/images/openlibrary-128x128.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 794,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Librarianship | Open Library",
+          "url": "https://openlibrary.org/about/lib",
+          "width": 1508,
+          "windowId": 808
+        },
+        "796": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://yastatic.net/images-thumbs/_/8cS_MbHl6VBweqVjWeI-eNy0tzE.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 796,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Yandex.Images: image search",
+          "url": "https://yandex.com/images/search?rpt=imageview&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F1987153%2FjkHYdK7AKk29xIlQHF4CqA3870%2Forig&cbir_id=1987153%2FjkHYdK7AKk29xIlQHF4CqA3870",
+          "width": 1508,
+          "windowId": 808
+        },
+        "798": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://tineye.com/query/cd17cfe8223435a8c8f0071e99dc653c2b28666f",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 798,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "398 TinEye search results",
+          "url": "https://tineye.com/search/cd17cfe8223435a8c8f0071e99dc653c2b28666f?sort=score&order=desc&page=1",
+          "width": 1508,
+          "windowId": 808
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "808": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 853,
+        "id": 808,
+        "incognito": false,
+        "left": 389,
+        "state": "normal",
+        "top": 180,
+        "type": "normal",
+        "width": 1172
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Fallout: Post Nuclear Tunes from the Vault : Free Download, Borrow, and Streaming : Internet Archive",
+    "date": 1628151450670,
+    "lastEditedTime": 1628151448135,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628104616079,
+    "id": "97cd93ab-bac8-4cc0-94d3-da5d9a205bc0"
+  }
+]

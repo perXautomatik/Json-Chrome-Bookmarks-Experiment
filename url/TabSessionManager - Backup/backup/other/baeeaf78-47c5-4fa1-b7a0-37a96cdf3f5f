@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "2": {
+        "3": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.copyhandler.com/sites/default/files/ch16.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 3,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Download | Copy Handler",
+          "url": "https://www.copyhandler.com/download",
+          "width": 1200,
+          "windowId": 2
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 2,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Download | Copy Handler",
+    "date": 1622848931316,
+    "lastEditedTime": 1622848931316,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "4bb42119-4659-44a1-80fb-277e4379d63c"
+  }
+]

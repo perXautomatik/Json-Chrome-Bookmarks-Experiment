@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "3108": {
+        "3107": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3107,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tab Modifier",
+          "url": "chrome-extension://hcbgadmbdkiilgpifjgcakjehmafcjai/html/options.html",
+          "width": 1232,
+          "windowId": 3108
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3108": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 768,
+        "id": 3108,
+        "incognito": false,
+        "left": 695,
+        "state": "normal",
+        "top": 249,
+        "type": "normal",
+        "width": 1296
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Tab Modifier",
+    "date": 1628791067857,
+    "lastEditedTime": 1628790803129,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "e54cdad9-5cad-4815-b46d-487866af4c9f"
+  }
+]

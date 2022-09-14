@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "7018": {
+        "7019": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7019,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=121615",
+          "width": 1319,
+          "windowId": 7018
+        },
+        "7020": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7020,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Steam Community :: Guide :: How to play New Vegas Multiplayer Beta (2021!)",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2455503440",
+          "width": 1319,
+          "windowId": 7018
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7018": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1040,
+        "id": 7018,
+        "incognito": false,
+        "left": 3,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Steam Community :: Guide :: How to play New Vegas Multiplayer Beta (2021!)",
+    "date": 1631225948877,
+    "lastEditedTime": 1631225931196,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1631199486672,
+    "id": "082bef15-543f-4993-be12-3a196b988418"
+  }
+]

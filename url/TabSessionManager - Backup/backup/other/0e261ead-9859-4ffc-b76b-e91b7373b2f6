@@ -1,0 +1,57 @@
+[
+  {
+    "windows": {
+      "3596": {
+        "3597": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3597,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Black Holes Reflect The Universe Via Photon Rings, Study Shows How - YouTube",
+          "url": "https://www.youtube.com/watch?v=il-9OiBreH8",
+          "width": 1154,
+          "windowId": 3596
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3596": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3596,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Black Holes Reflect The Universe Via Photon Rings, Study Shows How - YouTube",
+    "date": 1628835473085,
+    "lastEditedTime": 1628835469514,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "207f3bf0-d5e3-49a5-991e-1123dbb78da7"
+  }
+]

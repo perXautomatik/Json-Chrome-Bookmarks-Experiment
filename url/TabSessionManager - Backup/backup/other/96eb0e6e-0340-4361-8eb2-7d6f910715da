@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "690": {
+        "691": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://mtgarena.codes/favicon-32x32.png?v=33329007c03085f1ee1dc8277cb7b141",
+          "groupId": -1,
+          "height": 809,
+          "highlighted": true,
+          "id": 691,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Free Magic The Gathering Arena Promo Codes | MTG Arena Codes",
+          "url": "https://mtgarena.codes/",
+          "width": 736,
+          "windowId": 690
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "690": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 896,
+        "id": 690,
+        "incognito": false,
+        "left": 782,
+        "state": "normal",
+        "top": 94,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Free Magic The Gathering Arena Promo Codes | MTG Arena Codes",
+    "date": 1631043957197,
+    "lastEditedTime": 1631043957197,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1630969783792,
+    "id": "8ab7422a-bb00-4808-a864-8e6d7f53c8c3"
+  }
+]

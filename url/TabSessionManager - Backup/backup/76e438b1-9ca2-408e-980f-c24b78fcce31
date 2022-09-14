@@ -1,0 +1,170 @@
+[
+  {
+    "windows": {
+      "301": {
+        "302": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 797,
+          "highlighted": false,
+          "id": 302,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "git - Pull All Gists from Github? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/6724490/pull-all-gists-from-github",
+          "width": 1199,
+          "windowId": 301
+        },
+        "303": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.github.com/assets/images/site/favicon.svg",
+          "groupId": -1,
+          "height": 797,
+          "highlighted": false,
+          "id": 303,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Gists - GitHub Docs",
+          "url": "https://docs.github.com/en/rest/reference/gists#list-gists-for-a-user",
+          "width": 1199,
+          "windowId": 301
+        },
+        "304": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 797,
+          "highlighted": false,
+          "id": 304,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "https://api.github.com/users/perXautomatik/gists",
+          "url": "https://api.github.com/users/perXautomatik/gists",
+          "width": 1199,
+          "windowId": 301
+        },
+        "305": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 797,
+          "highlighted": false,
+          "id": 305,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Gist — Manage in one repository many gists by using git submodule",
+          "url": "https://gist.github.com/perXautomatik/49b768e0deaa4bbf0fcd849432de2f51",
+          "width": 1199,
+          "windowId": 301
+        },
+        "306": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://i2.wp.com/virtuallysober.com/wp-content/uploads/2018/04/cropped-HLHLV2Banner4-1.png?fit=32%2C32&ssl=1",
+          "groupId": -1,
+          "height": 797,
+          "highlighted": false,
+          "id": 306,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Converting cURL to PowerShell for REST APIs – Virtually Sober",
+          "url": "https://virtuallysober.com/2019/03/12/converting-curl-to-powershell-for-rest-apis/",
+          "width": 1199,
+          "windowId": 301
+        },
+        "308": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 797,
+          "highlighted": true,
+          "id": 308,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Basic authentication with the GitHub Api using PowerShell - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/27969362/basic-authentication-with-the-github-api-using-powershell",
+          "width": 1199,
+          "windowId": 301
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "301": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 797,
+        "id": 301,
+        "incognito": false,
+        "left": 1920,
+        "state": "minimized",
+        "top": 53,
+        "type": "normal",
+        "width": 1199
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Basic authentication with the GitHub Api using PowerShell - Stack Overflow",
+    "date": 1627985158707,
+    "lastEditedTime": 1627985137637,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "b2989783-6542-497c-801f-2f1a58421115"
+  }
+]

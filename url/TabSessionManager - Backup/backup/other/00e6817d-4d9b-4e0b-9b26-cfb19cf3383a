@@ -1,0 +1,248 @@
+[
+  {
+    "windows": {
+      "7090": {
+        "7103": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 7103,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "powershell recursive rename and git - Bing",
+          "url": "https://www.bing.com/search?q=powershell+recursive+rename+and+git&cvid=1ad945555232491d96b92a11046a744d&aqs=edge..69i57.12409j0j1&PC=U531&first=20&FORM=PORE",
+          "width": 1872,
+          "windowId": 7090
+        },
+        "7106": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7106,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7103,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Powershell - Recursive rename folder",
+          "url": "https://gist.github.com/aaronolds/bbc958917fa340a2cd5d30a4baca2ef8",
+          "width": 1872,
+          "windowId": 7090
+        },
+        "7109": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7109,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7103,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "rename - Recursively renaming files with Powershell - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/21611551/recursively-renaming-files-with-powershell",
+          "width": 1872,
+          "windowId": 7090
+        },
+        "7112": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7112,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7103,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "HeroProtagonist/recursive-rename: Simple tool to rename file extensions in a directory",
+          "url": "https://github.com/HeroProtagonist/recursive-rename",
+          "width": 1872,
+          "windowId": 7090
+        },
+        "7115": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.patrick-wied.at/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7115,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7103,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Rename files and folders with git",
+          "url": "https://www.patrick-wied.at/blog/rename-files-and-folders-with-git",
+          "width": 1872,
+          "windowId": 7090
+        },
+        "7118": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://devblogs.microsoft.com/scripting/wp-content/uploads/sites/29/2018/10/Microsoft-Favicon.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7118,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7103,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Use PowerShell to Rename Files in Bulk | Scripting Blog",
+          "url": "https://devblogs.microsoft.com/scripting/use-powershell-to-rename-files-in-bulk/",
+          "width": 1872,
+          "windowId": 7090
+        },
+        "7121": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.hanselman.com/main/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7121,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7103,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Prompts and Directories - Even Better Git (and Mercurial) with PowerShell - Scott Hanselman's Blog",
+          "url": "https://www.hanselman.com/blog/prompts-and-directories-even-better-git-and-mercurial-with-powershell",
+          "width": 1872,
+          "windowId": 7090
+        },
+        "7124": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://miro.medium.com/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7124,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7103,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Customise Your Windows PowerShell With oh-my-posh & posh-git | by Aritra Roy | Analytics Vidhya | Medium",
+          "url": "https://medium.com/analytics-vidhya/customize-your-windows-powershell-with-oh-my-posh-posh-git-93284b2749b6",
+          "width": 1872,
+          "windowId": 7090
+        },
+        "7127": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://petri.com/wp-content/themes/monstro/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 7127,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7103,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "How to Manage GIT with PowerShell 7 and Posh-GIT | Petri IT Knowledgebase",
+          "url": "https://petri.com/how-to-manage-git-with-powershell-7-and-posh-git?__cf_chl_jschl_tk__=pmd_DEC.b1PZqbYcjHrDzdL9_keYakM9sZQXBw787LFxLEE-1631291699-0-gqNtZGzNAhCjcnBszQil",
+          "width": 1872,
+          "windowId": 7090
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7090": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1056,
+        "id": 7090,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 9,
+    "name": "powershell recursive rename and git - Bing",
+    "date": 1631291756020,
+    "lastEditedTime": 1631291746963,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1631199486672,
+    "id": "e20f23eb-824e-4336-8d74-d9354f08ac51"
+  }
+]

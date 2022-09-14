@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "1141": {
+        "1142": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://assets.msn.com/statics/icons/favicon_newtabpage.png",
+          "groupId": -1,
+          "height": 738,
+          "highlighted": false,
+          "id": 1142,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "New tab",
+          "url": "edge://newtab/",
+          "width": 1481,
+          "windowId": 1141
+        },
+        "1149": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://jkjjclfiflhpjangefhgfjhgfbhajadk/icons/icon_min.svg",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": true,
+          "id": 1149,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tab Session Manager",
+          "url": "chrome-extension://jkjjclfiflhpjangefhgfjhgfbhajadk/options/index.html#information",
+          "width": 1481,
+          "windowId": 1141
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1141": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 858,
+        "id": 1141,
+        "incognito": false,
+        "left": 107,
+        "state": "normal",
+        "top": 46,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Tab Session Manager",
+    "date": 1630323935718,
+    "lastEditedTime": 1630323931697,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "6336a79f-518f-4f03-be1e-ddae3ad9c9ab"
+  }
+]

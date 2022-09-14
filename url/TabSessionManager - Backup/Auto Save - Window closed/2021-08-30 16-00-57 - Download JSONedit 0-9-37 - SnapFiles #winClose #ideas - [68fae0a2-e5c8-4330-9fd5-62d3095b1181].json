@@ -1,0 +1,80 @@
+[
+  {
+    "windows": {
+      "1415": {
+        "1239": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": false,
+          "id": 1239,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "portable json statistics - Bing",
+          "url": "https://www.bing.com/search?q=portable+json+statistics&cvid=0a8349e0f56345bdbfc4a5d7817afa75&aqs=edge..69i57.4457j0j1&pglt=2083&FORM=ANNTA1&PC=U531",
+          "width": 1481,
+          "windowId": 1415
+        },
+        "1417": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.snapfiles.com/favicon.ico?v=2019",
+          "groupId": -1,
+          "height": 770,
+          "highlighted": true,
+          "id": 1417,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1239,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Download JSONedit 0.9.37 - SnapFiles",
+          "url": "https://www.snapfiles.com/downloads/jsonedit/dljsonedit.html",
+          "width": 1481,
+          "windowId": 1415
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1415": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 858,
+        "id": 1415,
+        "incognito": false,
+        "left": 287,
+        "state": "normal",
+        "top": 227,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Download JSONedit 0.9.37 - SnapFiles",
+    "date": 1630332057259,
+    "lastEditedTime": 1630331057182,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630318416474,
+    "id": "68fae0a2-e5c8-4330-9fd5-62d3095b1181"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "windows": {
+      "8224": {
+        "8222": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8222,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "foe4Edit - Bing",
+          "url": "https://www.bing.com/search?q=foe4Edit&cvid=ba904156cd3a4ad2a2b8f2d70371d662&aqs=edge..69i57.10358j0j4&FORM=ANAB01&PC=U531",
+          "width": 1135,
+          "windowId": 8224
+        },
+        "8227": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8227,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FO4Edit at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/2737/",
+          "width": 1135,
+          "windowId": 8224
+        },
+        "8228": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8228,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "afkmods.iguanadons.net",
+          "url": "https://afkmods.iguanadons.net/index.php?/topic/3750-wipz-tes5edit/",
+          "width": 1135,
+          "windowId": 8224
+        },
+        "8229": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8229,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Nexus mods and community",
+          "url": "https://newvegas.nexusmods.com/mods/38413",
+          "width": 1135,
+          "windowId": 8224
+        },
+        "8230": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": false,
+          "id": 8230,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "xEdit - Bing",
+          "url": "https://www.bing.com/search?q=xEdit&aqs=edge..69i57j69i61j69i65&FORM=ANCMS9&PC=U531",
+          "width": 1135,
+          "windowId": 8224
+        },
+        "8231": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://tes5edit.github.io/docs/favicon.ico",
+          "groupId": -1,
+          "height": 893,
+          "highlighted": true,
+          "id": 8231,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 8230,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "xEdit Basic Use | Tome of xEdit",
+          "url": "https://tes5edit.github.io/docs/3-basicuse.html",
+          "width": 1135,
+          "windowId": 8224
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "8224": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 980,
+        "id": 8224,
+        "incognito": false,
+        "left": 794,
+        "state": "normal",
+        "top": 116,
+        "type": "normal",
+        "width": 1199
+      }
+    },
+    "tabsNumber": 6,
+    "name": "xEdit Basic Use | Tome of xEdit",
+    "date": 1624449648423,
+    "lastEditedTime": 1624448827543,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1624310197137,
+    "id": "efd2c4ad-8e0c-4b04-a326-bea19c5b7f82"
+  }
+]

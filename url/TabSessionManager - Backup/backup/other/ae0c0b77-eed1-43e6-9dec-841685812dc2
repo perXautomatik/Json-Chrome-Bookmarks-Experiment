@@ -1,0 +1,177 @@
+[
+  {
+    "windows": {
+      "1559": {
+        "1557": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/79946f8f/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 1557,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(42) A Village Filled with Retro Treasure | GBR Thrifts Returns! | Nostalgia Nerd - YouTube",
+          "url": "https://www.youtube.com/watch?v=Pbf3HDnRN0s&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=1",
+          "width": 1300,
+          "windowId": 1559
+        }
+      },
+      "1579": {
+        "1580": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1580,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "split docx file rule - Bing",
+          "url": "https://www.bing.com/search?q=split+docx+file+rule&qs=n&form=QBRE&sp=-1&pq=split+docx+file+rule&sc=0-20&sk=&cvid=CD65AFC9C9CD4849A6B95CC3A1A09A99",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1583": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 1583,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "smartphone as smartfridge - Bing",
+          "url": "https://www.bing.com/search?q=smartphone+as+smartfridge&cvid=7923f82171ed4857bb980350c090d3d6&aqs=edge..69i57.60073j0j1&FORM=ANAB01&PC=U531",
+          "width": 1300,
+          "windowId": 1579
+        },
+        "1590": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 1590,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1580,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "xml - Splitting a docx by headings into separate files in Python - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/54409495/splitting-a-docx-by-headings-into-separate-files-in-python",
+          "width": 1300,
+          "windowId": 1579
+        }
+      },
+      "1585": {
+        "1581": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210604153606",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 1581,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1300,
+          "windowId": 1585
+        }
+      }
+    },
+    "windowsNumber": 3,
+    "windowsInfo": {
+      "1559": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 1559,
+        "incognito": false,
+        "left": 255,
+        "state": "minimized",
+        "top": 107,
+        "type": "normal",
+        "width": 1395
+      },
+      "1579": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 1579,
+        "incognito": false,
+        "left": 146,
+        "state": "normal",
+        "top": 80,
+        "type": "normal",
+        "width": 1395
+      },
+      "1585": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 921,
+        "id": 1585,
+        "incognito": false,
+        "left": 1831,
+        "state": "normal",
+        "top": -620,
+        "type": "normal",
+        "width": 1395
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+    "date": 1623002831314,
+    "lastEditedTime": 1623002831314,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "b70415c8-3315-4f68-aa98-ca37f0a33881"
+  }
+]

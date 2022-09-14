@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "8119": {
+        "8122": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 894,
+          "highlighted": false,
+          "id": 8122,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/profiles",
+          "width": 1135,
+          "windowId": 8119
+        },
+        "8176": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 862,
+          "highlighted": true,
+          "id": 8176,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1135,
+          "windowId": 8119
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "8119": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 981,
+        "id": 8119,
+        "incognito": false,
+        "left": 234,
+        "state": "normal",
+        "top": 48,
+        "type": "normal",
+        "width": 1199
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Visual bookmarks",
+    "date": 1624430851645,
+    "lastEditedTime": 1624430848902,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1624310197137,
+    "id": "c8ae3325-275f-4976-8529-5f733f952543"
+  }
+]

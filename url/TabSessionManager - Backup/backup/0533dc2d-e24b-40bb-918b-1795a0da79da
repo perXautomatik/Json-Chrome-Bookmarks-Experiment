@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1122": {
+        "1069": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/1802aa0e/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1485,
+          "highlighted": true,
+          "id": 1069,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(25) Warner Bros. Pictures Sverige - YouTube",
+          "url": "https://www.youtube.com/user/WarnerBrosPicturesSe",
+          "width": 1094,
+          "windowId": 1122
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1122": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1527,
+        "id": 1122,
+        "incognito": false,
+        "left": 1843,
+        "state": "normal",
+        "top": 265,
+        "type": "popup",
+        "width": 1110
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(25) Warner Bros. Pictures Sverige - YouTube",
+    "date": 1627480688453,
+    "lastEditedTime": 1627479817087,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "5fc52164-ded9-46ab-82eb-87461d08181b"
+  }
+]

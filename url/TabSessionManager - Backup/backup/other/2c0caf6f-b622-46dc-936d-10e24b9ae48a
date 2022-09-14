@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "351": {
+        "352": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://taleoftwowastelands.com/favicon-32x32.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 352,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Search for Realistic, immersive & survival mods for TTW - Page 2 - Tale of Two Wastelands",
+          "url": "https://taleoftwowastelands.com/viewtopic.php?t=4852&start=10",
+          "width": 1174,
+          "windowId": 351
+        },
+        "353": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://forums.nexusmods.com/favicon.ico",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": true,
+          "id": 353,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "To pack or not to pack? BSA/loose files.... - Skyrim Special Edition Creation Kit and Modders - The Nexus Forums",
+          "url": "https://forums.nexusmods.com/index.php?/topic/6722122-to-pack-or-not-to-pack-bsaloose-files/",
+          "width": 1174,
+          "windowId": 351
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "351": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 624,
+        "id": 351,
+        "incognito": false,
+        "left": 3,
+        "state": "minimized",
+        "top": 0,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 2,
+    "name": "To pack or not to pack? BSA/loose files.... - Skyrim Special Edition Creation Kit and Modders - The Nexus Forums",
+    "date": 1627984618916,
+    "lastEditedTime": 1627984547473,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "04288a36-4a3d-4e82-9dd2-f95281e4378d"
+  }
+]

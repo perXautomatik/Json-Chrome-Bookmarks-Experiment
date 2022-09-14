@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1413": {
+        "1414": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 829,
+          "highlighted": true,
+          "id": 1414,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1100,
+          "windowId": 1413
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1413": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 948,
+        "id": 1413,
+        "incognito": false,
+        "left": 1918,
+        "state": "normal",
+        "top": -115,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Visual bookmarks",
+    "date": 1630502550822,
+    "lastEditedTime": 1630502550822,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1630426906378,
+    "id": "6269f0e7-afe8-4410-a7b4-cd33c3543713"
+  }
+]

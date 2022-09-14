@@ -1,0 +1,102 @@
+[
+  {
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "591": {
+        "width": 1381,
+        "type": "normal",
+        "top": 116,
+        "state": "normal",
+        "left": 202,
+        "incognito": false,
+        "height": 810,
+        "focused": true,
+        "alwaysOnTop": false,
+        "id": 591
+      }
+    },
+    "windows": {
+      "591": {
+        "763": {
+          "title": "chrome close windows open new window extension - Google Search",
+          "windowId": 591,
+          "width": 1324,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 721,
+          "favIconUrl": "https://www.google.com/favicon.ico",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://www.google.com/search?client=opera-gx&hs=mhj&sxsrf=ALeKk03-6Oc8ctSCL2i8xEnaXsqJKBhhOQ%3A1599819902407&ei=flBbX9u2GKqWjgab6YnYCg&q=chrome+close+windows+open+new+window+extension&oq=chrome+close+windows+open+new+window+extension&gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB46EQgAELADEIoDELcDEOUCEIsDUJlBWPJQYMpSaAFwAHgAgAFqiAGjBpIBAzcuMpgBAKABAaoBB2d3cy13aXq4AQLAAQE&sclient=psy-ab&ved=0ahUKEwjb7fLH8eDrAhUqi8MKHZt0AqsQ4dUDCAw&uact=5",
+          "id": 763,
+          "index": 1
+        },
+        "764": {
+          "title": "Cluster - Window & Tab Manager - Chrome Web Store",
+          "windowId": 591,
+          "width": 1324,
+          "status": "complete",
+          "selected": false,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 721,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": false,
+          "url": "https://chrome.google.com/webstore/detail/cluster-window-tab-manage/aadahadfdmiibmdhfmpbeeebejmjnkef?hl=en",
+          "id": 764,
+          "index": 2
+        },
+        "766": {
+          "title": "Settings – Keyboard shortcuts",
+          "windowId": 591,
+          "width": 1324,
+          "status": "complete",
+          "selected": true,
+          "pinned": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "incognito": false,
+          "highlighted": false,
+          "height": 721,
+          "favIconUrl": "",
+          "discarded": false,
+          "autoDiscardable": true,
+          "audible": false,
+          "active": true,
+          "url": "chrome://settings/keyboardShortcuts",
+          "id": 766,
+          "index": 0
+        }
+      }
+    },
+    "tag": [
+      "browserExit",
+      "Work",
+      "Loppy",
+      "Home",
+      "Edge"
+    ],
+    "tabsNumber": 3,
+    "sessionStartTime": 1599816003038,
+    "name": "unsolved - close window and open new, but can be done with keyboard shortcuts",
+    "lastEditedTime": 1623010770691,
+    "date": 1599820227207,
+    "id": "c70555eb-f3b4-4773-8cc9-896c0b94ea5e"
+  }
+]

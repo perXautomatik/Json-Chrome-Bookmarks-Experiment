@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "219": {
+        "762": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 710,
+          "highlighted": true,
+          "id": 762,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "https://api.github.com/users/perXautomatik/gists",
+          "url": "https://api.github.com/users/perXautomatik/gists",
+          "width": 1135,
+          "windowId": 219
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "219": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 797,
+        "id": 219,
+        "incognito": false,
+        "left": 531,
+        "state": "normal",
+        "top": 208,
+        "type": "normal",
+        "width": 1199
+      }
+    },
+    "tabsNumber": 1,
+    "name": "https://api.github.com/users/perXautomatik/gists",
+    "date": 1627309826972,
+    "lastEditedTime": 1627309825410,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "34328f0d-be41-48b9-b3f0-18a396e39052"
+  }
+]

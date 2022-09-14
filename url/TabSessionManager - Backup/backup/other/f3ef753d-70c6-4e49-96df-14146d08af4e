@@ -1,0 +1,80 @@
+[
+  {
+    "windows": {
+      "7876": {
+        "7828": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7828,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/searchEngines?search=search",
+          "width": 1319,
+          "windowId": 7876
+        },
+        "8178": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 908,
+          "highlighted": true,
+          "id": 8178,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7828,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Folderwise Bookmarks: Search & Sessions - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/folderwise-bookmarks-sear/lcabfbidcbbfdfmonhonidjgcgdnfhle",
+          "width": 1319,
+          "windowId": 7876
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7876": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1040,
+        "id": 7876,
+        "incognito": false,
+        "left": 527,
+        "state": "normal",
+        "top": 113,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Folderwise Bookmarks: Search & Sessions - Chrome Web Store",
+    "date": 1631536495659,
+    "lastEditedTime": 1631536468741,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "d3858e44-8c9e-4445-a2bd-cd7e1304c5ad"
+  }
+]

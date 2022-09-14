@@ -1,0 +1,170 @@
+[
+  {
+    "windows": {
+      "622": {
+        "623": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": true,
+          "id": 623,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Internet - FTP Clients - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=10",
+          "width": 700,
+          "windowId": 622
+        },
+        "624": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.howtogeek.com/public/images/32x32.png",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 624,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "How to Host an FTP Server on Windows with FileZilla",
+          "url": "https://www.howtogeek.com/140352/how-to-host-an-ftp-server-on-windows-with-filezilla/",
+          "width": 1064,
+          "windowId": 622
+        },
+        "625": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://filezilla-project.org/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 625,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Download FileZilla Server for Windows",
+          "url": "https://filezilla-project.org/download.php?type=server",
+          "width": 1064,
+          "windowId": 622
+        },
+        "626": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://s0.wp.com/i/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 626,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "How To Set Up FileZilla FTPS Server Behind NAT in Passive Mode | things of interest",
+          "url": "https://inspro9.wordpress.com/2016/12/03/how-to-set-up-filezilla-ftps-server-behind-nat-in-passive-mode/",
+          "width": 1064,
+          "windowId": 622
+        },
+        "627": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.whatismypublicip.com/favicon/favicon.ico",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 627,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "What Is My IP | Find my Public IP Address - IPv4 & IPv6",
+          "url": "https://www.whatismypublicip.com/",
+          "width": 1064,
+          "windowId": 622
+        },
+        "628": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 744,
+          "highlighted": false,
+          "id": 628,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Running an FTP server behind a Cisco router with NAT - Mundy",
+          "url": "http://www.wiki.mundy.co/Running_an_FTP_server_behind_a_Cisco_router_with_NAT",
+          "width": 1064,
+          "windowId": 622
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "622": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 831,
+        "id": 622,
+        "incognito": false,
+        "left": 351,
+        "state": "minimized",
+        "top": 193,
+        "type": "normal",
+        "width": 1128
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Internet - FTP Clients - The Portable Freeware Collection",
+    "date": 1629109535951,
+    "lastEditedTime": 1629109303488,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1629105972374,
+    "id": "e044fa31-3336-4e78-abc4-b150f39afb63"
+  }
+]

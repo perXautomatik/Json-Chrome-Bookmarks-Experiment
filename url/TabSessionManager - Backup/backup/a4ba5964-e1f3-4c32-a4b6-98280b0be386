@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/1802aa0e/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 2,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "YouTube",
+          "url": "https://www.youtube.com/",
+          "width": 1508,
+          "windowId": 1
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 1,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "YouTube",
+    "date": 1627153417826,
+    "lastEditedTime": 1627153417826,
+    "tag": [
+      "browserExit",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153135948,
+    "id": "64e7f7fc-2d59-4251-a03f-227f49379cd2"
+  }
+]

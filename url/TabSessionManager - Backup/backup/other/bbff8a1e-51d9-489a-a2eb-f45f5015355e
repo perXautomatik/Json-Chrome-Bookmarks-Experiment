@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "7738": {
+        "8081": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 8081,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/?options=fohimdklhhcpcnpmmichieidclgfdmol",
+          "width": 1319,
+          "windowId": 7738
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7738": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1040,
+        "id": 7738,
+        "incognito": false,
+        "left": 517,
+        "state": "normal",
+        "top": 103,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Extensions",
+    "date": 1631535835587,
+    "lastEditedTime": 1631532721226,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "3ccad47f-a4c1-4d70-b047-b047bad92939"
+  }
+]

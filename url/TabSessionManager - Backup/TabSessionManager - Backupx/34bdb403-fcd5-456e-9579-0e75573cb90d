@@ -1,0 +1,126 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 922,
+          "highlighted": false,
+          "id": 2,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "date bookmarks - Bing",
+          "url": "https://www.bing.com/search?q=date+bookmarks&cvid=5ff59f1c5d9848daa7580fb85132a45b&aqs=edge..69i57j69i60j69i61l2j69i60l2j69i65.3238j0j1&FORM=ANAB01&PC=U531",
+          "width": 1126,
+          "windowId": 1
+        },
+        "457": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 878,
+          "highlighted": false,
+          "id": 457,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "SuperSorter - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/supersorter/hjebfgojnlefhdgmomncgjglmdckngij",
+          "width": 1126,
+          "windowId": 1
+        },
+        "577": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 922,
+          "highlighted": false,
+          "id": 577,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "LightAPIs/tidier-bookmark: Help achieve cleaner bookmark names",
+          "url": "https://github.com/LightAPIs/tidier-bookmark",
+          "width": 1126,
+          "windowId": 1
+        },
+        "603": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 878,
+          "highlighted": true,
+          "id": 603,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 577,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Tabrary (Beta) - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tabrary-beta/gdakojhjbllegcdmhjnhagckjgplfgnj",
+          "width": 1126,
+          "windowId": 1
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1009,
+        "id": 1,
+        "incognito": false,
+        "left": 2208,
+        "state": "normal",
+        "top": 68,
+        "type": "normal",
+        "width": 1190
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Tabrary (Beta) - Chrome Web Store",
+    "date": 1622463356941,
+    "lastEditedTime": 1622463356941,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622460642583,
+    "id": "85286d6e-adc7-4423-a9ae-6cb3129dcd04"
+  }
+]

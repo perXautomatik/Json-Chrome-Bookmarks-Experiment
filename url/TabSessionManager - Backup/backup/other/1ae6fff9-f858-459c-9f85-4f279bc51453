@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "2337": {
+        "2335": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 837,
+          "highlighted": false,
+          "id": 2335,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Spotify – Search",
+          "url": "https://open.spotify.com/search",
+          "width": 1133,
+          "windowId": 2337
+        },
+        "2351": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://magic.wizards.com/sites/all/themes/wiz_mtg/icons/favicon.ico",
+          "groupId": -1,
+          "height": 837,
+          "highlighted": false,
+          "id": 2351,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Article Archives | MAGIC: THE GATHERING",
+          "url": "https://magic.wizards.com/en/articles/archive/card-image-gallery/adventures-in-forgotten-realms",
+          "width": 1133,
+          "windowId": 2337
+        },
+        "2352": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/f73a46b5/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": true,
+          "id": 2352,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(17) Seafoam--can't believe what it did to my engine!! - YouTube",
+          "url": "https://www.youtube.com/watch?v=vBTDMKBYTpo&list=TLPQMzAwNjIwMjGmX_94GqommA&index=12",
+          "width": 1133,
+          "windowId": 2337
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2337": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 913,
+        "id": 2337,
+        "incognito": false,
+        "left": 1914,
+        "state": "normal",
+        "top": 170,
+        "type": "normal",
+        "width": 1197
+      }
+    },
+    "tabsNumber": 3,
+    "name": "(17) Seafoam--can't believe what it did to my engine!! - YouTube",
+    "date": 1625088542079,
+    "lastEditedTime": 1625088542079,
+    "tag": [
+      "browserExit",
+      "Edge"
+    ],
+    "sessionStartTime": 1624961591940,
+    "id": "3c4dcd97-2763-47a5-bc73-b8720a7178f6"
+  }
+]

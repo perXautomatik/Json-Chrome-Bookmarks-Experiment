@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "181": {
+        "381": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 381,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PerAutomatik's profile at Nexus mods and community",
+          "url": "https://www.nexusmods.com/users/6545719",
+          "width": 1872,
+          "windowId": 181
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "181": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1056,
+        "id": 181,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 1,
+    "name": "PerAutomatik's profile at Nexus mods and community",
+    "date": 1627315578232,
+    "lastEditedTime": 1627315576289,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "ab98a32b-8cb9-4a4c-88f5-677fad0430b9"
+  }
+]

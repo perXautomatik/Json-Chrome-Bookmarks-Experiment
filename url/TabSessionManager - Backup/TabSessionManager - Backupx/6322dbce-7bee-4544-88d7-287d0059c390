@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10030": {
+        "10031": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10031,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Ferals After Dark at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/22434?tab=files&file_id=91951&nmm=1",
+          "width": 1154,
+          "windowId": 10030
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10030": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10030,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Ferals After Dark at Fallout 4 Nexus - Mods and community",
+    "date": 1622642970143,
+    "lastEditedTime": 1622642967088,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "fcb2eeba-e629-4e68-8ea8-4d9045b23a28"
+  }
+]

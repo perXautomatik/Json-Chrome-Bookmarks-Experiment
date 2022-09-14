@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "311": {
+        "312": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://neo4j.com/favicon.ico?v=bOXynyJWa6a",
+          "groupId": -1,
+          "height": 855,
+          "highlighted": true,
+          "id": 312,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Neo4j Sandbox | Online Graph Database – No Download Required",
+          "url": "https://neo4j.com/sandbox/?utm_program=emea-prospecting&utm_source=google&utm_medium=cpc&utm_campaign=&utm_adgroup=&gclid=Cj0KCQjwl_SHBhCQARIsAFIFRVU-uFT9J7kYrlqZXpISYGBrWfVbMgWBLKi6E6Ojn77QkCny8jBgTJoaAgvmEALw_wcB",
+          "width": 1174,
+          "windowId": 311
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "311": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 855,
+        "id": 311,
+        "incognito": false,
+        "left": 1920,
+        "state": "minimized",
+        "top": 185,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Neo4j Sandbox | Online Graph Database – No Download Required",
+    "date": 1627984729407,
+    "lastEditedTime": 1627984671737,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "8710bc98-18bb-43a0-a3db-567561322189"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 636,
+          "highlighted": false,
+          "id": 2,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Kolitiri Bookmarks - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/kolitiri-bookmarks/hfnmppffaaifkdapbbnjlbeeefjdhjdm/related",
+          "width": 1232,
+          "windowId": 1
+        },
+        "1089": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 1089,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/?id=hgakmkcgcfanfhghebegpkbmopbikmkk",
+          "width": 1232,
+          "windowId": 1
+        },
+        "1090": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 1090,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Spotify – Liebknecht",
+          "url": "https://open.spotify.com/artist/1aXfzKT86fzIXWGjjjMdZA",
+          "width": 1232,
+          "windowId": 1
+        },
+        "2243": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 649,
+          "highlighted": true,
+          "id": 2243,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1090,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1232,
+          "windowId": 1
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 768,
+        "id": 1,
+        "incognito": false,
+        "left": 271,
+        "state": "normal",
+        "top": 190,
+        "type": "normal",
+        "width": 1296
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Visual bookmarks",
+    "date": 1628874499654,
+    "lastEditedTime": 1628871636180,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "513ee4a3-e7db-47a7-b637-444a0c30158b"
+  }
+]

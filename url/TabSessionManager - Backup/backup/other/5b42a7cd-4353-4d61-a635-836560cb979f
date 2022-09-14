@@ -1,0 +1,172 @@
+[
+  {
+    "windows": {
+      "1": {
+        "1131": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1131,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "internetarchive/openlibrary-client: Python Client Library for the Archive.org OpenLibrary API",
+          "url": "https://github.com/internetarchive/openlibrary-client",
+          "width": 1111,
+          "windowId": 1
+        },
+        "1132": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1132,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "perXautomatik",
+          "url": "https://github.com/perXautomatik",
+          "width": 1111,
+          "windowId": 1
+        },
+        "1133": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1133,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "openlibrary/CONTRIBUTING.md at master · internetarchive/openlibrary",
+          "url": "https://github.com/internetarchive/openlibrary/blob/master/CONTRIBUTING.md",
+          "width": 1111,
+          "windowId": 1
+        },
+        "1134": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1134,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Please Invite Me to #OpenLibrary Slack · Issue #686 · internetarchive/openlibrary",
+          "url": "https://github.com/internetarchive/openlibrary/issues/686",
+          "width": 1111,
+          "windowId": 1
+        },
+        "1135": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": false,
+          "id": 1135,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Issues · internetarchive/openlibrary",
+          "url": "https://github.com/internetarchive/openlibrary/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+          "width": 1111,
+          "windowId": 1
+        },
+        "1571": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": true,
+          "id": 1571,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1131,
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "git add file from submodule - Bing",
+          "url": "https://www.bing.com/search?q=git+add+file+from+submodule&cvid=18f737547c924a7eb08495091af00acd&aqs=edge..69i57j69i64.8926j0j1&FORM=ANAB01&PC=U531",
+          "width": 1111,
+          "windowId": 1
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 817,
+        "id": 1,
+        "incognito": false,
+        "left": 752,
+        "state": "normal",
+        "top": 230,
+        "type": "normal",
+        "width": 1175
+      }
+    },
+    "tabsNumber": 6,
+    "name": "git add file from submodule - Bing",
+    "date": 1628532004417,
+    "lastEditedTime": 1628531993999,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "25cf5524-ebe5-49a2-811c-568e95f7f71d"
+  }
+]

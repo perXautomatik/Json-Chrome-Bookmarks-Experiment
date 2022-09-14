@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "3057": {
+        "3058": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3058,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Pin-up Loading Screens 1920x1080 at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/63663",
+          "width": 1154,
+          "windowId": 3057
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3057": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3057,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Pin-up Loading Screens 1920x1080 at Fallout New Vegas - mods and community",
+    "date": 1627976519044,
+    "lastEditedTime": 1627976515777,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "4464d2b2-3866-41c1-a202-65faa9d9f376"
+  }
+]

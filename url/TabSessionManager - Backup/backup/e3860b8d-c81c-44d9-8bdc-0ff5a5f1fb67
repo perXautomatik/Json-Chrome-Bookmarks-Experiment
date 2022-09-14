@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "3125": {
+        "3126": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3126,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Asterra's Many Fixes at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/67070",
+          "width": 1154,
+          "windowId": 3125
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3125": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3125,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Asterra's Many Fixes at Fallout New Vegas - mods and community",
+    "date": 1627976569660,
+    "lastEditedTime": 1627976564222,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "66b5d601-1ffb-4204-b462-b3f22a81cdc9"
+  }
+]

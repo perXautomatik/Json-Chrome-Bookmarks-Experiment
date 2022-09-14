@@ -1,0 +1,171 @@
+[
+  {
+    "windows": {
+      "1339": {
+        "1341": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 860,
+          "highlighted": false,
+          "id": 1341,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "virtualization load balancing - Bing",
+          "url": "https://www.bing.com/search?q=virtualization+load+balancing&FORM=HDRSC1",
+          "width": 1148,
+          "windowId": 1339
+        },
+        "1343": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 860,
+          "highlighted": false,
+          "id": 1343,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "cluster computing load balance - Bing",
+          "url": "https://www.bing.com/search?q=cluster+computing+load+balance&cvid=ea416061388d4a2495a4f78cc40e2ce5&aqs=edge..69i57.5328j0j1&pglt=2083&FORM=ANNTA1&PC=U531",
+          "width": 1148,
+          "windowId": 1339
+        },
+        "1344": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.networkcomputing.com/sites/default/files/favicon.ico",
+          "groupId": -1,
+          "height": 860,
+          "highlighted": false,
+          "id": 1344,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Server Virtualization 3.0 And Load Balancing | Network Computing",
+          "url": "https://www.networkcomputing.com/data-centers/server-virtualization-30-and-load-balancing",
+          "width": 1148,
+          "windowId": 1339
+        },
+        "1346": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 860,
+          "highlighted": false,
+          "id": 1346,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "IJCRT1813165.pdf",
+          "url": "https://ijcrt.org/papers/IJCRT1813165.pdf",
+          "width": 1148,
+          "windowId": 1339
+        },
+        "1348": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 860,
+          "highlighted": false,
+          "id": 1348,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "cluster computing running singular os - Bing",
+          "url": "https://www.bing.com/search?q=cluster+computing+running+singular+os&cvid=15ea8cc98ab144028d1e5a01f835f3af&aqs=edge..69i57.9904j0j1&pglt=2083&FORM=ANNTA1&PC=U531",
+          "width": 1148,
+          "windowId": 1339
+        },
+        "1351": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/serverfault/Img/favicon.ico?v=18e9cc4f2aea",
+          "groupId": -1,
+          "height": 860,
+          "highlighted": true,
+          "id": 1351,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1348,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "How does one cluster multiple machines to act as one to run multiple virtual machines on this single-seeming machine? - Server Fault",
+          "url": "https://serverfault.com/questions/415003/how-does-one-cluster-multiple-machines-to-act-as-one-to-run-multiple-virtual-mac",
+          "width": 1148,
+          "windowId": 1339
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1339": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 948,
+        "id": 1339,
+        "incognito": false,
+        "left": 780,
+        "state": "normal",
+        "top": 546,
+        "type": "normal",
+        "width": 1164
+      }
+    },
+    "tabsNumber": 6,
+    "name": "How does one cluster multiple machines to act as one to run multiple virtual machines on this single-seeming machine? - Server Fault",
+    "date": 1630499404887,
+    "lastEditedTime": 1630498379721,
+    "tag": [
+      "winClose",
+      "ideas"
+    ],
+    "sessionStartTime": 1630484833118,
+    "id": "52bec7d9-9ffa-4371-82f6-5e83d1f3d99b"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "windows": {
+      "4317": {
+        "3562": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/35e75ccf/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": true,
+          "id": 3562,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "China's ISS Competitor Begins Construction In Orbit - YouTube",
+          "url": "https://www.youtube.com/watch?v=06GUEkc4EEA&list=TLPQMDYwNzIwMjGtzIY43W9k-w&index=105",
+          "width": 1006,
+          "windowId": 4317
+        }
+      },
+      "4320": {
+        "4319": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": false,
+          "id": 4319,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Work2",
+          "url": "https://www.dwservice.net/session.dw?parent=mng#s",
+          "width": 1006,
+          "windowId": 4320
+        },
+        "4399": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 4399,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "RAS (CMAK) - Bing",
+          "url": "https://www.bing.com/search?q=RAS+%28CMAK%29&qs=n&form=QBRE&sp=-1&pq=ras+%28cmak%29&sc=0-10&sk=&cvid=B143A41808154F2B8341847D182C2429",
+          "width": 1152,
+          "windowId": 4320
+        },
+        "4400": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://forsenergy.com/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 4400,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Installera Administration av Anslutningshanteraren",
+          "url": "https://forsenergy.com/sv-se/cmak_ops/html/7da60249-0832-4089-aa98-d9e4bba65461.htm",
+          "width": 1152,
+          "windowId": 4320
+        },
+        "4401": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://cdn.statically.io/icon/g/s=64/+Tec%3FKangaroo.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 4401,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 4399,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Install RAS CMAK Feature on Windows 10[Latest] - Tec?Kangaroo",
+          "url": "https://teckangaroo.com/install-ras-cmak-feature-on-windows-10-latest/",
+          "width": 1152,
+          "windowId": 4320
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "4317": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 913,
+        "id": 4317,
+        "incognito": false,
+        "left": 1181,
+        "state": "normal",
+        "top": 520,
+        "type": "normal",
+        "width": 1070
+      },
+      "4320": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 4320,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 5,
+    "name": "China's ISS Competitor Begins Construction In Orbit - YouTube",
+    "date": 1625757943782,
+    "lastEditedTime": 1625757943782,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "0cc88548-7ea3-42c9-bea7-9588a0627732"
+  }
+]

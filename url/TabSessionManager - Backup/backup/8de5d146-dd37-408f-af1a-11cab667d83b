@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "3094": {
+        "3095": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3095,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Loot Menu and FPS Weapon Wheel - Vanilla UI Plus Patches at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/63908",
+          "width": 1154,
+          "windowId": 3094
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3094": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3094,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Loot Menu and FPS Weapon Wheel - Vanilla UI Plus Patches at Fallout New Vegas - mods and community",
+    "date": 1627976545497,
+    "lastEditedTime": 1627976539221,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "c6acb037-7419-4559-a3a9-e11e0184e4a7"
+  }
+]

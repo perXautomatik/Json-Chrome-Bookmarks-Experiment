@@ -1,0 +1,78 @@
+[
+  {
+    "windows": {
+      "1": {
+        "179": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.smalandsvillan.se/Static/Smv/img/favicons/favicon.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 179,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Välkommen hem till dig - på våra kontor - Smålandsvillan",
+          "url": "https://www.smalandsvillan.se/vr/?gclid=Cj0KCQjwl_SHBhCQARIsAFIFRVUJT-vvaN03rFshHPcs02Z-r_piOtjRRpMc9aYe4iUkI4wQ8Q_O7kUaAukGEALw_wcB",
+          "width": 1152,
+          "windowId": 1
+        },
+        "190": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "groupId": -1,
+          "height": 486,
+          "highlighted": true,
+          "id": 190,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "a",
+          "url": "http://a/",
+          "width": 1110,
+          "windowId": 1
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 573,
+        "id": 1,
+        "incognito": false,
+        "left": 108,
+        "state": "normal",
+        "top": 295,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 2,
+    "name": "a",
+    "date": 1627205271264,
+    "lastEditedTime": 1627205268187,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "1db31314-d1c2-4157-b277-8cd0fe52ac38"
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "windows": {
+      "1": {
+        "1512": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 1512,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=24649",
+          "width": 1664,
+          "windowId": 1
+        },
+        "1513": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 937,
+          "highlighted": false,
+          "id": 1513,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "loading",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1664,
+          "windowId": 1
+        },
+        "1515": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 595,
+          "highlighted": false,
+          "id": 1515,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "jumpstart magic the gathering - Bing",
+          "url": "https://www.bing.com/search?q=jumpstart+magic+the+gathering&cvid=e7c4717a82fd498f9fce811de9bce8bc&aqs=edge.0.0j69i57j0l4j69i65.3715j0j4&FORM=ANAB01&PC=U531",
+          "width": 916,
+          "windowId": 1
+        },
+        "1517": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAA4ofo5rvgnX+Ywce40y/8iVeBKr/AA//8bz+k2lfozmf8wwfo0ifc2g/ElxvQtaelAk+46uPdOvvU5rfkyefM2fulRx/ku0uA1iPY3vvc6uPdFoO44oPs5vfgxjfMzjfhS2tZPwfcpuf9Vqv8tZukyv/k+tvY0o/gAAP89te1OxvxV0f0xwPxU0PwtaOs+lO4xc/AnedtEsvAbzO0oXOZO0dk4u/gzZv84gOtFouwqZOkyeOs4vfiA//8xqvNFn+4g0OciZNoxnvM7fvc/uv8vc/Q2vfsvb/E3lPszvv1A1twxgOcv3t5V0/tLtfYhzug+yNwuwO46jOoyffQpj+Igwu0rv/dBmus/kutL0/8kYedW1/8azexLtfMct+MA1f9IrdkkbdtV1aoAgICAgIAqVdUqqtVV1f8zzMw1091Jktsbz+QAqv9HrO4zZuZV//9LuvVEpe9V3cwvduIAgP8hrt4u0f9mzMwcxvFUz/xA2eYxcO5Owtg+kPJAn/8CbarVAAAAgHRSTlMApqampgalpQGlpQWkpqakpaU1ppKho6WjlRampZObFTYtlwwEl2uZNgEPEYCUoTsTFZoVm5mTVAV5lJEghwMVLSChFQ8KNnmTk0GJVAggVXGkFjyRCVQwapQJFTSHk38GNQcGAgIGBgYFUgcwA2wKA31PD2gCoQsFEk8UhmiHCPFIIakAAAG3SURBVHicndN3U4JgHMBxCjFMUxyRgmkGkjlya2aWI7Vs76ntvfeut97zoAkWXHd9/+Lu97lnHIBUY+fcGF57luqe4lJxCpMHakMPbSsa3LKLYAYbTdNgETmBgRVAPXG5XQBoBtGpYVlggqDZ9H/g+gOoXaYmmCmHYPlPiauoXZ086MxhBq5EMb+IAJiizVcsUYe9MsCe5zQajY9bfj5vBF1jrbAxO1PyAaGLzGS2pAFOpSDQRcpnkw3A0gaz2JHHOJyrVKqZjOioIsAu+3Q8MJ+IllAXLFrYQhBBGK46N4+/CqC/sNAOg4CdWypHeOC4EoFRBWwUAARnMkubD+bZmONYGvQuDk6EsiEAngTgdxKw5DqC5HPziRCRVYZijqE6OPBHUVhyHXenV1ZJkkCV2Zhjvw52aiAaDE8PWPVaUkGg2fdb4Ran804lLHpzXWmx6vVaAJLbuwLAAwkUzFGyYmzhAalw3gXELyM/veokSKvRWAPtb/7gnhgMTXk7YDVgSRQuf3wRaxvevr5v8DExMtI4Bnl4AcHASnpR6g87mnrxdndXKhfpACsxhudY83g84XCYbdj9C/fvTFgJ2PE/AAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1517,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "advanced renamer portable - Bing",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=advanced%20renamer%20portable%20-%20Bing&url=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dadvanced%2Brenamer%2Bportable%26cvid%3D12566c2002b94fd58f0c201d9b9fb663%26aqs%3Dedge.0.0l6.6812j0j1%26FORM%3DANAB01%26PC%3DU531&tabId=2&sessionId=1622817391819&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQAUlEQVR4XuWbe4xU133Hv79z7tyZ2V12Wd6PBduMsfFibCjG%2BEG8uI6VR%2BNWkUrUKKJNmraS1UZK%2F6jUqorEVlXaSJWaJn2pjtq4Sh8yf7SxolSO8xjA77BmjTHGzoKdGLABe70s%2B5i595zftzp3ZoHFJrN3vUlMO%2BJqZvYMc%2B%2F3c76%2F3znnd%2B4I%2Fp8%2FJJd%2BUnYA5vXHznY6tcsibzuNhXUp06hgR1wtPdvlO87%2Bz0elnut7f4EfzgVgB2mPDaBYmJhYZzw%2BIpAbRNAO5dskDxL2IJw79MSH5p3%2BBWrKdepcALb%2F4JXSpF%2FcZY3eZsR%2BmsAWAdohMgzyoAKDQhwA9KhTedNNjp5bM7m8vvsT4nNd1c%2Fxw7kAbP32W51xHPeoNR8Q4jcBbAIQgUggGAFxipAfQ%2Fg8lI%2FZgjkyPjry1sB9KyZ%2BjppynSoXgG372M3JiYoY6YNwJ4ibp59NagBHCHkZ4GMiMgjHY0KctMW2t6t3h%2Fb312N2AGD7aPQdAATwBFIQ50TkTZJDgOynyID1%2Ftl9H25%2F%2Ff0lH8gH4FvspkxUpGD7SN0JXOqAS%2BQJToF8nsTTEPN9S33x%2FeaE2QGwto%2FAToCXhMA7%2BjdY%2FizJl0HuhbFPWry%2FnDB7AMROsCWAKSJvEPIcyT2IzH89%2BaHikfdLKOQH4Ccq0nQAWztgSmcYBc6QugeQv3vyvrZnrmgAtLZPiJ2cqQMkzAOYklI1hl98%2FGPlfVc2ANg%2BEckBAASgIPdQ8GdP%2Fmp5zxUPAJA8OSDTS6BKsv%2Bpj5erVyyApDZRiaztA2UnWw2D71ApVXrf%2F9SOKxyAiO0TyE55x0ywVb9Klfy%2FAICNHDArALiSAfwbuxMzUZHI9onKTskbAtIMgU9eqSEwBcCEYXAWANAMgSsewHsJgZAEdzYcsOMh2uM9iGsOHdZhgVVYR4zFHmNnRzF2%2BBOStMoq77U930wwOCDMBIMDwjCYNwQgVYQk2ARw%2BxMsYxILnOBaAW4VRZkGQ0oMFVIMPflhGX6vAlv9%2F9kBQNwnWT1gxmuBxnWIVBGSYBPAlh9wGYCNUNwixG0QtFEwBNGXBTwC2tdoMawJRtGNiYFbJG0lKG97fgC1tCIF6RMyvwMEVYQQ%2BEwjBLb8gBuN4tMAtlGwFERMwRiEw4SegshLSj6TGn84TuKfDNwrZ%2FMKbPX52QHI1gKhHpDTASEEgP6nPlPIAGx9lKHXPw%2FBdgJdBEoQhhljIsJxFbwSAHjRgzD%2BZUbmhK%2BnI8DE2BIsrlXvFtdKYKv22QGA7YPMoCDyzrNXxaP%2Fqd9tANjyHW40Bp9mACC4CuD8sGgI6waCjgbjBIe96Ek1fEWBFwXpIKwfYr3%2BxuG7l4y1EtiqPR%2BAvw%2FzgDRbDs8aAC8AuPW7vM4AH1NhALAZwIoAIPOAABrcIAoVjKnoKQWHvPGDCj2SGv%2BqE3MijvzpY8e6x7ADCpEmv1ayL7TPDoDYPmAWDhA0HHB%2FwwF3focrfIRbFLqdkF8BcB0bIZBBCAAaEOhUWFPRMW90xBu%2B4UV%2FrKIH1PD7SMaHjh%2FvSTCL8vvsALAJIO9aIAAIOaAJYPOj7IpjrPaqfYT8FohNKjSZ5IZw%2BCYEzZxAeBOeMxCnvNGDzvK7ifUHRJOflCcwnBdEfgA%2BzeYBWVE05zAoIlUJIfC5hgM272cBb6PNRv4DBD5PyJ0ECgTtVO9PCddMeAOAE3Xeas0bHfbiT3irAwb4dlHdQQQId6yanGkQzAoAOTUM5hsF2FwL7P%2FD6WuBW77HWyH6B41kyIUE294NgBfNAJx%2FNvRqfUro4YLhw5EJexHu8K2Hrjq9e4Y5IT%2BA2kSFiJs5IB8ACKoE%2By8FsGkve43TX4fhdhWsJ7jkfM9nIXCJ8OZ7tSRE1RqeLtC%2FWDB8jKoPLxkzh3uO9yQz2ZLLBWDDX7A7Ms2CyCwqQhkAsn%2F%2FH013wJY9XOXV30GTDYf3KrQSRIcc0HDCdAAuuMCEdoXNDk4WoW9Hhj%2BM4P%2Bz3cvTNZROH7x52XirUJgdgDAPQI6i6IWrqILo3%2F8n0wGEZIgYqx3T7TD4jIIhGTYBNMVfZP0pACKKQjhAH4smBeFLMfSRgtF9HvbZgd6rW%2B5E5QfgJyomK4lhp1BbbYxM74CwFvDo3%2F%2BF6QB6H2Isneiw5fo2ivw%2BBXdQtOSFUdb7Uw5o9nw2EhiFEUURiliIOIPBkzF0oGBYNcC3Hruh8vLcOyAAoGQAZjMVFvX9%2B3fNm14U3UXT24vILHW3iNHfUehdKliqoh3Tk17DDUF86P1ILohvQhiNwRMRWAX0a%2Ft61z47xwBGuqM6KkZDEpzNYkiqIu8CoHmVN%2ByprbUGH6Xo7Sq83gtXetFOb3wxG%2F6aDoBhJj7YvyH8vAOSInU8Eu6Dka8saoufQE9Psjvbl3j3R74Q%2BOOR7siiYiTuYwCQex4QJkLs3%2F%2FnlzigeW2bHx3uSuJ4tYu4XoHbvHCTt7zBi1%2BcOaF5GOFF4qe5QIuizgqejlT%2FITLcW25rG9696vLzgvwAFBVjoplujk7DzlASA%2FsH%2F%2FLdATQqRMfjUXSurNNspNWbvOF6b3SlE21T%2BHYK2wy0rai%2BHAsLcYEoRg0HxGiAiYABSz4QiYZQO%2FnwunXn5s4BigoQ9UG5E5JzHpDVBNE%2F%2BFfvDgDhJqzdMC8sPlNOyh3zPWoLVMwiH6XLU8PVUF5lvL%2FapLq6MOlWxhE7S51AsYQGgOAMMAyLByLBv5SsrwLxT3ZXKpetI%2BR3QD0AMH0Q7MyxOdroADZKYoNf7p7ZztBDtD09x2MZiVcAfgMT3iSp3mzqep3U3Sobs7PUBS11AeVOmGKREhvCGgxGog8W6KtpIXn1v6%2FZNDJ3DggA1PQx1APyLoaAKoQzB0AKdsOsO%2FHqKp2wt6nnViZ6m6a%2B4hPtpNHItLHethzovt4W25eIjSMishy0wgftnAO4v5EEVTiriZBAstXg4N%2F%2BdAds38UoLb9Z1rTWmSgWeMc1vobNPvUbXZ0bfKrL07oWvFfS%2BnpxqbD7RhN1XiW2vRs2LuM5K%2F7BmKzGheTVr8%2BZA%2B4f6aamFWujPs1qgrPJAb7%2F0D8u%2FqkhcOeXzsxTm670HuvocKum7HUpV2udS12iXa6uZVdX8amH96q2na60DEnnGsjiG1BqXySHrOiD9mcFAGzkgLzDYFgLhBC4FMCuXTRPLxgq6LIl7ZPj9YVa8yvppKJ13eBTs0VTrWjCLpew5BPCJwpXV7hEs9cU70ybTnZVgJ47UJ7XI89Z6gM2ctU4KZ785zkbBYID6hMVmEI2E8y7OyxZDkD%2Foa9Nd8BHvvKjYrRo6bwxN1GBM1t9gpvoUGHKlS7hAk3QrgkLLmG2%2BA2iA4gpAN6rJ1zauYa4%2BpdR6Lqazwj410XUqx2YN%2FrVtWsve%2BturlFg%2FWdfWxAhutap2Q7iUwRuajXVvLg95AAP33%2Fk68uzELj9odfKHcVSN%2BpcYhmtcM73%2BoS3M5VeTblSU87TBPApoFnPN48MwkUAnKpPvZ%2B32rtr7tV691o8RuJv0vLI4%2Bg5nuyWT8zNTHDz751c5GN7vatxu0%2FwG1TcmAcAggPA%2FiPfaAC495tnVkSmuFkTvxHO3ahOrtGUyzTFfE1QVsfoAgBkorUpPjghc0DDEfTOs2O5H73qHvfagl7uNcZ%2FvbbmxQO7seOnFktzOWDTF88ttolbnwwn291Z3RGSU1bAnGEtVgweL3aZL63c0XnAUheixrVe%2FVakuFlTv45el2giBXUwocc16%2FkpB4RnNt8TPm2EQfa3NABQlhe6kz197odLNvo9avHtf6%2F0%2FqhVB%2BUCcM8DY0tTg5snf1zbXnst%2BbircZ0PFfwZArCxPNt5bfzA0rvaz6jXO8VxPT1X0usipjpPUy15B2ECycS%2FG4Ds7w3h5wE4qjrvCx3uyPKt6TdXbKvv9REO%2FseaDafmFMCHHuICmsm14y%2FV7qqdqH8yHdcN9Zpa70LtpnET0LSHNG5FFQOaSLQ43x7tvqnte%2FNviJ063kmvFTq20WmBqUJdw%2BJBOM%2BLl4tANF3RBDAFgp4JxY9HRd0%2F%2Fzr3jas%2FNvlEvY43dq9f33LjJJcDdjzEeBTomBwa2abjyefqY3r72BlXTCZ8dDkTiABRLL7cYettKwrjnTeW3y4ujQyVC%2Bm0gymtOjVMw16QNsRe1PuN1w0IDbtPtU%2FZP2yi6DlT8idtyT9e6vL%2F2vNrEwNnTp%2BuVe%2B%2Bu%2BXWWS4AU717z5ff3CJi76%2Bfc33nTiaLk1FfdnVPdVk%2BMKHbjYXaWBAVrYk7rJYX2LRtWQHFVXEx6jA2DFz0Gu4ezISH54sdcEFo0wEXg0lBn5LqOK6pviWGx21HejRq02fUFh8Z%2BMLSo62sP9U%2BKwD3PVJfJ8DH62%2FV75o8Ue%2Btv5kurL2VuuScFzoUxAKFdpvE3RalRXGhuKgQxfMjieYZY0piRCDnATiehzBl%2F%2FMhcF70RRBclgPUp0jV8VWf8ElSny20pS%2BaBdErk%2F7NU4d3tbb%2BewKw4yWuVGCLP5V%2BIDlV%2B2DydnpN%2FS2nadjBS5kBiNptUpxvUVxUKBS6ooLtiCwsDMMN9V4xDUAGIdi%2FafHgpEvEN96L05R1dRjRBK%2BrxyHvsTd1GIxLeGXwy92XXfXNyWpw6kt2vMAOAMt8zW%2BTuv42HX%2FJJRrRZwJN%2BFwIAYkEEomRSASh30nJA6Ap%2BnwOoMO4dzjDBC86hz1MZdA7eUUK%2FrSdmD8%2B8E%2F5b6CYVQiEH0%2FVBlAsl7BJDD4FwZ1UrgLQFZI%2BlEISVIDKcJMsgvCp44IDsk3wZg6YGgUavZ%2BJd0KfgHQyqamc9Slfp5cfacpBer9PXeHls8mpc0NfvfxUt1UumBWArHITOvkQVqhgIwy2CfhhEteHqhRIkx9AIwlmyTADkMW9qpNUHV7XhM%2F7FAeg9odJPRmyiM8Mj50aG1p4bYpdoq2EzmkITH3ZffvZVipjkQk%2FnhLcR%2FIWACuh7AqVKVWG4W6GDrgIgIPTFJNMZVhTyXrd1%2FU5JnLQRdHBp%2F%2B0o%2BUEZ6ZAZueA5rdPhUJbF5b7BDcaYCvBe6C8HmQbFYX8ABDC4pymOKFenmfKqkvlBUmj03Unw%2BX0zNnqrmvm7MdX7wnApU5QwY2i%2BkGhbAC5lIpuKjugLNGjEPZypyfB8znAMdVJdRhjylF18rqmOArlgTTB3vG4%2B%2BiabvxMfn84JwCmnFAoYEGhgB7n%2FbWi0iuU61R9hR7LRdGlXkuXAXCOKU%2Bo02Oa4gWoeUnrPOqS9HgURWe6u7vHZrrdPVPrv6d5wOVOMgWiVMBSwF3vvVkL6hqoLIf6%2BVQphtkfQrLTEPOajQLq9BwdT9DpMZ%2FiBUn0WEl54uHPLr5sPT%2Bv0J9JEnzHlzZHh9JBlGoR5qGGjtSnHcaiZJwUnDqLMDvPDhf%2BZa%2B9MlWnk%2BLTcdYxWkwwNrpm0eRc3AbXCtSchECrk7yf2%2F8Xd73M5lbyVXcAAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 1
+        },
+        "1526": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA6lBMVEUAAADJNxQCAAAFAgAAAAAAAAAWBgLINxQDAQA0DgW7NBIZBgLGNxQKAwCxMREOAwESBQImCgMIAgDCNhJKFAaAIwwAAAAiCQNvHwstDAV+IgxnHAmCJAxNFAeTKQ5BEQaiLQ8eCANRFgcPBQI3DwVWGAgMAwK4MxJiGwlUFwi9NBKpLhC2MxJ1IAsaBwLENhKtMBFlGwmXKQ6RKA5cGQgkCQQUBQLANBIcCAKOJg45DwVIEgabKw+vMRFZGAhsHQsyDAWfKw9DEwZ7IgzDNhQqCwVfGgmEJQx4IAsoCwM/EgaKJg6mLhFzIAvXdbq9AAAATnRSTlOmpqampYCmpqampqampqampqampqamLKampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqbTmzWWAAABeUlEQVR4nIVT51rCQBDc3EF6IU2aEEoavfcuItb3fx2jnwh3GJx/ezPZzO3ewF0yARdA+LJKJO+A5CGlE2UiCSQPZQeRCqLiAfQKD4jUnKHoGLZPGCQpRjC2DHAyCgjCXy2is2mooEpOA2eBrn+Dyxj0lo/D2RgVhhhJLCXQChq4x5Tx0Z/iYQbzjkAJ2DCFCoO2b5d0Y2P7fO2VEpRbEs6XRuxgtdXsAYt7FmXiMEv79kpI75qOVCyltVx0XQLzd4EtBg/Z7qQ2KqmCVMyQArQIKoeGmfdEeW+p9UK2YSuEgF+b9z2RC5ocU1dl+ZgX36rkGHqdSZ1jTjBFuUgOAnvdzi8dQW7uU6TJqpsTzx0e+5ZEzxpVve5JIT6no81fQbHUn+8z9CJORmrBN2/H8NGD3MsMw+1e4l4UQLbBMZM1NeRLGBuTW07jeUCuaoY3GgC0+6ob7yCC0lqWb/GAPJtc0hXmeYM6oaL3lSySpsI7zhIeo/D+F/9POGogqBTqAywAAAAASUVORK5CYII=",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1526,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Play Free on PC, Mac, and Now Available on Mobile | Magic: The Gathering Arena",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Play%20Free%20on%20PC%2C%20Mac%2C%20and%20Now%20Available%20on%20Mobile%20%7C%20Magic%3A%20The%20Gathering%20Arena&url=https%3A%2F%2Fmagic.wizards.com%2Fen%2Fmtgarena%3Fmsclkid%3D62cace2f7f59182cc108ae95327b7bba&tabId=1519&sessionId=1622817391819&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAANJUlEQVR4XuVb%2B5cT5Rl%2B5j7JZjfZ%2BwLeUUREUCoVLSCCVipewFtPe%2Bqf07%2BlPbVFi4pXEFER7xUVxSoIXpbNbrLJZpPMNel53snsLlSUzG6yPafz4%2B5Mvvme93mf9%2FaNAiALYAOA3QAeBXAdABNduhQAzS6tBcADcBrAfgAvATjB9bcCeADATgA3AugDoHb6nbiAriqwFcBpNOF1B4UGgBkApwAcBnCQAPwZwK4WC2wA%2FFvHL1NVkNEUDBsq8l6IUtDsFhMItUPrAzjEzX4BYKzlCl3ZPNFNawrGLBXXp3R8WQ3wvRui0R0WcHmuVAZwnht2ycZu0H4hrXp1BVfYGtb16DhRCXC6HiDsHgB8FbpD0GUNmocgqyu4NqXhtj4DH5R9fFkN4Te7iwDfpuMAXGqBfkPFmrSG27MG3in5%2BHw2gNtFH4hN0VEAROkVICTfmheGuyFDxbqMjs1ZA29Ne%2FhkNoCzwAf4rNpSJD5Lvnbi6hgAfHlbBUZMDbNBE5WwAXfBLkZNFRszBjbnDLwx7eHjGR%2FVBQBQJOkm3PxM0ES9Q%2BzoGACGAmQNBet6DJz3Qow7DVRaG%2BSiq0wVm%2FsMbOo3caTo4v2yLxuN%2FXLAUHGVrYpcf%2BeEKPqdCZMdA8AS66u4I2fi21qIb%2BoBpv35DV5ta9iaM3Fr1sDhgovjZU82GQOwwlJxc0YHdZFh8ke30RE36BgAKVXBSkvFPYMWTlUDnJwNUPAjH%2BCiq9Madg5Y2Nir49WCh2MlD3lv%2Fv9X2Ro29emiAx%2FPBDjrhB0Jkx0DoEdThMJ7Rmx8Ugnwrxkfk60NUuBu7NGwe8jC%2BoyBVwou3pz2xMoxQAyRW7IGmDEeL3n4uh6i5SFLqoWLAoAPa62MguRdGMV7NQWrUyr2jaXEv9%2Bf8THR2iAjA%2Bn94LCFm3oiAKgD55x5AK5PRy7Soys4Ou3hi9kALQ%2BZA0lTojUvjjDtIJQYAD5IocvpqsTvWqN5wQvmdAVr0xqeGEvhWNkXio%2B3ALBUBbf26nh4xMKatIFXCw4OFz18UwtlQwR1TY%2BOHQOmRIJDBQ8nZv25KMK1bVVBrw5hRTVE4hwiMQCkMWm%2BNqNj2m8g7zYws0DlBw0Vt2R0%2FH4shaMlT6z4vcOMIHru9j4De0dsXJfWcLjg4bWiK1YmBwgsU%2BR7By0wGrw45eLDGX8uFNLyzCPoYvUG8IPbQMlvJCqmEgNAGvfrKrYNmBh3QpyuhyJitCB%2FdMxUZZP7xmy8WfRwZNrDt%2FXIwn26gi05E4%2BO2rjS0vBG0cWrBRcnZqN6gBFkQ8bA7iETQ6aGA3kHx8vzeQIBuialYUOvLqGTWSTZlSSRTgyAoUSl7APDFs46kcpTxPgSZMeVrTC3Z8QSgTtcdPHvaigWplV%2FkzPw2GgKDHdvlTwB4MOyL5ROaQpu6zWwZ9jCkKngn3kXb097UjLzojCuSesiksUglOeoH10FwFIUeflHRm2cqQWi9Oeclg8rwOqUhl0DFnYNWfLyh4quWIoWZha4rd%2FEY6M2hk0N75YjAKgTjJQZXZEk6aERWwB4dsLB0en5KEINoYhuz1nI%2BwGOl3ycabGrHQFcVDHEOH%2BFreKxMVvEi6lsLGJ0j3VpHXuGLNw1aOGdloV5DwFYZWvY0W9i36gtbPhoxscrU664iddoImcouDNr4pGRSAMO5F28XvTwgxsBTAHc2GtgZ7%2BJcT8UBp2uJesnJHYBChn98MkWAAx1p2qBhCRThVD40REbG7MG3itHG3yXFG80hR1MgmjhnKHi00r0%2F5cLrrTHhk1VQuA%2B%2Bb%2BCFyZdEckYYNYJm3oN3DtoYtwLRWC%2FqiZLlBIDQCG7Ia3jjytS%2BKYWiJVjEWOr646sISFwTY%2BGj2YC2SBfNGg2cVNL4ZkIZTQVp6o%2BXiu4eGHKxWzYxCpLw939JvaO2mA%2BwTyBLvJpJYoSDI13ZE38bsjCd24oz35RDcR92r0SA8B6fn1Gx59WpEQD3ix5YmnqFGm7td%2FEk1T5lIbPKr5s4LWCB7fZFHbcN2gJC2xNkedfL7o4MOlKSGUWuGvQwoPDtoRMJklkB1lGF6IubMuZ8v9vnRAHpyJwkvQTEgNAmpKGT61MSbV2pOhJWcuXWGlpksQ8PmpLQfRVLRARPDjpohY2sSVr4r4hS2huagp%2BcEIcLXp4Nu9gwguxlgwZsLB72JaS%2Bt2SLwCQQX6jiVW2KuAxk2T4ZZj8uBLIb7d7JQZghamKUD21Ko0f3VDC3MtT0QavS%2BvYNWhi74iFrK7hnBPI%2F5%2FLuxK3t%2FebwgA2QwxVwZQXSlNk%2F4SD752GCNx9gybuGTRhqSo%2BWaARBJhpMgG6f4ghOMQzE46k2pUExUIiAPjQlbaK7TkTf1iZlirv9YKL5yYdlIOmhKjfDllS7KQ0FRNuJFTP5B2U%2FSZ2DZiS5d3Sa4BZXTloiJUJAJujm%2FsIkIm7%2Bk3oioKva4H4%2BXN5RzRiQ68hv0%2BWMbv8%2B3kHx0o%2BSkH7IpAIAJao19qM8yYeH0tJJyfaYB15tyl9PlqHlqaFmaYy1j8%2F6aLkN7FzwMT2AUuigaJAUtwTFR8H8y5OVgMRUCmV%2B3RoSuQidLH9E3XpKWzJEQBb7ht3Q%2FztvCPJ1lQCFUwEAOP8DWkN9w9aeHjEFmFiqvqPfB3nag1sHYgs%2BKs%2BWlhBPWyKSh%2BddlGRDUSbo47wBRgZztZDCZOfVQLc2meIe1xjRwBRGI%2B1XOS81xDL04VYSufdEH%2BdqAtAE61yux0dSASAqUBCGdNgUpGbZG%2F%2FhUlHuj%2FM8lgj3NCjywbjvt6UH9X0LJSyhgr%2BDi9KF0Gidaf9UHIDRhLGe17MDfj7L046AhQB2N5v4aqUJvrx9IQjUYT60a4MJgKAmRhD4EMjFu7ut8DUlELIVLfoNaSUZZXHUBlf3DgVnC9ItyCLWvuXWwgSmcCan%2F9jrRF3hckwRocvZwOQAWynX5%2FW0aerKPoNPDNRx6HifLHVcQZExYqOvaMp8UMCQgtShMhCJioZXZWNLNVF9WcEmQ0bsvE%2BTRHmUXQP5Osikl8zHW5zwUQMkHo%2BG1Vz7OkRgJjKcYHR5ntc1u3SdWpCdEHWa0Ja7s9POlE%2FoRql4u1ciQBgqhsDcHOPJqGOL7WEBv%2FFPXCfYQMyb3hpysWhgovPuwUAGxbXpHShP7WAQ84hU5VxN2nZyYsbZ8VId2AD5mw9kByCdQhDYpsESDYbpLRxurvC0sD%2BPlvcFL1rUzoGTRXsFcQCtpRgkN7VRlPygjOtWQO7TOfqoXSc2Zds90rkArGfc5Pc7IgVdWg46d3Ya0r%2BzxDWimLtvtN%2F3S905%2BaDhhQ%2FLIqYHp%2BuBZL%2BMnK0K37xIokBWPgDVHtumIkN%2B4B35kzc2KNLPF8KhyDlSfeTs75kfKeqISZ9zhqbi2qJx4Zsnzc%2FYdOYDTz1wWKGIsnW94ChJWYCX4y5A9tdtPh7ZU%2F6itNBU3RgKV580QxYiAV%2FjGygNqzv1XFXzsCmPvb2k%2BUETO1Z7HAyxFqCYY4D1gRV7yXdcEkBiFeh7zPd5fyfXZ21aV0GKO0ECGaOLKKOFNhSd2VAykpwKax%2BsdGW%2Bjfl98kEZoQsali5cUjCDO5yLoo5VZ3zxP15B2fqkdglFbqfW7MjDIgX5ACDmsB6gQUSGcE64OeEkdkd%2Bwssj5ncfFTxJd1dStp3hQGxwrJDzMqR1dvOQVPmAJeqEWLRY0n8xrQrLTYyIUGj53KIJvd0lAHxAhRBzvr3DNvSEGXI%2FCk9oJVZ3UUzgmhWyM13xEdbEHUcAK5DUbzC0nBnaxxGt%2BB46%2BKLFSWpz9bahzM8UdJ%2BfX%2FZpu8mAFyL%2FX2my0%2B0KkgOPRdiwHg%2F5TVkNsAOMYWvG%2BeHu8KAmAWcJrOVxYkOu0VspMQXi5uvqgH%2BMl7Hyaov3aFOUn%2FJUuHLpRy3yr4BzxNw5PXrrDHXMWLYY4HDzu7TEzWcdxsXHLa43DWS3Nc1BsS5AeuFh4dt7BiwZLZIErDnR%2BXnDPCtkisxvxvW70oUWGgVpkGMAPFc4LasIX3%2Fgse5QDQZOlULE424kli%2F6wDEtQILJWoBWUC3YFOD8z9OjvJ%2BZ%2BP%2BxUB11QUE8dZMQWZ7IzaymorPZqPpcDxa60TKeymGdB0AvghPljA13jeakmM2LHM5PX675M%2B1zpNSut3nlgWAeL7PEyI8S8RDUhyd8yhcp3L%2B%2FykGcOTNpgnHajxkQfpzehyfAGnXiou5f1kYwGjAMwD3D5lYnzGF%2FpwbxkdlF7Ohdp9dFgC46NUpDdtaHSOeBH2n7M0dpm53E4u5f9kAoBBu4hS4L%2Fpe4AMecOi2AHSjHL6Udaj%2BF3wyUwk69lXIzzGEDFiWz%2Bb6dQWr07qwIG54JhjvL4b9c5%2FNLcuHkyyPeRzupoyOT2ejk55d9ACWGnMfTi7Lp7MshbMap0qqHHRm86NLGSA3f8Gns8v28TS7Qhy0shpc%2BEXZYnj9C8%2F%2B5MfT%2F9efz%2F8HCkWopQYBOMwAAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 1
+        },
+        "1528": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAA4ofo5rvgwce4oX+c0y/8iVeAA//8bz+lKr/BRxfgzmf80hPUwwfo5rPk2lfklxvQtaek6uPcyefNAlO46t/c2fuk1i/hFoe46vfgv0uA3vvckYt5Nu/Q4oPszjfhS2tZUz/wxjfMpuf9Vqv9Uz/stZukyv/k+tvY0o/g7h+00jPcAAP89te1OxvwtaOs+lO4xc/AmedtEsvBO0dk4u/gzZv8xwPw4gOs2vftLt/QyeOuA//8+jewxqvNFn+4g0OcqZOkoXOYxnvM7fvdFouw/uv8vc/QYzuo4vfgvb/EZw+Uzvv0pj+JA1twuwO4xgOcfw+0v3t5OvvVV0/tCm+tLtfYhyfIhzeg3mfs+yNw6jOoyffQrv/hL0/8kYedW1/8A1f9IrdlJktskbdsAgIAqVdVV1f8vduJV1aqAgIAbz+RHrO4zZuZV//8Aqv9V3cwAgP8hrt4zzMwu0f9mzMwqqtUcxvE1091Uz/xEpe9A2eYxcO5Owtg+kPJAn/9+8jDdAAAAgHRSTlMApqampgalAaWlpQWmpJKmpKU1oaWlo5Slm6MWo6WUNi2DFQwEopdrmTampgEPETsUFZoVk1QFlHl5jCADlhUtIJGWFQ+UCjadh5OBQQmJFlRUCJEgalWQcZOkPJEwCBUzBjUHBwIGBmgGAjBsCgMDDwKhBQsFBhJST08UhmiHCHNVMVIAAAG4SURBVHicndN3U4JgHMBxKhHLNLWwFCoVlKzcmlqZqxxl00rN1d577956z4OcYMF11/cv7n6fe8YBSCN62YFi3LNYNwSTDRCoNFDqRnBDWOeQXATVGXAcB4tICRSsABoJSO0CQDsIz85IAjUE7er/A/sfQGlXt8HUSQRNfYlcRWkfYsFQEtUxOYL6RXhAhQ3BcI54HJcAlhSjUqmCTPXpqhUMl3pgJQuVCwKhKRRjO+IAI7IQaDILZ2stoH8M1m9B7gNwrlAoijHBUQHohgFAV4MaFhifBUso0xUWVDwIQjGNuXHpjQcT6UovDAJ6ebWQyUBguhSA+Q7YPAAIRsVWF26NW37TnTgYX5xa8ZJeAB544LJpYfE6gqSS5ZCXJOVev2m6CQ5dCRksXscc0Y3IqF5Lykm/6bQJ9jmQ8Pg25wb6RvUdWhn5cc3fYq9sk8MSr5OdnRyI757wAHOHZGAu0+cHWQCE7dgtfBmpzYhNqx8Y7OJA77vLcyAE0+vmLrYGiITSFz++iNq22Wq1cuBzZXa2dQxyQsGCuY3ootgfdrT+Ys7n85PnUTctMobnqDmdTp/PR7fs/g06X0407URYYwAAAABJRU5ErkJggg==",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1528,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "mtg jumpstart decklists - Bing",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=mtg%20jumpstart%20decklists%20-%20Bing&url=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dmtg%2Bjumpstart%2Bdecklists%26cvid%3D15fb8ed286534a998c51ff9e51d44dcc%26aqs%3Dedge.0.0j69i57j0l3.40816j0j4%26FORM%3DANAB01%26PC%3DU531&tabId=1520&sessionId=1622817391819&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQAUlEQVR4XuWbe4xU133Hv79z7tyZ2V12Wd6PBduMsfFibCjG%2BEG8uI6VR%2BNWkUrUKKJNmraS1UZK%2F6jUqorEVlXaSJWaJn2pjtq4Sh8yf7SxolSO8xjA77BmjTHGzoKdGLABe70s%2B5i595zftzp3ZoHFJrN3vUlMO%2BJqZvYMc%2B%2F3c76%2F3znnd%2B4I%2Fp8%2FJJd%2BUnYA5vXHznY6tcsibzuNhXUp06hgR1wtPdvlO87%2Bz0elnut7f4EfzgVgB2mPDaBYmJhYZzw%2BIpAbRNAO5dskDxL2IJw79MSH5p3%2BBWrKdepcALb%2F4JXSpF%2FcZY3eZsR%2BmsAWAdohMgzyoAKDQhwA9KhTedNNjp5bM7m8vvsT4nNd1c%2Fxw7kAbP32W51xHPeoNR8Q4jcBbAIQgUggGAFxipAfQ%2Fg8lI%2FZgjkyPjry1sB9KyZ%2BjppynSoXgG372M3JiYoY6YNwJ4ibp59NagBHCHkZ4GMiMgjHY0KctMW2t6t3h%2Fb312N2AGD7aPQdAATwBFIQ50TkTZJDgOynyID1%2Ftl9H25%2F%2Ff0lH8gH4FvspkxUpGD7SN0JXOqAS%2BQJToF8nsTTEPN9S33x%2FeaE2QGwto%2FAToCXhMA7%2BjdY%2FizJl0HuhbFPWry%2FnDB7AMROsCWAKSJvEPIcyT2IzH89%2BaHikfdLKOQH4Ccq0nQAWztgSmcYBc6QugeQv3vyvrZnrmgAtLZPiJ2cqQMkzAOYklI1hl98%2FGPlfVc2ANg%2BEckBAASgIPdQ8GdP%2Fmp5zxUPAJA8OSDTS6BKsv%2Bpj5erVyyApDZRiaztA2UnWw2D71ApVXrf%2F9SOKxyAiO0TyE55x0ywVb9Klfy%2FAICNHDArALiSAfwbuxMzUZHI9onKTskbAtIMgU9eqSEwBcCEYXAWANAMgSsewHsJgZAEdzYcsOMh2uM9iGsOHdZhgVVYR4zFHmNnRzF2%2BBOStMoq77U930wwOCDMBIMDwjCYNwQgVYQk2ARw%2BxMsYxILnOBaAW4VRZkGQ0oMFVIMPflhGX6vAlv9%2F9kBQNwnWT1gxmuBxnWIVBGSYBPAlh9wGYCNUNwixG0QtFEwBNGXBTwC2tdoMawJRtGNiYFbJG0lKG97fgC1tCIF6RMyvwMEVYQQ%2BEwjBLb8gBuN4tMAtlGwFERMwRiEw4SegshLSj6TGn84TuKfDNwrZ%2FMKbPX52QHI1gKhHpDTASEEgP6nPlPIAGx9lKHXPw%2FBdgJdBEoQhhljIsJxFbwSAHjRgzD%2BZUbmhK%2BnI8DE2BIsrlXvFtdKYKv22QGA7YPMoCDyzrNXxaP%2Fqd9tANjyHW40Bp9mACC4CuD8sGgI6waCjgbjBIe96Ek1fEWBFwXpIKwfYr3%2BxuG7l4y1EtiqPR%2BAvw%2FzgDRbDs8aAC8AuPW7vM4AH1NhALAZwIoAIPOAABrcIAoVjKnoKQWHvPGDCj2SGv%2BqE3MijvzpY8e6x7ADCpEmv1ayL7TPDoDYPmAWDhA0HHB%2FwwF3focrfIRbFLqdkF8BcB0bIZBBCAAaEOhUWFPRMW90xBu%2B4UV%2FrKIH1PD7SMaHjh%2FvSTCL8vvsALAJIO9aIAAIOaAJYPOj7IpjrPaqfYT8FohNKjSZ5IZw%2BCYEzZxAeBOeMxCnvNGDzvK7ifUHRJOflCcwnBdEfgA%2BzeYBWVE05zAoIlUJIfC5hgM272cBb6PNRv4DBD5PyJ0ECgTtVO9PCddMeAOAE3Xeas0bHfbiT3irAwb4dlHdQQQId6yanGkQzAoAOTUM5hsF2FwL7P%2FD6WuBW77HWyH6B41kyIUE294NgBfNAJx%2FNvRqfUro4YLhw5EJexHu8K2Hrjq9e4Y5IT%2BA2kSFiJs5IB8ACKoE%2By8FsGkve43TX4fhdhWsJ7jkfM9nIXCJ8OZ7tSRE1RqeLtC%2FWDB8jKoPLxkzh3uO9yQz2ZLLBWDDX7A7Ms2CyCwqQhkAsn%2F%2FH013wJY9XOXV30GTDYf3KrQSRIcc0HDCdAAuuMCEdoXNDk4WoW9Hhj%2BM4P%2Bz3cvTNZROH7x52XirUJgdgDAPQI6i6IWrqILo3%2F8n0wGEZIgYqx3T7TD4jIIhGTYBNMVfZP0pACKKQjhAH4smBeFLMfSRgtF9HvbZgd6rW%2B5E5QfgJyomK4lhp1BbbYxM74CwFvDo3%2F%2BF6QB6H2Isneiw5fo2ivw%2BBXdQtOSFUdb7Uw5o9nw2EhiFEUURiliIOIPBkzF0oGBYNcC3Hruh8vLcOyAAoGQAZjMVFvX9%2B3fNm14U3UXT24vILHW3iNHfUehdKliqoh3Tk17DDUF86P1ILohvQhiNwRMRWAX0a%2Ft61z47xwBGuqM6KkZDEpzNYkiqIu8CoHmVN%2ByprbUGH6Xo7Sq83gtXetFOb3wxG%2F6aDoBhJj7YvyH8vAOSInU8Eu6Dka8saoufQE9Psjvbl3j3R74Q%2BOOR7siiYiTuYwCQex4QJkLs3%2F%2FnlzigeW2bHx3uSuJ4tYu4XoHbvHCTt7zBi1%2BcOaF5GOFF4qe5QIuizgqejlT%2FITLcW25rG9696vLzgvwAFBVjoplujk7DzlASA%2FsH%2F%2FLdATQqRMfjUXSurNNspNWbvOF6b3SlE21T%2BHYK2wy0rai%2BHAsLcYEoRg0HxGiAiYABSz4QiYZQO%2FnwunXn5s4BigoQ9UG5E5JzHpDVBNE%2F%2BFfvDgDhJqzdMC8sPlNOyh3zPWoLVMwiH6XLU8PVUF5lvL%2FapLq6MOlWxhE7S51AsYQGgOAMMAyLByLBv5SsrwLxT3ZXKpetI%2BR3QD0AMH0Q7MyxOdroADZKYoNf7p7ZztBDtD09x2MZiVcAfgMT3iSp3mzqep3U3Sobs7PUBS11AeVOmGKREhvCGgxGog8W6KtpIXn1v6%2FZNDJ3DggA1PQx1APyLoaAKoQzB0AKdsOsO%2FHqKp2wt6nnViZ6m6a%2B4hPtpNHItLHethzovt4W25eIjSMishy0wgftnAO4v5EEVTiriZBAstXg4N%2F%2BdAds38UoLb9Z1rTWmSgWeMc1vobNPvUbXZ0bfKrL07oWvFfS%2BnpxqbD7RhN1XiW2vRs2LuM5K%2F7BmKzGheTVr8%2BZA%2B4f6aamFWujPs1qgrPJAb7%2F0D8u%2FqkhcOeXzsxTm670HuvocKum7HUpV2udS12iXa6uZVdX8amH96q2na60DEnnGsjiG1BqXySHrOiD9mcFAGzkgLzDYFgLhBC4FMCuXTRPLxgq6LIl7ZPj9YVa8yvppKJ13eBTs0VTrWjCLpew5BPCJwpXV7hEs9cU70ybTnZVgJ47UJ7XI89Z6gM2ctU4KZ785zkbBYID6hMVmEI2E8y7OyxZDkD%2Foa9Nd8BHvvKjYrRo6bwxN1GBM1t9gpvoUGHKlS7hAk3QrgkLLmG2%2BA2iA4gpAN6rJ1zauYa4%2BpdR6Lqazwj410XUqx2YN%2FrVtWsve%2BturlFg%2FWdfWxAhutap2Q7iUwRuajXVvLg95AAP33%2Fk68uzELj9odfKHcVSN%2BpcYhmtcM73%2BoS3M5VeTblSU87TBPApoFnPN48MwkUAnKpPvZ%2B32rtr7tV691o8RuJv0vLI4%2Bg5nuyWT8zNTHDz751c5GN7vatxu0%2FwG1TcmAcAggPA%2FiPfaAC495tnVkSmuFkTvxHO3ahOrtGUyzTFfE1QVsfoAgBkorUpPjghc0DDEfTOs2O5H73qHvfagl7uNcZ%2FvbbmxQO7seOnFktzOWDTF88ttolbnwwn291Z3RGSU1bAnGEtVgweL3aZL63c0XnAUheixrVe%2FVakuFlTv45el2giBXUwocc16%2FkpB4RnNt8TPm2EQfa3NABQlhe6kz197odLNvo9avHtf6%2F0%2FqhVB%2BUCcM8DY0tTg5snf1zbXnst%2BbircZ0PFfwZArCxPNt5bfzA0rvaz6jXO8VxPT1X0usipjpPUy15B2ECycS%2FG4Ds7w3h5wE4qjrvCx3uyPKt6TdXbKvv9REO%2FseaDafmFMCHHuICmsm14y%2FV7qqdqH8yHdcN9Zpa70LtpnET0LSHNG5FFQOaSLQ43x7tvqnte%2FNviJ063kmvFTq20WmBqUJdw%2BJBOM%2BLl4tANF3RBDAFgp4JxY9HRd0%2F%2Fzr3jas%2FNvlEvY43dq9f33LjJJcDdjzEeBTomBwa2abjyefqY3r72BlXTCZ8dDkTiABRLL7cYettKwrjnTeW3y4ujQyVC%2Bm0gymtOjVMw16QNsRe1PuN1w0IDbtPtU%2FZP2yi6DlT8idtyT9e6vL%2F2vNrEwNnTp%2BuVe%2B%2Bu%2BXWWS4AU717z5ff3CJi76%2Bfc33nTiaLk1FfdnVPdVk%2BMKHbjYXaWBAVrYk7rJYX2LRtWQHFVXEx6jA2DFz0Gu4ezISH54sdcEFo0wEXg0lBn5LqOK6pviWGx21HejRq02fUFh8Z%2BMLSo62sP9U%2BKwD3PVJfJ8DH62%2FV75o8Ue%2Btv5kurL2VuuScFzoUxAKFdpvE3RalRXGhuKgQxfMjieYZY0piRCDnATiehzBl%2F%2FMhcF70RRBclgPUp0jV8VWf8ElSny20pS%2BaBdErk%2F7NU4d3tbb%2BewKw4yWuVGCLP5V%2BIDlV%2B2DydnpN%2FS2nadjBS5kBiNptUpxvUVxUKBS6ooLtiCwsDMMN9V4xDUAGIdi%2FafHgpEvEN96L05R1dRjRBK%2BrxyHvsTd1GIxLeGXwy92XXfXNyWpw6kt2vMAOAMt8zW%2BTuv42HX%2FJJRrRZwJN%2BFwIAYkEEomRSASh30nJA6Ap%2BnwOoMO4dzjDBC86hz1MZdA7eUUK%2FrSdmD8%2B8E%2F5b6CYVQiEH0%2FVBlAsl7BJDD4FwZ1UrgLQFZI%2BlEISVIDKcJMsgvCp44IDsk3wZg6YGgUavZ%2BJd0KfgHQyqamc9Slfp5cfacpBer9PXeHls8mpc0NfvfxUt1UumBWArHITOvkQVqhgIwy2CfhhEteHqhRIkx9AIwlmyTADkMW9qpNUHV7XhM%2F7FAeg9odJPRmyiM8Mj50aG1p4bYpdoq2EzmkITH3ZffvZVipjkQk%2FnhLcR%2FIWACuh7AqVKVWG4W6GDrgIgIPTFJNMZVhTyXrd1%2FU5JnLQRdHBp%2F%2B0o%2BUEZ6ZAZueA5rdPhUJbF5b7BDcaYCvBe6C8HmQbFYX8ABDC4pymOKFenmfKqkvlBUmj03Unw%2BX0zNnqrmvm7MdX7wnApU5QwY2i%2BkGhbAC5lIpuKjugLNGjEPZypyfB8znAMdVJdRhjylF18rqmOArlgTTB3vG4%2B%2BiabvxMfn84JwCmnFAoYEGhgB7n%2FbWi0iuU61R9hR7LRdGlXkuXAXCOKU%2Bo02Oa4gWoeUnrPOqS9HgURWe6u7vHZrrdPVPrv6d5wOVOMgWiVMBSwF3vvVkL6hqoLIf6%2BVQphtkfQrLTEPOajQLq9BwdT9DpMZ%2FiBUn0WEl54uHPLr5sPT%2Bv0J9JEnzHlzZHh9JBlGoR5qGGjtSnHcaiZJwUnDqLMDvPDhf%2BZa%2B9MlWnk%2BLTcdYxWkwwNrpm0eRc3AbXCtSchECrk7yf2%2F8Xd73M5lbyVXcAAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 1
+        },
+        "1532": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/79946f8f/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 1532,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(28) 5 Epic Fails from the Video Game Industry - YouTube",
+          "url": "https://www.youtube.com/watch?v=20u5AugrpSk&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=7",
+          "width": 1107,
+          "windowId": 1
+        },
+        "1541": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAD///8JGTUIGkAFGTsSYZUFGTcUUIMSaJsMH04JGjMUSnwSXI8JHEoJGkQURXgOHDAScKMSVokMIlMMHDEJHEcUP3IPJlgSe6wSOW0SM2cRKVwSLWH8/P35+vsKFTDJztni5uxfa4Xb4OcHGDwJGTaSssm2u8kSg7MIGjYMHDEAAIDJ1+K6ws6EjqPr7vKlrsFCU3mIobqhqLhFUnMSYZQOHS9OW3UTb6ITaJsURXgIF0VCT21ldZUWQ3oJHUoTVokAgP8UXI8TgLMSgLMNHDAvPVoYK1iSnbIPGy4RfrMSXI4rXYs+cpzDydULFj1njK0TT4ISeawUZpl3kK0IHEYHFjOlu83V2eJ0fpe5y9sPX5IYXY4dLVDx8/UyQ2syQGOHp8KutMARMmX///9qmLgAgIAWerGPo7vHztoZP3JLZIz///9igKE3TXZ5o8CXo7oTOWsMdK4WQXQSLWBzg6AmRXUpPGVveIpTZIf///9KcJc0SnVfiavDyM9+iaP+187IAAAAgHRSTlMApqampqampqampqampqampqampqampqampqampqamGKampqZinaampoddAqampqampqampp6Npl6IZUOmpheNiAIZQ41lpqamQ1uepqamF6ZeZBmmWyOmpqamI6ampqampqZbXqYCF6ZEpqaOpqampkMWpY2mpqampqSmpqamphn6OTMAAAG3SURBVHicbZNnQ8IwEIZzgnug4MbWAoqyZLn33nuxZLnFvSf6173QlqaFpx+ae9/k0iZ3hGHFOViPDDpXWFWmc4GaMgudWt/ZqMGpXu6oKsDBJDnsLilC92F+vdYvw4fOkHM4ylR82AC44CKOHKLfpWfR/YLIEAZd1N9S+XoPeK16ffwYYByjLZpAxzIE/GKEAyEVBAFDTOFS+bpl6LPSDSx1HMQxdpGxOhVh6O/JfUK/B6wYj5GDJpYUx05A4YBM1bIIIG1hq+RgCYUpUsnShxafjPCwmfSBkJOI5W/JJOPPJU9MmEzvuI8/pxFUgv4WkbB0RhTuU9TIF43Cr2az+cfH2L47VCjkRlT4B95rke3ljjwv5DS/anPiDX8Cz+i6XeGEXHFKYiGTAPBk2hgeiet5H69XYv+Su21WcU7IqMHwHZImBAIBg4pRvM3JamQdvPTb191ZGilM0oLYKUeioazdvrFto2OFHbGkpo1G45HbnU5HLRs4VJiWanJ2rQY5s9vv6VthbVYu69hAaREGYkpj7I1UFDCyp+qt4QYNw9rmfNptZdi9KNLfM3Or873I/OrcjKL+A7XHT0xgCJCQAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1541,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Age of Empires II (2013)",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Age%20of%20Empires%20II%20(2013)&url=https%3A%2F%2Fsteamcommunity.com%2Fworkshop%2Fbrowse%3Fappid%3D221380&tabId=1530&sessionId=1622817391819&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAMQklEQVR4XtVbeVxU1Rf%2F3scim8pmgpR7VvLT3LCyzBVDU0wkUUPxJ6kpruCapYgSkgq45QaWiBpuiJCKooJlKZJYlpl84tMiIMkAIjIMMO%2F%2BPveNDAzM8N4wA7%2B6%2FAHMO%2Bfc7%2Fm%2Bc88779w7BC0wbF1cX%2BY5Uz8T8G8B6AoQC23TUlAFAXKU4M5xShwsyfshq7nhkeaYwNa2sy2s20ZQYDohMDFkDgrKE4I4POYWlZTcKjHEljZdoxLQ1qX3XApuu6FO63KSUihB%2BMDS%2Bz9uMxYRRiGgtUvfLYQg0FigJNrZVno%2Fa5FEWZ1iBhFg4%2FLyJAIuHjDIjAE%2BUPAUU5%2FkZR1pqpEmIu9vZuNC8wE4NHVi4%2BrRorJczgn4vkpfu3oTYN2h70gQ7oK%2BE7WEfDUloxR5mXph04sAqw4DogH4t4QzBszxeXle5kyp%2BpIJsHR2uwGCAVIN%2F3%2FlaJY8L7OfFAySCLBwdrtLQF6QYvAfJJMtz8%2FoIYZHlAALp4H%2Fojuv6S4FshT5GY1GQqMEtHIeuA8g74ux2JzXeZ6C4wjMTE1RVV2Nmv%2Blzkkp9lc%2BuK4zb%2BkkwLS92wiOmKRKncjYcmuWzcLS%2BdPQytysgenKyipE7T6Cj8N2SZqWp3CvLrim1RcdBAw1NXNS6P1MlYSmESFKKeKjP4HX2GGSTSWlfA0vv%2BUgpPHVXPWg0lxbnaBVy9RpUBEB7CSjMIJgaxsrPPw1BRzH6W2NLQunnh4oeVSmU5cCxdUPvrWvL9CAAPP2r00B4Q7rjcIAhXaOdrh%2FO8kACyrVzn3eQX5BoW47lEytLPhGo2xuSIDzG9RgJHoYYHdcfj%2B9gQZbDos%2BjMTuAwkABViEU%2FYbwPvTPLEjfKnWsLd6dgiUPK8TQWX%2BNxo%2Ba%2FzTyunNzZTQID3wGyx6%2F%2FZptHOw1bBz%2FnIGxk1dqn7HojwF%2ByHsh3sKmQInYzfibfdBGrpFxaVwdh2rExcBiVLkX1lSI6BJgPOQFr37%2FXq%2FgG%2FP7dEAGxOXhIDlW4TPXurRCWmnd6JtGxu1TNkTOdy9FiHr9j3hs8gNizB35gQNG2%2BOnYeMm3d0kqDIT1f7rf7DrP2QBRxHjNZokBIahdlnYGNtqRZ9WFiC53qrnIn97CNMemeETjMpl65jvO9K4XrOzWPo4OSoli2XV8C%2B22idujxPF1YVpG9nAmoCLJyHVcPA9pUUp2tDj6A896KGikP3MWDgF8yaiE%2BDA0TNhW87hODwGFi0MkdxzjkNeatnR4DlEa2DQlmRf9m0lgC7kW0tLHmj99sa82DkEDckHd6oFpFXKGDfbQx4SqHIuyTqfI2ARYcRQoIszE6GtVVtNE30%2BwhnUr%2FTaaeinLdDSVqJEAEWHdy%2FIKB%2Bkmc1guCuzYHwm1IbpjFxyViwYisGv9YbKcdVOUDKeG%2F2eiR8dQWbQuYhwL82Fxw5kQr%2FheE6TVBKYyvyL%2FoJBFg6u7do%2BLM5UxMiMGjgf9QA%2FeZ9gmOJadiyPgBzZ46X4rsgcyIpHdM%2BCMU4j0GIjwlW693IuoshYxfqtkOhlOdfMFUR4DKqRbM%2FW5ulv5%2BBmZmwDIUxI2AjjiZexqZ1H2jcSTEmGGl%2BAWHw9HgdX0avUYtn3LyLoZ6N90zluecJsXZx70PBNfsGRF1H9m9fDp8JwzV8O3DkHOYti8Ir%2FXviUmKEmN%2Fq694z1uJs6nVEbAjAnBnj1J8fOpaK2Us2N26HKvsRS5fRmwnQYsVPx2efwS%2FXvmgATKGogn238ULmLs89K5kAK5fRQkVYmJ0AS8tWar0J09fg%2FKXMRu1Q0Ahi%2FdzYnwDqKnlGAwTZOiv7I0nnm5tTz3dRVibHlInDsS9SfJth1fpobN93ClZWFvj77nENZK07jdP9GKyVvEOsO3lWEKCWOgMcFFM9Gx%2BKN16pTXz15YuKH6NjX1%2BhOAn7eCbm%2B%2BtOhnHHL2Lu0q1CKZPzfSzaObRVm2PVorOrT90yRys0YS%2FSpvN4KvYuLeaYlOv9enVHWuImUdH4U%2BmYFRglyLVvZ4eLJ8PR0aWdWi%2BvoAijvFfiz9yHwmefhc%2BH77uaFePgcUH44ecc0bmYAOF5nu7cn4zVYQekhIwko9qESn87IVn32xt38JbPRxpLheUG9jKkrl0pkHwoGG%2B%2B1kvD7kPZI3QbKLkrDkLr1Is5f%2BTDc%2Fp6%2FJXH2BXtl0p2KDMlCs937SBZngkyWOs2H8bW6NNQKnmBDPYZ6w8u8B%2BHkOW%2BWnOJ3Qs%2BQt9Q6tAgoEaJ53l8GBaLXQfOiraaxCYaM2IADn%2B2VEzMKNe7vjoLLI%2FoM7QSUNdARtY9vDv7U5SWletjV5DlCIHsziG99fRVYBHSye19PJFX6KsqLAHWPhGNd0VlFfyDduCr1O8lR8W9r3fC0aGN3qD0UTiadBVzVuxS5YcmDEbAEwBW%2BugmpmRg9ordqK5WaqixNznXHs%2FhdbcXhd%2FTvYfqY1aybLlcgU27E7E1JrnJjguTUVQwAljr5CXJs9cRLCopg8%2B8SNzJ%2Fgvpx0LQvbNTU8yI6vz4yx8YMTkE1UqlEH0iHXBRe2oBijuMgN0A5kjXalzy0eNyXLn%2BC8rKK9C%2FV1f06OJskOlpi3fg7OXmeVWhFBGMALYLIb0DIeJO9u8P4DU3Enl%2FFwurkjVlJo4eiL2h%2Bu2wlT2pQPdhS4S73lxDyaMvI4Cd4qo29iQsMy%2FdeBixp64KIcv29vKubpOUQPcdTcPKTfHGC3Udzslu7FatprrFkLGJYMVLD48VKH5UDntbG9w7V9sGqz8Xk%2B3zzhrkFhQbG0YDe5RAWXRtp6ohsjA07mDoYm9fG6vmeydyfF3VnDi3dwkGuHZuAOh2di6Gzgg3LKvrQxuhsbKr21UtMds%2Bi21NW6PY0sIcB0JnYpib8c9CnEy9iTkhB%2FGMQxv8nLBOA6rf6s9x5usf9YFvsGy1CexK0qJUTVE2HIYGVROoTnWy5%2Fl7Y15BRJA3TE3036zUho7ZbD98mVCny9JVTc%2BycgWe91zTrIlOGxYKKGVpW%2Bq0xRkBw5fPJwTCZkHNYK8UTg5tcGyjP17qYvgz3nHkCmGfr%2FCiqlvrMGK5UC639KCULpRd2qS5McJAOI5apfM1il1Y5TcSgVOGScrk9Z2SK6rQ0XOtKgIuhAmXHd9a1XJrvg6gwvNhDbfGBEAeq7eAkEZ7Uey5Pt%2F7DQT7s4Pf0seiyAQcvnATrl2ckLYzAI%2FLFejqvUG6AWNJ8jSqMCVU%2B%2BaoQMLYNaIv02xLuyBxrQDpZPpteA3RbErUx1pSJkf3yRuF5%2Fqdg8vQztYGq%2FacRXTyNWO5JdlOYXKI7u1xgQDPkMkgED17m7ErAF2c7XE75wGGLdmLMa%2B%2BiH1LvdCqTq%2Bf2cv89T48lu8Xls3Ql7vg2DpfVfiPD2nSUpLsqRZBXkknFyWvja97SWsGcpiwQUaABsdJ6iqacBweHF8lfHT8yk%2F4ICpRKH3NzUzQ73kXVFRW4dZv%2BULSY6N3Vydc3Kw6rDU7IgEJ3%2BjevjbESV26FEQmS1hdu4X8VFB7Cu6%2Fx8yxS1GlGJCendoh%2FalTZXIFBgfF4K%2BHpXXbdjAz4XB0tQ8G9%2BokmDv93V34R5wSM23064WFCjOkBTco%2BXU%2Bg%2Bx9Ph1FgBQxJC4OrXFrxxyNcGYZX8lTWFuYa9TzG768gqhT18VMGv86Je6yo8v0OSanwmA%2FdUs0kXA4mtXwQRNexUrvQVqf61d%2B%2FhOTwk%2BiWqn77I7xvVZZZAcli44E6X9QsgaQg29UJgj6SwEoLHdKYWdjATMTExSXVaCK55vYrJIyo4gMpTdlcUsaxS6pDHOYse0u%2FoWHpWVfLDD8sLQ6Ev67MxMckRQJRrh3hplgd35%2FgCSskiKgBo39nL3RhNJ%2F9BcmKCExRXtmS24%2F6UWAkBjn7HMnptx5w25RM2nzxF22a6ZeB7z1JkBVyewxs7e0yCf%2FkC9NsSKnyC7HCcENn%2FNiVDeNgKdW7QPjfAjhvhSbpDmv8zydUhz5XpMxGESAOjesiN9ECGmZDcCaSSm2ysInLTaUXKMQoH5SrD4xjxKyraazZCi4%2Bvqsk0MoAmWhXkY70WpUAmoA2wYn2HIwiQDBdEIN%2FPI0YU7TOCX4xSXBE4x%2BmLNZCKh%2F52xDv%2BrDgfoSynmAoBs7m6kjOtj2bg6l9BxPcLBk9du3jB1F9e39DyrIOQARZrtFAAAAAElFTkSuQmCC",
+          "width": 0,
+          "windowId": 1
+        }
+      },
+      "1534": {
+        "1521": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://magic.wizards.com/sites/all/themes/wiz_mtg/icons/favicon.ico",
+          "groupId": -1,
+          "height": 960,
+          "highlighted": false,
+          "id": 1521,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Jumpstart Decklists | MAGIC: THE GATHERING",
+          "url": "https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18",
+          "width": 1232,
+          "windowId": 1534
+        },
+        "1540": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 960,
+          "highlighted": false,
+          "id": 1540,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "dlc items to manufacturing fallout 4 mod nexus - Bing",
+          "url": "https://www.bing.com/search?q=dlc+items+to+manufacturing+fallout+4+mod+nexus&cvid=1565fa9b79414b7baba228f761778505&aqs=edge..69i57.12463j0j4&FORM=ANAB01&PC=U531",
+          "width": 1232,
+          "windowId": 1534
+        },
+        "1549": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAA5rvg4ofonX+Ywce40y/8iVeAA//8bz+lKr/A2lfowwfozmf85rPk0ifc2g/EtaelAk+4lxvROvvUyefM2fulRx/lFoe45vfg6uPc1iPYuZ+ov0uA3vvc+tvZS2tZPwfcxjfMpuf9Vqv8yv/kzjfg7tPUsaew0o/g4oPsAAP89te4taOs4u/hV0f1U0Ps+lO4xc/AmedtEsvEoXOVO0dlNxvwzZv8xwPw5vvpFouw2vftFn+44gOuA//8xqvMyeOsg0OciZNo7fvc/uv8vc/QYzuo4vfg3lPsxnvMfw+0pj+IxgOdA1txL0/8v3t5V0/tLtfZCm+shyfIhzugZxOU+yNwuwO46jOoyffQrv/gzvv0/kuskYedW1/9MtfMhrt4A1f8kbdtIrdlV1aoAgIAAqv8qVdWAgIBV1f8vduIzzMxJktsbz+QzZuZV//9V3cwAgP9OwthLuvVAn/8u0f9mzMwqqtUcxvE1091Uz/xEpe9A2eYxcO5HrO4+kPKgtc8lAAAAgHRSTlMApqampgalAaWlpaQFkqampaWkpqGjpaWbppWXoxaZLZcVDARrNjWRNpQBDztUgKETFZoWmZMRBZQ1lHkteQMVICChDwo2nYeTFVQJVIkJCCBVapBxgaQWPJEwQZQVM5OhBgc1BgIDBgIGaAUHMAoDDwJofQgLBQYSUk9PFIZsh7H2l60AAAHBSURBVHicndP3U9pgGMDx2BCCBUoAUwgQkSQtKENGoCBgCzJErXXWgZa69977X/d9IpqgyXnn96fcPZ97xyXBnuJnggTZfFbriBWqYZbQBqbvnYwzmwlqLkJknAzDoEW0BIFWQHWGtXZBoA3FVH9qAjOANvPHQeAdYAqYP0HmGkaUTlWuYgp0S6C7RmSEOsu9ITLgss50ts5e9GgAX0kwGo1pYf5yvRV8G/wMDfq4ehoJ2+RUYUkdkGwVgK0yvfenBbi+QC4fdhaGucFgmCoojqoA/HzaJgHPlWIJU9llgeZiGMYJT3PP71sZ/CjPdUAA+JmhyUoFgPdACXQQAIzkCkPT/z1/k94dBXBLwA+gZ/jXSLwYR+BcBiE3BfkXMaxUm83HqaI+nvT2v4CNkIhD/kUymJtYoGkK1xeT3s0XsNwEYiwx3uewWmgdhRePD+Vb7M6Keki8OWm0O6xWCwLiyqoMyGgeR3OcbtjbJUDr3NtR5csojS+4KdphtzdBx10otqYE/WORr1ATuPLl/VdfxOi/SG/vM3gYGRhoHaNSkgDQN5EbVvvDtsauI11djcZ9LsqrjOEco6lUKpFI8C27PwKK7E2Wc0NQBgAAAABJRU5ErkJggg==",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1549,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "armourKeywords fallout 4 mods - Bing",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=armourKeywords%20fallout%204%20mods%20-%20Bing&url=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3DarmourKeywords%2Bfallout%2B4%2Bmods%26cvid%3Da37c56ad68604527bf44958b5c117381%26aqs%3Dedge..69i57.8984j0j1%26FORM%3DANAB01%26PC%3DU531&tabId=1539&sessionId=1622817391819&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQAUlEQVR4XuWbe4xU133Hv79z7tyZ2V12Wd6PBduMsfFibCjG%2BEG8uI6VR%2BNWkUrUKKJNmraS1UZK%2F6jUqorEVlXaSJWaJn2pjtq4Sh8yf7SxolSO8xjA77BmjTHGzoKdGLABe70s%2B5i595zftzp3ZoHFJrN3vUlMO%2BJqZvYMc%2B%2F3c76%2F3znnd%2B4I%2Fp8%2FJJd%2BUnYA5vXHznY6tcsibzuNhXUp06hgR1wtPdvlO87%2Bz0elnut7f4EfzgVgB2mPDaBYmJhYZzw%2BIpAbRNAO5dskDxL2IJw79MSH5p3%2BBWrKdepcALb%2F4JXSpF%2FcZY3eZsR%2BmsAWAdohMgzyoAKDQhwA9KhTedNNjp5bM7m8vvsT4nNd1c%2Fxw7kAbP32W51xHPeoNR8Q4jcBbAIQgUggGAFxipAfQ%2Fg8lI%2FZgjkyPjry1sB9KyZ%2BjppynSoXgG372M3JiYoY6YNwJ4ibp59NagBHCHkZ4GMiMgjHY0KctMW2t6t3h%2Fb312N2AGD7aPQdAATwBFIQ50TkTZJDgOynyID1%2Ftl9H25%2F%2Ff0lH8gH4FvspkxUpGD7SN0JXOqAS%2BQJToF8nsTTEPN9S33x%2FeaE2QGwto%2FAToCXhMA7%2BjdY%2FizJl0HuhbFPWry%2FnDB7AMROsCWAKSJvEPIcyT2IzH89%2BaHikfdLKOQH4Ccq0nQAWztgSmcYBc6QugeQv3vyvrZnrmgAtLZPiJ2cqQMkzAOYklI1hl98%2FGPlfVc2ANg%2BEckBAASgIPdQ8GdP%2Fmp5zxUPAJA8OSDTS6BKsv%2Bpj5erVyyApDZRiaztA2UnWw2D71ApVXrf%2F9SOKxyAiO0TyE55x0ywVb9Klfy%2FAICNHDArALiSAfwbuxMzUZHI9onKTskbAtIMgU9eqSEwBcCEYXAWANAMgSsewHsJgZAEdzYcsOMh2uM9iGsOHdZhgVVYR4zFHmNnRzF2%2BBOStMoq77U930wwOCDMBIMDwjCYNwQgVYQk2ARw%2BxMsYxILnOBaAW4VRZkGQ0oMFVIMPflhGX6vAlv9%2F9kBQNwnWT1gxmuBxnWIVBGSYBPAlh9wGYCNUNwixG0QtFEwBNGXBTwC2tdoMawJRtGNiYFbJG0lKG97fgC1tCIF6RMyvwMEVYQQ%2BEwjBLb8gBuN4tMAtlGwFERMwRiEw4SegshLSj6TGn84TuKfDNwrZ%2FMKbPX52QHI1gKhHpDTASEEgP6nPlPIAGx9lKHXPw%2FBdgJdBEoQhhljIsJxFbwSAHjRgzD%2BZUbmhK%2BnI8DE2BIsrlXvFtdKYKv22QGA7YPMoCDyzrNXxaP%2Fqd9tANjyHW40Bp9mACC4CuD8sGgI6waCjgbjBIe96Ek1fEWBFwXpIKwfYr3%2BxuG7l4y1EtiqPR%2BAvw%2FzgDRbDs8aAC8AuPW7vM4AH1NhALAZwIoAIPOAABrcIAoVjKnoKQWHvPGDCj2SGv%2BqE3MijvzpY8e6x7ADCpEmv1ayL7TPDoDYPmAWDhA0HHB%2FwwF3focrfIRbFLqdkF8BcB0bIZBBCAAaEOhUWFPRMW90xBu%2B4UV%2FrKIH1PD7SMaHjh%2FvSTCL8vvsALAJIO9aIAAIOaAJYPOj7IpjrPaqfYT8FohNKjSZ5IZw%2BCYEzZxAeBOeMxCnvNGDzvK7ifUHRJOflCcwnBdEfgA%2BzeYBWVE05zAoIlUJIfC5hgM272cBb6PNRv4DBD5PyJ0ECgTtVO9PCddMeAOAE3Xeas0bHfbiT3irAwb4dlHdQQQId6yanGkQzAoAOTUM5hsF2FwL7P%2FD6WuBW77HWyH6B41kyIUE294NgBfNAJx%2FNvRqfUro4YLhw5EJexHu8K2Hrjq9e4Y5IT%2BA2kSFiJs5IB8ACKoE%2By8FsGkve43TX4fhdhWsJ7jkfM9nIXCJ8OZ7tSRE1RqeLtC%2FWDB8jKoPLxkzh3uO9yQz2ZLLBWDDX7A7Ms2CyCwqQhkAsn%2F%2FH013wJY9XOXV30GTDYf3KrQSRIcc0HDCdAAuuMCEdoXNDk4WoW9Hhj%2BM4P%2Bz3cvTNZROH7x52XirUJgdgDAPQI6i6IWrqILo3%2F8n0wGEZIgYqx3T7TD4jIIhGTYBNMVfZP0pACKKQjhAH4smBeFLMfSRgtF9HvbZgd6rW%2B5E5QfgJyomK4lhp1BbbYxM74CwFvDo3%2F%2BF6QB6H2Isneiw5fo2ivw%2BBXdQtOSFUdb7Uw5o9nw2EhiFEUURiliIOIPBkzF0oGBYNcC3Hruh8vLcOyAAoGQAZjMVFvX9%2B3fNm14U3UXT24vILHW3iNHfUehdKliqoh3Tk17DDUF86P1ILohvQhiNwRMRWAX0a%2Ft61z47xwBGuqM6KkZDEpzNYkiqIu8CoHmVN%2ByprbUGH6Xo7Sq83gtXetFOb3wxG%2F6aDoBhJj7YvyH8vAOSInU8Eu6Dka8saoufQE9Psjvbl3j3R74Q%2BOOR7siiYiTuYwCQex4QJkLs3%2F%2FnlzigeW2bHx3uSuJ4tYu4XoHbvHCTt7zBi1%2BcOaF5GOFF4qe5QIuizgqejlT%2FITLcW25rG9696vLzgvwAFBVjoplujk7DzlASA%2FsH%2F%2FLdATQqRMfjUXSurNNspNWbvOF6b3SlE21T%2BHYK2wy0rai%2BHAsLcYEoRg0HxGiAiYABSz4QiYZQO%2FnwunXn5s4BigoQ9UG5E5JzHpDVBNE%2F%2BFfvDgDhJqzdMC8sPlNOyh3zPWoLVMwiH6XLU8PVUF5lvL%2FapLq6MOlWxhE7S51AsYQGgOAMMAyLByLBv5SsrwLxT3ZXKpetI%2BR3QD0AMH0Q7MyxOdroADZKYoNf7p7ZztBDtD09x2MZiVcAfgMT3iSp3mzqep3U3Sobs7PUBS11AeVOmGKREhvCGgxGog8W6KtpIXn1v6%2FZNDJ3DggA1PQx1APyLoaAKoQzB0AKdsOsO%2FHqKp2wt6nnViZ6m6a%2B4hPtpNHItLHethzovt4W25eIjSMishy0wgftnAO4v5EEVTiriZBAstXg4N%2F%2BdAds38UoLb9Z1rTWmSgWeMc1vobNPvUbXZ0bfKrL07oWvFfS%2BnpxqbD7RhN1XiW2vRs2LuM5K%2F7BmKzGheTVr8%2BZA%2B4f6aamFWujPs1qgrPJAb7%2F0D8u%2FqkhcOeXzsxTm670HuvocKum7HUpV2udS12iXa6uZVdX8amH96q2na60DEnnGsjiG1BqXySHrOiD9mcFAGzkgLzDYFgLhBC4FMCuXTRPLxgq6LIl7ZPj9YVa8yvppKJ13eBTs0VTrWjCLpew5BPCJwpXV7hEs9cU70ybTnZVgJ47UJ7XI89Z6gM2ctU4KZ785zkbBYID6hMVmEI2E8y7OyxZDkD%2Foa9Nd8BHvvKjYrRo6bwxN1GBM1t9gpvoUGHKlS7hAk3QrgkLLmG2%2BA2iA4gpAN6rJ1zauYa4%2BpdR6Lqazwj410XUqx2YN%2FrVtWsve%2BturlFg%2FWdfWxAhutap2Q7iUwRuajXVvLg95AAP33%2Fk68uzELj9odfKHcVSN%2BpcYhmtcM73%2BoS3M5VeTblSU87TBPApoFnPN48MwkUAnKpPvZ%2B32rtr7tV691o8RuJv0vLI4%2Bg5nuyWT8zNTHDz751c5GN7vatxu0%2FwG1TcmAcAggPA%2FiPfaAC495tnVkSmuFkTvxHO3ahOrtGUyzTFfE1QVsfoAgBkorUpPjghc0DDEfTOs2O5H73qHvfagl7uNcZ%2FvbbmxQO7seOnFktzOWDTF88ttolbnwwn291Z3RGSU1bAnGEtVgweL3aZL63c0XnAUheixrVe%2FVakuFlTv45el2giBXUwocc16%2FkpB4RnNt8TPm2EQfa3NABQlhe6kz197odLNvo9avHtf6%2F0%2FqhVB%2BUCcM8DY0tTg5snf1zbXnst%2BbircZ0PFfwZArCxPNt5bfzA0rvaz6jXO8VxPT1X0usipjpPUy15B2ECycS%2FG4Ds7w3h5wE4qjrvCx3uyPKt6TdXbKvv9REO%2FseaDafmFMCHHuICmsm14y%2FV7qqdqH8yHdcN9Zpa70LtpnET0LSHNG5FFQOaSLQ43x7tvqnte%2FNviJ063kmvFTq20WmBqUJdw%2BJBOM%2BLl4tANF3RBDAFgp4JxY9HRd0%2F%2Fzr3jas%2FNvlEvY43dq9f33LjJJcDdjzEeBTomBwa2abjyefqY3r72BlXTCZ8dDkTiABRLL7cYettKwrjnTeW3y4ujQyVC%2Bm0gymtOjVMw16QNsRe1PuN1w0IDbtPtU%2FZP2yi6DlT8idtyT9e6vL%2F2vNrEwNnTp%2BuVe%2B%2Bu%2BXWWS4AU717z5ff3CJi76%2Bfc33nTiaLk1FfdnVPdVk%2BMKHbjYXaWBAVrYk7rJYX2LRtWQHFVXEx6jA2DFz0Gu4ezISH54sdcEFo0wEXg0lBn5LqOK6pviWGx21HejRq02fUFh8Z%2BMLSo62sP9U%2BKwD3PVJfJ8DH62%2FV75o8Ue%2Btv5kurL2VuuScFzoUxAKFdpvE3RalRXGhuKgQxfMjieYZY0piRCDnATiehzBl%2F%2FMhcF70RRBclgPUp0jV8VWf8ElSny20pS%2BaBdErk%2F7NU4d3tbb%2BewKw4yWuVGCLP5V%2BIDlV%2B2DydnpN%2FS2nadjBS5kBiNptUpxvUVxUKBS6ooLtiCwsDMMN9V4xDUAGIdi%2FafHgpEvEN96L05R1dRjRBK%2BrxyHvsTd1GIxLeGXwy92XXfXNyWpw6kt2vMAOAMt8zW%2BTuv42HX%2FJJRrRZwJN%2BFwIAYkEEomRSASh30nJA6Ap%2BnwOoMO4dzjDBC86hz1MZdA7eUUK%2FrSdmD8%2B8E%2F5b6CYVQiEH0%2FVBlAsl7BJDD4FwZ1UrgLQFZI%2BlEISVIDKcJMsgvCp44IDsk3wZg6YGgUavZ%2BJd0KfgHQyqamc9Slfp5cfacpBer9PXeHls8mpc0NfvfxUt1UumBWArHITOvkQVqhgIwy2CfhhEteHqhRIkx9AIwlmyTADkMW9qpNUHV7XhM%2F7FAeg9odJPRmyiM8Mj50aG1p4bYpdoq2EzmkITH3ZffvZVipjkQk%2FnhLcR%2FIWACuh7AqVKVWG4W6GDrgIgIPTFJNMZVhTyXrd1%2FU5JnLQRdHBp%2F%2B0o%2BUEZ6ZAZueA5rdPhUJbF5b7BDcaYCvBe6C8HmQbFYX8ABDC4pymOKFenmfKqkvlBUmj03Unw%2BX0zNnqrmvm7MdX7wnApU5QwY2i%2BkGhbAC5lIpuKjugLNGjEPZypyfB8znAMdVJdRhjylF18rqmOArlgTTB3vG4%2B%2BiabvxMfn84JwCmnFAoYEGhgB7n%2FbWi0iuU61R9hR7LRdGlXkuXAXCOKU%2Bo02Oa4gWoeUnrPOqS9HgURWe6u7vHZrrdPVPrv6d5wOVOMgWiVMBSwF3vvVkL6hqoLIf6%2BVQphtkfQrLTEPOajQLq9BwdT9DpMZ%2FiBUn0WEl54uHPLr5sPT%2Bv0J9JEnzHlzZHh9JBlGoR5qGGjtSnHcaiZJwUnDqLMDvPDhf%2BZa%2B9MlWnk%2BLTcdYxWkwwNrpm0eRc3AbXCtSchECrk7yf2%2F8Xd73M5lbyVXcAAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 1534
+        },
+        "1550": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 960,
+          "highlighted": false,
+          "id": 1550,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "better explosives redux fallout 4 nexus - Bing",
+          "url": "https://www.bing.com/search?q=better+explosives+redux+fallout+4+nexus&FORM=AWRE",
+          "width": 1232,
+          "windowId": 1534
+        },
+        "1557": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 960,
+          "highlighted": true,
+          "id": 1557,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1550,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Better Explosives Redux at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/37572?tab=files&file_id=157374&nmm=1",
+          "width": 1232,
+          "windowId": 1534
+        },
+        "1558": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA/FBMVEUAAADc6ffW5vbz9/zr8/r09/3w9Pp/mbbl8PnZ6Pfw9vzg7fnd6/fp8/rj7vng7fft9Prm8Pro8frX5vb5+v0AAAD3+v38/f2hu9T6/P39/f/0+f23y91PbohNZICdt9DJ2ObA0uOuw9m7zeCswti1yNw5TGjO3Ok9VW3u8vexxdpCWnHG1uW9z+DK2eg7Umlyjq1CXnbc5fCyxtzD1OVJW3ZCXnFJZHtJYHZEW3LD0uNMY3s8TmU7Um3l7fOSsc5JZIBAVWqjvNPp8Pbi6fNAV21JYHs9UGjW4u05TGM9UG1CVW2Ys89AV3I5UGg7TWk7V21MXntAW3LR3el02A8zAAAAVHRSTlMApqampqampaampqampqampqampqYBpqampqampjo4pKampqampjamNqamNqampjilNqampjg2ODg4pjY3OKamOCSkpqY4ODamNjY2pDg2ODg2OKaeJVKUAAAA1UlEQVR4nKXK1XLCQBiG4bbUXain2wghSBLc3d3v/17gaP/dnW8GZnhP3+fksN6V1M8aX1LTPxVsfqTq/4pgzqdUR1MEc76loroimBOUCqQVwfwPqWBUEU3/V2onukO/3eKgoF+A9AoBNwByCfTdW1B2xUExewkqpwiUn0EGgZxxDjLyAngAeQRK3ivIixOwXkAWgbV1DRLATHsEaRMOetodyI5wsLSfQAKo2fegjAAyp6DYmINEDIIBAfMGZM4F8AYywxwsQmegEIHqXpC8AiVHHBzVFvLUMREKnsJHAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1558,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Auto Eat and Drink in Survival at Fallout 4 Nexus - Mods and community",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Auto%20Eat%20and%20Drink%20in%20Survival%20at%20Fallout%204%20Nexus%20-%20Mods%20and%20community&url=https%3A%2F%2Fwww.nexusmods.com%2Ffallout4%2Fmods%2F25408&tabId=1555&sessionId=1622817391819&icon=undefined",
+          "width": 0,
+          "windowId": 1534
+        },
+        "1559": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAACSqyD///8AAAAAAAD9/f0AAAADAwEAAAAAAAAAAACTrCOkwh2Yry0AAAAAAACit0GVrx8AAAD8/PkAAAAAAAAAAACUrSYAAADg57+lukabsjIAAAAAAACXryoAAAC7y3YyOgwHCQP4+vK/zn3y9eUAAAAAAACJohoAAAD5+/ZzhRj29+s7RA0AAAAZHQWivx1bahJpehVCTQ3Y4a+2x2ni6cMOEQNLWA/C0IKsv1WZtB1OXBCHnh3L15fc5Lfu8tslLAeyxWMAAADV3qkRERAAAACQqSCfuh3p8NHf57oVFRMJCQgAAAD3+e8ODgt4e2rR0dAjJhSwsLDR2bKTlI1cbBRISj2owzO+v7SqvlGftDmFhoHm7Mmmwieho5WtxzwrMQzN2pEjIx3P2p5TYRIAAAAdIwbZ3Mva2to3OiVFUQ4uMRxWWFRBQT/G1Irf48myw2G3zk00Ny3I2nbCw7i60VYaHRK3uKnW19Z1dXNISjooKSPGxsLG0ong4twCV4x9AAAAgHRSTlOmpqYAo6YEpnpoVaamphtOpqZfpphuiqY9pqamgZ+mB6ampqamppJzphGmpqamL6ampqampqampqampqampqampqamDaamIaampqampiempqampqampqampqampqampqampqampqY1pqampqampqampqampqampqampqampqampnuMaroAAAKcSURBVHicbZR3e9pADMbfs1kGszdhBQibQCCU7B0ySbP33t17r69e3dkpT/tUf3C29Duf9OoE5P9YIZSLetom8awBptkEXzpWjz+nOK1ZAwCfR/g4UFDIkVU8AXLrZjbTj8WhAYVoN6CHX24d7BESIAKyyQ88vqu2zEhVLxpjY42LzeOiJBWPV4hIEGCl+NmoO19vlMYXGFl82yiRGQ8+AbcyHD5g3ftWrY3yILekl8f7Ls8rgFOGB/iWlpZP3Q9xV5rHw+eq2iuALFY/SJI3qYdttkER73HXFqeBfhk+rHwhTzqjAZnhMr0t9TA2mm/BQEkqMO/wPcVhO4vYWJM/rx1ytk5VUJmdGOafiKxPmktHLM4zHLRxoJSCj4CEBdjr4wQxM4w9orVMK2PjVaCt6dAbCWtEmJKQ1iYOKQXGFqgKKwEKMMTil1NcHaOLuTL2h4KHAD8BdMQAvR3NUbFhkR0LjiSDtAwAuS5gu56bEXuPkstFaYKnqQPUqyEO8D3MZWdveDLlQZc4QiHASUmKJtlczRPvCLNpJaUzdk1quQNUxznwqo/ynGBsWK95exPw8PsQQ6ok2swlmGIsUp5cE8iOGVkH3agsUOdAhHeBCg0mg5ETDnhf0BmQEzG08tTsOBcrvdwUhfZMcuLHKgKQQ8D0Ys0dJx0kaTKoy2TnXd+YR0xI/UxV96+5ksXIg4ru/SnJuE43W5Na/bgkEv/5J15T30ufU4j1iy88fa33SjSJ5Uv1/KJ6en9FH0hAbhtgfnfP9289r9zs7t5U7lJoTVca32m6HHxwnDFg5ezXxtfVfwfI1y8myxQiwnw13w0YfHw4Ybil+RXD244KR8yiWKLRqD9UoPn2KFY+mvp0z4YCMOQ6JtlE9vdfwW9C11HZzUQn5AAAAABJRU5ErkJggg==",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1559,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Wild Plants Farming at Fallout 4 Nexus - Mods and community",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Wild%20Plants%20Farming%20at%20Fallout%204%20Nexus%20-%20Mods%20and%20community&url=https%3A%2F%2Fwww.nexusmods.com%2Ffallout4%2Fmods%2F16810%2F%3F&tabId=1551&sessionId=1622817391819&icon=https%3A%2F%2Fimages.nexusmods.com%2Ffavicons%2FFallout%2Ffavicon.ico",
+          "width": 0,
+          "windowId": 1534
+        },
+        "1560": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAACSqyD///8AAAAAAAD9/f0AAAADAwGTrCMAAAAAAAAAAACkwh2Yry0AAAAAAACit0EAAAD8/PkAAACVrx8AAAAAAADX4K6UrSYAAADg57+bsjIAAAAAAACXryoAAAC7y3YyOgwHCQP4+vK/zn3y9eUAAAAAAACJohoAAAD5+/ZzhRgOEQP29+s7RA0AAAAZHQWivx1bahJpehVCTQ22x2ni6cOkukVLWA+sv1VOXBDC0IKZtB2Hnh3c5Lfu8tslLAfL15eyxWMAAAARERAAAACQqSCfuh3p8NHf57oVFRMJCQgAAAD3+e+wsLB4e2rR0dAjJhSTlI3P2p5cbBRISj2owzOmu0mftDmFhoHm7MnR2LKmwieho5XZ3cu+v7SuxzwrMQzG04kODgvN2pEjIx2qvlFTYRIAAAAdIwba2to3OiXCw7hFUQ4oKSNWWFRBQT+3zk2yw2E0Ny3I2na60VYaHRK3uKnW19Z1dXNISjouMRzGxsLS3abf48ng4twMktgNAAAAgHRSTlOmpqYAo6YEpqZ6aFWmphtOpl+mmKZuiqamPaamgZ+mB6ampqamppJzphGmpqampi+mpqampqampqampqampqampqamDaYhpqampqamJ6ampqampqampqampqampqampqampqampqampjWmpqampqampqampqampqampqampqampvEVvzsAAAKbSURBVHicbZR3e9owEMZf2Uxj9iasAmFDIEDJ3mSSvfdoZvfe46v3JDvN0z69PyxL95P13p3OkP9jhXAu6u6YxLsGmKYTfOja3P6c4rRlDQC8brHGgYJCC1nFHaBl3cxmelgdGlCIPjh09+uV021CAkRANvmBJ3e1shmp2nlzaKh5vr5flKTi/iIRCQJs5D8e8eUbzdLoLCOLHxolMuPpR+BWhsMLrHreqPUR7uSW9HB/7+VZFXDKcANf09LCke/e70pzf+RMVR8JIIul55LkSepuiyUo/D2++twE0CfDi8XPtJLOaEBmuEKz+R7GRvJlGEikAvMG31MctrNdC2vx9+VrzjYoCgqzG8PMU6H6oDW/x+JcYdDCgVIKXgISVmC7lxPETDH2mMYKjYyN1oCOlodH7YhGREiEtDx5TRIYm6UobAQowACLX47z7BhdzJWx3wc8APgJoCP6abb3g4KNCHUsNJgM0dAP5B4Ay2ZwSuzdSy4UpUkuUweoVgMc4HuYy87ecjGVoEscoRDgJJGiSBZX68AzyCxaSOmMXUu13AVqoxy46CWdk4wN6zEfrgNufh9iSJVEmXkKxhlrV8aWBbJhRtZBNyoLNDjQ5lWgQEPJ0O4BBzyv6AzIiRjKeSp2nCcrvdASgfaMceL7EgKQw8DEXN0XF2UeC+lpsvPp2gxiItUvVHVnk2ey2L7Pom9nXDKu0s3WUq1+mBfCL/746+p76VMKsT7xhWc/9VqJIrF8qZGfU49OrugDCcgdA8zvTvj+lW/Vm62tm+pdCuWJavMldZeDN44zBiwe/1r7svRvA3n7RGeZwkSYr2YeHAYvb04Ybql/RfN2omIhZlWs0WjUHy5Qf7sVG29NvbunwwEYcl2TbCL7+1fwG+28UfoUAahCAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1560,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Scrap Everything at Fallout 4 Nexus - Mods and community",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Scrap%20Everything%20at%20Fallout%204%20Nexus%20-%20Mods%20and%20community&url=https%3A%2F%2Fwww.nexusmods.com%2Ffallout4%2Fmods%2F5320%3Ftab%3Dfiles%26file_id%3D162511%26nmm%3D1&tabId=1552&sessionId=1622817391819&icon=https%3A%2F%2Fimages.nexusmods.com%2Ffavicons%2FFallout%2Ffavicon.ico",
+          "width": 0,
+          "windowId": 1534
+        },
+        "1561": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAACSqyD///8AAAAAAAD9/f0AAAADAwGTrCMAAAAAAAAAAACkwh2Yry0AAAAAAACit0EAAAD8/PkAAACVrx8AAAAAAADX4K6UrSYAAADg57+lukabsjIAAAAAAACXryoAAAC7y3YyOgwHCQP4+vK/zn3y9eUAAAAAAACJohoAAAD5+/YOEQP29+s7RA0AAAAZHQWivx1bahJpehVCTQ22x2ni6cNLWA+sv1VOXBDC0IKZtB2Hnh3c5Lfu8tslLAfL15eyxWMAAAARERAAAACQqSCfuh3p8NHf57oVFRMJCQgAAAD3+e9xgxiwsLDR0dAjJhTm7MmTlI3P2p5cbBRISj2owzOqvlGftDmFhoHR2LKmwieho5XZ3cu+v7StxzwrMQzG04kODgvN2pEjIx14e2pTYRIAAAAdIwZ1hxl1dXM3OiXCw7hFUQ4oKSPa2tpWWFRBQT+yw2G3zk00Ny3I2na60VYaHRK3uKnW19ZISjouMRzGxsLS3abf48ng4tzXXZi+AAAAgHRSTlOmpqYAo6YEpqZ6aFWmphtOpl+mmKZuiqamPaampoGfpgempqampqaSc6YRpqampi+mpqampqampqampqampqampqYNpiGmpqampqYnpqampqampqampqampqampqampqampqampqamNaampqampqampqampqampqampqampqamplccrwoAAAKbSURBVHicbZR1e+JAEMbfTdAQ3KFYgeIUClzdqVJ3l6ufu8tXv9lNen3uns4f2ezOb7PvzOwE8iNWDOdj7rZJvGuAaSrJh47N7c8rTlvOAMDrFmscKCq0kFPcAVrWzWymh9WhAcXYg0N3v1052SYkQARkkx94elsrm5GunTUHB5tna/slSSrtLxCRJMBG/qNhX6HRXB6ZYWSJA6NEZjz5DNzIcHiBK897tT7MndxSHu7vuTitAk4ZbuBbRpo/9N37XRnuj5yqarcAclh8IUmelO62WILC3+Wrz44DvTK8WPhKK5msBmSHKjSb62JsuFCGgUQqMG/wPaUhO4taWIu/L+1ytkFRUJidOKZfC9Xrrbk9luAKgxYOLKfhJSBpBbZ7OEHMJGNPaKzQyNhIDWhreeiORjQiQiKkpYldksDYDEVhI0AB+lniYoxnx+hirqz9PuB+wE8AHdFHs72fFGxEqGOhgVSIhj4g/wBYNoOTYu9ear4kTXCZOkC16ucA38NcdvaOi6kEXeIIhQAniRRFsrha654BZtFCymTtWqrlDlAb4cB5D+mcYGxIj/lgDXDz+xBH+k6UmadgjLFoZXRJIBtm5Bx0o3JAgwNRXgUKNJQKRdc54HlDZ0BOxlEuULETPFmZ+ZYItGuUEz8WEYAcBsZn676EKPNoSE+TnU9XpxEXqX6pqjubPJOl6H0WfTtjkvGKbraWavXTnBB+/tdfVz9KX9KI94ovPP+l10oUiRXuGoVZ9fD4kj6QhNw2wPzhmO9f+V693tq6rt6mUR6vNl9Rdzl44zjjwMLR79Vni/83kLdXdJYpTIT5cvrBYfDy5oThhvpXNG87JhbiVsUai8X84SL1t1ux8dbUu3sqHIAh3zHJJrJ/fwV/AGHEUalCJ2wbAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1561,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Equip Settlers at Fallout 4 Nexus - Mods and community",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Equip%20Settlers%20at%20Fallout%204%20Nexus%20-%20Mods%20and%20community&url=https%3A%2F%2Fwww.nexusmods.com%2Ffallout4%2Fmods%2F44485%3Ftab%3Dfiles%26file_id%3D180885%26nmm%3D1&tabId=1553&sessionId=1622817391819&icon=https%3A%2F%2Fimages.nexusmods.com%2Ffavicons%2FFallout%2Ffavicon.ico",
+          "width": 0,
+          "windowId": 1534
+        },
+        "1562": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAACSqyD///8AAAAAAAD9/f0AAAADAwEAAAAAAAAAAACTrCOkwh2Yry0AAAAAAACit0GVrx8AAAD8/PkAAAAAAAAAAACUrSYAAADg57+lukabsjIAAAAAAACXryoAAAC7y3YyOgwHCQP4+vK/zn3y9eUAAAAAAACJohoAAAD5+/ZzhRj29+s7RA0AAAAZHQWivx1bahJpehVCTQ3Y4a+2x2ni6cMOEQNLWA/C0IKsv1WZtB1OXBCHnh3L15fc5Lfu8tslLAeyxWMAAADV3qkRERAAAACQqSCfuh3p8NHf57oVFRMJCQgAAAD3+e8ODgt4e2rR0dAjJhSwsLDR2bKTlI1cbBRISj2owzO+v7SqvlGmwyeFhoHm7MmftDmho5XZ3cutxzwrMQzN2pEjIx3P2p5TYRIAAAAdIwba2to3OiVFUQ4oKSNWWFRBQT/G1Iqyw2G3zk00Ny3I2nbCw7i60VYaHRK3uKnW19Z1dXNISjouMRzGxsLf48nG0ong4txysFfUAAAAgHRSTlOmpqYAo6YEpnpoVaamphtOpqZfpphuiqY9pqamgZ+mB6ampqamppJzphGmpqamL6ampqampqampqampqampqampqamDaamIaampqampiempqampqampqampqampqampqampqampqamNaampqampqampqampqampqampqampqamprGctLMAAAKcSURBVHicbZR3e9pADMbfs1kGszdhBQibQCCU7B0ySbP33t17r69e3dkpT/tUf3C29Duf9OoE5P9YIZSLetom8awBptkEXzpWjz+nOK1ZAwCfR/g4UFDIkVU8AXLrZjbTj8WhAYVoN6CHX24d7BESIAKyyQ88vq+2zEhVLxtjY43LzeOiJBWPV4hIEGCl+NmoO19vlMYXGFl82yiRGQ8+AncyHD5g3ftGrY3yILekl8f7ri4qgFOGB/ialpaP3A9xV5rHwxeq2iuALFbfS5I3qYdttkER73HXFqeBfhk+rHwmTzqjAZnhMr0t9TA2mm/BQEkqMO/wPcVhO4vYWJM/rx1ytk5VUJmdGOafiKxPmkunLM4zHLRxoJSCj4CEBdjr4wQxM4w9orVMK2PjVaCt6dAbCWtEmJKQ1iYOKQXGFqgKKwEKMMTiV1NcHaOLuTL2h4KHAD8BdMQAvZ3OUbFhkR0LjiSDtAwAuS5gu5mbEXtPk8tFaYKnqQPUqyEO8D3MZWeveTLlQZc4QiHASUmKJtlczRPvCLNpJaUzdk1quQNUxznwqo/ynGBsWK95exPw8PsQQ6ok2swlmGIsUp5cE8iOGVkH3agsUOdAhHeBCg0mg5ETDnhf0BmQEzG08tTsOBcrvdwUhfZMcuL7KgKQQ8D0Ys0dJx0kaTKoy2TnXd+YR0xI/UxV92+4ksXIg4ru/SnJuE43W5Na/bAkEv/5J15T30mfUoj1iy88/aH3SjSJ5Uv1/KJ6dH5NH0hAbhtgfnvO9299q9zu7t5W7lNoTVcaz2m6HHxwnDFg5ezXxpfVfwfI1y8myxQiwnw93w0YfHw4Ybij+RXD244KR8yiWKLRqD9UoPn2KFY+mvp0z4YCMOQ6JtlE9vdfwW9U2VHccAFMRgAAAABJRU5ErkJggg==",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1562,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Reproduce or Scrap Equipment at Fallout 4 Nexus - Mods and community",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Reproduce%20or%20Scrap%20Equipment%20at%20Fallout%204%20Nexus%20-%20Mods%20and%20community&url=https%3A%2F%2Fwww.nexusmods.com%2Ffallout4%2Fmods%2F45781&tabId=1554&sessionId=1622817391819&icon=https%3A%2F%2Fimages.nexusmods.com%2Ffavicons%2FFallout%2Ffavicon.ico",
+          "width": 0,
+          "windowId": 1534
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 1,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      },
+      "1534": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1047,
+        "id": 1534,
+        "incognito": false,
+        "left": -7,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1341
+      }
+    },
+    "tabsNumber": 18,
+    "name": "(28) 5 Epic Fails from the Video Game Industry - YouTube",
+    "date": 1622839008329,
+    "lastEditedTime": 1622839008329,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622817390872,
+    "id": "a73c6479-37e1-467d-b17e-0e306a329930"
+  }
+]

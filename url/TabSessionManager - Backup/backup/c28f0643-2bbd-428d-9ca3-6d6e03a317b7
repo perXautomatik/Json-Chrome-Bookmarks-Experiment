@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "1357": {
+        "1193": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 730,
+          "highlighted": true,
+          "id": 1193,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Audacity - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?id=648#comment31598",
+          "width": 1111,
+          "windowId": 1357
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1357": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 817,
+        "id": 1357,
+        "incognito": false,
+        "left": 649,
+        "state": "normal",
+        "top": 200,
+        "type": "normal",
+        "width": 1175
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Audacity - The Portable Freeware Collection",
+    "date": 1628491718975,
+    "lastEditedTime": 1628491717995,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "7b3f7323-bc61-443b-ae80-940139ad9b21"
+  }
+]

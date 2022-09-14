@@ -1,0 +1,194 @@
+[
+  {
+    "windows": {
+      "342": {
+        "344": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 638,
+          "highlighted": false,
+          "id": 344,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Mo Code Generator - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/mo-code-generator/elhcnlapdbdhikoclhefiaodacnoekaa",
+          "width": 1190,
+          "windowId": 342
+        },
+        "345": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 638,
+          "highlighted": false,
+          "id": 345,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Join - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/join/flejfacjooompmliegamfbpjjdlhokhj",
+          "width": 1190,
+          "windowId": 342
+        },
+        "346": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://joaoapps.com/wp-content/uploads/2018/03/taskernew-150x150.png",
+          "groupId": -1,
+          "height": 638,
+          "highlighted": false,
+          "id": 346,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Join Desktop App – Tasker and Join",
+          "url": "https://joaoapps.com/join/desktop/",
+          "width": 1190,
+          "windowId": 342
+        },
+        "347": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://joaoapps.com/wp-content/uploads/2018/03/taskernew-150x150.png",
+          "groupId": -1,
+          "height": 638,
+          "highlighted": false,
+          "id": 347,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Google Assistant + IFTTT + Join + Tasker = Awesomeness!! – Tasker and Join",
+          "url": "https://joaoapps.com/google-assistant-ifttt-join-tasker-awesomeness/",
+          "width": 1190,
+          "windowId": 342
+        },
+        "348": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 638,
+          "highlighted": false,
+          "id": 348,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Releases · joaomgcd/JoinDesktop",
+          "url": "https://github.com/joaomgcd/JoinDesktop/releases",
+          "width": 1190,
+          "windowId": 342
+        },
+        "349": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.gstatic.com/android/market_images/web/favicon_v2.ico",
+          "groupId": -1,
+          "height": 638,
+          "highlighted": false,
+          "id": 349,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Join by joaoapps - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.joaomgcd.join",
+          "width": 1190,
+          "windowId": 342
+        },
+        "350": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.gstatic.com/android/market_images/web/favicon_v2.ico",
+          "groupId": -1,
+          "height": 638,
+          "highlighted": true,
+          "id": 350,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "AutoApps - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub",
+          "width": 1190,
+          "windowId": 342
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "342": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 622,
+        "id": 342,
+        "incognito": false,
+        "left": 3,
+        "state": "minimized",
+        "top": 3,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 7,
+    "name": "AutoApps - Apps on Google Play",
+    "date": 1627984646135,
+    "lastEditedTime": 1627984644256,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "bb92e609-b3e4-403a-9d86-fe2515430917"
+  }
+]

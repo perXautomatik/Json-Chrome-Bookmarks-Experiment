@@ -1,0 +1,217 @@
+[
+  {
+    "windows": {
+      "1007": {
+        "1008": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 536,
+          "highlighted": false,
+          "id": 1008,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audio - Identification - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=229",
+          "width": 1085,
+          "windowId": 1007
+        },
+        "1009": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 536,
+          "highlighted": false,
+          "id": 1009,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Audio - Miscellaneous - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=225",
+          "width": 1085,
+          "windowId": 1007
+        },
+        "1010": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 536,
+          "highlighted": false,
+          "id": 1010,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audio - Synthesizers - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=305",
+          "width": 1085,
+          "windowId": 1007
+        },
+        "1011": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 536,
+          "highlighted": false,
+          "id": 1011,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Audio - Recording - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=317",
+          "width": 1085,
+          "windowId": 1007
+        },
+        "1012": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 536,
+          "highlighted": false,
+          "id": 1012,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Audio - Processing - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=247",
+          "width": 1085,
+          "windowId": 1007
+        },
+        "1013": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 536,
+          "highlighted": false,
+          "id": 1013,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audio - Catalogers - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=255",
+          "width": 1085,
+          "windowId": 1007
+        },
+        "1014": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 536,
+          "highlighted": false,
+          "id": 1014,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Audio - Conversion - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=39",
+          "width": 1085,
+          "windowId": 1007
+        },
+        "1015": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 744,
+          "highlighted": true,
+          "id": 1015,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Audio - Editors - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=66",
+          "width": 1064,
+          "windowId": 1007
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1007": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 831,
+        "id": 1007,
+        "incognito": false,
+        "left": 256,
+        "state": "minimized",
+        "top": 149,
+        "type": "normal",
+        "width": 1128
+      }
+    },
+    "tabsNumber": 8,
+    "name": "Audio - Editors - The Portable Freeware Collection",
+    "date": 1629103143452,
+    "lastEditedTime": 1629102888611,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "23c1428b-346d-4660-9462-667b8ad9084e"
+  }
+]

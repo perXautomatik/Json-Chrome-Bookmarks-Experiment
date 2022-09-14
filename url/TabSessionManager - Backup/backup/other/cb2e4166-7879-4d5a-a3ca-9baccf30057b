@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2755": {
+        "2756": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2756,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Unofficial Patch NVSE Plus at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/71239",
+          "width": 1154,
+          "windowId": 2755
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2755": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2755,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Unofficial Patch NVSE Plus at Fallout New Vegas - mods and community",
+    "date": 1627157009326,
+    "lastEditedTime": 1627157008053,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "4b358731-3113-4c9e-abdd-cc685a8e3a4c"
+  }
+]

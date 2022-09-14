@@ -1,0 +1,125 @@
+[
+  {
+    "windows": {
+      "326": {
+        "327": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://sandbox.neo4j.com/favicon.ico",
+          "groupId": -1,
+          "height": 535,
+          "highlighted": false,
+          "id": 327,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Home - Neo4j Sandbox",
+          "url": "https://sandbox.neo4j.com/",
+          "width": 1110,
+          "windowId": 326
+        },
+        "328": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://aws1.discourse-cdn.com/business4/uploads/neo4jcommunity/optimized/3X/b/a/ba44bff2577bd2886e59c5b22cf9f926f315508d_2_32x32.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 328,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Latest General topics - Neo4j Online Community",
+          "url": "https://community.neo4j.com/c/general/5",
+          "width": 1186,
+          "windowId": 326
+        },
+        "1312": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 490,
+          "highlighted": true,
+          "id": 1312,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Nukem - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/nukem/kpogandfndblomniegfaeakkjchmiedi",
+          "width": 1110,
+          "windowId": 326
+        },
+        "1313": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 1313,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/?id=kpogandfndblomniegfaeakkjchmiedi",
+          "width": 1872,
+          "windowId": 326
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "326": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 622,
+        "id": 326,
+        "incognito": false,
+        "left": 3,
+        "state": "normal",
+        "top": 3,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Nukem - Chrome Web Store",
+    "date": 1627984698523,
+    "lastEditedTime": 1627984671737,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "337769d6-5d04-43ad-8f78-dd46077c455c"
+  }
+]

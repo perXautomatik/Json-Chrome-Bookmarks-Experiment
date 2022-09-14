@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 1734,
+          "highlighted": false,
+          "id": 2,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1152,
+          "windowId": 1
+        },
+        "301": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://answers.microsoft.com/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 301,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Windows 10 Ordinal 43 could not be located- help? - Microsoft Community",
+          "url": "https://answers.microsoft.com/en-us/insider/forum/all/windows-10-ordinal-43-could-not-be-located-help/35c2fe98-0957-4373-8200-7484bb95a01c",
+          "width": 788,
+          "windowId": 1
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1896,
+        "id": 1,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Windows 10 Ordinal 43 could not be located- help? - Microsoft Community",
+    "date": 1629621828341,
+    "lastEditedTime": 1629621828341,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629620904497,
+    "id": "7852dffa-0482-4e97-8852-7b1fd2d328ec"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "windows": {
+      "4317": {
+        "3562": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/35e75ccf/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": true,
+          "id": 3562,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "China's ISS Competitor Begins Construction In Orbit - YouTube",
+          "url": "https://www.youtube.com/watch?v=06GUEkc4EEA&list=TLPQMDYwNzIwMjGtzIY43W9k-w&index=105",
+          "width": 1006,
+          "windowId": 4317
+        }
+      },
+      "4320": {
+        "4319": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": true,
+          "id": 4319,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Work2",
+          "url": "https://www.dwservice.net/session.dw?parent=mng#s",
+          "width": 1006,
+          "windowId": 4320
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "4317": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 913,
+        "id": 4317,
+        "incognito": false,
+        "left": 2007,
+        "state": "normal",
+        "top": -539,
+        "type": "normal",
+        "width": 1070
+      },
+      "4320": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 913,
+        "id": 4320,
+        "incognito": false,
+        "left": 2077,
+        "state": "normal",
+        "top": 208,
+        "type": "normal",
+        "width": 1070
+      }
+    },
+    "tabsNumber": 2,
+    "name": "China's ISS Competitor Begins Construction In Orbit - YouTube",
+    "date": 1625756143848,
+    "lastEditedTime": 1625756143848,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "c21f1729-94f8-453f-b657-48cfc8f5f8c2"
+  }
+]

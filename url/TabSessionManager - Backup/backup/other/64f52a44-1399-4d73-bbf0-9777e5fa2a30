@@ -1,0 +1,139 @@
+[
+  {
+    "windows": {
+      "1559": {
+        "1557": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/79946f8f/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 1557,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "(42) Can You Beat Fallout 3 As Benjamin Button? - YouTube",
+          "url": "https://www.youtube.com/watch?v=jelPCGiQ09k&list=TLPQMDYwNjIwMjGRldRDJIUDaA&index=7",
+          "width": 1121,
+          "windowId": 1559
+        },
+        "31183": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://magic.wizards.com/sites/all/themes/wiz_mtg/icons/favicon.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": false,
+          "id": 31183,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Jumpstart Decklists | MAGIC: THE GATHERING",
+          "url": "https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18",
+          "width": 1121,
+          "windowId": 1559
+        },
+        "31186": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://p.sfx.ms/images/favicon.ico",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 31186,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Recycle bin - OneDrive",
+          "url": "https://onedrive.live.com/?id=root&cid=6DA6DE33539410C3&qt=recyclebin",
+          "width": 1121,
+          "windowId": 1559
+        }
+      },
+      "31193": {
+        "31190": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.nutaku.net/images/icons/net/favicon.ico?20210604153606",
+          "groupId": -1,
+          "height": 834,
+          "highlighted": true,
+          "id": 31190,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Crush Crush Moist & Uncensored - Dating Sim | Nutaku",
+          "url": "https://www.nutaku.net/games/crush-crush/play/",
+          "width": 1190,
+          "windowId": 31193
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "1559": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 1559,
+        "incognito": false,
+        "left": 147,
+        "state": "normal",
+        "top": 228,
+        "type": "normal",
+        "width": 1216
+      },
+      "31193": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 921,
+        "id": 31193,
+        "incognito": false,
+        "left": 1839,
+        "state": "normal",
+        "top": -56,
+        "type": "normal",
+        "width": 1285
+      }
+    },
+    "tabsNumber": 4,
+    "name": "Recycle bin - OneDrive",
+    "date": 1623157631325,
+    "lastEditedTime": 1623157631325,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622847877297,
+    "id": "3aaca75c-43ca-46bc-8e28-2e351fbd970a"
+  }
+]

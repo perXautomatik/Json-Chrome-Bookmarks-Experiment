@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10343": {
+        "10344": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/ReskinBlue/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10344,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "TES5Edit at Skyrim Nexus - Mods and Community",
+          "url": "https://www.nexusmods.com/skyrim/mods/25859?tab=files&file_id=1000309592",
+          "width": 1154,
+          "windowId": 10343
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10343": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10343,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "TES5Edit at Skyrim Nexus - Mods and Community",
+    "date": 1622643295356,
+    "lastEditedTime": 1622643293406,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "0b3adb3f-1f83-4683-85c0-c94ee43cb0a6"
+  }
+]

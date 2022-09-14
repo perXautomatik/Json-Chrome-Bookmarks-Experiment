@@ -1,0 +1,199 @@
+[
+  {
+    "windows": {
+      "84": {
+        "85": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 85,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/searchEngines?search=search",
+          "width": 1319,
+          "windowId": 84
+        },
+        "86": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 86,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Folderwise Bookmarks: Search & Sessions - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/folderwise-bookmarks-sear/lcabfbidcbbfdfmonhonidjgcgdnfhle",
+          "width": 1319,
+          "windowId": 84
+        },
+        "87": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 952,
+          "highlighted": false,
+          "id": 87,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "replace(URL) - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/replaceurl/hnikjjnnlhpkjmbojoefmefkmncfphek",
+          "width": 1319,
+          "windowId": 84
+        },
+        "283": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 283,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "AutoBookmarks",
+          "url": "chrome-extension://lcchihcbfbaedlagdpaemgbpjapiihpo/options.html",
+          "width": 955,
+          "windowId": 84
+        }
+      },
+      "391": {
+        "393": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 393,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/profiles",
+          "width": 1319,
+          "windowId": 391
+        }
+      },
+      "400": {
+        "401": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 581,
+          "highlighted": true,
+          "id": 401,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "[L] AutoBookmarks [R] .html",
+          "url": "chrome-extension://knfpajocfeohpaipkfpdbfhgibajfmcf/data/commander/index.html?mode=window",
+          "width": 1256,
+          "windowId": 400
+        }
+      }
+    },
+    "windowsNumber": 3,
+    "windowsInfo": {
+      "84": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1040,
+        "id": 84,
+        "incognito": false,
+        "left": 405,
+        "state": "normal",
+        "top": 41,
+        "type": "normal",
+        "width": 1383
+      },
+      "391": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1040,
+        "id": 391,
+        "incognito": false,
+        "left": 1036,
+        "state": "normal",
+        "top": 405,
+        "type": "normal",
+        "width": 1383
+      },
+      "400": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 620,
+        "id": 400,
+        "incognito": false,
+        "left": 78,
+        "state": "normal",
+        "top": 215,
+        "type": "popup",
+        "width": 1272
+      }
+    },
+    "tabsNumber": 6,
+    "name": "[L] AutoBookmarks [R] .html",
+    "date": 1631637509766,
+    "lastEditedTime": 1631637509766,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1631557337412,
+    "id": "948cee4d-fb62-42b5-b12a-260819565086"
+  }
+]

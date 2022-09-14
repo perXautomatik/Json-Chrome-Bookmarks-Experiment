@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "349": {
+        "362": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 362,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "C++ Command Prompt - Bing",
+          "url": "https://www.bing.com/images/search?view=detailV2&ccid=C7wVz2CE&id=B5121659ECF58285FF829C099D693EC14E3F3ED7&thid=OIP.C7wVz2CENbGJOaQMIyBdiwHaFv&mediaurl=https%3a%2f%2fwindows-cdn.softpedia.com%2fscreenshots%2fC-Command-Prompt_1.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0bbc15cf608435b18939a40c23205d8b%3frik%3d1z4%252fTsE%252baZ0JnA%26pid%3dImgRaw&exph=543&expw=700&q=C%2b%2b+Command+Prompt&simid=608010388184564452&FORM=IRPRST&ck=AF6319ADFDD97251332BC934145FC864&selectedIndex=0&PC=U531",
+          "width": 1872,
+          "windowId": 349
+        },
+        "369": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 369,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Truncate files with this command-line - Bing",
+          "url": "https://www.bing.com/search?q=Truncate+files+with+this+command-line&aqs=edge..69i57&FORM=ANCMS9&PC=U531",
+          "width": 1872,
+          "windowId": 349
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "349": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 349,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 2,
+    "name": "C++ Command Prompt - Bing",
+    "date": 1627309710415,
+    "lastEditedTime": 1627309702026,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627199985759,
+    "id": "7c64a21c-bc94-4f51-887f-7d3181165860"
+  }
+]

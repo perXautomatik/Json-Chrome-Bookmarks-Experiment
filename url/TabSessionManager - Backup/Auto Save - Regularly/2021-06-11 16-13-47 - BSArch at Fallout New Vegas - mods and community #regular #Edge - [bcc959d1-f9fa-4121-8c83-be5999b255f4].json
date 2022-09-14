@@ -1,0 +1,311 @@
+[
+  {
+    "windows": {
+      "2": {
+        "54": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://tes5edit.github.io/docs/favicon.ico",
+          "groupId": -1,
+          "height": 1768,
+          "highlighted": false,
+          "id": 54,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "xEdit Conflict Detection and Resolution | Tome of xEdit",
+          "url": "https://tes5edit.github.io/docs/5-conflict-detection-and-resolution.html",
+          "width": 1121,
+          "windowId": 2
+        },
+        "55": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAACSqyD///8AAAAAAAD9/f0AAAADAwGTrCMAAAAAAAAAAACkwh2Yry0AAAAAAACit0EAAAD8/PkAAACVrx8AAAAAAADX4K6UrSYAAADg57+lukabsjIAAAAAAACXryoAAAC7y3YyOgwHCQP4+vK/zn3y9eUAAAAAAACJohoAAAD5+/b29+s7RA0AAAAZHQWivx1bahJpehVCTQ22x2ni6cMOEQNLWA/c5Lesv1VOXBDC0IKZtB2Hnh3u8tslLAfL15eyxWMAAAARERAAAACQqSCfuh3p8NHf57oVFRMJCQgAAAD3+e9xgxiwsLAODgt4e2ojJhSTlI3P2p5cbBTR0dBISj2owzOqvlGftDmFhoHm7MnR2LKmwieho5XZ3cu+v7StxzwrMQzG04nN2pEjIx1TYRIAAAAdIwZ1hxna2to3OiXCw7hFUQ4uMRxWWFRBQT+yw2G3zk00Ny3I2na60VYaHRK3uKnW19Z1dXNISjooKSPGxsLS3abf48ng4tyOmyntAAAAgHRSTlOmpqYAo6YEpqZ6aFWmphtOpl+mmKZuiqamPaampoGfpgempqampqaSc6YRpqamL6ampqampqampqampqampqampqYNpiGmpqampqYnpqampqampqampqampqampqampqampqampqamNaampqampqampqampqampqampqampqampu4ZovgAAAKbSURBVHicbZTnduIwEIWvbKoxvUNoAUIPBFjSO6kk2fTee7b3Xl59R7KzObsn88OyNJ+sOzMaQ37EiuF8zN02iXcNME0l+dCxuf15xWnLGQB43WKNA0WFFnKKO0DLupnN9LA6NKAYe3Do7jcrp9uEBIiAbPIDT2+rLTPS1fPG0FDjfG2/JEml/QUikgTYyH884ivUG8ujM4wscWiUyIynn4AbGQ4vsOp5p9ZGuJNbysP9PZdnFcApww18y0jzR757vyvD/ZEzVe0WQA6LLyTJk9LdFktQ+Lt8tdlxoFeGFwtfaCWT1YDscJlmc12MjRRaMJBIBeZ1vqc0bGdRC2vy96VdztYpCgqzE8f0M6H6oDm3xxJcYdDCgeU0vAQkrcB2DyeImWTsCY1lGhkbrQJtLQ/d0YhGREiEtDSxSxIYm6EobAQoQD9LXI7x7BhdzJW13wfcD/gJoCP6aLb3k4KNCHUsNJgK0dAH5B8Ay0ZwUuzdS82XpAkuUweoVv0c4HuYy87ecjHloEscoRDgJJGiSBZX88AzyCxaSJmsXUu13AGqoxy46CGdE4wN6zEfrgFufh/iSN+JMvMUjDEWLQ8sCWTdjJyDblQOqHMgyqtAgYZSoegBBzyv6QzIyThaBSp2gicrM98UgXYNcOLHIgKQw8D4bM2XEGUeCOlpsvPp1jTiItUvVXVng2eyFL3Pom9nTDKu0s3WUq1+nBPCL/76a+oH6XMa8V7xhee/9FqJIrHCXb0wqx6dXNEHkpDbBpjfn/D9K68q15ub15XbNFrjlcZ36i4HbxxnHFg4/r31dfH/BvL2is4yhYkwX00/OAxe3pww3FD/iuZtx8RC3KpYY7GYP1yk/nYrNt6aendPhQMw5Dsm2UT276/gDzH2UbVEByvvAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 55,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tutorial 1: How To Merge Plugins at Fallout 4 Nexus - Mods and community",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Tutorial%201%3A%20How%20To%20Merge%20Plugins%20at%20Fallout%204%20Nexus%20-%20Mods%20and%20community&url=https%3A%2F%2Fwww.nexusmods.com%2Ffallout4%2Farticles%2F329%2F&tabId=55&sessionId=1623415426861&icon=https%3A%2F%2Fimages.nexusmods.com%2Ffavicons%2FFallout%2Ffavicon.ico",
+          "width": 1121,
+          "windowId": 2
+        },
+        "57": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 57,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "where to extract TES5Edit - Bing",
+          "url": "https://www.bing.com/search?q=where+to+extract+TES5Edit&cvid=ffa124ea0c8e441b812ed4630b755b77&aqs=edge..69i57.28383j0j1&FORM=ANAB01&PC=U531",
+          "width": 1121,
+          "windowId": 2
+        },
+        "58": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 58,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "TES5Edit config ini - Bing",
+          "url": "https://www.bing.com/search?q=TES5Edit+config+ini&cvid=f3be32a428c043fd8aa84535ccfc8edf&aqs=edge..69i57.4896j0j4&FORM=ANAB01&PC=U531",
+          "width": 1121,
+          "windowId": 2
+        },
+        "59": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 59,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "tes5edit can;t find inii :: The Elder Scrolls V: Skyrim Special Edition General Discussions",
+          "url": "https://steamcommunity.com/app/489830/discussions/0/1698294337793658443/",
+          "width": 1121,
+          "windowId": 2
+        },
+        "60": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 60,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "tes5edit fallout 4 - Bing",
+          "url": "https://www.bing.com/search?q=tes5edit+fallout+4&cvid=780af126c56f461bb59a786e4e5ae8e7&aqs=edge.0.0.2319j0j1&FORM=ANAB01&PC=U531",
+          "width": 1121,
+          "windowId": 2
+        },
+        "61": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 61,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FO4Edit at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/2737/",
+          "width": 1121,
+          "windowId": 2
+        },
+        "62": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 62,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "unpacking and packing ba2 - Bing",
+          "url": "https://www.bing.com/search?q=unpacking+and+packing+ba2&cvid=a6fa95361ebb437687893af274cc7da9&aqs=edge..69i57.8230j0j1&FORM=ANAB01&PC=U531",
+          "width": 1121,
+          "windowId": 2
+        },
+        "63": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 63,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 62,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "BSArch BSA BA2 Batch Extractor and Packer for MO2 at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/69145?tab=description",
+          "width": 1121,
+          "windowId": 2
+        },
+        "64": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 64,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 63,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "BSArch at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/64745?tab=files&file_id=1000061507",
+          "width": 1121,
+          "windowId": 2
+        },
+        "65": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA/FBMVEUAAADc6ffW5vbz9/zr8/r09/3w9Pp/mbbl8PnZ6Pfw9vzg7fnd6/fp8/rj7vng7fft9Prm8Pro8frX5vb5+v0AAAD3+v38/f2hu9T6/P39/f/0+f23y91PbohNZICdt9DJ2ObA0uOuw9m7zeCswti1yNzO3Onu8vc5TGixxdrG1uW9z+DK2eg7Umk9VW1CWnFyjq1CXnbc5fCyxtzD1OVJW3ZCXnFJZHtJYHZEW3LD0uNMY3s8TmU7Um05TGPl7fOSsc5JZIBAVWqjvNPp8Pbi6fNAV21CVW1MXns9UGjW4u09UG07V21AW3KYs89AV3I5UGg7TWlJYHvR3emPFVMOAAAAVHRSTlMApqampqampaampqampqampqampqYBpqampqampjo4pKampqampqamNqampqY4NjalNqampjg2ODg4pjY4ODampjgkpKamODY2NqY2ODikODY4OKZInsmDAAAA1UlEQVR4nKXK1XLCQBiG4bbUXain2wgJkAR3d3e4/3uBo/13d74ZmOE9fZ+Tw3pXUj9rfknN/1Sw+ZFq/CuCOZ9SXU0RzPmWCuuKYE5QKpBWBPM/pIJhRbT8X6md6I39TpuDgn4B0isE3ADIJbB2b0HZIQfF7CWonCJQfgYZBHLGOcjIC+AB5BEoea8gL0HAegFZBGbWNUgAC+0RpA046Gt3IDvOwdR+AgmgZt+DMgLInIKiEw5iUQhGBMwbkLkUwBvIjHCwCp2BQgSqe0HyCpSsc3BUW+7aMREJTFVhAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 65,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Conflict Detector and Mapper at Fallout 4 Nexus - Mods and community",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Conflict%20Detector%20and%20Mapper%20at%20Fallout%204%20Nexus%20-%20Mods%20and%20community&url=https%3A%2F%2Fwww.nexusmods.com%2Ffallout4%2Fmods%2F40600&tabId=56&sessionId=1623415426861&icon=undefined",
+          "width": 0,
+          "windowId": 2
+        },
+        "66": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAA4ofo5rvgnX+Ywce40y/8rw/ciVeAA//9OvvVTy/ozmf82lfk0ifc5ovktaek6uPc6uPcyefNAlO5FoO01i/gZzupLsvE2fuk0vvs5rvk3vvko0+IzjfhS2tZM0tk7h+0puf8xjfNVqv8tZukyv/k0o/g3vvohyPEzgPRJqu4AAP89te1EsvEtaOs+lO4xc/Amedsxv/AoXOVPyP8Zz+k4u/gzZv84vvo4gOs7tvYyeOuA//8xqvNQxvkg0OcqZOk8zdwxnvNFn+47fvc/uv8iZNo+jewvc/RMt/Mvb/Eazewfw+1P2P8pj+JFzu0xgOczvv0v3t4rv/hV0/tCm+tLtfYhzug3mftW1f46jOoyffRe1MwkYedQxPhW1/8zzMwkbdsAgIBJktsct+MqVdUA1f8vduKAgIAhrt481d1HrO4zZuZV//8Aqv8AgP9V1apIrdku0f9HqOwqqtUcxvE1090bz+Qsw/pUz/xEpe8xcO5Owtg+kPIwxt1An/9y4FaOAAAAgHRSTlMApqampgakpQGlowWmppOlNaOhpaSUpqSjoZSWozYtk6YMFQSXazZ9oqakAQ8VOxMVmhWZDp5UBRh5jSADFX4gkaUVLQ8KoZY2kpOHVAcJFFRBCDAgalVxk4E8kQoVkDQFBwIHfwYGaAKhf2wKAwMCBjULiQYSUjCQT0+GaIelCJzuB0UAAAG6SURBVHicndNnU8IwGMDxaC0UUAsOpIJgKbWo7CU4AEWWGyeK4t5bHLjwq5tAjxYseuf/Ve+e3yXptQGVGI8NJ/hnqW6DLBcI4o2BSq3X6Dm1reEiOAQazWjA00hUABSNdsHVvc0wzejE76C59/9g4A+gGmhvQrVPATz+JfEqAsDVbCZI/yACoDlKz2U8j8P1IFsGWXOcpSiqyK483dSCvmwrKmumM3qKksmKG5ETaUAEOTiXWf2zL8s1oLsN1W0GDwEIrFqtfyMiOqoIMCtFmRUCreFZtIQqlRtE5VwA0GxlbrhYFMBIKteBQoDxzM36/QbDpMl4LQIzLagZCABBR+aOzksQ7EmD4YWxJXfCXTIZtwXgsJCo6A4A8amtkJtMyN0m43gVHDu8GCq6Q9hia8l+HYnJEybjWRXs88Drsq8Xujr7dS0klvgQdgCHWxY5yvsWTg/xIHp/JwDCGcLgHNOlFT0IQGE5dYo/Rnw9aSF1XQoFDzreHa4DMRhfDSsVSqWSB8lQ6qruj5jf3YRzHnwuTU/XjmG+skCgsBZbkLph86uv4Xw+nb6MORmJMTqHz+dbtNvtTM3u37sAUCaV69OdAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 66,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "fallout 4 merge and detect conflicts - Bing",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=fallout%204%20merge%20and%20detect%20conflicts%20-%20Bing&url=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dfallout%2B4%2Bmerge%2Band%2Bdetect%2Bconflicts%26cvid%3D2e3eb1e7d05b45e089bc4b2f8b471c54%26aqs%3Dedge..69i57.8200j0j1%26FORM%3DANAB01%26PC%3DU531&tabId=3&sessionId=1623415426861&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQAUlEQVR4XuWbe4xU133Hv79z7tyZ2V12Wd6PBduMsfFibCjG%2BEG8uI6VR%2BNWkUrUKKJNmraS1UZK%2F6jUqorEVlXaSJWaJn2pjtq4Sh8yf7SxolSO8xjA77BmjTHGzoKdGLABe70s%2B5i595zftzp3ZoHFJrN3vUlMO%2BJqZvYMc%2B%2F3c76%2F3znnd%2B4I%2Fp8%2FJJd%2BUnYA5vXHznY6tcsibzuNhXUp06hgR1wtPdvlO87%2Bz0elnut7f4EfzgVgB2mPDaBYmJhYZzw%2BIpAbRNAO5dskDxL2IJw79MSH5p3%2BBWrKdepcALb%2F4JXSpF%2FcZY3eZsR%2BmsAWAdohMgzyoAKDQhwA9KhTedNNjp5bM7m8vvsT4nNd1c%2Fxw7kAbP32W51xHPeoNR8Q4jcBbAIQgUggGAFxipAfQ%2Fg8lI%2FZgjkyPjry1sB9KyZ%2BjppynSoXgG372M3JiYoY6YNwJ4ibp59NagBHCHkZ4GMiMgjHY0KctMW2t6t3h%2Fb312N2AGD7aPQdAATwBFIQ50TkTZJDgOynyID1%2Ftl9H25%2F%2Ff0lH8gH4FvspkxUpGD7SN0JXOqAS%2BQJToF8nsTTEPN9S33x%2FeaE2QGwto%2FAToCXhMA7%2BjdY%2FizJl0HuhbFPWry%2FnDB7AMROsCWAKSJvEPIcyT2IzH89%2BaHikfdLKOQH4Ccq0nQAWztgSmcYBc6QugeQv3vyvrZnrmgAtLZPiJ2cqQMkzAOYklI1hl98%2FGPlfVc2ANg%2BEckBAASgIPdQ8GdP%2Fmp5zxUPAJA8OSDTS6BKsv%2Bpj5erVyyApDZRiaztA2UnWw2D71ApVXrf%2F9SOKxyAiO0TyE55x0ywVb9Klfy%2FAICNHDArALiSAfwbuxMzUZHI9onKTskbAtIMgU9eqSEwBcCEYXAWANAMgSsewHsJgZAEdzYcsOMh2uM9iGsOHdZhgVVYR4zFHmNnRzF2%2BBOStMoq77U930wwOCDMBIMDwjCYNwQgVYQk2ARw%2BxMsYxILnOBaAW4VRZkGQ0oMFVIMPflhGX6vAlv9%2F9kBQNwnWT1gxmuBxnWIVBGSYBPAlh9wGYCNUNwixG0QtFEwBNGXBTwC2tdoMawJRtGNiYFbJG0lKG97fgC1tCIF6RMyvwMEVYQQ%2BEwjBLb8gBuN4tMAtlGwFERMwRiEw4SegshLSj6TGn84TuKfDNwrZ%2FMKbPX52QHI1gKhHpDTASEEgP6nPlPIAGx9lKHXPw%2FBdgJdBEoQhhljIsJxFbwSAHjRgzD%2BZUbmhK%2BnI8DE2BIsrlXvFtdKYKv22QGA7YPMoCDyzrNXxaP%2Fqd9tANjyHW40Bp9mACC4CuD8sGgI6waCjgbjBIe96Ek1fEWBFwXpIKwfYr3%2BxuG7l4y1EtiqPR%2BAvw%2FzgDRbDs8aAC8AuPW7vM4AH1NhALAZwIoAIPOAABrcIAoVjKnoKQWHvPGDCj2SGv%2BqE3MijvzpY8e6x7ADCpEmv1ayL7TPDoDYPmAWDhA0HHB%2FwwF3focrfIRbFLqdkF8BcB0bIZBBCAAaEOhUWFPRMW90xBu%2B4UV%2FrKIH1PD7SMaHjh%2FvSTCL8vvsALAJIO9aIAAIOaAJYPOj7IpjrPaqfYT8FohNKjSZ5IZw%2BCYEzZxAeBOeMxCnvNGDzvK7ifUHRJOflCcwnBdEfgA%2BzeYBWVE05zAoIlUJIfC5hgM272cBb6PNRv4DBD5PyJ0ECgTtVO9PCddMeAOAE3Xeas0bHfbiT3irAwb4dlHdQQQId6yanGkQzAoAOTUM5hsF2FwL7P%2FD6WuBW77HWyH6B41kyIUE294NgBfNAJx%2FNvRqfUro4YLhw5EJexHu8K2Hrjq9e4Y5IT%2BA2kSFiJs5IB8ACKoE%2By8FsGkve43TX4fhdhWsJ7jkfM9nIXCJ8OZ7tSRE1RqeLtC%2FWDB8jKoPLxkzh3uO9yQz2ZLLBWDDX7A7Ms2CyCwqQhkAsn%2F%2FH013wJY9XOXV30GTDYf3KrQSRIcc0HDCdAAuuMCEdoXNDk4WoW9Hhj%2BM4P%2Bz3cvTNZROH7x52XirUJgdgDAPQI6i6IWrqILo3%2F8n0wGEZIgYqx3T7TD4jIIhGTYBNMVfZP0pACKKQjhAH4smBeFLMfSRgtF9HvbZgd6rW%2B5E5QfgJyomK4lhp1BbbYxM74CwFvDo3%2F%2BF6QB6H2Isneiw5fo2ivw%2BBXdQtOSFUdb7Uw5o9nw2EhiFEUURiliIOIPBkzF0oGBYNcC3Hruh8vLcOyAAoGQAZjMVFvX9%2B3fNm14U3UXT24vILHW3iNHfUehdKliqoh3Tk17DDUF86P1ILohvQhiNwRMRWAX0a%2Ft61z47xwBGuqM6KkZDEpzNYkiqIu8CoHmVN%2ByprbUGH6Xo7Sq83gtXetFOb3wxG%2F6aDoBhJj7YvyH8vAOSInU8Eu6Dka8saoufQE9Psjvbl3j3R74Q%2BOOR7siiYiTuYwCQex4QJkLs3%2F%2FnlzigeW2bHx3uSuJ4tYu4XoHbvHCTt7zBi1%2BcOaF5GOFF4qe5QIuizgqejlT%2FITLcW25rG9696vLzgvwAFBVjoplujk7DzlASA%2FsH%2F%2FLdATQqRMfjUXSurNNspNWbvOF6b3SlE21T%2BHYK2wy0rai%2BHAsLcYEoRg0HxGiAiYABSz4QiYZQO%2FnwunXn5s4BigoQ9UG5E5JzHpDVBNE%2F%2BFfvDgDhJqzdMC8sPlNOyh3zPWoLVMwiH6XLU8PVUF5lvL%2FapLq6MOlWxhE7S51AsYQGgOAMMAyLByLBv5SsrwLxT3ZXKpetI%2BR3QD0AMH0Q7MyxOdroADZKYoNf7p7ZztBDtD09x2MZiVcAfgMT3iSp3mzqep3U3Sobs7PUBS11AeVOmGKREhvCGgxGog8W6KtpIXn1v6%2FZNDJ3DggA1PQx1APyLoaAKoQzB0AKdsOsO%2FHqKp2wt6nnViZ6m6a%2B4hPtpNHItLHethzovt4W25eIjSMishy0wgftnAO4v5EEVTiriZBAstXg4N%2F%2BdAds38UoLb9Z1rTWmSgWeMc1vobNPvUbXZ0bfKrL07oWvFfS%2BnpxqbD7RhN1XiW2vRs2LuM5K%2F7BmKzGheTVr8%2BZA%2B4f6aamFWujPs1qgrPJAb7%2F0D8u%2FqkhcOeXzsxTm670HuvocKum7HUpV2udS12iXa6uZVdX8amH96q2na60DEnnGsjiG1BqXySHrOiD9mcFAGzkgLzDYFgLhBC4FMCuXTRPLxgq6LIl7ZPj9YVa8yvppKJ13eBTs0VTrWjCLpew5BPCJwpXV7hEs9cU70ybTnZVgJ47UJ7XI89Z6gM2ctU4KZ785zkbBYID6hMVmEI2E8y7OyxZDkD%2Foa9Nd8BHvvKjYrRo6bwxN1GBM1t9gpvoUGHKlS7hAk3QrgkLLmG2%2BA2iA4gpAN6rJ1zauYa4%2BpdR6Lqazwj410XUqx2YN%2FrVtWsve%2BturlFg%2FWdfWxAhutap2Q7iUwRuajXVvLg95AAP33%2Fk68uzELj9odfKHcVSN%2BpcYhmtcM73%2BoS3M5VeTblSU87TBPApoFnPN48MwkUAnKpPvZ%2B32rtr7tV691o8RuJv0vLI4%2Bg5nuyWT8zNTHDz751c5GN7vatxu0%2FwG1TcmAcAggPA%2FiPfaAC495tnVkSmuFkTvxHO3ahOrtGUyzTFfE1QVsfoAgBkorUpPjghc0DDEfTOs2O5H73qHvfagl7uNcZ%2FvbbmxQO7seOnFktzOWDTF88ttolbnwwn291Z3RGSU1bAnGEtVgweL3aZL63c0XnAUheixrVe%2FVakuFlTv45el2giBXUwocc16%2FkpB4RnNt8TPm2EQfa3NABQlhe6kz197odLNvo9avHtf6%2F0%2FqhVB%2BUCcM8DY0tTg5snf1zbXnst%2BbircZ0PFfwZArCxPNt5bfzA0rvaz6jXO8VxPT1X0usipjpPUy15B2ECycS%2FG4Ds7w3h5wE4qjrvCx3uyPKt6TdXbKvv9REO%2FseaDafmFMCHHuICmsm14y%2FV7qqdqH8yHdcN9Zpa70LtpnET0LSHNG5FFQOaSLQ43x7tvqnte%2FNviJ063kmvFTq20WmBqUJdw%2BJBOM%2BLl4tANF3RBDAFgp4JxY9HRd0%2F%2Fzr3jas%2FNvlEvY43dq9f33LjJJcDdjzEeBTomBwa2abjyefqY3r72BlXTCZ8dDkTiABRLL7cYettKwrjnTeW3y4ujQyVC%2Bm0gymtOjVMw16QNsRe1PuN1w0IDbtPtU%2FZP2yi6DlT8idtyT9e6vL%2F2vNrEwNnTp%2BuVe%2B%2Bu%2BXWWS4AU717z5ff3CJi76%2Bfc33nTiaLk1FfdnVPdVk%2BMKHbjYXaWBAVrYk7rJYX2LRtWQHFVXEx6jA2DFz0Gu4ezISH54sdcEFo0wEXg0lBn5LqOK6pviWGx21HejRq02fUFh8Z%2BMLSo62sP9U%2BKwD3PVJfJ8DH62%2FV75o8Ue%2Btv5kurL2VuuScFzoUxAKFdpvE3RalRXGhuKgQxfMjieYZY0piRCDnATiehzBl%2F%2FMhcF70RRBclgPUp0jV8VWf8ElSny20pS%2BaBdErk%2F7NU4d3tbb%2BewKw4yWuVGCLP5V%2BIDlV%2B2DydnpN%2FS2nadjBS5kBiNptUpxvUVxUKBS6ooLtiCwsDMMN9V4xDUAGIdi%2FafHgpEvEN96L05R1dRjRBK%2BrxyHvsTd1GIxLeGXwy92XXfXNyWpw6kt2vMAOAMt8zW%2BTuv42HX%2FJJRrRZwJN%2BFwIAYkEEomRSASh30nJA6Ap%2BnwOoMO4dzjDBC86hz1MZdA7eUUK%2FrSdmD8%2B8E%2F5b6CYVQiEH0%2FVBlAsl7BJDD4FwZ1UrgLQFZI%2BlEISVIDKcJMsgvCp44IDsk3wZg6YGgUavZ%2BJd0KfgHQyqamc9Slfp5cfacpBer9PXeHls8mpc0NfvfxUt1UumBWArHITOvkQVqhgIwy2CfhhEteHqhRIkx9AIwlmyTADkMW9qpNUHV7XhM%2F7FAeg9odJPRmyiM8Mj50aG1p4bYpdoq2EzmkITH3ZffvZVipjkQk%2FnhLcR%2FIWACuh7AqVKVWG4W6GDrgIgIPTFJNMZVhTyXrd1%2FU5JnLQRdHBp%2F%2B0o%2BUEZ6ZAZueA5rdPhUJbF5b7BDcaYCvBe6C8HmQbFYX8ABDC4pymOKFenmfKqkvlBUmj03Unw%2BX0zNnqrmvm7MdX7wnApU5QwY2i%2BkGhbAC5lIpuKjugLNGjEPZypyfB8znAMdVJdRhjylF18rqmOArlgTTB3vG4%2B%2BiabvxMfn84JwCmnFAoYEGhgB7n%2FbWi0iuU61R9hR7LRdGlXkuXAXCOKU%2Bo02Oa4gWoeUnrPOqS9HgURWe6u7vHZrrdPVPrv6d5wOVOMgWiVMBSwF3vvVkL6hqoLIf6%2BVQphtkfQrLTEPOajQLq9BwdT9DpMZ%2FiBUn0WEl54uHPLr5sPT%2Bv0J9JEnzHlzZHh9JBlGoR5qGGjtSnHcaiZJwUnDqLMDvPDhf%2BZa%2B9MlWnk%2BLTcdYxWkwwNrpm0eRc3AbXCtSchECrk7yf2%2F8Xd73M5lbyVXcAAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 2
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1896,
+        "id": 2,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 12,
+    "name": "BSArch at Fallout New Vegas - mods and community",
+    "date": 1623420827083,
+    "lastEditedTime": 1623420827083,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1623415425883,
+    "id": "bcc959d1-f9fa-4121-8c83-be5999b255f4"
+  }
+]

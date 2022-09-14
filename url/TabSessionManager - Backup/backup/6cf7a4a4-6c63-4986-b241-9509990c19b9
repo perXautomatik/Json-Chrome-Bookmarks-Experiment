@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "1185": {
+        "1186": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/social/photosui/images/logo/1x/photos_64dp.png",
+          "groupId": -1,
+          "height": 723,
+          "highlighted": true,
+          "id": 1186,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Photo - Google Photos",
+          "url": "https://photos.google.com/photo/AF1QipOPxU9KKkbLJP-3yaVnV7gwAw-a3j8vzh9K6Kxe",
+          "width": 701,
+          "windowId": 1185
+        },
+        "1187": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pester.dev/img/favicon.ico",
+          "groupId": -1,
+          "height": 723,
+          "highlighted": false,
+          "id": 1187,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Quick Start | Pester",
+          "url": "https://pester.dev/docs/quick-start",
+          "width": 1065,
+          "windowId": 1185
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1185": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 810,
+        "id": 1185,
+        "incognito": false,
+        "left": 598,
+        "state": "normal",
+        "top": 311,
+        "type": "normal",
+        "width": 1129
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Photo - Google Photos",
+    "date": 1628623160159,
+    "lastEditedTime": 1628623101548,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "9d4ea1ac-473e-4e73-b275-4e4e5837f778"
+  }
+]

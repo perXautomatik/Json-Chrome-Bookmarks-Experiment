@@ -1,0 +1,148 @@
+[
+  {
+    "windows": {
+      "947": {
+        "948": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": true,
+          "id": 948,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Graphics - Diagramming - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=183",
+          "width": 1175,
+          "windowId": 947
+        },
+        "949": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 949,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Graphics - Viewers - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=24",
+          "width": 1175,
+          "windowId": 947
+        },
+        "950": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 950,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Graphics - Screen Capture - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=184",
+          "width": 1175,
+          "windowId": 947
+        },
+        "951": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 951,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Graphics - Processing - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=99",
+          "width": 1175,
+          "windowId": 947
+        },
+        "952": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.portablefreeware.com/images/favicon.png",
+          "groupId": -1,
+          "height": 631,
+          "highlighted": false,
+          "id": 952,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Graphics - Miscellaneous - The Portable Freeware Collection",
+          "url": "https://www.portablefreeware.com/index.php?sc=227",
+          "width": 1175,
+          "windowId": 947
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "947": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 631,
+        "id": 947,
+        "incognito": false,
+        "left": 8,
+        "state": "minimized",
+        "top": 0,
+        "type": "normal",
+        "width": 1175
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Graphics - Diagramming - The Portable Freeware Collection",
+    "date": 1629103055127,
+    "lastEditedTime": 1629102888611,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628837451293,
+    "id": "7ce11efd-e8c6-47a3-9635-6ce42b7bbf10"
+  }
+]

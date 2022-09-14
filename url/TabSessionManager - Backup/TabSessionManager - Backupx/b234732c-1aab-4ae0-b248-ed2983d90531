@@ -1,0 +1,93 @@
+[
+  {
+    "windows": {
+      "237": {
+        "238": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/df22805b/img/favicon_32.png",
+          "groupId": -1,
+          "height": 1485,
+          "highlighted": true,
+          "id": 238,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(13) Overclocking the Q6600 CPU with tape - YouTube",
+          "url": "https://www.youtube.com/watch?v=U3kAGnVWPj0&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=14",
+          "width": 1094,
+          "windowId": 237
+        }
+      },
+      "307": {
+        "306": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.business-sweden.com/favicon.ico",
+          "groupId": -1,
+          "height": 743,
+          "highlighted": true,
+          "id": 306,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Så hjälper vi små och medelstora företag - Business Sweden",
+          "url": "https://www.business-sweden.com/sv/tjanster/sa-hjalper-vi-sma-och-medelstora-foretag/?utm_campaign=889&utm_medium=display&utm_source=googleads&utm_content=natek&gclid=Cj0KCQjwwLKFBhDPARIsAPzPi-JJIHu0l32woF1hn3q3oB8bHABW-pJjZpqkMBM6q3Nrk3wrUGdZ--QaAl7SEALw_wcB",
+          "width": 1512,
+          "windowId": 307
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "237": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1527,
+        "id": 237,
+        "incognito": false,
+        "left": 2031,
+        "state": "normal",
+        "top": 80,
+        "type": "popup",
+        "width": 1110
+      },
+      "307": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 830,
+        "id": 307,
+        "incognito": false,
+        "left": 232,
+        "state": "minimized",
+        "top": 37,
+        "type": "normal",
+        "width": 1576
+      }
+    },
+    "tabsNumber": 2,
+    "name": "(13) Overclocking the Q6600 CPU with tape - YouTube",
+    "date": 1621941191133,
+    "lastEditedTime": 1621941191133,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1621883588884,
+    "id": "5e00ed7c-ba6e-444a-aec1-903e8c85c63a"
+  }
+]

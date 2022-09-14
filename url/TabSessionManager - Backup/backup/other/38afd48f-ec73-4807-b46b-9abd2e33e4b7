@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "3563": {
+        "3562": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/35e75ccf/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 3562,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(25) Khyber Pass cylinder repair - YouTube",
+          "url": "https://www.youtube.com/watch?v=OQKOc26eXI8&list=TLPQMDYwNzIwMjGtzIY43W9k-w&index=23",
+          "width": 1152,
+          "windowId": 3563
+        },
+        "3564": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA/FBMVEUAAADc6ffW5vbz9/zr8/r09/3w9Pp/mbbl8PnZ6Pfw9vzg7fnd6/fp8/rj7vng7fft9Prm8Pro8frX5vb5+v0AAAD3+v38/f2hu9T6/P39/f/0+f23y91PbohNZICdt9DJ2ObA0uOuw9m7zeCswti1yNw5TGjO3Ok9VW07Umnu8vexxdpCWnHG1uW9z+DK2ehyjq1CXnbc5fCyxtzD1OVJW3ZEW3JMY3tJYHZCXnHD0uNJZHs8TmU7Um3l7fOSsc5JZIBAVWqjvNPp8Pbi6fNAV21JYHvW4u05TGM9UG1CVW2Ys89AV3I7TWk9UGg5UGg7V21MXntAW3LR3emxe4ahAAAAVHRSTlMApqampqampaampqampqampqampqYBpqampqampjo4pKampqampjamNjimpjampqalNqampjg4Njg2pjg3OKamOCSkpqY4OKY2NjakODg2Njg2OKbnUbcNAAAA1UlEQVR4nKXK1XLCQBiG4bbUXain2wghWBLc3V3v/17gaP/dnW8GZnhP3+fksN6V1M8aX1KTPxVsfqTq/4pgzqdUR1MEc76lYroimBOUCqQVwfwPqWBMEU3/V2onugO/3eKgol+A9AIBNwByCfTdW1B2xUExewkqpwiUn0EGgZxxDjJKAngAeQTy3ivISxCwXkAWgbV1DRLAVHsEaWMOetodyI5wsLSfQAKo2fegjAAyp6D4iINoHII5AfMGZC4E8AYywxzMQmegEIHqXpC8AiWHHBzVFgj1MRHgiHGvAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 3564,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Sign in - Google Accounts",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Sign%20in%20-%20Google%20Accounts&url=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fv2%2Fauth%2Foauthchooseaccount%3Faccess_type%3Doffline%26prompt%3Dconsent%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapi.software.com%252Fauth%252Fgoogle%252Fcallback%26scope%3Dprofile%2520email%2520openid%26client_id%3D693108335854-h2i4b317eehmfr60tplekdjt6j1e8ku8.apps.googleusercontent.com%26flowName%3DGeneralOAuthFlow&tabId=3564&sessionId=1625515773073&icon=undefined",
+          "width": 1152,
+          "windowId": 3563
+        },
+        "3568": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA/FBMVEUAAADc6ffW5vbz9/zr8/r09/3w9Pp/mbbl8PnZ6Pfw9vzg7fnd6/fp8/rj7vng7fft9Prm8Pro8frX5vb5+v0AAAD3+v38/f2hu9T6/P39/f/0+f23y91PbohNZICdt9DJ2ObA0uOuw9m7zeCswti1yNzO3Ok9VW3u8vc5TGixxdrG1uW9z+DK2eg7UmlCWnFyjq1CXnZJZHvc5fCyxtzD1OVJW3ZCXnE7Um1JYHZEW3LD0uNMY3s8TmU5TGPl7fOSsc5JZIBAVWqjvNPp8Pbi6fNAV209UGjW4u1JYHtCVW1AW3KYs89AV3I7TWk5UGg7V21MXns9UG3R3eloU/HSAAAAVHRSTlMApqampqampaampqampqampqampqYBpqampqampjo4pKampqampqY2pjampqamODalNjimpqY4Njg4OKY2ODampjgkpKamODamODY4pDg4Njg2NqaQ2BS/AAAA1UlEQVR4nKXK1XLCQBiG4bbUXain2wgJkgR3d3fu/17gaP/dnW8GZnhP3+fksN6V1M+aX1LTPxVsfqQa/4pgzqdUV1MEc76lIroimBOUCmQUwfwPqWBEES3/V2onekO/0+YgrV+A9CoBNwByCYzcW1BuxUEpdwmqpAhUnkEGgbxxDjIKAngAeQTK3ivISxCwXkAWgYl1DRLATHsEaWMO+todyA5zsLSfQAIo2vegrACyp6DYmoN4DIIBAfMGZC4E8AYyoxzMQ2egEIHaXpC8AiXrHBzVFvWtMREj20f5AAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 3568,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Authorize application",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Authorize%20application&url=https%3A%2F%2Fgithub.com%2Flogin%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapi.software.com%252Fauth%252Fgithub%252Fcallback%26scope%3Dread%253Auser%252Cuser%253Aemail%26client_id%3D134e7b2861db06806fb9&tabId=3565&sessionId=1625515773073&icon=undefined",
+          "width": 0,
+          "windowId": 3563
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3563": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 913,
+        "id": 3563,
+        "incognito": false,
+        "left": 858,
+        "state": "minimized",
+        "top": 134,
+        "type": "normal",
+        "width": 1070
+      }
+    },
+    "tabsNumber": 3,
+    "name": "(25) Khyber Pass cylinder repair - YouTube",
+    "date": 1625603143775,
+    "lastEditedTime": 1625603143775,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "e37d1d21-e974-43d9-afba-0c087472579a"
+  }
+]

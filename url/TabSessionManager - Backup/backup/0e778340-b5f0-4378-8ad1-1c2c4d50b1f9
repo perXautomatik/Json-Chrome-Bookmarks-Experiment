@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "5854": {
+        "4857": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 567,
+          "highlighted": true,
+          "id": 4857,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Simple Needs at Fallout 3 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout3/mods/3769?tab=files&file_id=53125&nmm=1",
+          "width": 999,
+          "windowId": 5854
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5854": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 654,
+        "id": 5854,
+        "incognito": false,
+        "left": 99,
+        "state": "normal",
+        "top": 430,
+        "type": "normal",
+        "width": 1063
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Simple Needs at Fallout 3 Nexus - Mods and community",
+    "date": 1626809943738,
+    "lastEditedTime": 1626762110886,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1625991790805,
+    "id": "9c44a462-2d93-4ae6-88be-3eb11b31332d"
+  }
+]

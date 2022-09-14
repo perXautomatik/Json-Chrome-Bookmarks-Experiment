@@ -1,0 +1,241 @@
+[
+  {
+    "windows": {
+      "1": {
+        "1512": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 1512,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=24649",
+          "width": 1664,
+          "windowId": 1
+        },
+        "1513": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 937,
+          "highlighted": false,
+          "id": 1513,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1664,
+          "windowId": 1
+        },
+        "1515": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 595,
+          "highlighted": false,
+          "id": 1515,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "jumpstart magic the gathering - Bing",
+          "url": "https://www.bing.com/search?q=jumpstart+magic+the+gathering&cvid=e7c4717a82fd498f9fce811de9bce8bc&aqs=edge.0.0j69i57j0l4j69i65.3715j0j4&FORM=ANAB01&PC=U531",
+          "width": 916,
+          "windowId": 1
+        },
+        "1517": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAA5qfk3oPonX+Ywce4bzuo0y/8iVeAA//9MuPM4vfk0hPU3lfozmf8wwfotaek6uPdRxPg6sfc5ofkyefM6t/c5rflFoO1TzftBle02fulJq+4u0uA0h/c3vvclxvQ7iO4xjfNS2tYzjfg3vvopuf9Vqv8yv/k0o/gtZuk0jPcAAP89te0taOtOxvwoxfZV0Pwneds+lO4xc/BEsvAoXOY8j/BO0dk4u/gzZv9JsvGA//8xqvMyeOsg0OcqZOkiZNoYzupFn+46tvg7fvc3l/s5gvA/uv8vc/Qvb/ExnvM2gew6jOofw+0pj+JA1twzvv0v3t5V0/tLtfYhzeg+yNsuwO4xgOcrv/dCmutL0/8kYedOvvVW1/9MtfMazewcxvFIrdlJktshrt4kbdtV1aoAgIAqVdVV1f8vduIzzMyAgIAbz+QAqv9OwtgzZuZV//9Epe9V3cwAgP8ct+NAn/8u0f9SzftmzMwqqtUA1f81091Uz/xA2eYxcO5HrO6w9S2FAAAAgHRSTlMApqampqUGpQGlmKamBaSlNaWmlKGlkaSipaOlo5MWpqYVLTZ9DARrNpemAQ87EZeFmhQVFZmUk1QFhgMVICCRoZ0tlQ+UiQo2kxV0PFQJiUEIIFVxpRZUMGoJFZE0mYcSNQehBwYCBgZoBQIwA2gKA08PAn8IC3oFBgZSTxSGbAwl51EAAAGySURBVHicndP3U4JgGMBxikSkFMssM8M0RpYjt1m5Gpot28v23nuvf733MRIsuO76/sTd87l3HIB9xS+4CVJ8VuqGEdgYQ6gDvXHQTLFGt+oihJEym82DMUZNEGiFklDbBYEGqKn//6CpClIHnX8A/TfIY0T2TuEq+k5TNWTKE0ahwHC/iAQ4lqLYAvPUrQIcWcFgMFDC0uZZJegYroOGHVyBQsLum0s8KwOSYQHY0xun0xWgrQtqc2D3MZhrNOm5hOyoCNRCCPBLPjsAje1FtoQ+J4IghnGCrzS3Tb1JoDfXWGoUAX5hYiOdBuC8lIHRGggARnKJidsd23zUeawMuicHFv0pPwKPEvC4aCi5imHZ/PiYn05p/VFnXxkceMI4lFwl3ZnlSLuVxrWpqPOkDHZFEA6GZuPNLe3WGhpPnV9Lt9ged2mh8FV8vVUEya09CZCBERzNceu6TgcACddRQP4ysrMRF21t1tWLoPHdE9yXg76ZHks99AUiY7mLH1/EylqPxYJMCUQWh4Yqxyjv2oMITMuZSaU/7HDm9aFYLMY/MgFeYQznWPF6vaFQiK/Y/RPGdE7XqXKxcQAAAABJRU5ErkJggg==",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1517,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "advanced renamer portable - Bing",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=advanced%20renamer%20portable%20-%20Bing&url=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dadvanced%2Brenamer%2Bportable%26cvid%3D12566c2002b94fd58f0c201d9b9fb663%26aqs%3Dedge.0.0l6.6812j0j1%26FORM%3DANAB01%26PC%3DU531&tabId=2&sessionId=1622817391819&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQAUlEQVR4XuWbe4xU133Hv79z7tyZ2V12Wd6PBduMsfFibCjG%2BEG8uI6VR%2BNWkUrUKKJNmraS1UZK%2F6jUqorEVlXaSJWaJn2pjtq4Sh8yf7SxolSO8xjA77BmjTHGzoKdGLABe70s%2B5i595zftzp3ZoHFJrN3vUlMO%2BJqZvYMc%2B%2F3c76%2F3znnd%2B4I%2Fp8%2FJJd%2BUnYA5vXHznY6tcsibzuNhXUp06hgR1wtPdvlO87%2Bz0elnut7f4EfzgVgB2mPDaBYmJhYZzw%2BIpAbRNAO5dskDxL2IJw79MSH5p3%2BBWrKdepcALb%2F4JXSpF%2FcZY3eZsR%2BmsAWAdohMgzyoAKDQhwA9KhTedNNjp5bM7m8vvsT4nNd1c%2Fxw7kAbP32W51xHPeoNR8Q4jcBbAIQgUggGAFxipAfQ%2Fg8lI%2FZgjkyPjry1sB9KyZ%2BjppynSoXgG372M3JiYoY6YNwJ4ibp59NagBHCHkZ4GMiMgjHY0KctMW2t6t3h%2Fb312N2AGD7aPQdAATwBFIQ50TkTZJDgOynyID1%2Ftl9H25%2F%2Ff0lH8gH4FvspkxUpGD7SN0JXOqAS%2BQJToF8nsTTEPN9S33x%2FeaE2QGwto%2FAToCXhMA7%2BjdY%2FizJl0HuhbFPWry%2FnDB7AMROsCWAKSJvEPIcyT2IzH89%2BaHikfdLKOQH4Ccq0nQAWztgSmcYBc6QugeQv3vyvrZnrmgAtLZPiJ2cqQMkzAOYklI1hl98%2FGPlfVc2ANg%2BEckBAASgIPdQ8GdP%2Fmp5zxUPAJA8OSDTS6BKsv%2Bpj5erVyyApDZRiaztA2UnWw2D71ApVXrf%2F9SOKxyAiO0TyE55x0ywVb9Klfy%2FAICNHDArALiSAfwbuxMzUZHI9onKTskbAtIMgU9eqSEwBcCEYXAWANAMgSsewHsJgZAEdzYcsOMh2uM9iGsOHdZhgVVYR4zFHmNnRzF2%2BBOStMoq77U930wwOCDMBIMDwjCYNwQgVYQk2ARw%2BxMsYxILnOBaAW4VRZkGQ0oMFVIMPflhGX6vAlv9%2F9kBQNwnWT1gxmuBxnWIVBGSYBPAlh9wGYCNUNwixG0QtFEwBNGXBTwC2tdoMawJRtGNiYFbJG0lKG97fgC1tCIF6RMyvwMEVYQQ%2BEwjBLb8gBuN4tMAtlGwFERMwRiEw4SegshLSj6TGn84TuKfDNwrZ%2FMKbPX52QHI1gKhHpDTASEEgP6nPlPIAGx9lKHXPw%2FBdgJdBEoQhhljIsJxFbwSAHjRgzD%2BZUbmhK%2BnI8DE2BIsrlXvFtdKYKv22QGA7YPMoCDyzrNXxaP%2Fqd9tANjyHW40Bp9mACC4CuD8sGgI6waCjgbjBIe96Ek1fEWBFwXpIKwfYr3%2BxuG7l4y1EtiqPR%2BAvw%2FzgDRbDs8aAC8AuPW7vM4AH1NhALAZwIoAIPOAABrcIAoVjKnoKQWHvPGDCj2SGv%2BqE3MijvzpY8e6x7ADCpEmv1ayL7TPDoDYPmAWDhA0HHB%2FwwF3focrfIRbFLqdkF8BcB0bIZBBCAAaEOhUWFPRMW90xBu%2B4UV%2FrKIH1PD7SMaHjh%2FvSTCL8vvsALAJIO9aIAAIOaAJYPOj7IpjrPaqfYT8FohNKjSZ5IZw%2BCYEzZxAeBOeMxCnvNGDzvK7ifUHRJOflCcwnBdEfgA%2BzeYBWVE05zAoIlUJIfC5hgM272cBb6PNRv4DBD5PyJ0ECgTtVO9PCddMeAOAE3Xeas0bHfbiT3irAwb4dlHdQQQId6yanGkQzAoAOTUM5hsF2FwL7P%2FD6WuBW77HWyH6B41kyIUE294NgBfNAJx%2FNvRqfUro4YLhw5EJexHu8K2Hrjq9e4Y5IT%2BA2kSFiJs5IB8ACKoE%2By8FsGkve43TX4fhdhWsJ7jkfM9nIXCJ8OZ7tSRE1RqeLtC%2FWDB8jKoPLxkzh3uO9yQz2ZLLBWDDX7A7Ms2CyCwqQhkAsn%2F%2FH013wJY9XOXV30GTDYf3KrQSRIcc0HDCdAAuuMCEdoXNDk4WoW9Hhj%2BM4P%2Bz3cvTNZROH7x52XirUJgdgDAPQI6i6IWrqILo3%2F8n0wGEZIgYqx3T7TD4jIIhGTYBNMVfZP0pACKKQjhAH4smBeFLMfSRgtF9HvbZgd6rW%2B5E5QfgJyomK4lhp1BbbYxM74CwFvDo3%2F%2BF6QB6H2Isneiw5fo2ivw%2BBXdQtOSFUdb7Uw5o9nw2EhiFEUURiliIOIPBkzF0oGBYNcC3Hruh8vLcOyAAoGQAZjMVFvX9%2B3fNm14U3UXT24vILHW3iNHfUehdKliqoh3Tk17DDUF86P1ILohvQhiNwRMRWAX0a%2Ft61z47xwBGuqM6KkZDEpzNYkiqIu8CoHmVN%2ByprbUGH6Xo7Sq83gtXetFOb3wxG%2F6aDoBhJj7YvyH8vAOSInU8Eu6Dka8saoufQE9Psjvbl3j3R74Q%2BOOR7siiYiTuYwCQex4QJkLs3%2F%2FnlzigeW2bHx3uSuJ4tYu4XoHbvHCTt7zBi1%2BcOaF5GOFF4qe5QIuizgqejlT%2FITLcW25rG9696vLzgvwAFBVjoplujk7DzlASA%2FsH%2F%2FLdATQqRMfjUXSurNNspNWbvOF6b3SlE21T%2BHYK2wy0rai%2BHAsLcYEoRg0HxGiAiYABSz4QiYZQO%2FnwunXn5s4BigoQ9UG5E5JzHpDVBNE%2F%2BFfvDgDhJqzdMC8sPlNOyh3zPWoLVMwiH6XLU8PVUF5lvL%2FapLq6MOlWxhE7S51AsYQGgOAMMAyLByLBv5SsrwLxT3ZXKpetI%2BR3QD0AMH0Q7MyxOdroADZKYoNf7p7ZztBDtD09x2MZiVcAfgMT3iSp3mzqep3U3Sobs7PUBS11AeVOmGKREhvCGgxGog8W6KtpIXn1v6%2FZNDJ3DggA1PQx1APyLoaAKoQzB0AKdsOsO%2FHqKp2wt6nnViZ6m6a%2B4hPtpNHItLHethzovt4W25eIjSMishy0wgftnAO4v5EEVTiriZBAstXg4N%2F%2BdAds38UoLb9Z1rTWmSgWeMc1vobNPvUbXZ0bfKrL07oWvFfS%2BnpxqbD7RhN1XiW2vRs2LuM5K%2F7BmKzGheTVr8%2BZA%2B4f6aamFWujPs1qgrPJAb7%2F0D8u%2FqkhcOeXzsxTm670HuvocKum7HUpV2udS12iXa6uZVdX8amH96q2na60DEnnGsjiG1BqXySHrOiD9mcFAGzkgLzDYFgLhBC4FMCuXTRPLxgq6LIl7ZPj9YVa8yvppKJ13eBTs0VTrWjCLpew5BPCJwpXV7hEs9cU70ybTnZVgJ47UJ7XI89Z6gM2ctU4KZ785zkbBYID6hMVmEI2E8y7OyxZDkD%2Foa9Nd8BHvvKjYrRo6bwxN1GBM1t9gpvoUGHKlS7hAk3QrgkLLmG2%2BA2iA4gpAN6rJ1zauYa4%2BpdR6Lqazwj410XUqx2YN%2FrVtWsve%2BturlFg%2FWdfWxAhutap2Q7iUwRuajXVvLg95AAP33%2Fk68uzELj9odfKHcVSN%2BpcYhmtcM73%2BoS3M5VeTblSU87TBPApoFnPN48MwkUAnKpPvZ%2B32rtr7tV691o8RuJv0vLI4%2Bg5nuyWT8zNTHDz751c5GN7vatxu0%2FwG1TcmAcAggPA%2FiPfaAC495tnVkSmuFkTvxHO3ahOrtGUyzTFfE1QVsfoAgBkorUpPjghc0DDEfTOs2O5H73qHvfagl7uNcZ%2FvbbmxQO7seOnFktzOWDTF88ttolbnwwn291Z3RGSU1bAnGEtVgweL3aZL63c0XnAUheixrVe%2FVakuFlTv45el2giBXUwocc16%2FkpB4RnNt8TPm2EQfa3NABQlhe6kz197odLNvo9avHtf6%2F0%2FqhVB%2BUCcM8DY0tTg5snf1zbXnst%2BbircZ0PFfwZArCxPNt5bfzA0rvaz6jXO8VxPT1X0usipjpPUy15B2ECycS%2FG4Ds7w3h5wE4qjrvCx3uyPKt6TdXbKvv9REO%2FseaDafmFMCHHuICmsm14y%2FV7qqdqH8yHdcN9Zpa70LtpnET0LSHNG5FFQOaSLQ43x7tvqnte%2FNviJ063kmvFTq20WmBqUJdw%2BJBOM%2BLl4tANF3RBDAFgp4JxY9HRd0%2F%2Fzr3jas%2FNvlEvY43dq9f33LjJJcDdjzEeBTomBwa2abjyefqY3r72BlXTCZ8dDkTiABRLL7cYettKwrjnTeW3y4ujQyVC%2Bm0gymtOjVMw16QNsRe1PuN1w0IDbtPtU%2FZP2yi6DlT8idtyT9e6vL%2F2vNrEwNnTp%2BuVe%2B%2Bu%2BXWWS4AU717z5ff3CJi76%2Bfc33nTiaLk1FfdnVPdVk%2BMKHbjYXaWBAVrYk7rJYX2LRtWQHFVXEx6jA2DFz0Gu4ezISH54sdcEFo0wEXg0lBn5LqOK6pviWGx21HejRq02fUFh8Z%2BMLSo62sP9U%2BKwD3PVJfJ8DH62%2FV75o8Ue%2Btv5kurL2VuuScFzoUxAKFdpvE3RalRXGhuKgQxfMjieYZY0piRCDnATiehzBl%2F%2FMhcF70RRBclgPUp0jV8VWf8ElSny20pS%2BaBdErk%2F7NU4d3tbb%2BewKw4yWuVGCLP5V%2BIDlV%2B2DydnpN%2FS2nadjBS5kBiNptUpxvUVxUKBS6ooLtiCwsDMMN9V4xDUAGIdi%2FafHgpEvEN96L05R1dRjRBK%2BrxyHvsTd1GIxLeGXwy92XXfXNyWpw6kt2vMAOAMt8zW%2BTuv42HX%2FJJRrRZwJN%2BFwIAYkEEomRSASh30nJA6Ap%2BnwOoMO4dzjDBC86hz1MZdA7eUUK%2FrSdmD8%2B8E%2F5b6CYVQiEH0%2FVBlAsl7BJDD4FwZ1UrgLQFZI%2BlEISVIDKcJMsgvCp44IDsk3wZg6YGgUavZ%2BJd0KfgHQyqamc9Slfp5cfacpBer9PXeHls8mpc0NfvfxUt1UumBWArHITOvkQVqhgIwy2CfhhEteHqhRIkx9AIwlmyTADkMW9qpNUHV7XhM%2F7FAeg9odJPRmyiM8Mj50aG1p4bYpdoq2EzmkITH3ZffvZVipjkQk%2FnhLcR%2FIWACuh7AqVKVWG4W6GDrgIgIPTFJNMZVhTyXrd1%2FU5JnLQRdHBp%2F%2B0o%2BUEZ6ZAZueA5rdPhUJbF5b7BDcaYCvBe6C8HmQbFYX8ABDC4pymOKFenmfKqkvlBUmj03Unw%2BX0zNnqrmvm7MdX7wnApU5QwY2i%2BkGhbAC5lIpuKjugLNGjEPZypyfB8znAMdVJdRhjylF18rqmOArlgTTB3vG4%2B%2BiabvxMfn84JwCmnFAoYEGhgB7n%2FbWi0iuU61R9hR7LRdGlXkuXAXCOKU%2Bo02Oa4gWoeUnrPOqS9HgURWe6u7vHZrrdPVPrv6d5wOVOMgWiVMBSwF3vvVkL6hqoLIf6%2BVQphtkfQrLTEPOajQLq9BwdT9DpMZ%2FiBUn0WEl54uHPLr5sPT%2Bv0J9JEnzHlzZHh9JBlGoR5qGGjtSnHcaiZJwUnDqLMDvPDhf%2BZa%2B9MlWnk%2BLTcdYxWkwwNrpm0eRc3AbXCtSchECrk7yf2%2F8Xd73M5lbyVXcAAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 1
+        },
+        "1520": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAA4ovo5rvgnX+Ywce5Kr/A0y/8iVeAA//8bz+k2lfozmf8wwfo5rPlRxfg0ifc2g/ElxvQtaelAk+5OvPU6uPY2fuk1iPYuZ+ov0uA3vvdFoO46vfgzjfhS2tY7tPUxjfMpuf9Vqv9Uz/syv/k0o/gsaew4oPsxefMAAP89te5OxvxV0f0xwPw+tfYtaOs+lO4xc/AmedsoXOVEsvAbzO1O0dk4u/gzZv9Pv/Y5vvpFouw4gOsyeOs2vfszePKA//8xqvMg0OcxnvNFn+47fvc/uv8iZNovc/Q4vfg3lPsfw+1A1tw6jOozvv0v3t5V0/srv/hLtfYhzeg+yNwuwO4xgOcyffQpj+JBmus/kutL0/8kYedW1/8azexIrdkAqv8zzMwct+NV3cwAgICAgIAqVdUcxvEqqtVV1f8vduIzZuZJkttLuvVHrO4kbdtV//9Epe9V1aoAgP8hrt4u0f9mzMwA1f81090bz+RUz/xA2eYxcO5Owtg+kPJAn/8rvx1+AAAAgHRSTlMApqampqQGpQGlpQWkkqWmpqSlpaWlo5WXoxalmzYtNRUMBKJrNpGUpgEPEYCUkzsTFZqZFZuTVAWTNZR5IHmZAxUgFS0PCqE2h5NUiTxBCCAwVXGkFlSRCWqUCBUzhzUDBX8PAgIGEgYGaAoHfWwHA08GAqELBQZSME8UhmiHCP0/oXUAAAG6SURBVHichdN3V7JQHMBxnjDERy1FQUUzQbRyK440s1JzNGzvvffe+613L3oCC+r7F+f8PueOAyD12Dkfhjee5bqhuWqKxpSBtjNEOnIZn+IiWMZBkmQoRSsJDKwgCKVdAGgBkdWh30GLXhno/wCeP4DWo/8H0xcQrPQhcxWtp0sAXQUsw9Vo5gcRAZNzBHM1+rBHAbhKnE6nC3JTB5vNoGPkP2zExdSCQBgTM/kHeYDTVQiMifWniSZgaYdZXMhdCs41Gs1MXnJUCWCngkYB2B4lS2grFgNsIYogDFef28ZeRNBbGeiGQcDOja4nBOC8lAIVbAAABGfyo9u3ttmkc0sCrALwQtCz2D8fK8cAuBdB2ErAvKsIUiqMZ2NEWR1LOge/wH6YR2HeVdxXXFqmKAJVl5POvS9w0QB8ND7dZzcZKBWBlt92xFucjvNqGH911tpqN5kMAPAb1yLAI1kUzFEqba6DbpX1OCJ9GaXpZStB2c3mBqBew9FdKRicDLQJ1YElWzn59kWsrAXcbncDvM8PDzePQX4oBNC3VFyU+8OOJp8D6XQ6dF6MsDJjeI4Vv98fj8fZpt0/AQazTD8vHgUyAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 1520,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "mtg jumpstart decklists - Bing",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=mtg%20jumpstart%20decklists%20-%20Bing&url=https%3A%2F%2Fwww.bing.com%2Fsearch%3Fq%3Dmtg%2Bjumpstart%2Bdecklists%26cvid%3D15fb8ed286534a998c51ff9e51d44dcc%26aqs%3Dedge.0.0j69i57j0l3.40816j0j4%26FORM%3DANAB01%26PC%3DU531&tabId=1520&sessionId=1622817391819&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQAUlEQVR4XuWbe4xU133Hv79z7tyZ2V12Wd6PBduMsfFibCjG%2BEG8uI6VR%2BNWkUrUKKJNmraS1UZK%2F6jUqorEVlXaSJWaJn2pjtq4Sh8yf7SxolSO8xjA77BmjTHGzoKdGLABe70s%2B5i595zftzp3ZoHFJrN3vUlMO%2BJqZvYMc%2B%2F3c76%2F3znnd%2B4I%2Fp8%2FJJd%2BUnYA5vXHznY6tcsibzuNhXUp06hgR1wtPdvlO87%2Bz0elnut7f4EfzgVgB2mPDaBYmJhYZzw%2BIpAbRNAO5dskDxL2IJw79MSH5p3%2BBWrKdepcALb%2F4JXSpF%2FcZY3eZsR%2BmsAWAdohMgzyoAKDQhwA9KhTedNNjp5bM7m8vvsT4nNd1c%2Fxw7kAbP32W51xHPeoNR8Q4jcBbAIQgUggGAFxipAfQ%2Fg8lI%2FZgjkyPjry1sB9KyZ%2BjppynSoXgG372M3JiYoY6YNwJ4ibp59NagBHCHkZ4GMiMgjHY0KctMW2t6t3h%2Fb312N2AGD7aPQdAATwBFIQ50TkTZJDgOynyID1%2Ftl9H25%2F%2Ff0lH8gH4FvspkxUpGD7SN0JXOqAS%2BQJToF8nsTTEPN9S33x%2FeaE2QGwto%2FAToCXhMA7%2BjdY%2FizJl0HuhbFPWry%2FnDB7AMROsCWAKSJvEPIcyT2IzH89%2BaHikfdLKOQH4Ccq0nQAWztgSmcYBc6QugeQv3vyvrZnrmgAtLZPiJ2cqQMkzAOYklI1hl98%2FGPlfVc2ANg%2BEckBAASgIPdQ8GdP%2Fmp5zxUPAJA8OSDTS6BKsv%2Bpj5erVyyApDZRiaztA2UnWw2D71ApVXrf%2F9SOKxyAiO0TyE55x0ywVb9Klfy%2FAICNHDArALiSAfwbuxMzUZHI9onKTskbAtIMgU9eqSEwBcCEYXAWANAMgSsewHsJgZAEdzYcsOMh2uM9iGsOHdZhgVVYR4zFHmNnRzF2%2BBOStMoq77U930wwOCDMBIMDwjCYNwQgVYQk2ARw%2BxMsYxILnOBaAW4VRZkGQ0oMFVIMPflhGX6vAlv9%2F9kBQNwnWT1gxmuBxnWIVBGSYBPAlh9wGYCNUNwixG0QtFEwBNGXBTwC2tdoMawJRtGNiYFbJG0lKG97fgC1tCIF6RMyvwMEVYQQ%2BEwjBLb8gBuN4tMAtlGwFERMwRiEw4SegshLSj6TGn84TuKfDNwrZ%2FMKbPX52QHI1gKhHpDTASEEgP6nPlPIAGx9lKHXPw%2FBdgJdBEoQhhljIsJxFbwSAHjRgzD%2BZUbmhK%2BnI8DE2BIsrlXvFtdKYKv22QGA7YPMoCDyzrNXxaP%2Fqd9tANjyHW40Bp9mACC4CuD8sGgI6waCjgbjBIe96Ek1fEWBFwXpIKwfYr3%2BxuG7l4y1EtiqPR%2BAvw%2FzgDRbDs8aAC8AuPW7vM4AH1NhALAZwIoAIPOAABrcIAoVjKnoKQWHvPGDCj2SGv%2BqE3MijvzpY8e6x7ADCpEmv1ayL7TPDoDYPmAWDhA0HHB%2FwwF3focrfIRbFLqdkF8BcB0bIZBBCAAaEOhUWFPRMW90xBu%2B4UV%2FrKIH1PD7SMaHjh%2FvSTCL8vvsALAJIO9aIAAIOaAJYPOj7IpjrPaqfYT8FohNKjSZ5IZw%2BCYEzZxAeBOeMxCnvNGDzvK7ifUHRJOflCcwnBdEfgA%2BzeYBWVE05zAoIlUJIfC5hgM272cBb6PNRv4DBD5PyJ0ECgTtVO9PCddMeAOAE3Xeas0bHfbiT3irAwb4dlHdQQQId6yanGkQzAoAOTUM5hsF2FwL7P%2FD6WuBW77HWyH6B41kyIUE294NgBfNAJx%2FNvRqfUro4YLhw5EJexHu8K2Hrjq9e4Y5IT%2BA2kSFiJs5IB8ACKoE%2By8FsGkve43TX4fhdhWsJ7jkfM9nIXCJ8OZ7tSRE1RqeLtC%2FWDB8jKoPLxkzh3uO9yQz2ZLLBWDDX7A7Ms2CyCwqQhkAsn%2F%2FH013wJY9XOXV30GTDYf3KrQSRIcc0HDCdAAuuMCEdoXNDk4WoW9Hhj%2BM4P%2Bz3cvTNZROH7x52XirUJgdgDAPQI6i6IWrqILo3%2F8n0wGEZIgYqx3T7TD4jIIhGTYBNMVfZP0pACKKQjhAH4smBeFLMfSRgtF9HvbZgd6rW%2B5E5QfgJyomK4lhp1BbbYxM74CwFvDo3%2F%2BF6QB6H2Isneiw5fo2ivw%2BBXdQtOSFUdb7Uw5o9nw2EhiFEUURiliIOIPBkzF0oGBYNcC3Hruh8vLcOyAAoGQAZjMVFvX9%2B3fNm14U3UXT24vILHW3iNHfUehdKliqoh3Tk17DDUF86P1ILohvQhiNwRMRWAX0a%2Ft61z47xwBGuqM6KkZDEpzNYkiqIu8CoHmVN%2ByprbUGH6Xo7Sq83gtXetFOb3wxG%2F6aDoBhJj7YvyH8vAOSInU8Eu6Dka8saoufQE9Psjvbl3j3R74Q%2BOOR7siiYiTuYwCQex4QJkLs3%2F%2FnlzigeW2bHx3uSuJ4tYu4XoHbvHCTt7zBi1%2BcOaF5GOFF4qe5QIuizgqejlT%2FITLcW25rG9696vLzgvwAFBVjoplujk7DzlASA%2FsH%2F%2FLdATQqRMfjUXSurNNspNWbvOF6b3SlE21T%2BHYK2wy0rai%2BHAsLcYEoRg0HxGiAiYABSz4QiYZQO%2FnwunXn5s4BigoQ9UG5E5JzHpDVBNE%2F%2BFfvDgDhJqzdMC8sPlNOyh3zPWoLVMwiH6XLU8PVUF5lvL%2FapLq6MOlWxhE7S51AsYQGgOAMMAyLByLBv5SsrwLxT3ZXKpetI%2BR3QD0AMH0Q7MyxOdroADZKYoNf7p7ZztBDtD09x2MZiVcAfgMT3iSp3mzqep3U3Sobs7PUBS11AeVOmGKREhvCGgxGog8W6KtpIXn1v6%2FZNDJ3DggA1PQx1APyLoaAKoQzB0AKdsOsO%2FHqKp2wt6nnViZ6m6a%2B4hPtpNHItLHethzovt4W25eIjSMishy0wgftnAO4v5EEVTiriZBAstXg4N%2F%2BdAds38UoLb9Z1rTWmSgWeMc1vobNPvUbXZ0bfKrL07oWvFfS%2BnpxqbD7RhN1XiW2vRs2LuM5K%2F7BmKzGheTVr8%2BZA%2B4f6aamFWujPs1qgrPJAb7%2F0D8u%2FqkhcOeXzsxTm670HuvocKum7HUpV2udS12iXa6uZVdX8amH96q2na60DEnnGsjiG1BqXySHrOiD9mcFAGzkgLzDYFgLhBC4FMCuXTRPLxgq6LIl7ZPj9YVa8yvppKJ13eBTs0VTrWjCLpew5BPCJwpXV7hEs9cU70ybTnZVgJ47UJ7XI89Z6gM2ctU4KZ785zkbBYID6hMVmEI2E8y7OyxZDkD%2Foa9Nd8BHvvKjYrRo6bwxN1GBM1t9gpvoUGHKlS7hAk3QrgkLLmG2%2BA2iA4gpAN6rJ1zauYa4%2BpdR6Lqazwj410XUqx2YN%2FrVtWsve%2BturlFg%2FWdfWxAhutap2Q7iUwRuajXVvLg95AAP33%2Fk68uzELj9odfKHcVSN%2BpcYhmtcM73%2BoS3M5VeTblSU87TBPApoFnPN48MwkUAnKpPvZ%2B32rtr7tV691o8RuJv0vLI4%2Bg5nuyWT8zNTHDz751c5GN7vatxu0%2FwG1TcmAcAggPA%2FiPfaAC495tnVkSmuFkTvxHO3ahOrtGUyzTFfE1QVsfoAgBkorUpPjghc0DDEfTOs2O5H73qHvfagl7uNcZ%2FvbbmxQO7seOnFktzOWDTF88ttolbnwwn291Z3RGSU1bAnGEtVgweL3aZL63c0XnAUheixrVe%2FVakuFlTv45el2giBXUwocc16%2FkpB4RnNt8TPm2EQfa3NABQlhe6kz197odLNvo9avHtf6%2F0%2FqhVB%2BUCcM8DY0tTg5snf1zbXnst%2BbircZ0PFfwZArCxPNt5bfzA0rvaz6jXO8VxPT1X0usipjpPUy15B2ECycS%2FG4Ds7w3h5wE4qjrvCx3uyPKt6TdXbKvv9REO%2FseaDafmFMCHHuICmsm14y%2FV7qqdqH8yHdcN9Zpa70LtpnET0LSHNG5FFQOaSLQ43x7tvqnte%2FNviJ063kmvFTq20WmBqUJdw%2BJBOM%2BLl4tANF3RBDAFgp4JxY9HRd0%2F%2Fzr3jas%2FNvlEvY43dq9f33LjJJcDdjzEeBTomBwa2abjyefqY3r72BlXTCZ8dDkTiABRLL7cYettKwrjnTeW3y4ujQyVC%2Bm0gymtOjVMw16QNsRe1PuN1w0IDbtPtU%2FZP2yi6DlT8idtyT9e6vL%2F2vNrEwNnTp%2BuVe%2B%2Bu%2BXWWS4AU717z5ff3CJi76%2Bfc33nTiaLk1FfdnVPdVk%2BMKHbjYXaWBAVrYk7rJYX2LRtWQHFVXEx6jA2DFz0Gu4ezISH54sdcEFo0wEXg0lBn5LqOK6pviWGx21HejRq02fUFh8Z%2BMLSo62sP9U%2BKwD3PVJfJ8DH62%2FV75o8Ue%2Btv5kurL2VuuScFzoUxAKFdpvE3RalRXGhuKgQxfMjieYZY0piRCDnATiehzBl%2F%2FMhcF70RRBclgPUp0jV8VWf8ElSny20pS%2BaBdErk%2F7NU4d3tbb%2BewKw4yWuVGCLP5V%2BIDlV%2B2DydnpN%2FS2nadjBS5kBiNptUpxvUVxUKBS6ooLtiCwsDMMN9V4xDUAGIdi%2FafHgpEvEN96L05R1dRjRBK%2BrxyHvsTd1GIxLeGXwy92XXfXNyWpw6kt2vMAOAMt8zW%2BTuv42HX%2FJJRrRZwJN%2BFwIAYkEEomRSASh30nJA6Ap%2BnwOoMO4dzjDBC86hz1MZdA7eUUK%2FrSdmD8%2B8E%2F5b6CYVQiEH0%2FVBlAsl7BJDD4FwZ1UrgLQFZI%2BlEISVIDKcJMsgvCp44IDsk3wZg6YGgUavZ%2BJd0KfgHQyqamc9Slfp5cfacpBer9PXeHls8mpc0NfvfxUt1UumBWArHITOvkQVqhgIwy2CfhhEteHqhRIkx9AIwlmyTADkMW9qpNUHV7XhM%2F7FAeg9odJPRmyiM8Mj50aG1p4bYpdoq2EzmkITH3ZffvZVipjkQk%2FnhLcR%2FIWACuh7AqVKVWG4W6GDrgIgIPTFJNMZVhTyXrd1%2FU5JnLQRdHBp%2F%2B0o%2BUEZ6ZAZueA5rdPhUJbF5b7BDcaYCvBe6C8HmQbFYX8ABDC4pymOKFenmfKqkvlBUmj03Unw%2BX0zNnqrmvm7MdX7wnApU5QwY2i%2BkGhbAC5lIpuKjugLNGjEPZypyfB8znAMdVJdRhjylF18rqmOArlgTTB3vG4%2B%2BiabvxMfn84JwCmnFAoYEGhgB7n%2FbWi0iuU61R9hR7LRdGlXkuXAXCOKU%2Bo02Oa4gWoeUnrPOqS9HgURWe6u7vHZrrdPVPrv6d5wOVOMgWiVMBSwF3vvVkL6hqoLIf6%2BVQphtkfQrLTEPOajQLq9BwdT9DpMZ%2FiBUn0WEl54uHPLr5sPT%2Bv0J9JEnzHlzZHh9JBlGoR5qGGjtSnHcaiZJwUnDqLMDvPDhf%2BZa%2B9MlWnk%2BLTcdYxWkwwNrpm0eRc3AbXCtSchECrk7yf2%2F8Xd73M5lbyVXcAAAAASUVORK5CYII%3D",
+          "width": 1664,
+          "windowId": 1
+        },
+        "1521": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://magic.wizards.com/sites/all/themes/wiz_mtg/icons/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 1521,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 1520,
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Jumpstart Decklists | MAGIC: THE GATHERING",
+          "url": "https://magic.wizards.com/en/articles/archive/feature/jumpstart-decklists-2020-06-18",
+          "width": 1107,
+          "windowId": 1
+        },
+        "1523": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/bb401db8/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1485,
+          "highlighted": false,
+          "id": 1523,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "YouTube",
+          "url": "https://www.youtube.com/",
+          "width": 1094,
+          "windowId": 1
+        },
+        "1525": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 595,
+          "highlighted": false,
+          "id": 1525,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Age of Empires II (2013)",
+          "url": "https://steamcommunity.com/workshop/browse?appid=221380",
+          "width": 1079,
+          "windowId": 1
+        },
+        "1526": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": true,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA6lBMVEUAAADJNxQCAAAFAgAAAAAAAAAWBgLINxQDAQA0DgW7NBIZBgLGNxQKAwCxMREOAwESBQImCgMIAgDCNhJKFAaAIwwAAAAiCQNvHwstDAV+IgxnHAmCJAxNFAeTKQ5BEQaiLQ8eCANRFgcPBQI3DwVWGAgMAwK4MxJiGwlUFwi9NBKpLhC2MxJ1IAsaBwLDNhOtMBFlGwmXKQ6RKA5cGQgkCQQUBQLANBIcCAKOJg45DwVIEgabKw+vMRFZGAhsHQsyDAWfKw9DEwZ7IgzFNhIqCwVfGgmEJQx4IAsoCwM/EgaKJg6mLhFzIAv1ydVXAAAATnRSTlOmpqampYCmpqampqampqampqampqamLKampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqbTmzWWAAABeklEQVR4nIVT51rCQBDc3EF6IU2aEEoaVXqvAmJ9/9cx+olwh8H5tzeTzdzuDdwlE3ABhC+rRPIOSB5SOlEmkkDyUHYQqSAqHkCv8IBIzRmKjmHzhEGSYgQjywAno4Ag/NUiOpuECqrkNHDm6Po3uIxBb/k4nI5QYYCRxFICraCBe0wZH70JHmQw7wiUgA1TqNBv+3ZJN9a2z9deKUG5JeF8acj2lxvN7rO4a1EmDtO0by+F9LbpSMVSWstF1yUwexfYYvCY7Yxrw5IqSMUMKUDzoHJomHlP3O8stV7INmyFEPAr874rckGTY+qqLB/z4luVHEN3P65zzAmmKBfJQWCvs/+lI8jNXYo0WXVz4rnDQ8+S6Fmjqtc5KcTndLT5KyiW+vN9hl7EyUgt+ObtGD56kDuZYbjtS9yLAsg2OGa8ooZ8CWNtcotJPA/IVc3wRgOAdk914x1EUFqL8i0ekGeTS7rCLG9QJ1T0vpJF0lR4R1nCYxTe/+L/Ca5ZIMt73rRSAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 0,
+          "highlighted": false,
+          "id": 1526,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Play Free on PC, Mac, and Now Available on Mobile | Magic: The Gathering Arena",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Play%20Free%20on%20PC%2C%20Mac%2C%20and%20Now%20Available%20on%20Mobile%20%7C%20Magic%3A%20The%20Gathering%20Arena&url=https%3A%2F%2Fmagic.wizards.com%2Fen%2Fmtgarena%3Fmsclkid%3D62cace2f7f59182cc108ae95327b7bba&tabId=1519&sessionId=1622817391819&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAANJUlEQVR4XuVb%2B5cT5Rl%2B5j7JZjfZ%2BwLeUUREUCoVLSCCVipewFtPe%2Bqf07%2BlPbVFi4pXEFER7xUVxSoIXpbNbrLJZpPMNel53snsLlSUzG6yPafz4%2B5Mvvme93mf9%2FaNAiALYAOA3QAeBXAdABNduhQAzS6tBcADcBrAfgAvATjB9bcCeADATgA3AugDoHb6nbiAriqwFcBpNOF1B4UGgBkApwAcBnCQAPwZwK4WC2wA%2FFvHL1NVkNEUDBsq8l6IUtDsFhMItUPrAzjEzX4BYKzlCl3ZPNFNawrGLBXXp3R8WQ3wvRui0R0WcHmuVAZwnht2ycZu0H4hrXp1BVfYGtb16DhRCXC6HiDsHgB8FbpD0GUNmocgqyu4NqXhtj4DH5R9fFkN4Te7iwDfpuMAXGqBfkPFmrSG27MG3in5%2BHw2gNtFH4hN0VEAROkVICTfmheGuyFDxbqMjs1ZA29Ne%2FhkNoCzwAf4rNpSJD5Lvnbi6hgAfHlbBUZMDbNBE5WwAXfBLkZNFRszBjbnDLwx7eHjGR%2FVBQBQJOkm3PxM0ES9Q%2BzoGACGAmQNBet6DJz3Qow7DVRaG%2BSiq0wVm%2FsMbOo3caTo4v2yLxuN%2FXLAUHGVrYpcf%2BeEKPqdCZMdA8AS66u4I2fi21qIb%2BoBpv35DV5ta9iaM3Fr1sDhgovjZU82GQOwwlJxc0YHdZFh8ke30RE36BgAKVXBSkvFPYMWTlUDnJwNUPAjH%2BCiq9Madg5Y2Nir49WCh2MlD3lv%2Fv9X2Ro29emiAx%2FPBDjrhB0Jkx0DoEdThMJ7Rmx8Ugnwrxkfk60NUuBu7NGwe8jC%2BoyBVwou3pz2xMoxQAyRW7IGmDEeL3n4uh6i5SFLqoWLAoAPa62MguRdGMV7NQWrUyr2jaXEv9%2Bf8THR2iAjA%2Bn94LCFm3oiAKgD55x5AK5PRy7Soys4Ou3hi9kALQ%2BZA0lTojUvjjDtIJQYAD5IocvpqsTvWqN5wQvmdAVr0xqeGEvhWNkXio%2B3ALBUBbf26nh4xMKatIFXCw4OFz18UwtlQwR1TY%2BOHQOmRIJDBQ8nZv25KMK1bVVBrw5hRTVE4hwiMQCkMWm%2BNqNj2m8g7zYws0DlBw0Vt2R0%2FH4shaMlT6z4vcOMIHru9j4De0dsXJfWcLjg4bWiK1YmBwgsU%2BR7By0wGrw45eLDGX8uFNLyzCPoYvUG8IPbQMlvJCqmEgNAGvfrKrYNmBh3QpyuhyJitCB%2FdMxUZZP7xmy8WfRwZNrDt%2FXIwn26gi05E4%2BO2rjS0vBG0cWrBRcnZqN6gBFkQ8bA7iETQ6aGA3kHx8vzeQIBuialYUOvLqGTWSTZlSSRTgyAoUSl7APDFs46kcpTxPgSZMeVrTC3Z8QSgTtcdPHvaigWplV%2FkzPw2GgKDHdvlTwB4MOyL5ROaQpu6zWwZ9jCkKngn3kXb097UjLzojCuSesiksUglOeoH10FwFIUeflHRm2cqQWi9Oeclg8rwOqUhl0DFnYNWfLyh4quWIoWZha4rd%2FEY6M2hk0N75YjAKgTjJQZXZEk6aERWwB4dsLB0en5KEINoYhuz1nI%2BwGOl3ycabGrHQFcVDHEOH%2BFreKxMVvEi6lsLGJ0j3VpHXuGLNw1aOGdloV5DwFYZWvY0W9i36gtbPhoxscrU664iddoImcouDNr4pGRSAMO5F28XvTwgxsBTAHc2GtgZ7%2BJcT8UBp2uJesnJHYBChn98MkWAAx1p2qBhCRThVD40REbG7MG3itHG3yXFG80hR1MgmjhnKHi00r0%2F5cLrrTHhk1VQuA%2B%2Bb%2BCFyZdEckYYNYJm3oN3DtoYtwLRWC%2FqiZLlBIDQCG7Ia3jjytS%2BKYWiJVjEWOr646sISFwTY%2BGj2YC2SBfNGg2cVNL4ZkIZTQVp6o%2BXiu4eGHKxWzYxCpLw939JvaO2mA%2BwTyBLvJpJYoSDI13ZE38bsjCd24oz35RDcR92r0SA8B6fn1Gx59WpEQD3ix5YmnqFGm7td%2FEk1T5lIbPKr5s4LWCB7fZFHbcN2gJC2xNkedfL7o4MOlKSGUWuGvQwoPDtoRMJklkB1lGF6IubMuZ8v9vnRAHpyJwkvQTEgNAmpKGT61MSbV2pOhJWcuXWGlpksQ8PmpLQfRVLRARPDjpohY2sSVr4r4hS2huagp%2BcEIcLXp4Nu9gwguxlgwZsLB72JaS%2Bt2SLwCQQX6jiVW2KuAxk2T4ZZj8uBLIb7d7JQZghamKUD21Ko0f3VDC3MtT0QavS%2BvYNWhi74iFrK7hnBPI%2F5%2FLuxK3t%2FebwgA2QwxVwZQXSlNk%2F4SD752GCNx9gybuGTRhqSo%2BWaARBJhpMgG6f4ghOMQzE46k2pUExUIiAPjQlbaK7TkTf1iZlirv9YKL5yYdlIOmhKjfDllS7KQ0FRNuJFTP5B2U%2FSZ2DZiS5d3Sa4BZXTloiJUJAJujm%2FsIkIm7%2Bk3oioKva4H4%2BXN5RzRiQ68hv0%2BWMbv8%2B3kHx0o%2BSkH7IpAIAJao19qM8yYeH0tJJyfaYB15tyl9PlqHlqaFmaYy1j8%2F6aLkN7FzwMT2AUuigaJAUtwTFR8H8y5OVgMRUCmV%2B3RoSuQidLH9E3XpKWzJEQBb7ht3Q%2FztvCPJ1lQCFUwEAOP8DWkN9w9aeHjEFmFiqvqPfB3nag1sHYgs%2BKs%2BWlhBPWyKSh%2BddlGRDUSbo47wBRgZztZDCZOfVQLc2meIe1xjRwBRGI%2B1XOS81xDL04VYSufdEH%2BdqAtAE61yux0dSASAqUBCGdNgUpGbZG%2F%2FhUlHuj%2FM8lgj3NCjywbjvt6UH9X0LJSyhgr%2BDi9KF0Gidaf9UHIDRhLGe17MDfj7L046AhQB2N5v4aqUJvrx9IQjUYT60a4MJgKAmRhD4EMjFu7ut8DUlELIVLfoNaSUZZXHUBlf3DgVnC9ItyCLWvuXWwgSmcCan%2F9jrRF3hckwRocvZwOQAWynX5%2FW0aerKPoNPDNRx6HifLHVcQZExYqOvaMp8UMCQgtShMhCJioZXZWNLNVF9WcEmQ0bsvE%2BTRHmUXQP5Osikl8zHW5zwUQMkHo%2BG1Vz7OkRgJjKcYHR5ntc1u3SdWpCdEHWa0Ja7s9POlE%2FoRql4u1ciQBgqhsDcHOPJqGOL7WEBv%2FFPXCfYQMyb3hpysWhgovPuwUAGxbXpHShP7WAQ84hU5VxN2nZyYsbZ8VId2AD5mw9kByCdQhDYpsESDYbpLRxurvC0sD%2BPlvcFL1rUzoGTRXsFcQCtpRgkN7VRlPygjOtWQO7TOfqoXSc2Zds90rkArGfc5Pc7IgVdWg46d3Ya0r%2BzxDWimLtvtN%2F3S905%2BaDhhQ%2FLIqYHp%2BuBZL%2BMnK0K37xIokBWPgDVHtumIkN%2B4B35kzc2KNLPF8KhyDlSfeTs75kfKeqISZ9zhqbi2qJx4Zsnzc%2FYdOYDTz1wWKGIsnW94ChJWYCX4y5A9tdtPh7ZU%2F6itNBU3RgKV580QxYiAV%2FjGygNqzv1XFXzsCmPvb2k%2BUETO1Z7HAyxFqCYY4D1gRV7yXdcEkBiFeh7zPd5fyfXZ21aV0GKO0ECGaOLKKOFNhSd2VAykpwKax%2BsdGW%2Bjfl98kEZoQsali5cUjCDO5yLoo5VZ3zxP15B2fqkdglFbqfW7MjDIgX5ACDmsB6gQUSGcE64OeEkdkd%2Bwssj5ncfFTxJd1dStp3hQGxwrJDzMqR1dvOQVPmAJeqEWLRY0n8xrQrLTYyIUGj53KIJvd0lAHxAhRBzvr3DNvSEGXI%2FCk9oJVZ3UUzgmhWyM13xEdbEHUcAK5DUbzC0nBnaxxGt%2BB46%2BKLFSWpz9bahzM8UdJ%2BfX%2FZpu8mAFyL%2FX2my0%2B0KkgOPRdiwHg%2F5TVkNsAOMYWvG%2BeHu8KAmAWcJrOVxYkOu0VspMQXi5uvqgH%2BMl7Hyaov3aFOUn%2FJUuHLpRy3yr4BzxNw5PXrrDHXMWLYY4HDzu7TEzWcdxsXHLa43DWS3Nc1BsS5AeuFh4dt7BiwZLZIErDnR%2BXnDPCtkisxvxvW70oUWGgVpkGMAPFc4LasIX3%2Fgse5QDQZOlULE424kli%2F6wDEtQILJWoBWUC3YFOD8z9OjvJ%2BZ%2BP%2BxUB11QUE8dZMQWZ7IzaymorPZqPpcDxa60TKeymGdB0AvghPljA13jeakmM2LHM5PX675M%2B1zpNSut3nlgWAeL7PEyI8S8RDUhyd8yhcp3L%2B%2FykGcOTNpgnHajxkQfpzehyfAGnXiou5f1kYwGjAMwD3D5lYnzGF%2FpwbxkdlF7Ohdp9dFgC46NUpDdtaHSOeBH2n7M0dpm53E4u5f9kAoBBu4hS4L%2Fpe4AMecOi2AHSjHL6Udaj%2BF3wyUwk69lXIzzGEDFiWz%2Bb6dQWr07qwIG54JhjvL4b9c5%2FNLcuHkyyPeRzupoyOT2ejk55d9ACWGnMfTi7Lp7MshbMap0qqHHRm86NLGSA3f8Gns8v28TS7Qhy0shpc%2BEXZYnj9C8%2F%2B5MfT%2F9efz%2F8HCkWopQYBOMwAAAAASUVORK5CYII%3D",
+          "width": 0,
+          "windowId": 1
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1896,
+        "id": 1,
+        "incognito": false,
+        "left": 1912,
+        "state": "maximized",
+        "top": -628,
+        "type": "normal",
+        "width": 1216
+      }
+    },
+    "tabsNumber": 9,
+    "name": "Jumpstart Decklists | MAGIC: THE GATHERING",
+    "date": 1622825508328,
+    "lastEditedTime": 1622825508328,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1622817390872,
+    "id": "1c3b5357-e55c-4d30-8a27-9396c1e8cc25"
+  }
+]

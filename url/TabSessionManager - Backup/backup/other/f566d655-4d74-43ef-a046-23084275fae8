@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2854": {
+        "2855": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2855,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Roxie Follower Expanded at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/63760",
+          "width": 1154,
+          "windowId": 2854
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2854": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2854,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Roxie Follower Expanded at Fallout New Vegas - mods and community",
+    "date": 1627976399465,
+    "lastEditedTime": 1627976398146,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "d86b4428-3a19-4282-8de1-1e6fbf1d5463"
+  }
+]

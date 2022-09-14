@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "3106": {
+        "3107": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3107,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Fallout 4 Power Armor Features at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/65417",
+          "width": 1154,
+          "windowId": 3106
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3106": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3106,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Fallout 4 Power Armor Features at Fallout New Vegas - mods and community",
+    "date": 1627976554941,
+    "lastEditedTime": 1627976550105,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "2c69d34b-0ccc-4300-85f2-066014cf96ec"
+  }
+]

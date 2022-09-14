@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "7738": {
+        "7739": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7739,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=121951",
+          "width": 1319,
+          "windowId": 7738
+        },
+        "7740": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/unreadcountfavicon/3/20+.png",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7740,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Your Steam account: Access from new computer - christoffer.broback@gmail.com - Gmail",
+          "url": "https://mail.google.com/mail/u/0/#all/FMfcgzGljlqkwtGDhSstCfvmdFNjHlCP",
+          "width": 1319,
+          "windowId": 7738
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7738": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1040,
+        "id": 7738,
+        "incognito": false,
+        "left": -184,
+        "state": "normal",
+        "top": 15,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Your Steam account: Access from new computer - christoffer.broback@gmail.com - Gmail",
+    "date": 1631530409645,
+    "lastEditedTime": 1631530409645,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "e3932306-18d2-4335-be50-45f67221c084"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "7710": {
+        "7711": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7711,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=121951",
+          "width": 1319,
+          "windowId": 7710
+        },
+        "7712": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/unreadcountfavicon/3/20+.png",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7712,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "All Mail - christoffer.broback@gmail.com - Gmail",
+          "url": "https://mail.google.com/mail/u/0/#all",
+          "width": 1319,
+          "windowId": 7710
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7710": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1040,
+        "id": 7710,
+        "incognito": false,
+        "left": 584,
+        "state": "normal",
+        "top": 404,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 2,
+    "name": "All Mail - christoffer.broback@gmail.com - Gmail",
+    "date": 1631451209657,
+    "lastEditedTime": 1631451209657,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "38a71131-f3a9-43b8-bf6c-cf5cc35bbb74"
+  }
+]

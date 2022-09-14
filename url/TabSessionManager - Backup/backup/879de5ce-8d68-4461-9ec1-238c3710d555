@@ -1,0 +1,332 @@
+[
+  {
+    "windows": {
+      "2556": {
+        "2597": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://devconnected.com/wp-content/uploads/2019/04/1_20ejjBnUDvsHi2SGNwpEwQ.png",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2597,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "How To Add and Update Git Submodules – devconnected",
+          "url": "https://devconnected.com/how-to-add-and-update-git-submodules/",
+          "width": 1232,
+          "windowId": 2556
+        },
+        "2598": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2598,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Making commits simpler in Git using PowerShell - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/41086814/making-commits-simpler-in-git-using-powershell",
+          "width": 1232,
+          "windowId": 2556
+        },
+        "2599": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.cyotek.com/assets/images/favicon/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2599,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Committing to a Git repository using custom dates - Articles and information on C# and .NET development topics • Cyotek",
+          "url": "https://www.cyotek.com/blog/committing-to-a-git-repository-using-custom-dates",
+          "width": 1232,
+          "windowId": 2556
+        },
+        "2600": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2600,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Spotify – Feindflug",
+          "url": "https://open.spotify.com/artist/4wSMRIInYxJIH3nji0kl4R",
+          "width": 1232,
+          "windowId": 2556
+        },
+        "2601": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2601,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "RandomFractals/vscode-data-preview: Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲 charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files",
+          "url": "https://github.com/RandomFractals/vscode-data-preview",
+          "width": 1232,
+          "windowId": 2556
+        },
+        "2602": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://showcase.report/img/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2602,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "PrivateBin",
+          "url": "https://showcase.report/?7c21517965e9e289#32yiqd5wV6mf6rg61GyAY66h7GhaAfWCWuWe8htBsNVG",
+          "width": 1232,
+          "windowId": 2556
+        },
+        "2603": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://favicons.teamtailor-cdn.com/icon?url=https://www.unicus.com&size=16..32..500",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2603,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Unicus Sverige – Connect",
+          "url": "https://jobb.sverige.unicus.com/sv/connect/dashboard",
+          "width": 1232,
+          "windowId": 2556
+        },
+        "2604": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2604,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "How do I do windowed mode? :: Fallout: New Vegas General Discussions",
+          "url": "https://steamcommunity.com/app/22380/discussions/0/1694922526907647427/",
+          "width": 1232,
+          "windowId": 2556
+        },
+        "2605": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2605,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "ADO - Armor Damage Overhaul at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/73267",
+          "width": 1232,
+          "windowId": 2556
+        },
+        "2606": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://selectorshub.com/wp-content/uploads/2020/07/cropped-logo-512-32x32.png",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2606,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Uninstall – SelectorsHub",
+          "url": "https://selectorshub.com/uninstall/",
+          "width": 1232,
+          "windowId": 2556
+        },
+        "2607": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2607,
+          "incognito": false,
+          "index": 10,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab Modifier - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/tab-modifier/hcbgadmbdkiilgpifjgcakjehmafcjai/related",
+          "width": 1232,
+          "windowId": 2556
+        },
+        "2608": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": false,
+          "id": 2608,
+          "incognito": false,
+          "index": 11,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Tab Modifier",
+          "url": "chrome-extension://hcbgadmbdkiilgpifjgcakjehmafcjai/html/options.html#/install",
+          "width": 1232,
+          "windowId": 2556
+        },
+        "2619": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2619,
+          "incognito": false,
+          "index": 12,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/?id=aadahadfdmiibmdhfmpbeeebejmjnkef",
+          "width": 1232,
+          "windowId": 2556
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2556": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 768,
+        "id": 2556,
+        "incognito": false,
+        "left": 389,
+        "state": "normal",
+        "top": 99,
+        "type": "normal",
+        "width": 1296
+      }
+    },
+    "tabsNumber": 13,
+    "name": "Extensions",
+    "date": 1628757289124,
+    "lastEditedTime": 1628757267450,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628457963420,
+    "id": "d95bf865-cfba-436d-8ff8-c99bab3f4728"
+  }
+]

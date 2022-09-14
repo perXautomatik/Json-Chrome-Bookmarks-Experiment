@@ -1,0 +1,186 @@
+[
+  {
+    "windows": {
+      "1": {
+        "552": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/1802aa0e/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": true,
+          "id": 552,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Amazing Cultivation Simulator Review | CCP™ Edition™ - YouTube",
+          "url": "https://www.youtube.com/watch?v=wJxM3POU92w",
+          "width": 1152,
+          "windowId": 1
+        }
+      },
+      "554": {
+        "555": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 486,
+          "highlighted": true,
+          "id": 555,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=83852",
+          "width": 746,
+          "windowId": 554
+        },
+        "559": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://support.microsoft.com/favicon-32x32.png",
+          "groupId": -1,
+          "height": 525,
+          "highlighted": false,
+          "id": 559,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Why does Microsoft Edge turn off extensions I've installed?",
+          "url": "https://support.microsoft.com/en-us/microsoft-edge/why-does-microsoft-edge-turn-off-extensions-i-ve-installed-56664742-3979-e938-4f2e-8ddb2eac8453",
+          "width": 1110,
+          "windowId": 554
+        },
+        "560": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 560,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Extensions",
+          "url": "edge://extensions/",
+          "width": 1508,
+          "windowId": 554
+        },
+        "561": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 561,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FNVEdit at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/34703",
+          "width": 1508,
+          "windowId": 554
+        },
+        "828": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "http://enbdev.com/favicon.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 828,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 561,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Fallout 3 / Fallout New Vegas",
+          "url": "http://enbdev.com/download_patch_falloutnv.htm",
+          "width": 1872,
+          "windowId": 554
+        }
+      }
+    },
+    "windowsNumber": 2,
+    "windowsInfo": {
+      "1": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 622,
+        "id": 1,
+        "incognito": false,
+        "left": 2152,
+        "state": "minimized",
+        "top": 283,
+        "type": "normal",
+        "width": 1174
+      },
+      "554": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 573,
+        "id": 554,
+        "incognito": false,
+        "left": 31,
+        "state": "minimized",
+        "top": 39,
+        "type": "normal",
+        "width": 1174
+      }
+    },
+    "tabsNumber": 6,
+    "name": "Favorites",
+    "date": 1627155274939,
+    "lastEditedTime": 1627155274939,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "33bc7f58-baf1-4c64-9cbe-18e6765505ac"
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "windows": {
+      "288": {
+        "9": {
+          "active": true,
+          "audible": true,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico",
+          "groupId": -1,
+          "height": 742,
+          "highlighted": true,
+          "id": 9,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "PLAYLIST The Pulse of Power Noise The music that fans of Power Noise are listening to now. See also The Sound of Power Noise or The Edge of Power Noise. Particle Detector 43 likes 200 songs, about 16 hr",
+          "url": "https://open.spotify.com/playlist/4LpBKDl493rdfsBSPZRcZQ",
+          "width": 1434,
+          "windowId": 288
+        },
+        "294": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/bd9d1675/img/favicon_32x32.png",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 294,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Over 800,000 Servicemen Face Court Martial For Not Getting Mandatory Vaccine, Biden Admin Under Fire - YouTube - Tim Pool Tim Pool",
+          "url": "https://www.youtube.com/watch?v=yvNN3tUIx2M",
+          "width": 1152,
+          "windowId": 288
+        },
+        "301": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "groupId": -1,
+          "height": 742,
+          "highlighted": false,
+          "id": 301,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Floating Head/Invisible Body/T-Pose glitch : skyrimmods",
+          "url": "https://www.reddit.com/r/skyrimmods/comments/35tfcl/floating_headinvisible_bodytpose_glitch/",
+          "width": 1434,
+          "windowId": 288
+        },
+        "317": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.uesp.net/favicon-32.png",
+          "groupId": -1,
+          "height": 742,
+          "highlighted": false,
+          "id": 317,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Oblivion Mod:Biped Object Flags - The Unofficial Elder Scrolls Pages (UESP)",
+          "url": "https://en.uesp.net/wiki/Oblivion_Mod:Biped_Object_Flags",
+          "width": 1434,
+          "windowId": 288
+        },
+        "318": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 742,
+          "highlighted": false,
+          "id": 318,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "TES5Edit/fopdoc: Documentation for the Fallout 3 and Fallout: New Vegas plugin file formats.",
+          "url": "https://github.com/TES5Edit/fopdoc",
+          "width": 1434,
+          "windowId": 288
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "288": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 829,
+        "id": 288,
+        "incognito": false,
+        "left": 409,
+        "state": "normal",
+        "top": 156,
+        "type": "normal",
+        "width": 1498
+      }
+    },
+    "tabsNumber": 5,
+    "name": "PLAYLIST The Pulse of Power Noise The music that fans of Power Noise are listening to now. See also The Sound of Power Noise or The Edge of Power Noise. Particle Detector 43 likes 200 songs, about 16 hr",
+    "date": 1629976198129,
+    "lastEditedTime": 1629976198129,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1629772774244,
+    "id": "8d1e603c-6150-47bd-85e0-c84206cb908a"
+  }
+]

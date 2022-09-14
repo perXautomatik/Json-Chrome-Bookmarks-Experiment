@@ -1,0 +1,194 @@
+[
+  {
+    "windows": {
+      "4320": {
+        "4319": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.dwservice.net/favicon.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": false,
+          "id": 4319,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Work2",
+          "url": "https://www.dwservice.net/session.dw?parent=mng#s",
+          "width": 1006,
+          "windowId": 4320
+        },
+        "4399": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 4399,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "RAS (CMAK) - Bing",
+          "url": "https://www.bing.com/search?q=RAS+%28CMAK%29&qs=n&form=QBRE&sp=-1&pq=ras+%28cmak%29&sc=0-10&sk=&cvid=B143A41808154F2B8341847D182C2429",
+          "width": 1152,
+          "windowId": 4320
+        },
+        "4400": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://forsenergy.com/favicon.ico",
+          "groupId": -1,
+          "height": 1809,
+          "highlighted": false,
+          "id": 4400,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Installera Administration av Anslutningshanteraren",
+          "url": "https://forsenergy.com/sv-se/cmak_ops/html/7da60249-0832-4089-aa98-d9e4bba65461.htm",
+          "width": 1152,
+          "windowId": 4320
+        },
+        "4401": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.bing.com/sa/simg/favicon-2x.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": false,
+          "id": 4401,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "why doesn't krieg ignite himself borderlands - Bing",
+          "url": "https://www.bing.com/search?q=why+doesn%27t+krieg+ignite+himself+borderlands&qs=n&form=QBRE&sp=-1&pq=why+doesn%27t+krieg+ignite+himself+borderland&sc=0-43&sk=&cvid=C850E0574EE74188B9D4C1921F14F6C5",
+          "width": 1006,
+          "windowId": 4320
+        },
+        "4403": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "http://orcz.com/favicon.ico",
+          "groupId": -1,
+          "height": 826,
+          "highlighted": false,
+          "id": 4403,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Borderlands 2: Elemental Empathy - Orcz.com, The Video Games Wiki",
+          "url": "http://orcz.com/Borderlands_2:_Elemental_Empathy",
+          "width": 1006,
+          "windowId": 4320
+        },
+        "4404": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png",
+          "groupId": -1,
+          "height": 825,
+          "highlighted": false,
+          "id": 4404,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Can't self ignite with Hellborn Kreig : Borderlands",
+          "url": "https://www.reddit.com/r/Borderlands/comments/3y8e41/cant_self_ignite_with_hellborn_kreig/",
+          "width": 1005,
+          "windowId": 4320
+        },
+        "4407": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUFKVsFK1wFKFkFJVYFJlgFM2UFOmwFLV4DIlMGWI0FMGIFPG8ENmgFOGoFQnUFNmcFT4QFLl8FW5AGQXIFRHcFNGcFI1MFSn4FUoYEYpgFSnwHaaAFa6MGZJsFVooFP3IFRnkGcKcFPnAEO24FJVQFVIkJe7QGbqQFisQGZ50FU4gIZJoFgLcIbKQGXJIFXpMJdq8MfrEGX5QDaqACbqMFR3sHYpcFK14RmMoEh8AJn9QDJlgJhsAFg7wEkMkCi8MIcqoHc6sIYZYEmNAIfbYDicEFMWQDZ5wCjMMITH8OlsoIe64JZ5wEdawDgLcHXpIFTYEIXZAFYZUEksoFcqkFbqQEjcUEea4MmMsDfbMEgLUKbqEDcqgKr+MSodMOi78Qms0Elc4QhLUNc6YJg7cFeLEJWo0KZZgMeq0TndAOfK8JT4IRjcAJXpECg7oLk8cRo9YJgbsIeLEFfrUHOmwHhL4Gpt0IkMUWq90ObZ4Lg7cOoNQLsugMWIkMh7sGk8km/wcVAAAAgHRSTlOmpqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampnnaZrQAAAKqSURBVHicdZNnf9owEMZtC9t4sgw2e5oNBcJMIGFDJmQ3u9mz2elu89Ur47QkTXp+o9/d/x7J0nPIMFAURTQwBov/Bay9XVTymEaD0jhOo1AEeQtDDWa/J5fjuTb5qoQgWACjfdI7Z8TZkzycAcPU9DDINiNSEW+t5o1k5ByDG55V4e4YSUixVLAa8i7bnUlj0mVj6Of9BbOHCgVvgrGM3eFM6vXGpCy6dU8isL/A9pdK4UpC9vEZu1XicF5PUbKNUwgUfoDOdcK7lWWJwPBkIhLFMbOpL1OywJIYLJMI4Kx3K3GXDy8Atlf15vk2TeOM3qXnaXirELD4NydaWSYANAGuDk9K2XiG8+kpl62tACgGmNnuupW1IIiGywfL5VQoYqVcvR4l4k+Ae7W79g63IKiGiDXLD7UN5VczC8b+EFhZXzBDABD2ZjNxzntygo3K9PRmFQi4pz/HrSrgiN/WCQTnON6VX5CGwNVBXqdVgUO4Gc0SHqPTGdWpgMWUvjo4fgIqcYfIeERRso5EXKwKaE3pqW91XIsWADFSGg8fzt6m7DOhkIN6BuzMQAUEAq1GIxwPVmP5xFLIOABITOs7KxZPfFoALP7sRGN81ioJhBCrVZMswJSb1N5/vTi9mDfpCgAC43NGgSGYfiJll80qAOjz/e0vxZMjRsNmS5cdDmGijrtyc543DM6AjJH3P/dOr4vpuiCutuY6boLyVsI3CRFHldcc+E03ebxXvP6Qng4/ttaymyuLD0uUgP/xFNRADKaPZ8Xtqfejo43FbnextCwzinGHtkMNOuFof+f71o+tT7uXI1HTC9cq4JgW001u/IISj3MdG44EoO9fDg/Uo/2TvZmY0eaHjlbm4t/RGwOAJExuggQA0m/O6CD/uvuvCgnfBQYGF8PsbwfnZC+fB8jiAAAAAElFTkSuQmCC",
+          "groupId": -1,
+          "height": 824,
+          "highlighted": true,
+          "id": 4407,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Why Choose Us - Driver Easy",
+          "url": "chrome-extension://mibmemlpefkkpbgcoicdfggnmjfajgpg/park.html?title=Why%20Choose%20Us%20-%20Driver%20Easy&url=https%3A%2F%2Fwww.drivereasy.com%2Fwhy-choose-us%2F&tabId=4407&sessionId=1625515773073&icon=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAATF0lEQVR4Xu2bWVMb25KFs0pingzYxmBsn%2Bfb%2FY%2F63h%2Ff53rCxmAmMap2x7cys9gI2YDtfuiI5kTFxgepVLn2ymnlVjP8x38V%2B5M%2FTTP9bqWYTV68sn49v9fXtDtxjz%2F40%2Fw%2FAH%2BaAQ%2FtTu4gGzlJlh%2Bx56F7%2Fsbff5MBUDY%2FHYrze64TT8XrmvaW4ves%2F4GL5G3%2Bl8D5NQAe4%2BeOxu0Pxg9as3ZgNhg4EPESYViKla4z68ZmWruJ9wfS%2Bdl6%2F%2B%2FHg6cDMM34fJjS%2BUNNPjymtK3ZcGg2nPEVQNILsIP3jG%2BsjG%2FMbm6mA5ABsg6evwnC0wGYjNy9B2BF5QZQvMVF2HV2f2A2g%2FEzvratNXpL7OJ47IbfXFu5vnYmCEzuWbHhD7vCrwEwzejaxyuDm%2BGsGzxT7T4gAEydFgXAlRnGc91UbBAjxv6p%2BZ477tVz6cnh8HEATPpbH8mD8vyb1wyGupohuz1nNj9vNr%2Fg6%2BxcuIC%2FxmMAvl6sYR2PrVwHAFesV2ZXl1b4%2FfJS7tHHhnQ1WFbHhDugPC5GPAxATbka%2FXh4N6Jzms%2FMWjPLjs%2B64UvLuprlZbO5eXcDgRRBMIMd92CXe8OvrFxemF2cm52fW2Hlb7Cku%2FE1QZ8GwuQz%2F4QXDwMw7c3JgAr9BsPm5nQ1s%2FNmCwtmC0tmi4tmi0vOALIAxpMJcJlxgAe92eEr6B%2B7f3nphuu6sHJ1GTECAIgRsO9nlv0pBtRRVgZH7seQ4Yw17DY%2BPjtrzfyCNew0uw8TIuIXor4Mj4DIyo8if6Q9AJDv38YA%2Fl34d%2F6%2FcBG5SmaKfP%2B0zPOIiDCdAX1ai%2BIkb8SDK6o3TveFRbOFxVgXtAoE%2Fv9gaCXcg%2Fxe2C6lsdYK7y%2FFmh4AGBBZoE6DdZAkKMKC%2FrpycK49c%2Bj904LkA1njPgD5hvrDeVAFuaAvVMbQlTVrVlbNVteswdcXl2R8C%2BWbxsrFhXWX5%2B7PGBAp1AtGUtzYGrlBAIARefFqxYyBNe3ACq%2B5vNA9Wf26tEKATPeon3kyIP6ADQ%2FHgHQB5fFZpzYru43hK2tmK6tu%2FNyctbNzWqF3d3ZqZXRmhRXKRiVYuBc%2FYwBIo2MnIwUqRoR7NbgYZLzG2CtnAobHVa4u3H1ql3pkgXQfgDrA9ZRvPcCxs0R21tjt3g2GQxU2jZ60KJjJ8Lj0cIoP874SCKG7APAM0Ed%2BAh%2F3mgPwudsAGllDJfOdoJnBM2IGYGSm6FN2uOAEE5rhf%2FzTY%2BkkfaC8qrYoYIjma%2Btmz%2BJaXLZGQY5AOOP%2BfHlhjSh6bjYaWTk7cQBOT%2BQSzfKq2fKKGKN7h7%2BLHbzn7NSM17JWgDWABhsyiMIgegfel7GDwChGhHvgcn2arWLZRN0wHQDeyIeAPjvPurpq9nzL7MVLsxdbzoDo6NSm8MFH382Ov1tz9N3KybGMAQQZxY5vbFqzvmm2vqls4RH%2BxtfRyOzoUPco3Gd80wdZpdQopuRePA9gKBVGKoVB5yO%2FDytuQvDNLFEzuwqM9wFI1NihzOG5%2Bxj%2FHABems0tWKOylYrt2prRmdn3A7Pvh1oFwOjU7OzMCitZY%2FOFNc9f6lKqrMpdvebwwAr3ODzwNDc%2Fr6xyx3XmiTHzXlVmEYRBPMv5yEE4P3M2CNyquZqiNt0FII0X%2Fdj1Z1bW1hTlbe2Zu8DaM2tY2YGzU2tOMTKupC%2B7zk4oap87OwiOGL8JAC%2B0u747Y6cqLiMAAeHQgY3uUUEwmyj1FfFv4k52mDBBWSFcIEpoldLBhmlyWzP8z395DKiN5%2Ff5BSubz810vTADiKzsFpaswX8Pvmm3msNvTvNITVqhZF%2FUXOt%2BbTJg86WzqyteK%2BDPAPX90MrRoQPBPXoBJWqPlpQYugIgwIQ5WDLvr81Oks%2BFAReU0VFSw4QpmuMtAPhIpiQAWFyy8mrb7NWOla1tz%2FVCPoLiaGTN3iezvY9mrFBe758QNRRcOy%2BStPvJgCUrlSTGg8p4xYBDs4tRVSp703Rb%2BxZ3qSXPSqRgsaL2eXadFAwTz868WHoSAEvLVl7vmu3sWtnZdTeIHwW%2F02Ozj%2B%2Bt%2BfjB7NN7B0A%2Fk0KfE0x1Qg3A4rK7EQ%2FVtsrt5fjIyklc5%2BdV7R%2FRvmYp9FezteSragUYFYIM1CcLpYsSI34KQN48o%2BbyipXXb8xe7%2FpK%2BkrJatxZg8GfP5p9%2BmANK3EgSt3%2Bg%2FrU2k0A8NI7xOwMWQlYo0ibpM5sgW%2BiTsh6IVkKeNFqywXIWiGeKKbw%2FkzBgEBMmQpAXQfUIKysWtkFgDe%2BgnKKFdfX1hwfO%2FX3PrkrkAXqUhkmKE35jsgFXqQLAMCqu5SuWaevfJZIfu7aQBirYJk9QqRO0Yr6I%2B9BDKj0RAVDDCcVE59gxKMB4METgN23Vnbfimq0pQpOF5ee77%2FsmX3Zs%2BbrnudedlIxghRVBVZK3jsAbFmzumpNls20z%2FRHKnOvVPJmkeNVXwCQgglrahDpRvq8LKu9KJPhJwBw%2FIsAvHlrhvGsBEX8MkQKOzpyw78CwBcHIAVPdiUBiF10ALbieumNlMpcRJQ5BTgHABUoACidldQEuU8PQNT90hxDd6R2FgARhAmqAuDYygkMuHw6A2R4grCUAMCAqPpgAACwAk7uvjQ%2Fb3b6hwKAl6%2Fi2nIXiBigXI4iTC1A5KaQQQuIsKqVHVfpG4UN%2F6%2BvA0Ji6yvD4gwgTh0DAAx4EgBjr9ffvLMmQYABon%2B0pEdHZl8%2B926gwqcHIKq0pCQrWeDltjVb2wKBoEo28aq0cf1PGeDYjDV8ttQUrwHl%2F9OZSoFCbfL%2BwFXmIjflfkZmIV49HoBQaGhxZXyAAANUXFz4Sr2%2BRwz47KtiACpRJXr2Dzz2dLW1Y7a1Y82rbWtIgwTHzCyUsRRUlMOH3%2FwzQg8oiKwKEiGR4xbsvmQ3F2EUTOsfGHB8ZLiq1l8C4O1ba3oAlkOMcBFCDcteGM%2FaB8EQPu%2B4AAAsW%2FNqx%2BzVa18pXm5urMmODn%2F99tUK18FXd7Ph0ErGlZTRsqkhA2RbLs1xdgIA6orv0Vz9AgAoPc1b331AUBYIBcarNmdAEQg%2FASBZIABeq7IUCAEAFZpAIF19%2B2Jl%2F6vZ%2Fhe1xzI%2B636JKDmLbDx4Sp8IbYJUWquk%2BYzZXT6JARQ6pKm376yFAQAhF8D%2FveEoUCuMZyWAKahBV%2Bn%2BEQQrAGT4doCAnlD3CqSrfYLqF7P9PWdbiq2sOUtITRK%2FT4EGECiN0%2F9ZewC8vFZh9Kg6ICpBAGgBAOMFgLtADwLIYnheBMEcikwCwD2p%2FBIAQODh%2BynQtZfSxJOve1ZIr6TbnDPkUEWCSKjLUqh87iAWwAB6jlSkKKrUmkdv8XQA1noA2ncVAJEFQLVL4z9%2F9j4cAbMvhJpK8roFwLaDBTx4n9bGqttt32OAu8ClS%2B6zXimKXZH3CzvJ3xQDUKYBYHirNIsBtNcAQHd5%2BCsMWDMMH8CCd3%2B5C5x7fy%2B1F2T3Pt%2BCEGmw789rFyB3Y3DGABhAb5EaIuFLtYUrQrqurqwJOU73xOgsiiibiQlqh%2Bes5NQp1CFcQRsicSUBoL2%2BfwTnviDCjK7rrF1ds8E7N37QA3CuarCjVocB7HyCEJWgHlYpaYIB0DQCoFbqjOgdGlbYQD9BUzU688AYkrj%2Bzq5mH0Dfr0JoxkpqlsjwKY%2BxsiHsPuoSl%2FSFRwCQGpoA%2BMuN7wEYYXw0K98Ptft5qUyWQBp6AR%2BWnRvGwICtbSsCYUdqk%2BaIWQpjkYYeV9aEgoP40SCmZqNTzwPYKFyCVrqfNIW6RG3BhkRNIQBg2JMBwPi%2F3tlQDIggCP2JAwDw%2BZONP3%2FSKuFBpWkegKgAAIhJAJDWQtGRqiNdD%2FnqyrVGRNFwEZ0jYPdD3SkoyNyTOiGLpSyX1T8EAw6%2BeXGFckVQzaoygYCnd2TxVFTGY2vXcIG%2FbPguAEAfQOu%2F4gDDlWJA9%2FGDjT9%2BtPHHD5K%2F%2B0kOAWtSZgPA3H2UJnTFHKQS0RmVZaN1ce4suGFwQu0%2FtobP1hQoOlKMkB5ANbgQekDXCyL0FDL8YN9KAhDiS88EATChCXrvPbZ2dVU7LwDe%2FqW6gL%2BlkAkA4%2Ffvbfz%2B3zb%2B8N460lieBglKKi%2FntVwBsLVj5RkugOw%2B7yufe3biIitV4fnImhQ0ZThT41j5HbYh1dNVolbNzvadozpImqqD%2Fagu9%2B8yoOov7gIQAbAH4C27DwDvrEUV9hGnLgHw77%2Ft5u%2B%2Fbfz3f1tHc1RR61Y%2Bi99gUDBA67NnrhQrDsyJ4swTyABaBQLnA0LnB4S6HYY9iKybz63ZeK6eoJfEyAIwINKqUiv3qafTMRu4J4r2DFheseHublxvrOWBe1F0aN3ZmXb%2BBhZ8%2BGAdhdGdQWc1tMAnAWB7x6gDBACARpkrVYe8H%2F7aQNlQmX0YijvkmYBUmBYcgI3n1qJczy30B6w4aCWXJAbULvBoAEiDi4s22NqywcstG25tWbu%2B7hNgujrofH1t4%2F2vNv66rxUGqFKkTqBeyB0Tja%2BskAZTYN15LerWO9IQRPe%2FWkMRxDo6jc42VAEifo7iSLVMoelXckJNMMwMRREEgOoEY9JETKlE2Dxac58BoQsyghpsbNhgfcPajXUbbGxau8HvG%2Fqdm42Pj607OYn12Dr%2BHZfUWASOGFcVKIq%2BiNK8%2B8YKDy%2B90ONEwwNLX4jmioAYipH3%2FQuuKcS0SgoT06n5eWsJhLiven%2FGcq4riAUSRk9vZfE6E9wJgiFe5kARWrbLy36trMjowfa2Dbe3bbC9o168u7y07urKV4DY37fxt33r9ve9Ukw1hnV%2B3rVFNEZ0BirBbIehNxJbqsyfPnpNwDB1ZcVfS93AYDYmVDqHUBdKMC%2FbaVY%2BM47Y5PmE6Wkws0ANADvCzUF3wVEerK%2FbcHsnQNixZmXFg2GedaBCPDyw8cGB1o4SFAoSG74fWSFKUwLvvLaCC6gZ8rmi1uMja6K7lMpM8UTciXGcRnKrz3xAw0oA7cbW0rnC2rNT6wSAt9RygThvJHWJ1%2Fy0EOoLCR8uqAqjSkN4mJ0VEwabHnAGzzetYVeiklMKUv1NkeS9AvRTXDg68pWKbfOFxm0auVEERTtcOObCnDEHo4eHPvUlvbHzrDQ8WTViPPSN0yFaiRmAnSIIrpfD15x11FmqzwL1XAAQJg5IqA5vW2thw8qq6gNcAgYoKC7nMbg5PxYTKi3KLoYrJgAAACG1kw1gDwGNB9QZH84HXPgIK3oB7Rb9gtyAGYLPDvxcUScXafK1uWoU5hNpHdBQPAsZDbuqsXifph%2F8vkB%2FRGZobYymdRRmZaUPigRGCSipztA5dsW6Y3Y%2FAiPGzs5ZB1u4OCwVhxsK0x9AyFNhgDIcWLMU%2Fg%2FbEFDVLJ1Zg4Fo%2Fdk5suuAoEo1jtlx7xRc74pld%2F714CEpoRjo0ZPrFOhgaO3SkmeETc8M7bN1a9a8KmMtHGwiLoxG3j2Ox9YNBlY4PUYND9nGnWH8bYUZJ0Y19PB214%2Fd4S5jaxA3iRWovBidKY7fKZpE9fogZXU8P3d%2F4uzQo47JKSaojnZ3aAatDkIRB9oVzxRyCeVldxH16cpwcQKHGDAzI%2BprhQHRe3SssEAMwC1uD0K6zMUJlEtPlTHtgf6q9pghUEPkGYCcDeQXMmR4tMFTDk49%2FpSY5Pvbflp9P0FJDQ0C5aK1fUxY8XytM4NxcJIjMRE0cYUyAIBiMp7rmnOA3vB0l5z38RlEk9MojEQnUG4%2F89q%2BHpXRNOXp8z6OxczhSS4w%2BeI6cORuxipW6DIFKVWJi0tyD2mK6xvWUEitr3s%2BBwRRGgCG1umARLGOAHl97a6SqtPJqQSNJmQtaYY0SOoNwvg%2BaMcx%2FUf4%2FD3zfhoE03jW6OpE6byiamQHiQ06JRqVmQBQ2tz0Wp3OLU%2BOLyx4LJDx3mJ1tNnnI%2BtG5z4iOzk29QSIGVVvoJQHO%2FD3e6Xt7Yb05xSm0L4G4WEX%2BBEDqtm%2FrKjrBtiwyEnSVWeCMsSy9%2B3RvysW6ECDAwADMFwAsMtQnaFmDDihvISSyBaqE%2BrCpp4ZpLs%2BYLxe9mAazJvVNUL8ruY4%2FQ7pKr4ooVVnif2UF6zIMRYg6HAlAPDfBAA6Hh9NTY7jJZT0gTGOxfXfOquGJT%2Fx9R%2F96XEAPPbGbo0rBuwO5XSe9yUAcrhqMQ5Xz3gq7L9lQw6P3r%2BM%2BH4A5%2Fyqeb9ScX7Rsv62WvVwv%2FAdqqcDMKWakrETzVRWlAqU%2FKDgiA1IWHnO73aapRNl0vxopeN8UCKULKyP7uZnTm7OI2j%2FtBgwbfengcDromjKQOmmx24RI6pBh4%2BzgwL5XliQhy8pd%2FUT23qnkYnvG%2Fym8Y%2BPAT90gYqKifzkDvQ5Ob83GOOtSRDFoOo7g%2F03xapTZ5nm6nRXg%2FhYV61e93QXeOhDphmW7%2BkzR6qLd8jovcqdji0YdOczf%2FDN1Iee6wd%2F%2F7MA1HVDbbSY7FrevcPL%2BbqQrLP77Du3KWm471h%2F0ejfjwE%2F%2BuD%2FgwD8D6zV11OHxrwxAAAAAElFTkSuQmCC",
+          "width": 1004,
+          "windowId": 4320
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "4320": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 911,
+        "id": 4320,
+        "incognito": false,
+        "left": 859,
+        "state": "normal",
+        "top": 136,
+        "type": "normal",
+        "width": 1068
+      }
+    },
+    "tabsNumber": 7,
+    "name": "Why Choose Us - Driver Easy",
+    "date": 1625808277522,
+    "lastEditedTime": 1625808274489,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1625515769784,
+    "id": "0243416f-308f-45e4-8db0-2ddd22a4301c"
+  }
+]

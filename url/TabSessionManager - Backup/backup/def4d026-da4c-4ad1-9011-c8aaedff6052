@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2632": {
+        "2633": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2633,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Changelog at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/articles/55602",
+          "width": 1154,
+          "windowId": 2632
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2632": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2632,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Changelog at Fallout New Vegas - mods and community",
+    "date": 1627156746138,
+    "lastEditedTime": 1627156745039,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "373670ae-6388-4db0-9646-3e3acdcd549c"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "337": {
+        "338": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://docs.github.com/assets/images/site/favicon.svg",
+          "groupId": -1,
+          "height": 567,
+          "highlighted": true,
+          "id": 338,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Gists - GitHub Docs",
+          "url": "https://docs.github.com/en/rest/reference/gists",
+          "width": 1172,
+          "windowId": 337
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "337": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 567,
+        "id": 337,
+        "incognito": false,
+        "left": 1920,
+        "state": "minimized",
+        "top": 351,
+        "type": "normal",
+        "width": 1172
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Gists - GitHub Docs",
+    "date": 1627984663861,
+    "lastEditedTime": 1627984644256,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "d5f7e2c8-c195-48fc-82e6-e7f7f9d72de4"
+  }
+]

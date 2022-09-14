@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2703": {
+        "2704": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2704,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Player Combat Priority at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/71699",
+          "width": 1154,
+          "windowId": 2703
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2703": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2703,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Player Combat Priority at Fallout New Vegas - mods and community",
+    "date": 1627976318846,
+    "lastEditedTime": 1627976317062,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "acf65db0-2f48-4076-97a7-d1a2915feb1e"
+  }
+]

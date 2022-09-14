@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2475": {
+        "2476": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2476,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "LOADed - Ammo Crafting Overhaul at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/66343",
+          "width": 1154,
+          "windowId": 2475
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2475": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2475,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "LOADed - Ammo Crafting Overhaul at Fallout New Vegas - mods and community",
+    "date": 1627156384300,
+    "lastEditedTime": 1627156382658,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "8edb6292-4b50-447b-aee0-a963ead21388"
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "windows": {
+      "37299": {
+        "37300": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 37300,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/searchEngines?search=search",
+          "width": 1319,
+          "windowId": 37299
+        },
+        "37304": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 908,
+          "highlighted": false,
+          "id": 37304,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Folderwise Bookmarks: Search & Sessions - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/folderwise-bookmarks-sear/lcabfbidcbbfdfmonhonidjgcgdnfhle",
+          "width": 1319,
+          "windowId": 37299
+        },
+        "37307": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 908,
+          "highlighted": true,
+          "id": 37307,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 37304,
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "replace(URL) - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/replaceurl/hnikjjnnlhpkjmbojoefmefkmncfphek",
+          "width": 1319,
+          "windowId": 37299
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "37299": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1040,
+        "id": 37299,
+        "incognito": false,
+        "left": 483,
+        "state": "normal",
+        "top": 0,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 3,
+    "name": "replace(URL) - Chrome Web Store",
+    "date": 1631555571074,
+    "lastEditedTime": 1631555571074,
+    "tag": [
+      "browserExit",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "08cd5429-e3b7-4163-9373-d2df839a7bd4"
+  }
+]

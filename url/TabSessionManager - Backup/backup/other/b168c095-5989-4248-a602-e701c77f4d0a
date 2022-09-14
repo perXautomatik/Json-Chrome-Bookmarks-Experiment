@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "881": {
+        "882": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+          "groupId": -1,
+          "height": 538,
+          "highlighted": true,
+          "id": 882,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "perXautomatik/xedit-serialize: a YAML serializer for xEdit forms",
+          "url": "https://github.com/perXautomatik/xedit-serialize",
+          "width": 2089,
+          "windowId": 881
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "881": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 625,
+        "id": 881,
+        "incognito": false,
+        "left": 442,
+        "state": "normal",
+        "top": 352,
+        "type": "normal",
+        "width": 2153
+      }
+    },
+    "tabsNumber": 1,
+    "name": "perXautomatik/xedit-serialize: a YAML serializer for xEdit forms",
+    "date": 1628330935511,
+    "lastEditedTime": 1628330651688,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1628267657392,
+    "id": "156ec811-0e1d-4478-b92f-29eda0111f97"
+  }
+]

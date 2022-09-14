@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2963": {
+        "2964": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2964,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "TTW DLC Sortomatic Homes at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/65988",
+          "width": 1154,
+          "windowId": 2963
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2963": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2963,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "TTW DLC Sortomatic Homes at Fallout New Vegas - mods and community",
+    "date": 1627976471570,
+    "lastEditedTime": 1627976469622,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "38745373-735d-4194-92a5-90d537998236"
+  }
+]

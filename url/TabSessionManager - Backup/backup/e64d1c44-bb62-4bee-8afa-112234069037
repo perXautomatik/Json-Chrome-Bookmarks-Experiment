@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "3006": {
+        "3007": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3007,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "JBT - Just Bullet Time at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/67448",
+          "width": 1154,
+          "windowId": 3006
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3006": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3006,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "JBT - Just Bullet Time at Fallout New Vegas - mods and community",
+    "date": 1627976495942,
+    "lastEditedTime": 1627976494436,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "9c629394-5ca3-4968-af2d-3eb6d99c54b8"
+  }
+]

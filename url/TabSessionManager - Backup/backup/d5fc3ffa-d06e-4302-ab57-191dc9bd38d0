@@ -1,0 +1,149 @@
+[
+  {
+    "windows": {
+      "7509": {
+        "7510": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7510,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=111009",
+          "width": 1319,
+          "windowId": 7509
+        },
+        "7511": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "chrome-extension://ombpkjoelcapenbepmgifadkgpokfgfd/data/icons/48.svg",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7511,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Bookmark Dupes",
+          "url": "chrome-extension://ombpkjoelcapenbepmgifadkgpokfgfd/data/tab/index.html",
+          "width": 1319,
+          "windowId": 7509
+        },
+        "7515": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7515,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Folderwise Bookmarks: Search & Sessions - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/folderwise-bookmarks-sear/lcabfbidcbbfdfmonhonidjgcgdnfhle",
+          "width": 1319,
+          "windowId": 7509
+        },
+        "7518": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7518,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Settings",
+          "url": "edge://settings/profiles",
+          "width": 1319,
+          "windowId": 7509
+        },
+        "7519": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://account.microsoft.com/favicon.ico",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7519,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 7518,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Microsoft account | Your profile",
+          "url": "https://account.microsoft.com/profile/",
+          "width": 1319,
+          "windowId": 7509
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7509": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1040,
+        "id": 7509,
+        "incognito": false,
+        "left": 758,
+        "state": "normal",
+        "top": 61,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 5,
+    "name": "Settings",
+    "date": 1631365525757,
+    "lastEditedTime": 1631365311278,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1631292810666,
+    "id": "1c1d3400-438f-44af-9066-8f88a76e26d1"
+  }
+]

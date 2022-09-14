@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2709": {
+        "2710": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2710,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "FNV Gameplay Overhaul (FNVGO) at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/67987",
+          "width": 1154,
+          "windowId": 2709
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2709": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2709,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "FNV Gameplay Overhaul (FNVGO) at Fallout New Vegas - mods and community",
+    "date": 1627976322165,
+    "lastEditedTime": 1627976320270,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "e0cf6605-7050-44f0-b482-a4ad50d008e3"
+  }
+]

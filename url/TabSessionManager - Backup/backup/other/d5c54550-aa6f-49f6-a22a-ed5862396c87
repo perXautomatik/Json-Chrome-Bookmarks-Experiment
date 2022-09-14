@@ -1,0 +1,79 @@
+[
+  {
+    "windows": {
+      "1809": {
+        "1810": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": false,
+          "id": 1810,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=119788",
+          "width": 1433,
+          "windowId": 1809
+        },
+        "1811": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.gstatic.com/android/market_images/web/favicon_v2.ico",
+          "groupId": -1,
+          "height": 771,
+          "highlighted": true,
+          "id": 1811,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Bower (previously PantaPå) - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=se.pantapasen.pantapasen&gl=SE",
+          "width": 1433,
+          "windowId": 1809
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1809": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 858,
+        "id": 1809,
+        "incognito": false,
+        "left": 421,
+        "state": "normal",
+        "top": 82,
+        "type": "normal",
+        "width": 1497
+      }
+    },
+    "tabsNumber": 2,
+    "name": "Bower (previously PantaPå) - Apps on Google Play",
+    "date": 1630396550875,
+    "lastEditedTime": 1630396550875,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1630245328865,
+    "id": "e67b340c-87bd-4b7f-9562-f2554f786049"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "3076": {
+        "3077": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3077,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "DiDisaan's Patch Emporium at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/64981",
+          "width": 1154,
+          "windowId": 3076
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3076": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3076,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "DiDisaan's Patch Emporium at Fallout New Vegas - mods and community",
+    "date": 1627976531179,
+    "lastEditedTime": 1627976529491,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "ad08be8a-2ca9-4c00-8cd8-c4efc002b988"
+  }
+]

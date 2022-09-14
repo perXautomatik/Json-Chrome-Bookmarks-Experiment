@@ -1,0 +1,56 @@
+[
+  {
+    "windows": {
+      "237": {
+        "238": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.youtube.com/s/desktop/df22805b/img/favicon_32.png",
+          "groupId": -1,
+          "height": 1485,
+          "highlighted": true,
+          "id": 238,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "(13) EEVblog 1393 - Retro Fluke 37 Multimeter Review & Teardown - YouTube",
+          "url": "https://www.youtube.com/watch?v=NJhptTZpGPw&list=PLKz9dRhwlGu23lObIXkeDbLxnUTddb_TE&index=24",
+          "width": 1094,
+          "windowId": 237
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "237": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1527,
+        "id": 237,
+        "incognito": false,
+        "left": 1843,
+        "state": "normal",
+        "top": 265,
+        "type": "popup",
+        "width": 1110
+      }
+    },
+    "tabsNumber": 1,
+    "name": "(13) EEVblog 1393 - Retro Fluke 37 Multimeter Review & Teardown - YouTube",
+    "date": 1621950191135,
+    "lastEditedTime": 1621950191135,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1621883588884,
+    "id": "43294b2b-49cb-4a79-ab9f-33885ffe55db"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "windows": {
+      "551": {
+        "552": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "groupId": -1,
+          "height": 978,
+          "highlighted": true,
+          "id": 552,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "quickplaylist.me - quickplaylist Resurser och information.",
+          "url": "https://quickplaylist.me/",
+          "width": 929,
+          "windowId": 551
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "551": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1020,
+        "id": 551,
+        "incognito": false,
+        "left": 10,
+        "state": "normal",
+        "top": 10,
+        "type": "popup",
+        "width": 945
+      }
+    },
+    "tabsNumber": 1,
+    "name": "quickplaylist.me - quickplaylist Resurser och information.",
+    "date": 1622452705252,
+    "lastEditedTime": 1622452702993,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622450973943,
+    "id": "80cf8649-4647-4d83-be02-63197941b23d"
+  }
+]

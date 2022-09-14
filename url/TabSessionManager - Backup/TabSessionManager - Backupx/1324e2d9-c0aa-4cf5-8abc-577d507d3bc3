@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10211": {
+        "10212": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10212,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pendingUrl": "https://www.nexusmods.com/fallout4/mods/20942?tab=files&file_id=85646&nmm=1",
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "",
+          "url": "",
+          "width": 1154,
+          "windowId": 10211
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10211": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10211,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "",
+    "date": 1622643187062,
+    "lastEditedTime": 1622643181519,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "c21dd09e-d3d3-44fd-8b3f-ea03c668057a"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10469": {
+        "10470": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10470,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "A Tree Grows In Boston at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/18234",
+          "width": 1154,
+          "windowId": 10469
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10469": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10469,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "A Tree Grows In Boston at Fallout 4 Nexus - Mods and community",
+    "date": 1622643390364,
+    "lastEditedTime": 1622643387947,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "6f43858e-ae65-4a25-a8e2-d23e8bd46d69"
+  }
+]

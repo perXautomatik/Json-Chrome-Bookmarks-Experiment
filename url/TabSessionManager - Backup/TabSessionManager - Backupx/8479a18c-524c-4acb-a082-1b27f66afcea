@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10205": {
+        "10206": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10206,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Institute Portal Gun at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/15586?tab=files&file_id=64061&nmm=1",
+          "width": 1154,
+          "windowId": 10205
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10205": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10205,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Institute Portal Gun at Fallout 4 Nexus - Mods and community",
+    "date": 1622643180310,
+    "lastEditedTime": 1622643177242,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "978a9387-3598-4949-a7bd-02cb6eb2b9d8"
+  }
+]

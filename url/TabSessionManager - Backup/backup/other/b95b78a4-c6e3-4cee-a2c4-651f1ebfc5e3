@@ -1,0 +1,263 @@
+[
+  {
+    "windows": {
+      "593": {
+        "594": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 1107,
+          "highlighted": true,
+          "id": 594,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Chrome Editor - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/chrome-editor/kefkdcgjkbijkajfmjochhmikmpmkofg/related",
+          "width": 512,
+          "windowId": 593
+        },
+        "595": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 1169,
+          "highlighted": false,
+          "id": 595,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Developer URL bar - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/developer-url-bar/nlcbjlmfpcgdccliblgklohoddmmhgff",
+          "width": 512,
+          "windowId": 593
+        },
+        "596": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 1169,
+          "highlighted": false,
+          "id": 596,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "DOM-JSON Tree Matcher - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/dom-json-tree-matcher/dgimejmmnjlnnkijhkkmfcpndpjijing",
+          "width": 512,
+          "windowId": 593
+        },
+        "597": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 1169,
+          "highlighted": false,
+          "id": 597,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "LiveScriptConsole - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/livescriptconsole/omnmkagnicpcpefgjdhngmjjoofoknfp",
+          "width": 512,
+          "windowId": 593
+        },
+        "598": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 1169,
+          "highlighted": false,
+          "id": 598,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "rawkit - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/rawkit/poapmlldjpcgenaedpopfjjagnihpkim",
+          "width": 512,
+          "windowId": 593
+        },
+        "599": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 1169,
+          "highlighted": false,
+          "id": 599,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Dev Playground - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/dev-playground/pmlhijejgofpdhiicgngoljclggpmfna",
+          "width": 512,
+          "windowId": 593
+        },
+        "600": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 1169,
+          "highlighted": false,
+          "id": 600,
+          "incognito": false,
+          "index": 6,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Ninja File Collector - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/ninja-file-collector/mifinndldjidbdidlapemefmlnknkcmo",
+          "width": 512,
+          "windowId": 593
+        },
+        "601": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 1169,
+          "highlighted": false,
+          "id": 601,
+          "incognito": false,
+          "index": 7,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Not my department - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/not-my-department/hninjfoaibenebjfihbkpemekkdafcje",
+          "width": 512,
+          "windowId": 593
+        },
+        "602": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 1169,
+          "highlighted": false,
+          "id": 602,
+          "incognito": false,
+          "index": 8,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "Configuration - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/configuration/gkmignamlolbclcnmhlijklgaenooonk",
+          "width": 512,
+          "windowId": 593
+        },
+        "603": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://www.google.com/images/icons/product/chrome_web_store-32.png",
+          "groupId": -1,
+          "height": 1169,
+          "highlighted": false,
+          "id": 603,
+          "incognito": false,
+          "index": 9,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "unloaded",
+          "title": "ABU (Automatic Bookmark Updater) - Chrome Web Store",
+          "url": "https://chrome.google.com/webstore/detail/abu-automatic-bookmark-up/hgakmkcgcfanfhghebegpkbmopbikmkk/related?hl=en",
+          "width": 512,
+          "windowId": 593
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "593": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 1256,
+        "id": 593,
+        "incognito": false,
+        "left": 1972,
+        "state": "minimized",
+        "top": -568,
+        "type": "normal",
+        "width": 576
+      }
+    },
+    "tabsNumber": 10,
+    "name": "Chrome Editor - Chrome Web Store",
+    "date": 1629194109077,
+    "lastEditedTime": 1629193584018,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1629105972374,
+    "id": "0be40feb-7c18-46ae-aaf9-e38ff617906d"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "windows": {
+      "7090": {
+        "7091": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7091,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Favorites",
+          "url": "edge://favorites/?id=121615",
+          "width": 1319,
+          "windowId": 7090
+        },
+        "7092": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://steamcommunity.com/favicon.ico",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": false,
+          "id": 7092,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Steam Community :: Guide :: How to play New Vegas Multiplayer Beta (2021!)",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2455503440",
+          "width": 1319,
+          "windowId": 7090
+        },
+        "7096": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://antibody-software.com/favicon-32x32.png",
+          "groupId": -1,
+          "height": 953,
+          "highlighted": true,
+          "id": 7096,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "Download WizMouse",
+          "url": "https://antibody-software.com/wizmouse",
+          "width": 1319,
+          "windowId": 7090
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "7090": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1040,
+        "id": 7090,
+        "incognito": false,
+        "left": 418,
+        "state": "normal",
+        "top": 185,
+        "type": "normal",
+        "width": 1383
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Download WizMouse",
+    "date": 1631291460977,
+    "lastEditedTime": 1631291460977,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1631199486672,
+    "id": "ecb1efad-e643-4b25-beaf-85bc9ada8051"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2939": {
+        "2940": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2940,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "TTW - More Map Markers at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/67022",
+          "width": 1154,
+          "windowId": 2939
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2939": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2939,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "TTW - More Map Markers at Fallout New Vegas - mods and community",
+    "date": 1627976454273,
+    "lastEditedTime": 1627976453032,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "9b2f84b2-2558-43b2-947b-231bac59cc7d"
+  }
+]

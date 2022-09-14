@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2884": {
+        "2885": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2885,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Sniff at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/67829",
+          "width": 1154,
+          "windowId": 2884
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2884": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2884,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Sniff at Fallout New Vegas - mods and community",
+    "date": 1627976417922,
+    "lastEditedTime": 1627976416035,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "f3e0f2a5-6e40-4dc1-b543-bd4f5def1b48"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10301": {
+        "10302": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10302,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "Bat file installer for Fallout 4 - Texture Optimization Project by torcher at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/24315?tab=files&file_id=147249",
+          "width": 1154,
+          "windowId": 10301
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10301": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10301,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Bat file installer for Fallout 4 - Texture Optimization Project by torcher at Fallout 4 Nexus - Mods and community",
+    "date": 1622643263358,
+    "lastEditedTime": 1622643260935,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "1655747b-abcf-4b90-9a03-475b97e241bb"
+  }
+]

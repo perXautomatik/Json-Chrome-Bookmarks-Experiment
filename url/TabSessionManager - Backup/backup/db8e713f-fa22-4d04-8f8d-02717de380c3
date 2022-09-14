@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "2493": {
+        "2494": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 2494,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "I Need Glove (Fist Me Baby One More Time) at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/68494",
+          "width": 1154,
+          "windowId": 2493
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "2493": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 2493,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "I Need Glove (Fist Me Baby One More Time) at Fallout New Vegas - mods and community",
+    "date": 1627156392895,
+    "lastEditedTime": 1627156391296,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627153551741,
+    "id": "cd220efd-ea07-4581-8b91-2d5ed1eeb6a3"
+  }
+]

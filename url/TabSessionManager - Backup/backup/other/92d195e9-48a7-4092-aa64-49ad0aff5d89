@@ -1,0 +1,172 @@
+[
+  {
+    "windows": {
+      "5": {
+        "6": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 937,
+          "highlighted": false,
+          "id": 6,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Visual bookmarks",
+          "url": "edge://newtab/",
+          "width": 1872,
+          "windowId": 5
+        },
+        "218": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://pricespy-75b8.kxcdn.com/rfe/g/favicon.bd2c3097b6240c32b37bbb9aedd7f8ec.ico",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 218,
+          "incognito": false,
+          "index": 4,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Lotus Optics WP2 10x25 - Hitta bästa pris på Prisjakt",
+          "url": "https://www.prisjakt.nu/produkt.php?p=164822",
+          "width": 1872,
+          "windowId": 5
+        },
+        "219": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://taleoftwowastelands.com/favicon-32x32.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 219,
+          "incognito": false,
+          "index": 3,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Version 3.2 FAQ - Tale of Two Wastelands",
+          "url": "https://taleoftwowastelands.com/viewtopic.php?f=50&t=6731",
+          "width": 1872,
+          "windowId": 5
+        },
+        "220": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://taleoftwowastelands.com/favicon-32x32.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 220,
+          "incognito": false,
+          "index": 1,
+          "mutedInfo": {
+            "muted": false
+          },
+          "openerTabId": 6,
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "FAQ - Tale of Two Wastelands",
+          "url": "https://taleoftwowastelands.com/viewforum.php?f=50",
+          "width": 1872,
+          "windowId": 5
+        },
+        "221": {
+          "active": false,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://cdn.add0n.com/icons/bookmarks-commander32.png",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": false,
+          "id": 221,
+          "incognito": false,
+          "index": 2,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": false,
+          "status": "complete",
+          "title": "Bookmarks Commander :: add0n.com",
+          "url": "https://add0n.com/bookmarks-commander.html?version=0.4.2&p=0.4.1&type=update",
+          "width": 1872,
+          "windowId": 5
+        },
+        "222": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "",
+          "groupId": -1,
+          "height": 969,
+          "highlighted": true,
+          "id": 222,
+          "incognito": false,
+          "index": 5,
+          "mutedInfo": {
+            "muted": false
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "complete",
+          "title": "[L] .png [R] .pdf",
+          "url": "chrome-extension://knfpajocfeohpaipkfpdbfhgibajfmcf/data/commander/index.html",
+          "width": 1872,
+          "windowId": 5
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "5": {
+        "alwaysOnTop": false,
+        "focused": true,
+        "height": 1056,
+        "id": 5,
+        "incognito": false,
+        "left": -8,
+        "state": "maximized",
+        "top": -8,
+        "type": "normal",
+        "width": 1936
+      }
+    },
+    "tabsNumber": 6,
+    "name": "[L] .png [R] .pdf",
+    "date": 1630481850815,
+    "lastEditedTime": 1630481850815,
+    "tag": [
+      "regular",
+      "Edge"
+    ],
+    "sessionStartTime": 1630426906378,
+    "id": "0c98ecda-dac5-4b33-aab2-ec2f65646bdf"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "3012": {
+        "3013": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": true,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/DeepOrange/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 3013,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "NPCs use Aid items at Fallout New Vegas - mods and community",
+          "url": "https://www.nexusmods.com/newvegas/mods/68742",
+          "width": 1154,
+          "windowId": 3012
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "3012": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 3012,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "NPCs use Aid items at Fallout New Vegas - mods and community",
+    "date": 1627976498862,
+    "lastEditedTime": 1627976497108,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1627908208606,
+    "id": "4d2f5375-791b-4633-921c-ceb7acc003fd"
+  }
+]

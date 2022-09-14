@@ -1,0 +1,58 @@
+[
+  {
+    "windows": {
+      "10090": {
+        "10091": {
+          "active": true,
+          "audible": false,
+          "autoDiscardable": false,
+          "discarded": false,
+          "favIconUrl": "https://images.nexusmods.com/favicons/Fallout/favicon.ico",
+          "groupId": -1,
+          "height": 681,
+          "highlighted": true,
+          "id": 10091,
+          "incognito": false,
+          "index": 0,
+          "mutedInfo": {
+            "extensionId": "idfbjjfgccflicphjlpbomcklaehplha",
+            "muted": true,
+            "reason": "extension"
+          },
+          "pinned": false,
+          "selected": true,
+          "status": "loading",
+          "title": "More Settlement Attacks at Fallout 4 Nexus - Mods and community",
+          "url": "https://www.nexusmods.com/fallout4/mods/16625?tab=files&file_id=115198&nmm=1",
+          "width": 1154,
+          "windowId": 10090
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "10090": {
+        "alwaysOnTop": false,
+        "focused": false,
+        "height": 720,
+        "id": 10090,
+        "incognito": false,
+        "left": 3119,
+        "state": "normal",
+        "top": 1259,
+        "type": "popup",
+        "width": 1170
+      }
+    },
+    "tabsNumber": 1,
+    "name": "More Settlement Attacks at Fallout 4 Nexus - Mods and community",
+    "date": 1622643014508,
+    "lastEditedTime": 1622643010598,
+    "tag": [
+      "winClose",
+      "Edge"
+    ],
+    "sessionStartTime": 1622474494568,
+    "id": "0d2a0d70-ce5b-4266-bc20-b5f4e0b6cb21"
+  }
+]
